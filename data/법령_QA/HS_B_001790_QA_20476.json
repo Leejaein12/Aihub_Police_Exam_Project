@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001790",
+        "promulgDate": "20240220",
+        "effectDate": "20240521",
+        "promulgNum": "20323",
+        "title": "검역법",
+        "ministry": "질병관리청",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "질병관리청장은 검역감염병 환자를 격리할 수 있는 시설은 어떤 곳인가요?",
+        "output": "질병관리청장은 검역소에서 관리하는 격리시설, 감염병관리기관, 자가, 감염병전문병원, 국내에 거주지가 없는 경우 질병관리청장이 지정하는 시설에 격리할 수 있습니다. 검역법 제16조 제1항에 규정되어 있습니다.",
+        "originwordCnt": "207",
+        "labelwordCnt": "22"
+    }
+}

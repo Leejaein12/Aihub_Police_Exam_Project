@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000161",
+        "promulgDate": "20230914",
+        "effectDate": "20240315",
+        "promulgNum": "19720",
+        "title": "실내공기질 관리법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제11조의8",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "환경부장관은 실내라돈조사 결과를 바탕으로 어떤 지도를 작성할 수 있나요?",
+        "output": "실내공기질 관리법 제11조의8 제1항에 따르면, 환경부장관은 실내라돈조사의 실시 결과를 기초로 실내공기 중 라돈의 농도 등을 나타내는 지도를 작성할 수 있습니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "20"
+    }
+}

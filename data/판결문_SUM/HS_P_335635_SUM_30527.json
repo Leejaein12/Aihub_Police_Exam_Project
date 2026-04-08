@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335635",
+        "caseName": "도로교통법위반(음주측정거부)",
+        "caseNum": "2024고단72",
+        "sentenceDate": "2024.04.30",
+        "courtName": "전주지방법원 남원지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주운전 단속 중 경찰관의 음주측정 요구에 정당한 이유 없이 응하지 않았습니다. 피고인은 음주 상태로 의심되어 경찰관의 지시에 따라 음주측정을 요구받았으나, 세 차례에 걸쳐 음주측정을 거부하였습니다. 법원은 피고인에게 징역 1년 4개월을 선고하되, 2년간 집행을 유예했습니다.",
+        "originwordCnt": "262",
+        "labelwordCnt": "34"
+    }
+}

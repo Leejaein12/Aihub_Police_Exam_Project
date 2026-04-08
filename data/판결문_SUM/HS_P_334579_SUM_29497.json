@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334579",
+        "caseName": "사기등",
+        "caseNum": "2023고단715",
+        "sentenceDate": "2023.10.17",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "일면식이 없는 피해자의 엉덩이를 쓰다듬어 강제추행한 혐의로 기소된 사건에서, 법원은 피고인에게 벌금 500만 원을 선고하고, 40시간의 성폭력 치료프로그램 이수를 명령했습니다. 한편, 피고인의 연령, 환경, 전과 유무, 범행의 동기와 경위 등을 종합적으로 고려하여 신상정보 공개·고지 명령 및 취업제한명령은 부과하지 않기로 하였습니다.",
+        "originwordCnt": "344",
+        "labelwordCnt": "40"
+    }
+}

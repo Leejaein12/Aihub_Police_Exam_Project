@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333002",
+        "caseName": "스토킹범죄의처벌등에관한법률위반",
+        "caseNum": "2023고단269",
+        "sentenceDate": "2023.06.01",
+        "courtName": "부산지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "여러 차례에 걸쳐 피해자에게 스토킹 범죄를 저질렀습니다. 피고인은 피해자의 직장 근처에서 의사에 반해 접근하며, 불안감과 공포심을 유발하는 행위를 반복하였습니다. 이러한 행위로 인해 징역 6개월에 처해졌으나, 확정일로부터 집행이 유예되었습니다. 또한, 보호관찰을 받도록 명하였습니다.",
+        "originwordCnt": "476",
+        "labelwordCnt": "32"
+    }
+}

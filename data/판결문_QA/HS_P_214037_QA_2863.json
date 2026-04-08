@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "214037",
+        "caseName": "저작권법위반",
+        "caseNum": "79도1482",
+        "sentenceDate": "1979.12.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "대학 응용미술관계 교재는 교과용 도서에 해당하나요?",
+        "output": "대학 응용미술관계의 교재는 교과용 도서에 해당하지 않습니다. 저작권법 제64조 제3호와 교과용도서에관한규정 제1조 및 제2조에 따르면, 대학을 제외한 각 학교의 교과서, 지도서, 인정도서만이 교과용 도서로 인정됩니다.",
+        "originwordCnt": "350",
+        "labelwordCnt": "25"
+    }
+}

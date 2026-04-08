@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001719",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "국가공무원법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가공무원법에서 직급이란 무엇을 뜻하나요?",
+        "output": "국가공무원법 제5조 제2항에 따르면 직급이란 직무의 종류와 곤란성, 그리고 책임도가 유사한 직위의 군을 의미합니다.",
+        "originwordCnt": "156",
+        "labelwordCnt": "14"
+    }
+}

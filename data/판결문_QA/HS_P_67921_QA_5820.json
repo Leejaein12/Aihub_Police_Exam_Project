@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "67921",
+        "caseName": "청소년보호법위반·윤락행위등방지법위반",
+        "caseNum": "2006도477",
+        "sentenceDate": "2006.03.23",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "건강진단수첩이나 건강진단결과서가 연령에 관한 공적 증명력 있는 증거로 인정될 수 있나요?",
+        "output": "식품위생법 제26조 및 위생분야종사자 등의 건강진단규칙 제1조에 따르면, 건강진단수첩 또는 건강진단결과서는 위생상 필요로 발급된 것으로, 연령에 관한 공적 증명력이 있는 증거로 인정될 수 없습니다.",
+        "originwordCnt": "737",
+        "labelwordCnt": "24"
+    }
+}

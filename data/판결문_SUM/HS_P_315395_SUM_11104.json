@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315395",
+        "caseName": "재물손괴",
+        "caseNum": "2023고정58",
+        "sentenceDate": "2023.11.10",
+        "courtName": "대전지방법원 공주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A시 소유 토지에서 피해자가 체리를 경작하던 중, 상속재산 분할 갈등으로 인해 2023년 1월부터 2월 사이에 전기 울타리를 철거하여 약 1,110,000원의 재물을 손괴하였습니다. 이에 형법 제366조에 따라 벌금 500,000원이 선고되었으나, 초범 및 피해자와의 합의를 고려하여 형의 선고를 유예하였습니다.",
+        "originwordCnt": "230",
+        "labelwordCnt": "37"
+    }
+}

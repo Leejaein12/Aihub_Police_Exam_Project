@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001624",
+        "promulgDate": "20210924",
+        "effectDate": "20220701",
+        "promulgNum": "18465",
+        "title": "군형법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군형법상 지휘관이란 무엇을 말합니까?",
+        "output": "군형법 제2조 제2호에 따르면 지휘관이란 중대 이상 단위부대의 장과 함선부대의 장 또는 함정 및 항공기를 지휘하는 사람을 말합니다.",
+        "originwordCnt": "126",
+        "labelwordCnt": "18"
+    }
+}

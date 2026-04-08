@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311649",
+        "caseName": "폭행등",
+        "caseNum": "2024고정238",
+        "sentenceDate": "2024.06.12",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "담배를 피우는 것을 보고 항의하자 시비가 되어 피해자를 밀치며 폭행하고, 다수의 보행자가 있는 가운데 10분간 욕설을 퍼부어 공연히 모욕하였습니다. 법원은 이러한 행위가 형법 제260조 제1항에 따른 폭행과 제311조에 따른 모욕죄에 해당한다고 판단하였으며, 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "235",
+        "labelwordCnt": "36"
+    }
+}

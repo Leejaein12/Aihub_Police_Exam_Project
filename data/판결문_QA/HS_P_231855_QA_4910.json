@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "231855",
+        "caseName": "특정경제범죄가중처벌등에관한법률위반(사기)",
+        "caseNum": "2020노712",
+        "sentenceDate": "2020.09.18",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "공소시효 정지가 공소 제기 이후 시효완성 간주에 적용되지 않는 이유는 무엇인가요?",
+        "output": "공소시효 정지는 공소가 제기되기 전의 시점에 적용되는 것으로, 공소가 제기된 이후에 적용되는 시효완성 간주와는 그 적용 시점이 달라 직접 적용될 수 없습니다. 따라서 검사의 항소는 이유 없으므로 이를 기각합니다.",
+        "originwordCnt": "944",
+        "labelwordCnt": "29"
+    }
+}

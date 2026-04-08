@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "211937",
+        "caseName": "근로기준법위반·부정수표단속법위반",
+        "caseNum": "82도1531",
+        "sentenceDate": "1982.09.14",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "발행일이 백지인 수표가 보충 없이 지급제시된 경우, 해당 수표 발행행위가 부정수표단속법 위반죄를 구성할 수 있나요?",
+        "output": "발행일이 백지인 수표가 보충 없이 지급제시된 경우, 그 수표는 적법한 지급제시로 볼 수 없으므로, 부정수표단속법 제2조 제2항에 해당하는 범죄로 인정될 수 없습니다.",
+        "originwordCnt": "103",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000319",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "소금산업 진흥법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제22조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "염전원부를 열람하거나 등본을 발급받으려면 어떻게 해야 하나요?",
+        "output": "소금산업 진흥법 제22조에 따르면, 시장·군수·구청장은 염전원부의 열람신청 또는 등본 발급신청을 받으면 해양수산부령으로 정하는 바에 따라 염전원부를 열람하게 하거나 그 등본을 발급하여 주어야 합니다.",
+        "originwordCnt": "27",
+        "labelwordCnt": "23"
+    }
+}

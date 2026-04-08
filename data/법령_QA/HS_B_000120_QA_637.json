@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000120",
+        "promulgDate": "20210817",
+        "effectDate": "20220218",
+        "promulgNum": "18425",
+        "title": "건설근로자의 고용개선 등에 관한 법률",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제9조의5",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "건설근로자공제회의 모든 회계는 기업과 동일하게 처리가 됩니까?",
+        "output": "건설근로자의 고용개선 등에 관한 법률 제9조의5 제3항에 명시된 바와 같이, 공제회의 모든 회계는 경영성과와 수지상태를 파악할 수 있도록 발생의 사실에 의하여 기업 회계의 원칙에 따라 처리합니다.",
+        "originwordCnt": "59",
+        "labelwordCnt": "26"
+    }
+}

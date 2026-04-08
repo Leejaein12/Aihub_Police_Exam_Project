@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010726",
+        "promulgDate": "20210615",
+        "effectDate": "20220616",
+        "promulgNum": "18284",
+        "title": "지진ㆍ화산재해대책법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "재난관리책임기관의 장은 누구에 대해 지진ㆍ화산방재 교육을 실시하여야 합니까?",
+        "output": "재난관리책임기관의 장은 지진ㆍ화산재해 관련 업무종사자에 대한 지진ㆍ화산방재 교육을 실시하여야 합니다. 이는 지진ㆍ화산재해대책법 제11조 제4항에 명시되어 있습니다.",
+        "originwordCnt": "112",
+        "labelwordCnt": "16"
+    }
+}

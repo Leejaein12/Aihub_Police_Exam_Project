@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001818",
+        "promulgDate": "20240130",
+        "effectDate": "20240130",
+        "promulgNum": "20172",
+        "title": "수도법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제25조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "환경부장관은 상수도관망시설운영관리사 자격증을 교부받으려는 사람에게 수수료를 받을 수 있나요?",
+        "output": "수도법 제25조의2제6항에 따르면, 환경부장관은 상수도관망시설운영관리사 자격증을 교부받으려는 사람에게 환경부령으로 정하는 바에 따라 수수료를 받을 수 있습니다.",
+        "originwordCnt": "186",
+        "labelwordCnt": "16"
+    }
+}

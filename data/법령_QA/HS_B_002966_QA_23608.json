@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002966",
+        "promulgDate": "20220630",
+        "effectDate": "20220701",
+        "promulgNum": "32737",
+        "title": "군검찰사무 운영규정",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제18조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군검사가 구속기간의 연장을 신청하려면 어떤 서류를 제출해야 하나요?",
+        "output": "군검찰사무 운영규정 제18조 1항에 따르면, 군검사가 구속기간의 연장을 신청하려는 경우에는 연장신청 이유를 적은 구속기간 연장신청서에 연장에 필요한 자료를 붙여야 합니다.",
+        "originwordCnt": "62",
+        "labelwordCnt": "20"
+    }
+}

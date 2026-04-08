@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001783",
+        "promulgDate": "20230418",
+        "effectDate": "20240419",
+        "promulgNum": "19359",
+        "title": "약사법",
+        "ministry": "보건복지부,식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "약사 및 한약사 국가시험은 매년 몇 회 이상 시행되나요?",
+        "output": "약사법 제8조에 따르면, 약사 및 한약사 국가시험은 매년 1회 이상 보건복지부장관이 시행합니다.",
+        "originwordCnt": "61",
+        "labelwordCnt": "12"
+    }
+}

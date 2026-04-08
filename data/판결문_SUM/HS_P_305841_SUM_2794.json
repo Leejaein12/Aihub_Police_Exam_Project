@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "305841",
+        "caseName": "문화재보호법위반",
+        "caseNum": "2007고단2585",
+        "sentenceDate": "2007. 9. 19.",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "세계문화유산이자 사적 3호로 지정된 성곽을 망치로 손상한 사건에서, 법원은 징역 1년 6월에 집행유예 2년을 선고하였습니다. 범행 동기는 일거리를 구하지 못한 데 있었으며, 피고인의 자백과 반성, 그리고 처벌받은 전력이 없는 점을 고려하여 형을 감경하였습니다.",
+        "originwordCnt": "222",
+        "labelwordCnt": "33"
+    }
+}

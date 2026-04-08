@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335811",
+        "caseName": "마약류관리에관한법률위반(향정)",
+        "caseNum": "2023노3095",
+        "sentenceDate": "2023.10.18",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "항소심에서는 피고인이 동종 범죄로 처벌받은 전력이 있음에도 다시 범행을 저지른 점과 자신의 잘못을 인정하고 반성하는 태도, 단순 투약 1회에 그친 범행 경위 등을 참작하여 원심의 형이 적정하다고 판단하였습니다. 이에 따라 피고인과 검사의 항소는 양형부당을 이유로 받아들이지 않고 모두 기각하였습니다.",
+        "originwordCnt": "331",
+        "labelwordCnt": "39"
+    }
+}

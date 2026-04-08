@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014483",
+        "promulgDate": "20230914",
+        "effectDate": "20240126",
+        "promulgNum": "19725",
+        "title": "해상교통안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제37조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "해양경찰서장은 선박 통항의 안전과 질서를 유지하기 위해 어떤 조치를 취해야 하나요?",
+        "output": "해상교통안전법 제37조에 따르면 해양경찰서장은 선박 통항의 안전과 질서를 유지하기 위하여 소속 경찰공무원에게 수역등ㆍ항로 또는 보호수역을 순찰하게 하여야 합니다.",
+        "originwordCnt": "16",
+        "labelwordCnt": "18"
+    }
+}

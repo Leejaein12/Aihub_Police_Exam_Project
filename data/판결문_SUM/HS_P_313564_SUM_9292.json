@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313564",
+        "caseName": "모욕",
+        "caseNum": "2024고정464",
+        "sentenceDate": "2024.07.25",
+        "courtName": "서울북부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "병원 응급실내 원무과 접수대 앞에서 카메라를 들이대는 고소인에게 욕설을 하여 공연히 모욕한 혐의로 기소되었습니다. 법원은 피고인이 범행을 인정하고 반성하는 점, 초범이라는 점을 참작하여 형법 제59조 제1항에 따라 벌금형의 선고를 유예하였습니다. 범죄사실에 대해서는 형법 제311조가 적용되었고, 선고유예된 벌금은 30만 원으로 정해졌습니다.",
+        "originwordCnt": "156",
+        "labelwordCnt": "40"
+    }
+}

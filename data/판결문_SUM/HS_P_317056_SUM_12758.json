@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317056",
+        "caseName": "사기",
+        "caseNum": "2023고단2122",
+        "sentenceDate": "2023.12.20",
+        "courtName": "부산지방법원 동부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "이전에 도로교통법위반(음주운전)으로 벌금형 처벌을 받은 전력이 있으며, 다시 술에 취한 상태에서 차량을 운전한 사실이 인정되었습니다. 법원은 피고인을 징역 10개월에 처하고 2년간 위 형의 집행을 유예하였습니다. 또한 피고인에게 40시간의 준법운전강의 수강을 명하였습니다.",
+        "originwordCnt": "214",
+        "labelwordCnt": "31"
+    }
+}

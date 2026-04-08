@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314662",
+        "caseName": "산업안전보건법위반",
+        "caseNum": "2023고단1309",
+        "sentenceDate": "2023.10.12",
+        "courtName": "의정부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.074% 상태로 500m 구간에서 승용차를 운전하였으며, 이전에도 음주운전으로 벌금형을 받은 전력이 있습니다. 범행을 인정하고 교통사고나 추가적인 위험이 발생하지 않은 점 등을 고려하였습니다. 따라서 법원은 도로교통법 제148조의2 제1항 제3호에 근거해 벌금 500만 원을 선고하였습니다.",
+        "originwordCnt": "235",
+        "labelwordCnt": "34"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005727",
+        "promulgDate": "19910614",
+        "effectDate": "19910614",
+        "promulgNum": "01166",
+        "title": "국제형사사법공조규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제2조 ",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국제형사사법공조에 관련하여 인도할 증거물을 기재할 때 어떤 사항을 명시해야 하나요?",
+        "output": "인도할 증거물을 기재할 때는 그 증거물이 법원에 제출될 당시의 관련사건 및 제출자를 명시하여야 합니다. 이는 국제형사사법공조규칙 제2조 제2항에 따라야 합니다.",
+        "originwordCnt": "56",
+        "labelwordCnt": "20"
+    }
+}

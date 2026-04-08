@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "73346",
+        "caseName": "강간치상피고사건",
+        "caseNum": "72노1522",
+        "sentenceDate": "1973.03.22",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "13세 미만의 부녀와 서로 뜻이 맞아 정을 통하게 된 경우에도 강간죄가 성립할 수 있는지 알고 싶습니다.",
+        "output": "판결에 따르면 13세 미만의 부녀를 간음한 경우에는 폭행이나 협박이 없더라도 바로 강간죄가 성립된다고 명시하고 있습니다. 이는 형법 제305조에 근거하고 있으며, 폭행과 협박의 여부와 상관없이 법적으로 강간죄가 적용됩니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "27"
+    }
+}

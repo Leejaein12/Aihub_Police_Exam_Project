@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001692",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19582",
+        "title": "형법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제186조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "형법상 표지를 손괴하거나 기타 방법으로 기차나 선박 등의 교통을 방해한 경우 어떤 처벌을 받게 되나요?",
+        "output": "궤도, 등대 또는 표지를 손괴하거나 기타 방법으로 기차, 전차, 자동차, 선박 또는 항공기의 교통을 방해한 자는 1년 이상의 유기징역에 처합니다. 이는 형법 제186조에서 규정하고 있습니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "25"
+    }
+}

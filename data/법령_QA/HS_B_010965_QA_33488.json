@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010965",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "수산자원관리법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제19조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "휴어기가 설정된 수역에서는 어떤 제한이 있나요?",
+        "output": "수산자원관리법 제19조 제2항에 따르면, 휴어기가 설정된 수역에서는 조업이나 해당 어업을 하여서는 아니 됩니다.",
+        "originwordCnt": "88",
+        "labelwordCnt": "13"
+    }
+}

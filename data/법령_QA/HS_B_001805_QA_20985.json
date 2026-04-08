@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001805",
+        "promulgDate": "20240213",
+        "effectDate": "20240514",
+        "promulgNum": "20307",
+        "title": "식품위생법",
+        "ministry": "식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제17조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "식품의약품안전처장이 제조ㆍ판매 등의 금지조치를 할 때 어떤 절차를 거쳐야 하나요?",
+        "output": "식품위생법 제17조 제5항에 따르면, 식품의약품안전처장은 제조ㆍ판매 등의 금지조치를 하려면 미리 대통령령으로 정하는 이해관계인의 의견을 들어야 합니다.",
+        "originwordCnt": "280",
+        "labelwordCnt": "16"
+    }
+}

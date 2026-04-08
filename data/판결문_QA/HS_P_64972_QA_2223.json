@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "64972",
+        "caseName": "무고·정보통신망이용촉진및정보보호등에관한법률위반",
+        "caseNum": "2008노36",
+        "sentenceDate": "2008.05.02",
+        "courtName": "부산지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 고소장에 기재한 내용을 허위라고 하더라도 무고죄가 성립하지 않는 이유는 무엇인가요?",
+        "output": "피고인이 고소장에 기재한 내용이 허위라고 하더라도 그 내용이 형사범죄를 구성하지 않거나 국가의 심판작용을 방해하거나 개인의 법적 안정성을 침해할 우려가 없으면 무고죄가 성립하지 않습니다.",
+        "originwordCnt": "2063",
+        "labelwordCnt": "23"
+    }
+}

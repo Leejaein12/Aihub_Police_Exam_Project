@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311189",
+        "caseName": "폭행",
+        "caseNum": "2024고단891",
+        "sentenceDate": "2024.04.25",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "아파트 동대표 선거 감독을 위해 투표 현장에 들어가려는 피해자와의 다툼 중 피해자의 손을 약 3회 밀친 혐의로 기소되었으나, 이후 피해자가 처벌을 원하지 않는다는 의사를 밝힘에 따라 형법 제260조 제3항에 따른 반의사불벌죄가 적용되었습니다. 이에 따라 법원은 형사소송법 제327조 제6호에 근거하여 공소를 기각하는 판결을 내렸습니다.",
+        "originwordCnt": "154",
+        "labelwordCnt": "43"
+    }
+}

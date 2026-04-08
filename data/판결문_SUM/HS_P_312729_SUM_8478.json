@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312729",
+        "caseName": "근로기준법위반",
+        "caseNum": "2023고정368",
+        "sentenceDate": "2023.11.22",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "㈜C의 대표이사로서 퇴직한 근로자 D에게 연차유급휴가 미사용 수당을 퇴직일로부터 14일 이내에 지급하지 않아 근로기준법을 위반한 혐의로 기소되었습니다. 법원은 D의 퇴직일과 관련된 불확실성, 미지급 금액이 크지 않다는 점, 수당이 이미 지급되었고 피고인이 초범이라는 사정을 고려하여 벌금형을 선고하되 형의 선고를 유예하였습니다.",
+        "originwordCnt": "203",
+        "labelwordCnt": "39"
+    }
+}

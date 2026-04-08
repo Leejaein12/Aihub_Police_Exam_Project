@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009412",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19590",
+        "title": "산지관리법",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제30조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "채석단지의 지정해제 시 채석기간은 어떻게 변경되나요?",
+        "output": "산지관리법 제30조에 따르면, 제29조제4항제1호 및 제3호에 따라 채석단지의 전부 또는 일부지역이 지정해제된 경우 그 지역에서의 제2항 또는 제3항에 따른 채석기간은 그 지정해제 처분이 있는 날까지로 합니다.",
+        "originwordCnt": "238",
+        "labelwordCnt": "26"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "67999",
+        "caseName": "폐기물관리법위반",
+        "caseNum": "2006도631",
+        "sentenceDate": "2006.05.11",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "사업장에서 배출된 물질이 재활용 원료로 공급되더라도 여전히 폐기물로 간주되는 이유는 무엇인가요?",
+        "output": "사업장에서 배출된 물질이 해당 사업에 더 이상 필요하지 않게 된 경우, 재활용 원료로 공급되더라도 폐기물로 간주됩니다. 이러한 물질은 폐기물로서의 성질을 상실하지 않으며, 사업장폐기물배출자의 신고의무가 유지됩니다.",
+        "originwordCnt": "63",
+        "labelwordCnt": "25"
+    }
+}

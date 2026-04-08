@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001622",
+        "promulgDate": "20240206",
+        "effectDate": "20240507",
+        "promulgNum": "20191",
+        "title": "병역법",
+        "ministry": "국방부,병무청",
+        "fullText": "N",
+        "smClass": "제34조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "병역판정검사전담의사의 복무는 누가 지휘ㆍ감독하나요?",
+        "output": "병역법 제34조의2 제5항에 따르면, 병무청장은 병역판정검사전담의사의 복무에 대하여 지휘ㆍ감독합니다.",
+        "originwordCnt": "145",
+        "labelwordCnt": "9"
+    }
+}

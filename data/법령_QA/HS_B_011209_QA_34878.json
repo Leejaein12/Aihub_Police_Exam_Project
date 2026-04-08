@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011209",
+        "promulgDate": "20240130",
+        "effectDate": "20240130",
+        "promulgNum": "20172",
+        "title": "물의 재이용 촉진 및 지원에 관한 법률",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "지방자치단체는 물의 재이용 촉진을 위해 어떤 책무를 가지고 있나요?",
+        "output": "물의 재이용 촉진 및 지원에 관한 법률 제3조 제2항에 따르면, 지방자치단체는 관할 지역에서 물의 재이용을 촉진하기 위한 시책을 수립ㆍ시행하고, 관련 시설의 설치ㆍ관리 등을 위하여 노력하여야 합니다.",
+        "originwordCnt": "59",
+        "labelwordCnt": "26"
+    }
+}

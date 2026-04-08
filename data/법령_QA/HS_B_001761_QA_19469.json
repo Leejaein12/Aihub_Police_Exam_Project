@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001761",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19591",
+        "title": "고용보험법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제63조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "휴업보상이나 산업재해보상보험법에 따른 급여를 받는 경우, 상병급여를 받을 수 있나요?",
+        "output": "수급자격자가 근로기준법 또는 산업재해보상보험법에 따른 휴업보상이나 휴업급여 등을 지급받을 수 있는 경우, 상병급여는 지급되지 않습니다. 고용보험법 제63조 제4항에 규정되어 있습니다.",
+        "originwordCnt": "193",
+        "labelwordCnt": "20"
+    }
+}

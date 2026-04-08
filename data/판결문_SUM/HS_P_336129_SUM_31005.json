@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336129",
+        "caseName": "협박",
+        "caseNum": "2023고단2549",
+        "sentenceDate": "2024.01.11",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "장인인 피해자가 아내와의 이혼소송에서 본인을 지지하지 않고 말을 함부로 한다는 이유로 피해자에게 겁을 주고자 위해를 가할 듯한 내용의 문자메시지를 발송하여 협박하였습니다. 법원은 피고인이 유죄임을 인정하고 피해자와의 관계, 범행 경위, 전과 등을 종합하여 벌금 200만 원을 선고하였습니다.",
+        "originwordCnt": "340",
+        "labelwordCnt": "36"
+    }
+}

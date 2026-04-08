@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002966",
+        "promulgDate": "20220630",
+        "effectDate": "20220701",
+        "promulgNum": "32737",
+        "title": "군검찰사무 운영규정",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제28조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "구속된 피의자에 대한 불기소처분 시 군검사의 의무는 무엇인가요?",
+        "output": "군검사는 구속된 피의자에 대하여 불기소처분을 했을 때에는 지체 없이 석방을 지휘해야 하며, 군검찰사무 운영규정 제28조 제1항에 따라, 석방을 지휘받은 사람은 지체 없이 석방에 필요한 조치를 해야 합니다.",
+        "originwordCnt": "46",
+        "labelwordCnt": "27"
+    }
+}

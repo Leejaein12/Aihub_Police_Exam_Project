@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014291",
+        "promulgDate": "20230607",
+        "effectDate": "20240608",
+        "promulgNum": "19427",
+        "title": "강원특별자치도 설치 및 미래산업글로벌도시 조성을 위한 특별법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "정부의 직할로 설치되는 자치도는 무엇인가요?",
+        "output": "정부의 직할로 설치되는 자치도는 강원특별자치도입니다. 이는 강원특별자치도 설치 및 미래산업글로벌도시 조성을 위한 특별법 제7조 제1항에 명시되어 있습니다.",
+        "originwordCnt": "23",
+        "labelwordCnt": "17"
+    }
+}

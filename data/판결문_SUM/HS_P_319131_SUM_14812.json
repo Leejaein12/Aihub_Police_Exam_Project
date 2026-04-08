@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319131",
+        "caseName": "폭행",
+        "caseNum": "2024고정572",
+        "sentenceDate": "2024.06.20",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "지하철역 승강장에서 서로 어깨가 부딪친 후 시비가 붙어, 각자 상대방의 멱살을 잡고 폭행한 혐의로 기소되었습니다. 법원은 형법 제260조 제1항에 따른 폭행죄가 반의사불벌죄임을 고려하여, 사건 후 서로에 대한 처벌불원 의사를 표시한 점을 인정하고 형사소송법 제327조 제6호에 따라 공소를 모두 기각했습니다.",
+        "originwordCnt": "168",
+        "labelwordCnt": "39"
+    }
+}

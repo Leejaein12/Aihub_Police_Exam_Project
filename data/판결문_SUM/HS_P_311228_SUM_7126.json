@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311228",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2022고단717",
+        "sentenceDate": "2023.07.20",
+        "courtName": "대구지방법원 김천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "새벽에 혈중알콜농도 0.244%의 만취 상태로 약 300m 구간을 음주운전한 혐의로 기소된 피고인은 과거에도 음주운전으로 두 차례 벌금형을 받은 전력이 있음에도 다시 음주운전을 저질렀습니다. 그러나 범행거리가 짧고 벌금형을 초과하는 전과가 없다는 점, 기타 양형 조건들을 종합하여 징역 1년의 형이 선고되었습니다.",
+        "originwordCnt": "169",
+        "labelwordCnt": "39"
+    }
+}

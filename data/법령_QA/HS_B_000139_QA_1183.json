@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000139",
+        "promulgDate": "20210518",
+        "effectDate": "20220519",
+        "promulgNum": "18179",
+        "title": "노동위원회법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제17조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "노동위원회의 처분 결과는 언제 효력이 발생하나요?",
+        "output": "노동위원회법 제17조의2 제2항에 따르면, 노동위원회는 처분 결과를 당사자에게 서면으로 송달하여야 하며, 처분의 효력은 판정서, 명령서, 결정서 또는 재심판정서를 송달받은 날부터 발생합니다.",
+        "originwordCnt": "44",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "306921",
+        "caseName": "전자금융거래법위반",
+        "caseNum": "2015고단2811",
+        "sentenceDate": "2015. 12. 17.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "성명불상자로부터 일당 지급을 위한 체크카드를 빌려주면 대가로 이체 금액의 3%를 받는다는 제안을 받은 피고인은, 자신 명의의 계좌와 연결된 체크카드를 KTX 수화물 서비스를 통해 양도한 혐의로 기소되었습니다. 피고인의 행위는 전자금융거래법에 따라 접근매체의 양도 금지 규정을 위반한 것으로 판단되어 징역 4개월에 집행유예 1년이 선고되었습니다.",
+        "originwordCnt": "169",
+        "labelwordCnt": "42"
+    }
+}

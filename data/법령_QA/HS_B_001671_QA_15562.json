@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제200조의5",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검사 또는 사법경찰관은 피의자를 체포할 때 어떤 사항들을 고지해야 하나요?",
+        "output": "형사소송법 제200조의5에 따르면 검사 또는 사법경찰관은 피의자를 체포하는 경우에는 피의사실의 요지, 체포의 이유와 변호인을 선임할 수 있음을 말하고 변명할 기회를 주어야 합니다.",
+        "originwordCnt": "23",
+        "labelwordCnt": "22"
+    }
+}

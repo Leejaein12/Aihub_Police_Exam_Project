@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제82조의5",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에서 수신자의 수신거부를 방해하는 기술적 조치를 해서는 안 되는 이유는 무엇인가요?",
+        "output": "공직선거법 제82조의5 제4항에 따르면, 선거운동정보를 전송하는 자는 수신자의 수신거부를 회피하거나 방해할 목적으로 기술적 조치를 해서는 안 됩니다.",
+        "originwordCnt": "124",
+        "labelwordCnt": "17"
+    }
+}

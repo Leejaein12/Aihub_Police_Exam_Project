@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312773",
+        "caseName": "야간건조물침입절도등",
+        "caseNum": "2023도5557",
+        "sentenceDate": "2023.11.02",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심은 피고인이 야간에 건조물에 침입하여 절도한 혐의에 대해 유죄로 판단한 제1심판결을 유지하였고, 대법원은 이를 검토한 결과 원심의 판단이 관련 법리와 증거에 비추어 적법하다고 보았습니다. 대법원은 자유심증주의의 한계를 벗어나거나 심신장애에 대한 판단을 누락한 잘못이 없다고 판단하였으며, 이에 따라 상고를 기각하였습니다.",
+        "originwordCnt": "123",
+        "labelwordCnt": "39"
+    }
+}

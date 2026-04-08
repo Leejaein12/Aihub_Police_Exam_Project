@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "77355",
+        "caseName": "약사법위반",
+        "caseNum": "2005노1137",
+        "sentenceDate": "2005.09.16",
+        "courtName": "대전지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "한약도 의약품에 해당하나요?",
+        "output": "약사법 제2조 제4항 제2호 및 제3호에 따르면, 의약품은 그 명칭이나 성분에 관계없이 사람 또는 동물의 질병을 진단, 치료, 경감, 처치하거나 예방하는 물품이거나 사람 또는 동물의 구조기능에 약리학적 영향을 주기 위한 목적으로 사용되는 물품을 포함하므로, 한약도 의약품에 해당한다고 할 수 있습니다.",
+        "originwordCnt": "250",
+        "labelwordCnt": "40"
+    }
+}

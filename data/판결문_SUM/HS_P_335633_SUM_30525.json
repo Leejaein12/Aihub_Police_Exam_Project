@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335633",
+        "caseName": "특수협박",
+        "caseNum": "2024고정2",
+        "sentenceDate": "2024.08.09",
+        "courtName": "의정부지방법원 남양주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "석재 반출을 제지하자 돌을 들고 위협하며 폭언을 하여 피해자를 협박한 혐의로 기소되었습니다. 피고인은 범행 당시 피해자의 욕설과 상황을 이유로 위법성 조각사유가 있다고 주장하였으나, 법원은 이를 받아들이지 않았습니다. 법원은 피고인에게 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "242",
+        "labelwordCnt": "33"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000319",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "소금산업 진흥법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "해양수산부장관이 기본계획 및 시행계획을 수립한 후에 해야 할 일은 무엇인가요?",
+        "output": "소금산업 진흥법 제5조 제5항에 따르면, 해양수산부장관은 기본계획 및 시행계획을 수립한 후 관계 중앙행정기관의 장과 시·도지사에게 통보하여야 합니다.",
+        "originwordCnt": "238",
+        "labelwordCnt": "17"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "309863",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2007고단287",
+        "sentenceDate": "2007. 7. 19.",
+        "courtName": "춘천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "무면허 상태에서 음주운전을 하다가 교통사고를 일으켜 경찰서 정문 바리케이드를 손괴하였습니다. 동종 범죄 전력이 3회 있으며, 누범 기간 중에 다시 음주운전을 저질렀습니다. 법원은 도로교통법 제44조 제1항과 제43조 및 형법 제35조를 적용하여 반복된 음주운전과 사고 피해 회복이 되지 않은 점을 고려해 징역 4개월을 선고하였습니다.",
+        "originwordCnt": "351",
+        "labelwordCnt": "42"
+    }
+}

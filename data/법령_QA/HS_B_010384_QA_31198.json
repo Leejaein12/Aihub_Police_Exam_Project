@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010384",
+        "promulgDate": "20201222",
+        "effectDate": "20210623",
+        "promulgNum": "17695",
+        "title": "어린이놀이시설 안전관리법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제20조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "어린이놀이시설 안전관리법에 따르면, 안전교육의 내용ㆍ기간 및 주기 등에 관하여 필요한 사항은 어떻게 정합니까?",
+        "output": "어린이놀이시설 안전관리법 제20조 제3항에 명시된 바와 같이, 안전교육의 내용ㆍ기간 및 주기 등에 관하여 필요한 사항은 행정안전부령으로 정합니다.",
+        "originwordCnt": "95",
+        "labelwordCnt": "17"
+    }
+}

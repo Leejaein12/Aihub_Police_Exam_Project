@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001616",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "교육공무원법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제11조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "교육공무원법에서 대학의 교원 임용 시 계약 조건은 무엇인가요?",
+        "output": "교육공무원법 제11조의4 제1항 규정에 따르면 대학의 교원은 대통령령으로 정하는 바에 따라 근무기간, 급여, 근무조건, 업적 및 성과 약정 등 계약조건을 정하여 임용할 수 있습니다.",
+        "originwordCnt": "251",
+        "labelwordCnt": "24"
+    }
+}

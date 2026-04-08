@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86201",
+        "caseName": "업무상횡령,폭행",
+        "caseNum": "4288형상308",
+        "sentenceDate": "1956.02.17",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공판정에서 피고인의 진술을 증거로 채용할 경우, 증거조사가 필요한지 궁금합니다.",
+        "output": "공판정에서 피고인의 진술을 청취한 법관이 해당 진술을 증거로 채용할 때에는 별도의 증거조사를 요하지 않습니다. 이는 형사소송법 제311조에 따른 것으로, 공판절차에서 직접 청취한 진술은 이를 별도 확인 없이도 증거로 사용할 수 있습니다.",
+        "originwordCnt": "44",
+        "labelwordCnt": "31"
+    }
+}

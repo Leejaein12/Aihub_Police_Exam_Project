@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335934",
+        "caseName": "교통사고처리특례법위반(치상)",
+        "caseNum": "2023고정256",
+        "sentenceDate": "2024.03.07",
+        "courtName": "대전지방법원 천안지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원동기장치자전거를 운전하던 중 우회전하면서 횡단보도 앞에서 속도를 줄이고 주의하며 안전하게 운전해야 할 의무를 소홀히 하여, 횡단보도를 건너던 피해자를 충격하여 경추 염좌 및 긴장을 입게 하였습니다. 이에 피고인의 과실이 인정되어 교통사고처리특례법 및 형법에 따라 벌금 150만 원이 선고되었습니다.",
+        "originwordCnt": "209",
+        "labelwordCnt": "37"
+    }
+}

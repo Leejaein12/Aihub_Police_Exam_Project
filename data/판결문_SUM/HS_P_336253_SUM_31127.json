@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336253",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2022고단2847",
+        "sentenceDate": "2023.07.19",
+        "courtName": "부산지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.134%의 술에 취한 상태에서 200m 구간을 차량으로 운전하여 도로교통법을 위반한 음주운전 혐의로 기소되었습니다. 이에 법원은 피고인에게 징역 1년을 선고하였으나, 3년간의 집행유예를 부여하고 보호관찰, 준법운전강의 40시간 수강, 120시간의 사회봉사를 명하였습니다.",
+        "originwordCnt": "162",
+        "labelwordCnt": "30"
+    }
+}

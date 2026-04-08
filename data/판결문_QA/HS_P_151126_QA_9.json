@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "151126",
+        "caseName": "특정범죄처벌에관한임시특례법위반",
+        "caseNum": "63도5",
+        "sentenceDate": "1963.05.15",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "심리에 관여하지 않은 재판관이 판결에 관여하는 경우 그 판결의 위법성은 어떻게 되나요?",
+        "output": "군법회의법 제75조 제1항과 제349조에 따르면, 심리에 관여하지 않은 재판관이 판결에 관여하는 것은 직접심리주의에 위배되어 위법하며, 이러한 경우 해당 판결은 법률에 위반된 것으로서 파기될 수밖에 없습니다.",
+        "originwordCnt": "161",
+        "labelwordCnt": "25"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "233421",
+        "caseName": "배임",
+        "caseNum": "2019고정62",
+        "sentenceDate": "2019.09.19",
+        "courtName": "서울북부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 차량을 양도담보로 제공한 후 등록명의를 이전하지 않은 상태에서 차량을 매도한 행위는 어떤 죄에 해당하나요?",
+        "output": "피고인이 차량을 양도담보로 제공하고도 등록명의를 이전하지 않은 상태에서 차량을 매도한 행위는 피해자 회사의 담보 능력을 감소시키는 것으로, 이는 형법 제355조 제2항에 따른 배임죄에 해당합니다.",
+        "originwordCnt": "755",
+        "labelwordCnt": "24"
+    }
+}

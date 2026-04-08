@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "225013",
+        "caseName": "사기",
+        "caseNum": "2018노3252",
+        "sentenceDate": "2019.01.17",
+        "courtName": "부산지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "부담금 면제 행위가 사기죄의 성립 요건을 충족하지 않는 이유는 무엇인가요?",
+        "output": "부담금은 공법상 강제로 부과되고 징수되는 성격을 가지므로, 기망행위를 통해 부담금을 면제받은 경우에도 이를 사기죄의 보호법익인 재산권 침해로 평가할 수 없다고 보아 사기죄의 성립 요건을 충족하지 않습니다.",
+        "originwordCnt": "227",
+        "labelwordCnt": "26"
+    }
+}

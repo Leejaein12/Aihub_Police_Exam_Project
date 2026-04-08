@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "197750",
+        "caseName": "명예훼손·업무방해",
+        "caseNum": "2016노1342",
+        "sentenceDate": "2017.07.06",
+        "courtName": "울산지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인의 발언이 명예훼손죄로 인정되기 위해 어떤 요건이 충족되어야 하나요?",
+        "output": "명예훼손죄로 인정되기 위해서는 피고인의 발언이 허위이며, 피고인이 그 허위성을 인식하고 사실을 적시했음을 검사가 입증해야 합니다. 발언 내용 중 중요한 부분이 객관적 사실과 합치되지 않으면 허위로 판단될 수 있습니다.",
+        "originwordCnt": "1837",
+        "labelwordCnt": "28"
+    }
+}

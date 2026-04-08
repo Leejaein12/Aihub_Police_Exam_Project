@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336134",
+        "caseName": "공무집행방해",
+        "caseNum": "2023고단3320",
+        "sentenceDate": "2024.01.17",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "경찰관이 공무를 수행하며 신분증을 요구하자 이를 거부하고 경찰관을 폭행하여 직무집행을 방해하였습니다. 당시 피고인은 폭행 사건 후 도주 중이었습니다. 법원은 피고인에게 징역 6개월을 선고하였으나, 초범이며 범행을 인정한 점 등을 고려하여 형의 집행을 1년간 유예하였습니다.",
+        "originwordCnt": "233",
+        "labelwordCnt": "33"
+    }
+}

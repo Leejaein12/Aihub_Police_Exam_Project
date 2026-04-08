@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001668",
+        "promulgDate": "20221227",
+        "effectDate": "20221227",
+        "promulgNum": "19105",
+        "title": "형의 집행 및 수용자의 처우에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제97조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보호장비를 사용할 때 고려해야 할 사항은 무엇인가요?",
+        "output": "보호장비를 사용하는 경우에는 수용자의 나이, 건강상태 및 수용생활 태도 등을 고려하여야 합니다. 형의 집행 및 수용자의 처우에 관한 법률 제97조 제2항에 근거합니다.",
+        "originwordCnt": "88",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000412",
+        "promulgDate": "20230620",
+        "effectDate": "20240427",
+        "promulgNum": "19486",
+        "title": "동물보호법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제47조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "회복할 수 없는 동물은 어떻게 처리해야 하나요?",
+        "output": "동물보호법 제47조 제6항에 따르면, 검사 결과 해당 동물이 회복할 수 없거나 지속적으로 고통을 받으며 살아야 할 것으로 인정되는 경우, 신속하게 고통을 주지 않는 방법으로 처리해야 합니다.",
+        "originwordCnt": "134",
+        "labelwordCnt": "26"
+    }
+}

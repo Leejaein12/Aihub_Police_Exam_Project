@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334832",
+        "caseName": "강제추행",
+        "caseNum": "2022노1917",
+        "sentenceDate": "2023.02.09",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심 판결에서 피고인에게 선고된 징역 1년 6월에 집행유예 3년의 형량은 정당하다고 판단되었습니다. 항소심 재판부는 원심에서 참작된 양형조건에 변화가 없고 추가적인 양형 조건 변경 사유도 없으므로, 원심의 양형이 합리적 재량의 범위 내에 있다고 보아 피고인과 검사의 항소를 모두 기각하였습니다.",
+        "originwordCnt": "249",
+        "labelwordCnt": "38"
+    }
+}

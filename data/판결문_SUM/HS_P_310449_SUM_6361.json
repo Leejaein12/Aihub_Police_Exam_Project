@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310449",
+        "caseName": "특수협박",
+        "caseNum": "2023고정1445",
+        "sentenceDate": "2024.07.03",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "세탁기 분해 작업 중 소음 문제로 항의한 자에게 쇠지렛대를 들고 협박한 혐의로 기소되었습니다. 위험한 물건을 휴대하여 협박한 것으로, 형법 제284조 및 제283조 제1항에 따라 유죄로 인정되었습니다. 법원은 피해자가 처벌을 원하지 않는 의사를 밝힌 점을 참작하여 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "162",
+        "labelwordCnt": "39"
+    }
+}

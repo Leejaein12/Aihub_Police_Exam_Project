@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335649",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단171",
+        "sentenceDate": "2023.11.29",
+        "courtName": "대구지방법원 김천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "약 100km 구간에서 혈중알코올농도 0.146%의 상태로 승용차를 운전한 혐의로 기소되었습니다. 피고인은 이전에 음주측정 거부로 벌금형을 받은 전력이 있으며, 음주운전으로 인해 충격완화장치를 들이받는 사고를 일으켰습니다. 법원은 피고인에게 징역 1년을 선고하였으나 2년간 형의 집행을 유예하였습니다.",
+        "originwordCnt": "229",
+        "labelwordCnt": "33"
+    }
+}

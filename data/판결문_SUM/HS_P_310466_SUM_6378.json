@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310466",
+        "caseName": "폭행",
+        "caseNum": "2024고정179",
+        "sentenceDate": "2024.07.12",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "배우자와 다투는 과정에서 어깨를 밀치고 얼굴을 1회 때려 폭행한 사실이 인정되었습니다. 이에 대해 피해자가 다가온 것에 불과하며 폭행한 사실이 없다고 주장하였으나, 법원은 증인 진술과 경찰 조사 등을 종합하여 폭행을 인정하였습니다. 형법 제260조 제1항에 따라 벌금형이 선택되었고, 벌금 70만 원이 선고되었습니다.",
+        "originwordCnt": "172",
+        "labelwordCnt": "40"
+    }
+}

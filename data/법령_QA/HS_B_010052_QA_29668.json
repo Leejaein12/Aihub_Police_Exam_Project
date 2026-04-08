@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010052",
+        "promulgDate": "20210406",
+        "effectDate": "20210421",
+        "promulgNum": "31595",
+        "title": "치료감호 등에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "송달 또는 통보를 받은 치료감호시설의 장이나 보호관찰관은 그 내용을 누구에게 고지하여야 하나요?",
+        "output": "치료감호 등에 관한 법률 시행령 제21조 제2항에 따르면 송달 또는 통보를 받은 치료감호시설의 장이나 보호관찰관은 그 내용을 피치료감호자에게 고지하여야 합니다.",
+        "originwordCnt": "85",
+        "labelwordCnt": "20"
+    }
+}

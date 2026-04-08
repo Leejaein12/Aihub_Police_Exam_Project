@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011181",
+        "promulgDate": "20210608",
+        "effectDate": "20220101",
+        "promulgNum": "18221",
+        "title": "장애인연금법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "장애인연금의 수급희망자 또는 수급권자에게 장애인연금 지급 결정 통지는 언제까지 이루어져야 하나요?",
+        "output": "수급희망자 또는 수급권자에 대한 장애인연금 지급 결정 통지는 장애인연금 지급 신청일부터 30일 이내에 하여야 합니다. 이는 장애인연금법 제10조 제3항에 따른 규정입니다.",
+        "originwordCnt": "125",
+        "labelwordCnt": "21"
+    }
+}

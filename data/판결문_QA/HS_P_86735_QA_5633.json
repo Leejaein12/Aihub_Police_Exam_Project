@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86735",
+        "caseName": "건조물침입,업무방해,명예훼손",
+        "caseNum": "4293형상864",
+        "sentenceDate": "1961.02.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형법 제314조에서 규정하는 '위력'은 어떤 성질을 가지고 있나요?",
+        "output": "형법 제314조에서 규정하는 '위력'은 상대방의 의사 결정을 저해하거나 위축시킬 수 있는 정신적, 물리적 힘을 의미하며, 이를 통해 업무의 정상적인 진행을 방해할 수 있습니다.",
+        "originwordCnt": "46",
+        "labelwordCnt": "23"
+    }
+}

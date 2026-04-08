@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "003047",
+        "promulgDate": "20220630",
+        "effectDate": "20220701",
+        "promulgNum": "32737",
+        "title": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 시행령",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제37조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군수용자의 신청에 따라 영치품을 팔았을 때 대금 처리 방법은 무엇인가요?",
+        "output": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 시행령 제37조에 의하면, 소장은 군수용자의 신청에 따라 영치품을 팔았을 때에는 판매 비용을 제외한 나머지 대금을 영치할 수 있습니다.",
+        "originwordCnt": "18",
+        "labelwordCnt": "26"
+    }
+}

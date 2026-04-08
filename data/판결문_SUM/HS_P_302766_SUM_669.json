@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "302766",
+        "caseName": "사기",
+        "caseNum": "2020고단4767",
+        "sentenceDate": "2021. 8. 19.",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "취업 보증금 명목으로 피해자들에게 금전을 요구하고 이를 환불할 의사나 능력이 없으면서 피해자들을 속여 다수의 피해자들로부터 금전을 편취하였습니다. 피고인은 교회를 이용해 피해자들을 모집하고 사기 행각을 벌였으며, 피해액은 총 21억 원입니다. 법원은 피고인의 사기 범죄와 근로기준법 위반 혐의를 인정하여 징역형과 집행유예를 선고하였습니다.",
+        "originwordCnt": "3870",
+        "labelwordCnt": "40"
+    }
+}

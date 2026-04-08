@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001215",
+        "promulgDate": "20240116",
+        "effectDate": "20240417",
+        "promulgNum": "20006",
+        "title": "소송촉진 등에 관한 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제23조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "재심청구인이 재심청구서 작성시, 송달장소를 변경하는 경우 무엇을 해야 합니까?",
+        "output": "소송촉진 등에 관한 특례법 제23조의2 제4항에 명시된 바와 같이, 재심청구인은 재심청구서에 송달 장소를 적고, 이를 변경하는 경우에는 지체 없이 그 취지를 법원에 신고하여야 합니다.",
+        "originwordCnt": "158",
+        "labelwordCnt": "24"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001783",
+        "promulgDate": "20230418",
+        "effectDate": "20240419",
+        "promulgNum": "19359",
+        "title": "약사법",
+        "ministry": "보건복지부,식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제34조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "임상시험 교육을 실시할 수 있는 기관은 어떻게 지정되나요?",
+        "output": "약사법 제34조의4에 따르면, 식품의약품안전처장은 임상시험 관련 전문 단체 또는 기관 등을 임상시험 교육실시기관으로 지정할 수 있으며, 그 지정 내용을 고시해야 합니다.",
+        "originwordCnt": "177",
+        "labelwordCnt": "21"
+    }
+}

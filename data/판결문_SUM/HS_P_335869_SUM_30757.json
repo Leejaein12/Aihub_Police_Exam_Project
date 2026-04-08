@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335869",
+        "caseName": "사서명위조등",
+        "caseNum": "2023고단694",
+        "sentenceDate": "2023.07.21",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주 및 무면허 상태로 원동기장치자전거를 운전하고, 음주 측정을 회피하기 위해 타인의 서명을 위조하여 행사하였습니다. 피고인은 과거에도 도로교통법을 위반하여 징역형의 집행유예를 받은 전력이 있으나 자숙하지 않고 범행을 반복해 죄질이 중한 것으로 판단되었습니다. 법원은 피고인에게 징역 1년의 실형을 선고하였습니다.",
+        "originwordCnt": "365",
+        "labelwordCnt": "37"
+    }
+}

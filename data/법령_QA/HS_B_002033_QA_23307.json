@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002033",
+        "promulgDate": "20221227",
+        "effectDate": "20231228",
+        "promulgNum": "19138",
+        "title": "어장관리법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제19조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "어장정화·정비업의 승계 시 적용되는 규정은 무엇인가요?",
+        "output": "어장관리법 제19조 제4항에 따르면, 제1항과 제2항에 따른 승계에는 제18조의 등록 제한 규정을 준용합니다.",
+        "originwordCnt": "114",
+        "labelwordCnt": "13"
+    }
+}

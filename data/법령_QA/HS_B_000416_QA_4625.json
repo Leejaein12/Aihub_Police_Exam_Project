@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000416",
+        "promulgDate": "20220104",
+        "effectDate": "20220705",
+        "promulgNum": "18690",
+        "title": "비료관리법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공정규격의 설정 등을 요청할 수 있는 절차는 어떻게 되나요?",
+        "output": "공정규격의 설정 등이 필요하다고 인정하는 자는 농림축산식품부령으로 정하는 바에 따라 농림축산식품부장관에게 이를 요청할 수 있습니다. 이는 '비료관리법' 제4조 제2항에 따른 내용입니다.",
+        "originwordCnt": "113",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337105",
+        "caseName": "절도",
+        "caseNum": "2022고단2076",
+        "sentenceDate": "2023.08.11",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자전거와 각파이프를 절취하였으며, 절도죄로 징역형을 받은 전력이 있음에도 누범 기간 중 재범을 저질렀습니다. 약 60만 원 상당의 피해를 입혔으나 피해가 회복되지 않았습니다. 법원은 형법 제329조와 제35조에 따라 징역 6개월을 선고하고, 소송촉진특례법 제25조에 따라 배상명령을 통해 60만 원을 지급하도록 명령했습니다.",
+        "originwordCnt": "275",
+        "labelwordCnt": "39"
+    }
+}

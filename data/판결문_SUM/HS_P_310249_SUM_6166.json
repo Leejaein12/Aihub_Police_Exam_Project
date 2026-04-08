@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310249",
+        "caseName": "절도등",
+        "caseNum": "2023도5497",
+        "sentenceDate": "2023.07.13",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "절도, 폭력행위등처벌에관한법률위반(상습주거침입), 상해, 업무방해, 공무집행방해 등의 혐의로 기소된 사건에서, 원심은 상습주거침입에 대해 증거 부족으로 무죄를 선고하였고, 나머지 혐의에 대해서는 유죄를 인정하였습니다. 대법원은 원심의 판단과 증거 채택이 적법하다고 판단하여 상고를 모두 기각하였습니다.",
+        "originwordCnt": "221",
+        "labelwordCnt": "31"
+    }
+}

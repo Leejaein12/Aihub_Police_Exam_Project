@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001126",
+        "promulgDate": "20200324",
+        "effectDate": "20210325",
+        "promulgNum": "17113",
+        "title": "공무원범죄에 관한 몰수 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공무원범죄에서 형사보상의 특례에 대해, 채권 등의 몰수 집행에 대한 보상의 내용은 어떤 법률의 어느 조항을 준용하는가?",
+        "output": "공무원범죄에 관한 몰수 특례법 제11조에 따르면, 채권 등의 몰수 집행에 대한 보상의 내용에 관하여는 형사보상 및 명예회복에 관한 법률 제5조제6항을 준용한다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "21"
+    }
+}

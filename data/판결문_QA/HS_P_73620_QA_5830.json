@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "73620",
+        "caseName": "강도상해피고사건",
+        "caseNum": "74노933",
+        "sentenceDate": "1974.11.15",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "절도범이 체포를 피하기 위해 폭행을 가한 후 피해자에게 상해를 입힌 경우, 어떤 죄가 성립하나요?",
+        "output": "절도범이 체포를 피하기 위해 항거불능 상태로 만들기 위해 폭행을 가하고 그로 인해 피해자에게 상해를 입힌 경우, 형법 제337조에 따른 강도상해죄가 성립합니다.",
+        "originwordCnt": "274",
+        "labelwordCnt": "21"
+    }
+}

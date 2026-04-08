@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011019",
+        "promulgDate": "20240213",
+        "effectDate": "20240517",
+        "promulgNum": "20309",
+        "title": "산림보호법",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제36조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "산불 발생 신고를 받은 관할 지역산불관리기관은 어떤 조치를 취해야 하나요?",
+        "output": "산림보호법 제36조 제3항에 따르면 산불유관기관으로부터 산불 발생 신고를 통보받은 관할 지역산불관리기관은 현장에 신속하게 출동하여 산불 진화에 필요한 활동을 하여야 한다고 규정되어 있습니다.",
+        "originwordCnt": "68",
+        "labelwordCnt": "22"
+    }
+}

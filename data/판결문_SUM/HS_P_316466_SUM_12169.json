@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "316466",
+        "caseName": "절도등",
+        "caseNum": "2023고단462",
+        "sentenceDate": "2023.11.29",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.158% 상태로 약 500m 구간을 운전한 혐의로 기소되었습니다. 법정에서 자신의 범행을 인정하였으며, 이전에 두 차례 음주운전으로 벌금형을 받은 전력이 있으나 마지막 처벌 이후 15년이 경과한 상태였습니다. 법원은 피고인의 음주운전 수치, 범행 경위, 연령 및 성행 등을 고려하여 벌금형을 선고하였습니다.",
+        "originwordCnt": "187",
+        "labelwordCnt": "40"
+    }
+}

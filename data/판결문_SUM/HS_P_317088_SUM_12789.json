@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317088",
+        "caseName": "상습도박",
+        "caseNum": "2023고단1412",
+        "sentenceDate": "2024.01.12",
+        "courtName": "전주지방법원 군산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "가족 계좌를 이용해 불법 도박사이트에서 상습적으로 도박을 하였습니다. 피고인 C는 이와 같은 도박 사실을 알면서도 자신의 계좌를 제공하여 도박을 방조하였습니다. 법원은 피고인 A와 B에게 징역 8개월을 선고하고, 2년간 형 집행을 유예하며 사회봉사 160시간과 도박 치료강의 수강 명령을 내렸습니다. 피고인 C에게는 벌금 3,000,000원을 선고하였습니다.",
+        "originwordCnt": "378",
+        "labelwordCnt": "43"
+    }
+}

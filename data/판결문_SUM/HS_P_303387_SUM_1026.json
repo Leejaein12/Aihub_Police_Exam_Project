@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "303387",
+        "caseName": "상해",
+        "caseNum": "2015고정66",
+        "sentenceDate": "2015. 5. 22.",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "폭행에 대항하여 피해자의 멱살을 잡고 밀쳐 상해를 입혔습니다. 피고인은 정당방위를 주장하였으나, 법원은 피고인의 행위가 단순한 방어행위가 아닌 공격행위의 성격도 함께 가지고 있어 정당방위로 인정될 수 없다고 판단하였습니다. 따라서 피고인의 주장은 받아들여지지 않았으며, 형법 제257조 제1항에 따라 피고인을 벌금 70만 원에 처하였습니다.",
+        "originwordCnt": "249",
+        "labelwordCnt": "41"
+    }
+}

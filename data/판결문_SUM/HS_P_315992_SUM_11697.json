@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315992",
+        "caseName": "준강제추행",
+        "caseNum": "2022고단5446",
+        "sentenceDate": "2023.09.07",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피해자의 심신상실 또는 항거불능 상태를 이용하여 준강제추행을 저질렀다는 혐의로 기소되었습니다. 법원은 피고인이 피해자의 방에 몰래 들어가 피해자를 껴안고 신체 일부를 만진 사실을 인정하였으며, 피고인은 초범으로서 피해자와 합의하였으나, 범행의 죄질이 가볍지 않다는 점이 고려되어 이를 근거로 피고인에게 벌금 400만 원을 선고했습니다.",
+        "originwordCnt": "392",
+        "labelwordCnt": "40"
+    }
+}

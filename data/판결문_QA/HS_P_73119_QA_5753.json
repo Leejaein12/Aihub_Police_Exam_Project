@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "73119",
+        "caseName": "반공법등피고사건",
+        "caseNum": "72노758",
+        "sentenceDate": "1972.10.19",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 북괴 구성원과 회합하고 지령을 받은 행위가 강요된 행위로 인정될 수 있는 이유는 무엇인가요?",
+        "output": "피고인이 북괴 구성원과의 회합에서 지령을 받았으나, 이는 북괴의 위협 아래에서 이루어진 것이며, 피고인은 이에 생명과 신체에 대한 위협을 느껴 이를 거부하지 못한 것으로, 형법 제12조에 따른 강요된 행위로 인정됩니다.",
+        "originwordCnt": "1590",
+        "labelwordCnt": "29"
+    }
+}

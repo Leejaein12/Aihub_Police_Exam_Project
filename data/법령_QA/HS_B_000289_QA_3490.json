@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000289",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19117",
+        "title": "송유관 안전관리법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "송유관을 손괴하거나 조작하려다 미수에 그친 경우에도 처벌되나요?",
+        "output": "송유관 안전관리법 제13조 제6항에 따르면, 제1항 및 제3항에 따른 미수범도 처벌됩니다.",
+        "originwordCnt": "127",
+        "labelwordCnt": "11"
+    }
+}

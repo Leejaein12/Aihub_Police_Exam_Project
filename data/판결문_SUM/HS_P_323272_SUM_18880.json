@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "323272",
+        "caseName": "업무상횡령",
+        "caseNum": "2021노2937",
+        "sentenceDate": "2023.04.19",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "아파트 관리비를 담당하던 관리사무소 경리로 일하면서 피고인은 3년 동안 장부 및 증빙자료를 허위로 작성해 약 2억 원의 관리비를 횡령한 혐의를 받고 있습니다. 이 사건에서 검사는 공소장 변경을 통해 횡령 금액을 수정하여 재판 대상이 달라졌고, 이에 따라 원심판결을 파기하고 피고인을 징역 1년에 2년간 집행을 유예합니다.",
+        "originwordCnt": "411",
+        "labelwordCnt": "44"
+    }
+}

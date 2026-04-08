@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000162",
+        "promulgDate": "20240206",
+        "effectDate": "20240206",
+        "promulgNum": "20231",
+        "title": "화학물질관리법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "특정한 고체 형태의 제품에 포함된 화학물질도 확인해야 하나요?",
+        "output": "특정한 고체 형태로 일정한 기능을 발휘하는 제품에 들어있어 사용 과정에서 유출되지 않는 경우, 「화학물질관리법」 제9조 제2항에 따라 환경부장관이 정하여 고시한 기준에 해당하면 화학물질확인을 하지 않아도 됩니다.",
+        "originwordCnt": "134",
+        "labelwordCnt": "26"
+    }
+}

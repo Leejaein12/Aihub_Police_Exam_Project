@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319186",
+        "caseName": "사기등",
+        "caseNum": "2023고정300",
+        "sentenceDate": "2023.09.06",
+        "courtName": "수원지방법원 성남지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혼자 공부 중인 도서관에서 거절 의사에도 불구하고 재차 접근하여 양말을 벗어줄 것을 요구하는 등 시비를 걸고 뒤따르는 행동으로 피해자를 불안하고 불쾌하게 하였습니다. 법원은 경범죄처벌법 제3조 제1항 제19호에 따라 이러한 행위가 불안감을 조성하는 행위에 해당한다고 판단하여 벌금 10만 원을 선고하였습니다.",
+        "originwordCnt": "703",
+        "labelwordCnt": "39"
+    }
+}

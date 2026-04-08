@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001132",
+        "promulgDate": "20221213",
+        "effectDate": "20230614",
+        "promulgNum": "19068",
+        "title": "가정폭력범죄의 처벌 등에 관한 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제33조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법원이 피해자를 신문할 때 피해자에게 의견진술의 기회를 주어야 하나요?",
+        "output": "가정폭력범죄의 처벌 등에 관한 특례법 제33조 제2항에 의거하면, 법원이 피해자를 신문하는 경우에는 해당 가정보호사건에 관한 의견을 진술할 기회를 피해자에게 주어야 합니다.",
+        "originwordCnt": "136",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001723",
+        "promulgDate": "20160529",
+        "effectDate": "20161130",
+        "promulgNum": "14184",
+        "title": "국민투표법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국민투표에서 구청장, 시장, 읍장, 면장은 부재자신고를 받은 후 어떤 절차를 따라야 합니까?",
+        "output": "국민투표법 제14조 제3항에 따르면, 구청장, 시장, 읍장, 면장은 부재자신고를 받은 후 투표인명부에 이를 표시하고 동시에 부재자신고인명부를 투표구별로 따로 작성하여야 합니다.",
+        "originwordCnt": "193",
+        "labelwordCnt": "20"
+    }
+}

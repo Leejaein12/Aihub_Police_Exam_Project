@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335662",
+        "caseName": "특수재물손괴",
+        "caseNum": "2023고정275",
+        "sentenceDate": "2023.12.21",
+        "courtName": "대구지방법원 김천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "두 차례에 걸쳐 피해자의 주거지 현관문에 설치된 전자도어락을 망치와 드라이버로 손괴한 혐의로 기소되었습니다. 법원은 피고인이 위험한 물건을 사용하여 반복적으로 범행을 저질렀고, 피해자가 고소를 취소하였지만 범행의 중대성을 고려하여 벌금 700,000원을 선고하였습니다.",
+        "originwordCnt": "459",
+        "labelwordCnt": "30"
+    }
+}

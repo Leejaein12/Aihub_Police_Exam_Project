@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "153214",
+        "caseName": "강도상해",
+        "caseNum": "69도154",
+        "sentenceDate": "1969.03.18",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "강도상해죄가 성립하려면 강도가 재물 강취의 목적을 달성해야 하나요?",
+        "output": "강도상해죄가 성립하기 위해서는 강도행위가 재물 강취의 목적을 반드시 달성할 필요는 없습니다. 형법 제337조에 따라 강도행위 과정에서 피해자에게 상해를 입힌 경우, 비록 재물 강취에 실패하였더라도 강도상해죄가 성립할 수 있습니다.",
+        "originwordCnt": "14",
+        "labelwordCnt": "28"
+    }
+}

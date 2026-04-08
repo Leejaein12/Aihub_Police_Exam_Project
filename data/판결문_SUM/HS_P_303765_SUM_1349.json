@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "303765",
+        "caseName": "특수공무집행방해치상",
+        "caseNum": "2009고합238",
+        "sentenceDate": "2009. 8. 13.",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주 상태로 차량을 운전하던 중 경찰관의 음주단속을 피하기 위해 급출발하여 경찰관과 세차게 부딪치고 도주한 혐의로 기소되었습니다. 피해자는 약 3주간 치료를 요하는 상해를 입었습니다. 판결에서는 음주운전과 경찰 공무원의 직무집행 방해를 중하게 보아 피고인에게 징역 1년 6개월을 선고하였습니다.",
+        "originwordCnt": "335",
+        "labelwordCnt": "36"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333585",
+        "caseName": "스토킹범죄의처벌등에관한법률위반",
+        "caseNum": "2023고단790",
+        "sentenceDate": "2023.07.07",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "과거의 교제 관계에 있던 피해자에게 여러 차례 연락하지 말라는 요청에도 불구하고 반복적으로 위협적이고 모욕적인 문자메시지를 보내 스토킹 범죄를 저질렀습니다. 이러한 행위로 인해 불안감과 공포심을 유발한 점이 인정되어, 징역 6개월이 선고되었으며, 집행이 유예되었습니다.",
+        "originwordCnt": "592",
+        "labelwordCnt": "32"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001501",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19753",
+        "title": "수의사법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제17조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "동물병원 개설자는 동물병원을 직접 관리해야 합니까?",
+        "output": "수의사법 제17조의2에 따라, 동물병원 개설자는 자신이 그 동물병원을 직접 관리하여야 합니다. 다만, 부득이한 사유로 관리할 수 없는 경우, 그 동물병원에 종사하는 수의사 중에서 관리자를 지정하여 관리하게 할 수 있습니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "29"
+    }
+}

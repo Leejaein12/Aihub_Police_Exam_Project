@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "003047",
+        "promulgDate": "20220630",
+        "effectDate": "20220701",
+        "promulgNum": "32737",
+        "title": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 시행령",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제104조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군교정시설의 구내에 두어서는 안되는 물건은 무엇인가요?",
+        "output": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 시행령 제104조에 따르면, 군교정시설의 구내에는 시야를 가리거나 그 밖에 계호상 장애가 되는 물건을 두어서는 아니 됩니다.",
+        "originwordCnt": "16",
+        "labelwordCnt": "24"
+    }
+}

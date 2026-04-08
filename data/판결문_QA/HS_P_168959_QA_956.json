@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "168959",
+        "caseName": "주민등록법 위반",
+        "caseNum": "2011고정2129",
+        "sentenceDate": "2011.10.25",
+        "courtName": "서울동부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "이 사건에서 피고인이 위조한 서류는 무엇인가요?",
+        "output": "피고인은 공소외 5 상호저축은행이 망 공소외 2에게 채권이 있는 것처럼 허위로 기재된 ‘주민등록표 초본의 열람 또는 교부신청서’를 위조하여, 공소외 4 공무원에게 제출함으로써 공소외 2의 주민등록표 초본을 부정하게 교부받았습니다.",
+        "originwordCnt": "271",
+        "labelwordCnt": "28"
+    }
+}

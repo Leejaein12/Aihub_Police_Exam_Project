@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312796",
+        "caseName": "준강간등",
+        "caseNum": "2024도169",
+        "sentenceDate": "2024.03.12",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심은 피고인의 공소사실을 유죄로 판단하였으며, 그 이유는 적법하게 채택된 증거와 법리를 근거로 하였습니다. 대법원은 원심의 판단이 논리와 경험의 법칙을 준수하고 있으며, 준강간죄의 성립 및 중지미수에 관한 법리를 오해한 바가 없음을 확인하였습니다. 따라서 상고는 기각되었습니다.",
+        "originwordCnt": "117",
+        "labelwordCnt": "34"
+    }
+}

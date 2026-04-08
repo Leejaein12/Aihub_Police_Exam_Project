@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86785",
+        "caseName": "허위공문서작성등",
+        "caseNum": "4294형상102",
+        "sentenceDate": "1961.10.19",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "이미 소비한 금원을 보충하기 위해 다른 금원을 임의로 소비한 경우에도 불법영득의 의사가 인정되나요?",
+        "output": "이미 소비한 금원을 보충하기 위해 보관 중인 다른 금원을 임의로 소비한 경우에도 불법영득의 의사가 있다고 할 수 있습니다. 따라서 이러한 행위는 횡령죄를 구성하며, 이는 형법 제356조에 따른 것입니다.",
+        "originwordCnt": "37",
+        "labelwordCnt": "28"
+    }
+}

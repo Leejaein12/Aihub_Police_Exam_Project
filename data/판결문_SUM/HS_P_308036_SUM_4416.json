@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "308036",
+        "caseName": "명예훼손",
+        "caseNum": "2020고정667",
+        "sentenceDate": "2020. 12. 10.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "결혼식장에서 피해자에게 3천만 원을 돌려달라는 문구가 적힌 종이를 들고 옷과 배낭에 부착하여, 피해자의 아들 결혼식에 참석한 하객들이 이를 보도록 하였습니다. 법원은 피고인의 행동이 피해자가 빚을 갚지 않았다는 사실을 공공연히 알리는 행위로, 명예훼손에 해당한다고 판단하였으며, 형법 제307조 제1항에 따라 벌금 500만 원을 선고하였습니다.",
+        "originwordCnt": "271",
+        "labelwordCnt": "42"
+    }
+}

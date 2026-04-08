@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335051",
+        "caseName": "근로자퇴직급여보장법위반",
+        "caseNum": "2024고정533",
+        "sentenceDate": "2024.08.13",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "제조업을 운영하는 대표로, 약 50명의 근로자를 고용하고 계시는 분은, 퇴직한 용접공 D의 퇴직금을 퇴직일로부터 14일 이내에 지급하지 않았습니다. 당사자 간 기일 연장 합의도 없었기에, 근로자퇴직급여 보장법 위반으로 벌금 40만원을 선고되었습니다.",
+        "originwordCnt": "160",
+        "labelwordCnt": "30"
+    }
+}

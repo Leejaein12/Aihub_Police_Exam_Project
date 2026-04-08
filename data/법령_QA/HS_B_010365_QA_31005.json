@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010365",
+        "promulgDate": "20120201",
+        "effectDate": "20120802",
+        "promulgNum": "11275",
+        "title": "사회적기업 육성법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공공기관의 장은 사회적기업이 생산하는 재화나 서비스를 어떻게 구매해야 하나요?",
+        "output": "사회적기업 육성법 제12조 제1항에 따르면, 공공기관의 장은 사회적기업이 생산하는 재화나 서비스(사회적기업제품)의 우선 구매를 촉진하여야 합니다.",
+        "originwordCnt": "71",
+        "labelwordCnt": "15"
+    }
+}

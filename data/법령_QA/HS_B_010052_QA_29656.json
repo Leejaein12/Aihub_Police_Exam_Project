@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010052",
+        "promulgDate": "20210406",
+        "effectDate": "20210421",
+        "promulgNum": "31595",
+        "title": "치료감호 등에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "위원장의 제청으로 법무부장관이 위촉하는 자문위원 몇 명 이내로 구성되며 어떤 역할을 하나요?",
+        "output": "치료감호 등에 관한 법률 시행령 제14조 제5항에 따르면 자문위원은 10명 이내로 하며, 위원회의 심사ㆍ결정에 필요한 자문에 응합니다.",
+        "originwordCnt": "60",
+        "labelwordCnt": "17"
+    }
+}

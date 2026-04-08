@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "303614",
+        "caseName": "공무집행방해, 상해",
+        "caseNum": "2023고단1851",
+        "sentenceDate": "2024. 4. 25.",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "경찰관이 벌금 수배자의 형집행장을 집행하려 하자 개 3마리를 풀어 경찰의 정당한 직무집행을 방해하였고, 그 과정에서 개가 경찰관을 물어 상해를 입혔습니다. 법원은 피고인이 공무집행을 방해하고 상해를 가한 사실을 인정하고, 징역 10월을 선고하되 2년간 집행을 유예하며 160시간의 사회봉사를 명하였습니다.",
+        "originwordCnt": "382",
+        "labelwordCnt": "37"
+    }
+}

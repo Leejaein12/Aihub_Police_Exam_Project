@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "230675",
+        "caseName": "농업협동조합법위반",
+        "caseNum": "2006고단517",
+        "sentenceDate": "2006.06.29",
+        "courtName": "대전지방법원천안지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인들이 법률과 정관이 정하는 방법 이외의 선거운동을 한 행위가 문제가 된 이유는 무엇인가요?",
+        "output": "피고인들이 법률과 정관이 정하는 방법 이외의 선거운동을 한 행위는 농업협동조합법에 따라 선거운동 방법 제한 규정을 위반한 것으로, 이는 선거의 공정성을 훼손하는 불법적인 행위로 판단되어 문제가 되었습니다.",
+        "originwordCnt": "4745",
+        "labelwordCnt": "26"
+    }
+}

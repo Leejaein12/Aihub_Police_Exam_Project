@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "96143",
+        "caseName": "사기",
+        "caseNum": "81도1370",
+        "sentenceDate": "1981.10.27",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "기명만 있고 날인이나 무인이 없는 피의자 신문조서는 증거로 인정될 수 있나요?",
+        "output": "기명만 있고 날인이나 무인이 없는 피의자 신문조서는 형사소송법 제244조 제3항에 따라 증거능력이 없습니다. 이러한 조서는 법정에서 증거로 사용될 수 없습니다.",
+        "originwordCnt": "25",
+        "labelwordCnt": "20"
+    }
+}

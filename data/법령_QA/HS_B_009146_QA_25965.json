@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009146",
+        "promulgDate": "20220426",
+        "effectDate": "20230427",
+        "promulgNum": "18846",
+        "title": "국가인권위원회법",
+        "ministry": "국가인권위원회",
+        "fullText": "N",
+        "smClass": "제38조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가인권위원회 위원이 진정에 관하여 증언이나 감정을 한 경우에도 제척되는지요?",
+        "output": "국가인권위원회 위원이 해당 진정에 관하여 증언이나 감정을 한 경우에도 그 진정의 심의·의결에서 제척됩니다. 이 사항은 국가인권위원회법 제38조 제1항 제3호에 따라 정해져 있습니다.",
+        "originwordCnt": "136",
+        "labelwordCnt": "22"
+    }
+}

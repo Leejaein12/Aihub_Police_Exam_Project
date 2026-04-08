@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "202101",
+        "caseName": "도시및주거환경정비법위반",
+        "caseNum": "2016노324",
+        "sentenceDate": "2016.08.19",
+        "courtName": "서울동부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "총회의 의결 없이 조합이 예산 외 계약을 체결하는 것이 적법한가요?",
+        "output": "조합이 총회의 의결 없이 예산으로 정한 사항 외에 조합원에게 부담이 될 계약을 체결하는 것은 도시 및 주거환경정비법 제24조 제3항에 따라 적법하지 않으며, 반드시 총회의 사전 의결을 거쳐야 합니다.",
+        "originwordCnt": "831",
+        "labelwordCnt": "28"
+    }
+}

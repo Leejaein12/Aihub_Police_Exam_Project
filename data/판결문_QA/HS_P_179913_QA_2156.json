@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "179913",
+        "caseName": "게임산업진흥에관한법률위반·도박개장",
+        "caseNum": "2014노4186",
+        "sentenceDate": "2015.02.05",
+        "courtName": "인천지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 게임사이트 이용자들에게 직접 송금하여 환전해 준 사실이 없다고 주장할 수 있나요?",
+        "output": "피고인이 게임사이트 이용자들에게 직접 송금해 주는 방법으로 환전해 준 사실은 게임사이트 개발자와의 진술, 관리자 전용 페이지의 환전 관리 항목 등을 통해 인정되므로, 피고인의 주장은 받아들일 수 없습니다.",
+        "originwordCnt": "986",
+        "labelwordCnt": "27"
+    }
+}

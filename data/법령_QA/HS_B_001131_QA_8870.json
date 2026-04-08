@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001131",
+        "promulgDate": "20161202",
+        "effectDate": "20171203",
+        "promulgNum": "14277",
+        "title": "교통사고처리 특례법",
+        "ministry": "경찰청,법무부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "교통사고처리 특례법에 의하면, 보험 또는 공제에 가입된 사실을 어떻게 증명해야 하나요?",
+        "output": "교통사고처리 특례법 제4조 제3항에 따르면, 보험 또는 공제에 가입된 사실은 보험회사, 공제조합 또는 공제사업자가 제2항의 취지를 적은 서면에 의하여 증명되어야 합니다.",
+        "originwordCnt": "191",
+        "labelwordCnt": "21"
+    }
+}

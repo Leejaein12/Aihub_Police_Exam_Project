@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001638",
+        "promulgDate": "20230418",
+        "effectDate": "20240101",
+        "promulgNum": "19357",
+        "title": "도로교통법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제94조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "이의심의위원회 위원 중 공무원이 아닌 사람은 형법 129조부터 제132조까지의 규정을 적용할 때 어떤 법적 지위를 가지나요?",
+        "output": "도로교통법 제94조 제4항에 따르면 이의심의위원회의 위원 중 공무원이 아닌 사람은 형법 제129조부터 제132조까지의 규정을 적용할 때에는 공무원으로 봅니다.",
+        "originwordCnt": "124",
+        "labelwordCnt": "18"
+    }
+}

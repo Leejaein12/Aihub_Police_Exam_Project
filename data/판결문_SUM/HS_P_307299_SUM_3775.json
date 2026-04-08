@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "307299",
+        "caseName": "특수절도",
+        "caseNum": "2017고단1258",
+        "sentenceDate": "2017. 6. 22.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A, B, C는 관할 관청의 허가 없이 소나무 반출금지구역에서 소나무를 굴취하여 절취하거나 이동하였고, D는 절취된 소나무를 장물로 매수하였습니다. 피고인들의 범행은 일반 절도나 장물취득에 비해 죄질이 무거운 것으로 평가되었습니다. 피고인 A, B, C는 각각 6개월의 징역형을, 피고인 D는 4개월의 징역형을 선고받았으며, B, C, D는 집행유예와 사회봉사 명령을 받았습니다. A와 D의 경우, 범행에 사용된 물품은 몰수되었습니다.",
+        "originwordCnt": "952",
+        "labelwordCnt": "54"
+    }
+}

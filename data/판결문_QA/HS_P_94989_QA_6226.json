@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "94989",
+        "caseName": "보건범죄단속에관한특별조치법위반",
+        "caseNum": "80도428",
+        "sentenceDate": "1980.04.08",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "약사가 설문서를 통해 진단을 내리고 약을 처방한 행위는 어떻게 평가되나요?",
+        "output": "보건범죄단속에관한특별조치법 제5조에 따라, 약사가 설문서를 바탕으로 중이염을 진단하고 약을 처방한 행위는 단순한 약국 업무를 넘어서 의료행위로 평가되며, 이는 의료인의 역할을 넘어선 행위로 간주됩니다.",
+        "originwordCnt": "103",
+        "labelwordCnt": "23"
+    }
+}

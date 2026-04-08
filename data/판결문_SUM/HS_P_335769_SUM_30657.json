@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335769",
+        "caseName": "특수상해",
+        "caseNum": "2023고단4956",
+        "sentenceDate": "2024.05.29",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술을 마시던 중 소주병으로 피해자의 머리를 내려쳐 상해를 입힌 혐의로 재판을 받았습니다. 법원은 피고인이 범행을 인정하고 반성하고 있으며, 피해자와 합의한 점, 피해자가 처벌을 원치 않는 점, 피고인이 뇌경색을 앓고 있고 동종 전과가 없는 점 등을 고려하여 징역 1년에 집행유예 2년을 선고하고, 40시간의 폭력치료강의 수강을 명하였습니다.",
+        "originwordCnt": "227",
+        "labelwordCnt": "45"
+    }
+}

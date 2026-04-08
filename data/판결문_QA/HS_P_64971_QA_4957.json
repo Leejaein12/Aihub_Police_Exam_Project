@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "64971",
+        "caseName": "풍속영업의규제에관한법률위반",
+        "caseNum": "2007노2737",
+        "sentenceDate": "2008.04.30",
+        "courtName": "광주지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "모텔이 풍속영업에 해당하지 않는다는 주장은 왜 받아들여지지 않았나요?",
+        "output": "모텔이 공중위생관리법 제2조 제1항 제2호에 따른 숙박업에 해당하며, 시행령에서 규정된 바가 없어도 풍속영업의 규제에 관한 법률 적용 대상인 것으로 판단되어 피고인의 주장은 받아들여지지 않았습니다. 따라서 피고인의 항소를 기각합니다.",
+        "originwordCnt": "1190",
+        "labelwordCnt": "28"
+    }
+}

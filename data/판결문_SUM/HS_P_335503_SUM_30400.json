@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335503",
+        "caseName": "스토킹범죄의처벌등에관한법률위반",
+        "caseNum": "2023고단3259",
+        "sentenceDate": "2023.10.11",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "연인 관계를 끝내자는 요구를 받았음에도 불구하고, 지속적으로 피해자에게 전화와 메시지를 보내어 불안감을 유발하였습니다. 이에 스토킹범죄의 처벌 등에 관한 법률에 따라 벌금형이 선택되었으며, 피고인에게 3,000,000원의 벌금과 40시간의 스토킹 치료프로그램 이수가 명령되었습니다.",
+        "originwordCnt": "284",
+        "labelwordCnt": "30"
+    }
+}

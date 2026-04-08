@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000994",
+        "promulgDate": "20221115",
+        "effectDate": "20230516",
+        "promulgNum": "19028",
+        "title": "온천법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제9조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "행정안전부장관은 어떤 조건을 충족하는 온천지역을 온천도시로 지정할 수 있습니까?",
+        "output": "온천법 제9조의2 제1항에 따르면, 행정안전부장관은 온천관광 등 온천산업의 육성을 통하여 지역발전 및 지역경제 활성화에 이바지할 것으로 예상되는 온천지역을 온천도시로 지정할 수 있습니다.",
+        "originwordCnt": "65",
+        "labelwordCnt": "22"
+    }
+}

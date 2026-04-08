@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012065",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "해수욕장의 이용 및 관리에 관한 법률",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "해수욕장의 현황조사와 관련된 구체적인 사항은 어떻게 정해지나요?",
+        "output": "해수욕장의 이용 및 관리에 관한 법률 제8조 제3항에 따르면, 현황조사의 주기·방법·내용, 경비 지원의 범위 등 필요한 사항은 해양수산부령으로 정합니다.",
+        "originwordCnt": "51",
+        "labelwordCnt": "19"
+    }
+}

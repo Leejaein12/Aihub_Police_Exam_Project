@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "73114",
+        "caseName": "폭력행위등처벌에관한법률위반피고사건",
+        "caseNum": "72노688",
+        "sentenceDate": "1972.09.21",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "폭력행위등처벌에관한법률 제2조 제1항의 공갈죄와 동법 제3조 제2항 및 제1항의 공갈죄가 포괄일죄로 처단되는 이유는 무엇인가요?",
+        "output": "폭력행위등처벌에관한법률 제2조 제1항의 공갈죄와 제3조 제2항 및 제1항의 공갈죄는 모두 죄질이 같기 때문에 동법 제3조 제2항에 의한 포괄일죄로 처단되어야 합니다.",
+        "originwordCnt": "53",
+        "labelwordCnt": "20"
+    }
+}

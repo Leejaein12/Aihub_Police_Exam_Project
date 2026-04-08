@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "125426",
+        "caseName": "관할이전",
+        "caseNum": "82초50",
+        "sentenceDate": "1982.12.17",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "담당 법관에 대한 기피신청과 증인의 조사 사실을 근거로 관할이전 신청이 가능한가요?",
+        "output": "형사소송법 제15조에 따르면, 담당 법관에 대한 기피신청과 증인의 조사 사실만으로는 관할법원이 재판권을 행사할 수 없다거나 재판의 공평을 유지하기 어려운 염려가 있다고 볼 수 없습니다.",
+        "originwordCnt": "95",
+        "labelwordCnt": "24"
+    }
+}

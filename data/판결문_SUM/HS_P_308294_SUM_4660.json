@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "308294",
+        "caseName": "의료법위반",
+        "caseNum": "2021고정443",
+        "sentenceDate": "2022. 10. 25.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A는 간호조무사로, B는 의사로, C는 원무과장으로 각각 의료법 위반으로 기소되었습니다. 피고인 C는 환자가 사망한 사실을 은폐하기 위해 A에게 거짓 간호기록부 작성을 교사하였으며, A는 이를 따라 거짓으로 기재하였습니다. B는 병원에 필요한 당직의료인을 적정 수 이상 두지 않아 법을 위반하였습니다. 법원은 피고인 A에게 200만 원, B에게 300만 원, C에게 500만 원의 벌금을 부과하였습니다.",
+        "originwordCnt": "461",
+        "labelwordCnt": "51"
+    }
+}

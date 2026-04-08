@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335873",
+        "caseName": "전기통신사업법위반",
+        "caseNum": "2023고정207",
+        "sentenceDate": "2023.11.15",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "지인으로부터 신분증을 빌려주면 100만 원을 주겠다는 제안을 받고, 자신의 주민등록증을 제공하여 휴대전화 23대를 개통하게 했습니다. 이로 인해 피고인은 전기통신역무를 타인의 통신용으로 제공하였고, 전기통신사업법을 위반한 것으로 인정되었습니다. 이에 따라 법원은 피고인에게 벌금 300만 원을 선고하였습니다.",
+        "originwordCnt": "178",
+        "labelwordCnt": "34"
+    }
+}

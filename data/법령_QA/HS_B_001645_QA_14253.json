@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001645",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19329",
+        "title": "새마을금고법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제43조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "새마을금고가 해산할 때, 채무를 모두 갚고 남은 재산은 어떻게 처분하나요?",
+        "output": "새마을금고가 해산한 경우, 채무를 모두 완제한 후 남은 재산이 있으면 정관으로 정하는 바에 따라 이를 처분합니다. 이는 새마을금고법 제43조에 명시되어 있습니다.",
+        "originwordCnt": "18",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "152569",
+        "caseName": "사기",
+        "caseNum": "66도132",
+        "sentenceDate": "1966.03.15",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "사기죄에서 불법영득 의사는 무엇을 의미하나요?",
+        "output": "사기죄에서 불법영득의 의사란 타인의 물건을 자기 것으로 삼으려는 의사뿐만 아니라, 타인의 물건을 일시적으로 그 경제적 용법에 따라 이용하거나 처분하려는 의사도 포함됩니다. 이는 형법 제347조에 따라 사기죄가 성립하기 위한 중요한 요건입니다.",
+        "originwordCnt": "36",
+        "labelwordCnt": "30"
+    }
+}

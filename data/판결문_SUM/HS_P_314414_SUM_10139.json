@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314414",
+        "caseName": "절도등",
+        "caseNum": "2022노1120",
+        "sentenceDate": "2023.12.06",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "절도 및 점유이탈물횡령 혐의로 1심에서 벌금 500만 원을 선고받았습니다. 검사는 형이 너무 가볍다며 항소하였으나, 항소심은 1심의 양형이 합리적인 범위를 벗어나지 않았다고 판단하였습니다. 1심에서 피고인의 유리하고 불리한 여러 정상들을 충분히 고려하였고, 양형을 변경할 만한 특별한 사정도 발견되지 않아 검사의 항소는 기각되었습니다.",
+        "originwordCnt": "169",
+        "labelwordCnt": "40"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "211361",
+        "caseName": "폭행·모욕",
+        "caseNum": "2019고정1468",
+        "sentenceDate": "2019.09.26",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인은 어떤 이유로 폭행죄로 처벌받았나요?",
+        "output": "피고인은 피해자가 운전하던 택배차량이 자신의 앞으로 진행해왔다는 이유로 피해자와 시비가 붙어, 피해자의 목을 손으로 치고 양손으로 목을 조르는 등 폭행을 가하였습니다. 이에 따라 법원은 피고인에게 벌금 300만 원을 부과했습니다.",
+        "originwordCnt": "192",
+        "labelwordCnt": "29"
+    }
+}

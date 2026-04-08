@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "156362",
+        "caseName": "군무이탈",
+        "caseNum": "67도1176",
+        "sentenceDate": "1967.11.21",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "군법회의법에서 규정하는 법률상 형의 감면사유에 자수가 포함되나요?",
+        "output": "군법회의법 제368조 제2항에서 규정하는 법률상 형의 감면사유는 필요적으로 형이 감면되는 경우에만 해당됩니다. 자수와 같이 감면 여부가 임의적인 경우는 법률상 형의 감면사유에 포함되지 않으며, 자수는 이에 해당하지 않는다고 판단됩니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "28"
+    }
+}

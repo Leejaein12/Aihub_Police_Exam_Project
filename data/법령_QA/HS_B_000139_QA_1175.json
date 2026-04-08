@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000139",
+        "promulgDate": "20210518",
+        "effectDate": "20220519",
+        "promulgNum": "18179",
+        "title": "노동위원회법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제16조의3",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "화해조서에는 누구의 서명이나 날인이 필요하나요?",
+        "output": "노동위원회법 제16조의3 제4항에 따르면, 화해조서에는 다음 각 호의 사람이 모두 서명하거나 날인하여야 합니다.1. 관계 당사자2. 화해에 관여한 부문별 위원회(제15조의2에 따른 단독심판을 포함한다)의 위원 전원",
+        "originwordCnt": "106",
+        "labelwordCnt": "26"
+    }
+}

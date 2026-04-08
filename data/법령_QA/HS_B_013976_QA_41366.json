@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013976",
+        "promulgDate": "20240524",
+        "effectDate": "20240524",
+        "promulgNum": "00483",
+        "title": "경찰수사규칙",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제110조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "병존사건의 경우 사법경찰관은 기록을 분리하여서 관리하나요?",
+        "output": "경찰수사규칙 제110조 제1항에 따르면, 하나의 사건에 검찰송치, 불송치 및 수사중지 결정이 병존하는 병존사건의 경우 사법경찰관은 기록을 분리하여 송치 및 송부하도록 노력해야 합니다.",
+        "originwordCnt": "153",
+        "labelwordCnt": "22"
+    }
+}

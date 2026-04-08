@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "169798",
+        "caseName": "집회 및 시위에 관한 법률 위반",
+        "caseNum": "2010노4341",
+        "sentenceDate": "2011.01.19",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "벌금형이 과도하다는 주장은 어떤 근거로 받아들여지지 않았나요?",
+        "output": "범행의 시간, 장소, 참가 인원, 피고인의 연령과 성행 등 양형의 조건을 종합적으로 고려한 결과, 원심에서 선고된 벌금형이 지나치게 무겁다고 판단되지 않아 항소가 기각되었습니다.",
+        "originwordCnt": "179",
+        "labelwordCnt": "23"
+    }
+}

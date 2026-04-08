@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "329318",
+        "caseName": "사기등",
+        "caseNum": "2021노1165",
+        "sentenceDate": "2023.05.23.",
+        "courtName": "서울서부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심에서 피고인은 배상신청인에 대한 배상명령이 각하되었으며, 후속 심리에서 배상신청의 일부가 인용되었으나 그 중복성 및 배상 책임의 불확실성이 지적되었습니다. 판결에서는 범죄의 중대성을 고려하여 피고인에게 징역3년 6개월이 선고되었으며, 몰수 및 배상명령 신청이 각하되는 결정이 내려졌습니다.",
+        "originwordCnt": "1197",
+        "labelwordCnt": "33"
+    }
+}

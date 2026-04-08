@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337931",
+        "caseName": "업무방해등",
+        "caseNum": "2024고정214",
+        "sentenceDate": "2024.06.19.",
+        "courtName": "서울서부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공사현장에 침입하여 피해자의 공사업무를 방해한 혐의를 받았습니다. 피해자가 공사대금을 직접 지급하지 않았다는 이유로 울타리를 치운 뒤 차량을 주차하여 공사를 방해했습니다. 법원은 피고인이 범행을 인정하고 반성하는 태도를 보였으며, 피해자의 관리소장이 선처를 탄원한 점 등을 고려하여 벌금 30만 원에 처하기로 결정했습니다.",
+        "originwordCnt": "226",
+        "labelwordCnt": "39"
+    }
+}

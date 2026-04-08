@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "99454",
+        "caseName": "간통",
+        "caseNum": "84도709",
+        "sentenceDate": "1984.06.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법원에 간통 사실을 처벌해 달라는 진정서를 제출한 경우, 이 진정서가 고소로서 효력이 있나요?",
+        "output": "형사소송법 제237조 제1항에 따르면, 고소는 서면 또는 구술로서 검사 또는 사법경찰관에게 하여야 하므로, 피해자가 법원에 간통 사실을 적시하고 피고인을 처벌해 달라는 진정서를 제출하였더라도 이는 고소로서의 효력이 없습니다.",
+        "originwordCnt": "49",
+        "labelwordCnt": "27"
+    }
+}

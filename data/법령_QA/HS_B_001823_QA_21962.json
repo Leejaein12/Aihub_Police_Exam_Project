@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제55조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "건축물의 건폐율은 어떤 기준에 따라 결정되나요?",
+        "output": "건축법 제55조에 명시된 바에 의하면, 건축물의 건폐율은 대지면적에 대한 건축면적의 비율로, 국토의 계획 및 이용에 관한 법률 제77조에 따른 건폐율의 기준에 따릅니다. 다만, 건축법에서 기준을 완화하거나 강화하도록 규정한 경우에는 그에 따릅니다.",
+        "originwordCnt": "40",
+        "labelwordCnt": "31"
+    }
+}

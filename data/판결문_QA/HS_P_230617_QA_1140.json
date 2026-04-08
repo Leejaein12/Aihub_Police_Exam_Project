@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "230617",
+        "caseName": "전기통신사업법위반방조·증권거래법위반방조",
+        "caseNum": "2004노3120",
+        "sentenceDate": "2005.12.15",
+        "courtName": "수원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "기간통신역무 중 정보제공업무를 개별 사업자에게 적법하게 위탁한 경우에도 문제가 되나요?",
+        "output": "기간통신역무 중 정보제공업무를 적법하게 위탁한 경우에도, 원심은 피고인 회사가 060회선을 임대해 주어 실시간 전화정보서비스 사업을 영위하게 한 것이 전기통신사업법 위반으로 판단하였습니다.",
+        "originwordCnt": "6000",
+        "labelwordCnt": "21"
+    }
+}

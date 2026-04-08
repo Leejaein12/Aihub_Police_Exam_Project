@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311237",
+        "caseName": "도로교통법위반(음주측정거부)",
+        "caseNum": "2023고단291",
+        "sentenceDate": "2024.01.24",
+        "courtName": "대구지방법원 영덕지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주운전 중 교통사고를 일으킨 후 피고인은 경찰의 음주측정 요구를 정당한 사유 없이 3회에 걸쳐 거부하였습니다. 이에 도로교통법 위반으로 기소되어 징역 1년에 처해졌으나, 2년간 집행이 유예되었으며, 160시간의 사회봉사와 40시간의 준법운전 강의 수강 명령을 받았습니다.",
+        "originwordCnt": "320",
+        "labelwordCnt": "33"
+    }
+}

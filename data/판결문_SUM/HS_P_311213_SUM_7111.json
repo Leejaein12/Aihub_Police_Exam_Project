@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311213",
+        "caseName": "성폭력범죄의처벌등에관한특례법위반(통신매체이용음란)",
+        "caseNum": "2023고정215",
+        "sentenceDate": "2023.09.21",
+        "courtName": "의정부지방법원 남양주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "온라인 게임에서 채팅을 통해 피해자에게 성적 수치심과 혐오감을 유발하는 메시지를 전송하여 통신매체이용음란죄를 범하였습니다. 법원은 피고인이 초범이며 자백하고 진지하게 반성하며 피해자와 원만히 합의한 점, 재범의 가능성이 낮은 점 등을 고려하여 벌금 50만 원을 선고유예하였습니다.",
+        "originwordCnt": "316",
+        "labelwordCnt": "33"
+    }
+}

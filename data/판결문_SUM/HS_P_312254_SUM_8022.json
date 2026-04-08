@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312254",
+        "caseName": "공연음란",
+        "caseNum": "2024고단187",
+        "sentenceDate": "2024.08.14",
+        "courtName": "광주지방법원 순천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "3차례에 걸쳐 아파트 단지에서 미성년자인 피해자에게 음란한 행위를 하였으며, 피해자에게 성기를 고의적으로 노출한 사실이 인정되었습니다. 피고인은 고의가 없다고 주장하였으나, 피해자의 일관된 진술과 CCTV 영상 등의 증거를 종합하면 피고인의 범행이 충분히 입증됩니다. 법원은 피고인에게 징역 6개월에 집행유예 2년을 선고하고 보호관찰 및 사회봉사 명령을 내렸습니다.",
+        "originwordCnt": "767",
+        "labelwordCnt": "43"
+    }
+}

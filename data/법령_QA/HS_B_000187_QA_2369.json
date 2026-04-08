@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000187",
+        "promulgDate": "20240213",
+        "effectDate": "20240514",
+        "promulgNum": "20290",
+        "title": "장애인복지법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가와 지방자치단체는 장애인복지정책에 대해 어떻게 홍보해야 하나요?",
+        "output": "국가와 지방자치단체는 「장애인복지법」 제9조 제3항에 따라 장애인복지정책을 장애인과 그 보호자에게 적극적으로 홍보하고, 국민이 장애인을 올바르게 이해하도록 하는 데 필요한 정책을 강구해야 합니다.",
+        "originwordCnt": "56",
+        "labelwordCnt": "22"
+    }
+}

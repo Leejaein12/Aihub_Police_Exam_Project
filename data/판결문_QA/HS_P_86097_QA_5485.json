@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86097",
+        "caseName": "허위공문서작성등,허위공문서작성행사,사기",
+        "caseNum": "4288형상157",
+        "sentenceDate": "1955.08.19",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "허위공문서 작성으로 인한 처벌의 기준은 무엇인가요?",
+        "output": "허위공문서 작성으로 인한 처벌은 공무원이 직무와 관련하여 사실과 다른 내용을 문서에 기재하여 행사한 경우에 해당합니다. 공문서에 대한 신뢰를 유지하기 위해 허위로 작성된 공문서는 중대한 범죄로 간주되어 엄격히 처벌됩니다.",
+        "originwordCnt": "1524",
+        "labelwordCnt": "28"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011357",
+        "promulgDate": "20230314",
+        "effectDate": "20240315",
+        "promulgNum": "19234",
+        "title": "개인정보 보호법",
+        "ministry": "개인정보보호위원회",
+        "fullText": "N",
+        "smClass": "제7조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "개인정보 보호법에서 보호위원회 위원이 궐위된 때에는 어떻게 해야 합니까?",
+        "output": "위원이 궐위된 때에는 지체 없이 새로운 위원을 임명 또는 위촉하여야 합니다. 이 경우 후임으로 임명 또는 위촉된 위원의 임기는 새로이 개시됩니다. 개인정보 보호법 제7조의4 제2항에 규정되어 있습니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "27"
+    }
+}

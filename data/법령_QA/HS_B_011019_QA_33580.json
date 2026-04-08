@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011019",
+        "promulgDate": "20240213",
+        "effectDate": "20240517",
+        "promulgNum": "20309",
+        "title": "산림보호법",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "산림정화구역의 지정이 해제될 수 있는 경우는 언제인가요?",
+        "output": "산림보호법 제14조 제3항에 따르면, 산림청장, 특별자치시장ㆍ특별자치도지사ㆍ시장ㆍ군수ㆍ구청장 또는 지방산림청장은 산림정화구역이 지정 목적을 달성하였거나 계속 둘 필요가 없다고 인정하면 그 지정을 해제할 수 있습니다.",
+        "originwordCnt": "115",
+        "labelwordCnt": "22"
+    }
+}

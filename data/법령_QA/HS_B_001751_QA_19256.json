@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001751",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "도시철도법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제37조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시ㆍ도지사는 면허를 취소하거나 사업 정지를 명할 때 어떤 절차를 거쳐야 하나요?",
+        "output": "시ㆍ도지사는 도시철도법 제37조 제1항에 따라 도시철도운송사업의 면허를 취소하거나 사업의 정지를 명할 때에는 청문을 하여야 합니다. 이는 도시철도법 제37조 제3항에 근거합니다.",
+        "originwordCnt": "181",
+        "labelwordCnt": "20"
+    }
+}

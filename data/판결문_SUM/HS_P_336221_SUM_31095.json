@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336221",
+        "caseName": "특정범죄가중처벌등에관한법률위반(절도)등",
+        "caseNum": "2024노653",
+        "sentenceDate": "2024.05.02",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "절도와 사기죄 등으로 누범 기간 중 범행을 저질렀고, 피해 회복이 이루어지지 않았으므로 불리한 양형 요소가 있으나, 자신의 범행을 인정하고 반성하는 점, 피해 금액이 크지 않은 점 등을 감안해 원심의 징역 2년 4월 형이 합리적 재량 범위에 속한다고 판단하였습니다. 이에 따라 법원은 피고인과 검사의 항소를 모두 기각했습니다.",
+        "originwordCnt": "326",
+        "labelwordCnt": "46"
+    }
+}

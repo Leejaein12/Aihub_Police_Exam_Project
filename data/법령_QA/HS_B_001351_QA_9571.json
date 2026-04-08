@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001351",
+        "promulgDate": "20211019",
+        "effectDate": "20220420",
+        "promulgNum": "18520",
+        "title": "국가정보원직원법",
+        "ministry": "국가정보원",
+        "fullText": "N",
+        "smClass": "제22조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가정보원직원법에서 직원의 정년 퇴직일은 어떻게 결정되나요?",
+        "output": "국가정보원직원법 제22조 제3항 규정에 따르면 직원은 정년이 되는 날이 1월부터 6월 사이에 있는 경우에는 6월 30일에 당연히 퇴직되고, 7월부터 12월 사이에 있는 경우에는 12월 31일에 당연히 퇴직됩니다.",
+        "originwordCnt": "112",
+        "labelwordCnt": "27"
+    }
+}

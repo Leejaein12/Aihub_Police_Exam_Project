@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314670",
+        "caseName": "상해",
+        "caseNum": "2024고정56",
+        "sentenceDate": "2024.07.17",
+        "courtName": "대구지방법원 상주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "전자금융거래법 제49조 제4항 및 형법 제347조 제1항에 따라 접근매체 대여 및 사기 혐의로 기소되었습니다. 불법 도박 범행에 이용할 목적으로 타인의 계좌 정보를 제공받아 접근매체를 대여하였고, 펜션 건설을 위해 자금이 필요하다는 거짓말로 820만 원을 편취하였습니다. 법원은 범행이 중하다고 판단하여 벌금 500만 원을 선고하였습니다.",
+        "originwordCnt": "309",
+        "labelwordCnt": "42"
+    }
+}

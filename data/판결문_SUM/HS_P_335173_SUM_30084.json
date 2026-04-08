@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335173",
+        "caseName": "전자금융거래법위반",
+        "caseNum": "2023고정685",
+        "sentenceDate": "2023.08.10",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A는 타인의 권유를 받고 법인 명의로 계좌를 개설한 뒤, 그 계좌에 연결된 통장과 OTP 카드를 고속버스 택배로 성명불상자에게 전달하는 방식으로 전자금융거래의 접근매체를 양도하였습니다. 해당 접근매체는 다른 범행에 사용된 것으로 확인되었습니다. 법원은 A가 범행을 인정한 점, 이전에 벌금형 전력이 있는 점 등을 고려하여 벌금 300만 원을 선고하였습니다.",
+        "originwordCnt": "195",
+        "labelwordCnt": "46"
+    }
+}

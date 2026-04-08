@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334991",
+        "caseName": "횡령",
+        "caseNum": "2024고단1997",
+        "sentenceDate": "2024.07.24",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "48개월 임대차 계약을 체결하고 차량을 보관하던 중 2023년 11월부터 렌트비를 미납하였으며, 피해자의 반환 요구에도 불구하고 차량의 반환을 거부하고 소재를 알 수 없게 하여 이를 횡령하였습니다. 법원은 피고인이 차량을 반환하고 피해자와 합의하여 처벌을 원치 않으며, 범죄 전력이 경미하다는 점 등을 참작하여 벌금형의 선고를 유예하였습니다.",
+        "originwordCnt": "225",
+        "labelwordCnt": "43"
+    }
+}

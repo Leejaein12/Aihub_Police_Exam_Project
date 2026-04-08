@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "184049",
+        "caseName": "조세범처벌법위반",
+        "caseNum": "2014노4657",
+        "sentenceDate": "2015.10.23",
+        "courtName": "부산지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "항소심에서 피고인에 대한 무죄 판결을 선고한 이유는 무엇인가요?",
+        "output": "항소심에서는 피고인이 공소외 3 회사의 운영자로서 공소외 2와 공모하여 범행을 저질렀다는 증거가 부족하다고 판단하여, 원심판결 중 피고인에 대한 부분을 파기하고 무죄를 선고했습니다.",
+        "originwordCnt": "620",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "324070",
+        "caseName": "업무방해등",
+        "caseNum": "2023노1364",
+        "sentenceDate": "2023.08.09",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "업무방해와 폭행, 재물손괴 등의 범죄로 인한 형량이 적절하다는 판단을 내린 사건입니다. 원심은 피고인이 범행을 반복적으로 저질렀으며 피해자가 피고인에 대한 엄벌을 탄원하고 있다는 점을 고려하여 형을 정했습니다. 피고인이 주장한 항소 이유는 원심에서 이미 고려된 사항들로, 형량의 부당함이 인정되지 않았습니다. 따라서 항소는 기각되었습니다.",
+        "originwordCnt": "257",
+        "labelwordCnt": "41"
+    }
+}

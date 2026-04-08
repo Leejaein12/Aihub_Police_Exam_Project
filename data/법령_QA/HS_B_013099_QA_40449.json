@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013099",
+        "promulgDate": "20240319",
+        "effectDate": "20240620",
+        "promulgNum": "20399",
+        "title": "공무원 재해보상법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제54조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공무원 재해보상 소멸시효가 중단된 경우, 시효는 어떻게 진행되나요?",
+        "output": "공무원 재해보상 소멸시효가 중단된 경우, 납입의 고지 또는 독촉에 따른 납입기간이 지난 때부터 새로 진행됩니다. 이는 공무원 재해보상법 제54조 제4항에 명시되어 있습니다.",
+        "originwordCnt": "122",
+        "labelwordCnt": "22"
+    }
+}

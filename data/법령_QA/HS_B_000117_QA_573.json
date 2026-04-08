@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000117",
+        "promulgDate": "20230103",
+        "effectDate": "20230704",
+        "promulgNum": "19174",
+        "title": "국민 평생 직업능력 개발법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제58조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "고용노동부장관은 직업능력개발훈련에 관한 조사결과를 조사를 받은 자에게 무엇을 통해 알리나요?",
+        "output": "국민 평생 직업능력 개발법 제58조 제4항에 명시된 바와 같이, 고용노동부장관은 제1항에 따른 조사결과를 조사를 받은 자에게 서면으로 알려야 합니다.",
+        "originwordCnt": "194",
+        "labelwordCnt": "19"
+    }
+}

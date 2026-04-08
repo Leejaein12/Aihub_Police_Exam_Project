@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "146217",
+        "caseName": "형실효선고·각하결정에대한재항고",
+        "caseNum": "83모8",
+        "sentenceDate": "1983.04.02",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형법 제65조의 “형의 선고는 효력을 잃는다”는 의미는 무엇인가요?",
+        "output": "형법 제65조의 “형의 선고는 효력을 잃는다”는 것은 형의 선고가 지니던 법률적 효과만이 소멸된다는 의미이며, 형의 선고가 이루어졌다는 기왕의 사실 자체까지 소멸하는 것은 아님을 뜻합니다.",
+        "originwordCnt": "145",
+        "labelwordCnt": "24"
+    }
+}

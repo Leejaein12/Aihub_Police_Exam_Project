@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000888",
+        "promulgDate": "20221213",
+        "effectDate": "20230614",
+        "promulgNum": "19066",
+        "title": "사립학교법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제48조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "관할청은 감독상 필요할 때 학교법인 또는 사학지원단체에 대해 어떤 조치를 취할 수 있나요?",
+        "output": "사립학교법 제48조에 따라 관할청은 감독상 필요할 때 학교법인 또는 사학지원단체에 보고서 제출을 명하거나, 장부ㆍ서류 등을 검사할 수 있으며, 이에 따른 필요한 조치를 명할 수 있습니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "25"
+    }
+}

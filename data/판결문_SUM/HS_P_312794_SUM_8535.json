@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312794",
+        "caseName": "살인",
+        "caseNum": "2024도1344",
+        "sentenceDate": "2024.04.12",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "살인 혐의로 유죄 판결을 받은 사건에서 상고를 하였습니다. 원심은 살인의 고의 및 심신장애에 대한 법리를 오해하지 않았고, 피고인의 연령, 성행, 환경, 피해자와의 관계 등을 고려하여 징역 15년을 선고한 원심의 판단이 부당하지 않다고 보았습니다. 이에 따라 대법원은 원심 판결을 유지하며 상고를 기각하였습니다.",
+        "originwordCnt": "158",
+        "labelwordCnt": "41"
+    }
+}

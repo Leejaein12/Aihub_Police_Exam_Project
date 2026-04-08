@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337055",
+        "caseName": "사기",
+        "caseNum": "2023고단31",
+        "sentenceDate": "2023.08.08",
+        "courtName": "창원지방법원 거창지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "인터넷 중고거래 사이트에서 명품 가방을 판매한다고 속여 피해자로부터 160만 원을 편취하였습니다. 법원은 동종 전력에도 불구하고 재범하였고, 피해 회복이나 반성이 없는 점을 고려하여 형법 제347조 제1항에 따라 징역 8개월을 선고하였습니다. 신뢰를 악용하여 사회적 신뢰를 훼손한 점과 여러 양형 조건을 종합적으로 판단하여 실형이 선고되었습니다.",
+        "originwordCnt": "543",
+        "labelwordCnt": "42"
+    }
+}

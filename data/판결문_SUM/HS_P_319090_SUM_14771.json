@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319090",
+        "caseName": "국민체육진흥법위반",
+        "caseNum": "2023고정529",
+        "sentenceDate": "2023.10.25",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공사 현장 및 노상에서 철근, 쇠파이프, 손수레, 자전거, 건축자재 등을 절취한 혐의로 기소되었습니다. 법원은 범행을 반복하고 절도 전과가 있는 점 등을 고려하여 형법 제329조에 따라 절도죄를 인정하고 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "335",
+        "labelwordCnt": "31"
+    }
+}

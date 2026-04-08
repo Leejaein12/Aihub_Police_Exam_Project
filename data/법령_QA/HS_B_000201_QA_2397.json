@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000201",
+        "promulgDate": "20190115",
+        "effectDate": "20190115",
+        "promulgNum": "16246",
+        "title": "사회복지공동모금회법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "분과실행위원회의 위원 수와 구성에 대해 설명해 주시겠습니까?",
+        "output": "사회복지공동모금회법 제13조 제3항에 따르면 분과실행위원회는 위원장 1명을 포함하여 20명 이내의 위원으로 구성되며, 다만 모금분과실행위원회 및 배분분과실행위원회는 각각 20명 이상의 위원으로 구성합니다.",
+        "originwordCnt": "106",
+        "labelwordCnt": "21"
+    }
+}

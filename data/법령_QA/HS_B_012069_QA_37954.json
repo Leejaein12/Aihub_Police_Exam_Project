@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012069",
+        "promulgDate": "20231024",
+        "effectDate": "20231024",
+        "promulgNum": "19751",
+        "title": "농촌융복합산업 육성 및 지원에 관한 법률",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가와 지방자치단체는 농촌융복합산업의 지속적인 성장을 위해 어떤 시책을 수립해야 하나요?",
+        "output": "농촌융복합산업 육성 및 지원에 관한 법률 제4조 제1항에 따르면, 국가와 지방자치단체는 농촌융복합산업의 지속적인 성장을 위하여 필요한 시책을 수립·시행하여야 합니다.",
+        "originwordCnt": "32",
+        "labelwordCnt": "19"
+    }
+}

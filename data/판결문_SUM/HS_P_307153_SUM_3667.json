@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "307153",
+        "caseName": "공연음란",
+        "caseNum": "2016고단388",
+        "sentenceDate": "2016. 5. 3.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2015년 피고인은 한 편의점에서 19세 여성 종업원이 지켜보는 가운데 바지 지퍼를 내리고 성기를 노출하며 자위행위를 한 혐의로 기소되었습니다. 법원은 피고인의 행위가 피해자에게 성적 수치심과 정신적 충격을 주는 비접촉 성폭력으로, 그 심각성을 고려해 벌금 500만 원을 선고하였습니다.",
+        "originwordCnt": "207",
+        "labelwordCnt": "36"
+    }
+}

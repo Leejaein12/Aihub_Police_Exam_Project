@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000899",
+        "promulgDate": "20230609",
+        "effectDate": "20230710",
+        "promulgNum": "19430",
+        "title": "고등교육법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제23조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "학생이 국내외의 다른 학교에서 학점을 취득한 경우 학점을 인정하는데 필요한 사항은 무엇을 기준으로 정해지나요?",
+        "output": "고등교육법 제23조 제2항에 따르면 학점인정의 기준과 절차 등 제1항제6호에 따라 학점을 인정하는 데 필요한 사항은 대통령령으로 정하는 바에 따라 학칙으로 정합니다.",
+        "originwordCnt": "143",
+        "labelwordCnt": "21"
+    }
+}

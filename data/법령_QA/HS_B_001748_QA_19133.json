@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001748",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "화물자동차 운수사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제46조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사업시행자가 건설계획에 대해 승인을 받아야 하는 경우는 언제인가요?",
+        "output": "화물자동차 운수사업법 제46조의3 제6항에 따르면 사업시행자는 공고 및 열람을 마친 후, 건설계획에 대해 시·도지사 또는 국토교통부장관의 승인을 받아야 합니다.",
+        "originwordCnt": "332",
+        "labelwordCnt": "19"
+    }
+}

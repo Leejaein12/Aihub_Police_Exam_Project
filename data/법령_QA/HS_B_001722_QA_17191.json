@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001722",
+        "promulgDate": "20240102",
+        "effectDate": "20240102",
+        "promulgNum": "19922",
+        "title": "정당법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제48조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "중앙당은 당대표 경선사무 중 투표 및 개표에 관한 사무를 누구에게 위탁할 수 있나요?",
+        "output": "중앙당은 당대표자의 선출을 위한 선거사무 중 투표 및 개표에 관한 사무의 관리를 중앙선거관리위원회에 위탁할 수 있습니다. 이는 정당법 제48조의2 제1항에 명시되어 있습니다.",
+        "originwordCnt": "63",
+        "labelwordCnt": "22"
+    }
+}

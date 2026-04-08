@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328357",
+        "caseName": "사기등",
+        "caseNum": "2023노793",
+        "sentenceDate": "2023.11.16.",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "특정범죄 가중처벌법 위반과 사기, 폭행 등 여러 범행을 저지른 자에게 원심에서 선고된 형이 다소 무겁다고 판단되었습니다. 범행을 인정하고 반성하며 일부와 합의한 점, 공탁한 점, 그리고 실형이나 집행유예 전력이 없고 정신건강 상태가 양호하지 않은 점 등을 고려해, 형사소송법 제364조 제6항에 따라 원심판결을 파기하고 징역 2년으로 형을 정했습니다.",
+        "originwordCnt": "371",
+        "labelwordCnt": "46"
+    }
+}

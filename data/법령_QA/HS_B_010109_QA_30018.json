@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010109",
+        "promulgDate": "20170314",
+        "effectDate": "20170314",
+        "promulgNum": "14583",
+        "title": "범죄피해자 보호법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제32조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "범죄피해 구조금을 받을 권리는 양도가 가능한가요?",
+        "output": "범죄피해자 보호법 제32조에 따라 구조금을 받을 권리는 양도하거나 담보로 제공하거나 압류할 수 없습니다.",
+        "originwordCnt": "12",
+        "labelwordCnt": "13"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336215",
+        "caseName": "공인중개사법위반",
+        "caseNum": "2024고정399",
+        "sentenceDate": "2024.06.13",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "중개보조원으로서 공인중개사 자격이 없음에도 개인 블로그에 상가 매물 정보를 게시하여 중개대상물에 대한 표시·광고를 하였습니다. 법원은 피고인이 범행을 인정하고 반성하며 게시물을 삭제한 점을 참작하여 벌금 70만 원을 선고하고, 벌금 미납 시 노역장 유치를 명하였습니다.",
+        "originwordCnt": "182",
+        "labelwordCnt": "33"
+    }
+}

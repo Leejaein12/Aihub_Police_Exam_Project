@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "99559",
+        "caseName": "압수물가환부청구기각결정에대한재항고",
+        "caseNum": "84모43",
+        "sentenceDate": "1984.07.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "위조문서인 약속어음을 환부하거나 가환부할 수 있나요?",
+        "output": "위조문서인 약속어음은 범죄행위로 인해 생긴 위조문서로서 누구도 소유할 수 없는 물건이므로, 형사소송법 제133조에 따라 환부나 가환부할 수 없습니다. 다만, 형사소송법 제485조에 의해 몰수 선고 후 위조의 표시를 한 뒤에만 환부가 가능합니다.",
+        "originwordCnt": "76",
+        "labelwordCnt": "31"
+    }
+}

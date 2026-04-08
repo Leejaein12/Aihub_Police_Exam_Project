@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000123",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19965",
+        "title": "고용정책 기본법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "고용노동부장관은 국제 노동시장 동향 조사와 대책 마련에 관하여 어떤 협력사업을 할 수 있습니까?",
+        "output": "고용정책 기본법 제14조에 따르면 고용노동부장관은 국제 노동시장의 동향 조사 및 대책 마련, 고용정책 개발 등에 관하여 국제기구, 외국정부 또는 외국기관과 협력사업을 할 수 있습니다.",
+        "originwordCnt": "23",
+        "labelwordCnt": "24"
+    }
+}

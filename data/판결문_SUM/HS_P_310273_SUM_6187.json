@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310273",
+        "caseName": "교통사고처리특례법위반(치상)",
+        "caseNum": "2022고단794",
+        "sentenceDate": "2022.11.10",
+        "courtName": "대전지방법원 천안지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "승합차를 운전하던 피고인은 중앙선을 침범하여 유턴하는 과실로 반대 차로에서 오던 오토바이와 충돌하였습니다. 해당 사고로 오토바이 운전자는 약 10주간의 치료가 필요한 골절 등의 상해를 입었습니다. 법원은 피고인이 초범이며, 피해자가 처벌을 원하지 않는 점을 고려하여 벌금 700만 원을 선고하였습니다.",
+        "originwordCnt": "229",
+        "labelwordCnt": "37"
+    }
+}

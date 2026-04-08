@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010965",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "수산자원관리법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제3조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "바다식목일은 어떤 목적으로 지정되었나요?",
+        "output": "수산자원관리법 제3조의2 제1항에 따르면, 바닷속 생태계의 중요성과 황폐화의 심각성을 국민에게 알리고 범국민적인 관심 속에서 바다숲이 조성될 수 있도록 하기 위하여 매년 5월 10일을 바다식목일로 지정하였습니다.",
+        "originwordCnt": "44",
+        "labelwordCnt": "25"
+    }
+}

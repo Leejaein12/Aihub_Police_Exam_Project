@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "214951",
+        "caseName": "특정범죄가중처벌등에관한법률위반",
+        "caseNum": "68도1324",
+        "sentenceDate": "1968.12.17",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "행위 시와 재판 시 사이에 법령이 여러 차례 변경된 경우, 법원은 어떻게 판단해야 하나요?",
+        "output": "행위 시와 재판 시 사이에 법령이 여러 차례 변경된 경우, 법원은 형법 제1조 제2항에 따라 직권으로 행위시법과 제1, 2심 재판시법의 세 가지 규정 중 가장 형이 경한 법규정을 적용하여 심판해야 합니다.",
+        "originwordCnt": "577",
+        "labelwordCnt": "31"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011537",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19338",
+        "title": "아이돌봄 지원법",
+        "ministry": "여성가족부",
+        "fullText": "N",
+        "smClass": "제24조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "지원대상자의 주민등록 주소지 파악을 위한 정보는 어떻게 이용할 수 있나요?",
+        "output": "아이돌봄 지원법 제24조 제5항에 따르면, 지원대상에 대한 주민등록 주소지 등을 파악하기 위하여 「전자정부법」 제36조제1항에 따라 행정정보를 공동이용할 수 있습니다.",
+        "originwordCnt": "158",
+        "labelwordCnt": "19"
+    }
+}

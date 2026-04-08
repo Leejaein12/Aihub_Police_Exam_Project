@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001791",
+        "promulgDate": "20230613",
+        "effectDate": "20231214",
+        "promulgNum": "19442",
+        "title": "결핵예방법",
+        "ministry": "질병관리청",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사업주 또는 고용주는 전염성결핵으로 정지 또는 금지 명령이 취소된 자를 종전의 업무에 복직시켜야 합니까?",
+        "output": "결핵예방법 제14조 제2항에 명시된 바와 같이, 사업주 또는 고용주는 제1항에 따라 정지 또는 금지 명령이 취소된 자를 종전의 업무에 복직시켜야 합니다.",
+        "originwordCnt": "48",
+        "labelwordCnt": "21"
+    }
+}

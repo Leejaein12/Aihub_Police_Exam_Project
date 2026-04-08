@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "94490",
+        "caseName": "도주",
+        "caseNum": "79도622",
+        "sentenceDate": "1979.08.31",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공소장 변경을 법원이 요구하지 않았다고 해서 법원을 비난할 수 있나요?",
+        "output": "공소장 변경은 검사가 자진해서 해야 하는 것이므로, 법원이 이를 요구하지 않았다고 해서 법원을 비난하는 것은 부당합니다. 공소장 변경에 대한 결정권은 검사에게 있으며, 법원은 그에 대해 의무적으로 요구할 책임이 없습니다. 이 원칙은 형사소송법 제298조에 근거하고 있습니다.",
+        "originwordCnt": "149",
+        "labelwordCnt": "35"
+    }
+}

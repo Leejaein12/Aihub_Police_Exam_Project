@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "234041",
+        "caseName": "학원의설립·운영및과외교습에관한법률위반",
+        "caseNum": "2021노616",
+        "sentenceDate": "2021.11.11",
+        "courtName": "수원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "스터디카페가 학원법상 학원에 해당한다는 원심의 판단에 사실오인이나 법리오해의 잘못이 있다고 볼 수 있나요?",
+        "output": "스터디카페가 학원법상 학원에 해당한다고 본 원심의 판단은 적법하게 채택된 증거에 근거한 사실인정과 법리 판단에 따라 정당하므로, 사실오인이나 법리오해의 잘못이 있다고 볼 수 없습니다.",
+        "originwordCnt": "294",
+        "labelwordCnt": "23"
+    }
+}

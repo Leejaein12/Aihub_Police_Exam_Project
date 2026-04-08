@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000851",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19588",
+        "title": "평생교육법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "평생교육은 정치적 선전 도구로 이용될 수 있나요?",
+        "output": "'평생교육법' 제4조 제3항에 따르면, 평생교육은 정치적 또는 개인적 편견의 선전을 위한 방편으로 이용되어서는 안 됩니다.",
+        "originwordCnt": "44",
+        "labelwordCnt": "15"
+    }
+}

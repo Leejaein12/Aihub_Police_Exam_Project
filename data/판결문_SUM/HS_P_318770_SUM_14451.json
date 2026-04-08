@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318770",
+        "caseName": "절도",
+        "caseNum": "2023고단3948",
+        "sentenceDate": "2023.12.21",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 6월 8일 오후 피고인은 B정당 직원인 피해자 C가 관리하던 정책 현수막을 절취한 혐의로 기소되었습니다. 피고인은 법정에서 자신의 범행을 인정하였으며, 피해자 C의 진술서와 수사보고서가 증거로 제출되었습니다. 법원은 형법 제329조를 적용하여 벌금 50만 원을 선고하였습니다.",
+        "originwordCnt": "119",
+        "labelwordCnt": "34"
+    }
+}

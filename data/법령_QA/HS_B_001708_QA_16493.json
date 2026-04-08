@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001708",
+        "promulgDate": "20210105",
+        "effectDate": "20210105",
+        "promulgNum": "17828",
+        "title": "변호사법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제48조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법무법인은 분사무소를 둘 수 있나요?",
+        "output": "변호사법 제48조 제1항에 따르면 법무법인은 분사무소를 둘 수 있으며, 분사무소의 설치기준에 대하여는 대통령령으로 정합니다.",
+        "originwordCnt": "45",
+        "labelwordCnt": "14"
+    }
+}

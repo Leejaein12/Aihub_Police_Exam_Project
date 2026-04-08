@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "152429",
+        "caseName": "업무상과실치사",
+        "caseNum": "64도719",
+        "sentenceDate": "1965.01.19",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "자동차 운전사의 업무상 주의의무는 특정 상황에만 제한되나요?",
+        "output": "자동차 운전사의 업무상 주의의무는 특정 상황에 국한되지 않으며, 전방 주시, 정차, 속도 조절 등 다양한 상황에서 요구됩니다. 이 의무는 특정 상황뿐만 아니라 모든 운전 상황에서 적용되며, 형법 제268조에 따라 운전사의 주의의무는 예시된 사항 이외에도 존재합니다.",
+        "originwordCnt": "772",
+        "labelwordCnt": "35"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "324703",
+        "caseName": "사기미수",
+        "caseNum": "2021고단464",
+        "sentenceDate": "2022.09.07.",
+        "courtName": "대구지방법원 안동지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A는 피해자 D에 대한 채권이 소멸했음에도 불구하고 조정조서를 이용해 강제집행을 시도하여 사기미수를 범하였고, B는 이를 공모하여 채권추심 관련 소송행위를 해 법을 위반했습니다. C는 B를 보조했으나 범죄에 대해 알지 못한 것으로 판단되어 무죄가 선고되었습니다. A와 B는 각각 징역형에 집행유예와 사회봉사 명령을 받았고, C는 벌금형을 선고받았습니다.",
+        "originwordCnt": "1372",
+        "labelwordCnt": "44"
+    }
+}

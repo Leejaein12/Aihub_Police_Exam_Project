@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제140조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검증을 할 때 어떤 처분을 할 수 있나요?",
+        "output": "형사소송법 제140조에 따르면 검증을 함에는 신체의 검사, 사체의 해부, 분묘의 발굴, 물건의 파괴 기타 필요한 처분을 할 수 있습니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "19"
+    }
+}

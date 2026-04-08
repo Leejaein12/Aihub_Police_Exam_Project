@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313213",
+        "caseName": "절도등",
+        "caseNum": "2024고단243",
+        "sentenceDate": "2024.04.18",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "분실된 체크카드를 습득한 후 반환하지 않고 이를 사용하여 음료를 결제한 사실이 인정되었습니다. 이에 대해 법원은 피고인이 점유이탈물횡령, 컴퓨터등사용사기, 여신전문금융업법 위반의 죄를 저질렀다고 판단하였습니다. 관련 법령에 따라 피고인에게 벌금 50만원을 선고하였습니다.",
+        "originwordCnt": "206",
+        "labelwordCnt": "30"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012523",
+        "promulgDate": "20230816",
+        "effectDate": "20240217",
+        "promulgNum": "19688",
+        "title": "항공사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소형항공운송사업자의 양도ㆍ양수 신고가 수리된 경우, 양수인은 무엇을 승계 합니까?",
+        "output": "항공사업법 제21조 제4항에 의하면 제21조 제1항에 따라 인가를 받거나 신고가 수리된 경우에는 양수인은 양도인인 항공운송사업자의 항공사업법에 따른 지위를 승계합니다.",
+        "originwordCnt": "123",
+        "labelwordCnt": "19"
+    }
+}

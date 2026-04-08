@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312833",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고단159",
+        "sentenceDate": "2024.05.31",
+        "courtName": "대전지방법원 논산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.211%로 차량을 운전하여 도로교통법을 위반하였고, 이전에도 음주운전으로 처벌받은 전력이 있습니다. 피고인은 사기죄로 징역형을 선고받은 경과가 있으며, 누범 기간 중에 다시 음주운전을 저지른 점이 고려되었습니다. 이러한 사정을 종합적으로 판단하여 법원은 피고인에게 징역 1년을 선고하였습니다.",
+        "originwordCnt": "277",
+        "labelwordCnt": "34"
+    }
+}

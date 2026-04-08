@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "95031",
+        "caseName": "야간주거침입절도",
+        "caseNum": "80도485",
+        "sentenceDate": "1980.04.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "외할머니의 친동생은 형법에서 규정한 친족에 포함되나요?",
+        "output": "외할머니의 친동생은 민법 소정의 친족이라 할 수 없으므로 형법 제328조 제2항 소정의 친족에 해당하지 않습니다.",
+        "originwordCnt": "45",
+        "labelwordCnt": "15"
+    }
+}

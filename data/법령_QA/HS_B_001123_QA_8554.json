@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001123",
+        "promulgDate": "20210720",
+        "effectDate": "20220121",
+        "promulgNum": "18299",
+        "title": "보호관찰 등에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제81조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국법무보호복지공단의 직원은 누구에 의해 임면되며, 그 임면 절차는 어떻게 정해지나요?",
+        "output": "한국법무보호복지공단의 직원은 이사장이 임면하며, 그 임면 절차는 정관으로 정하는 바에 따릅니다. 이는 보호관찰 등에 관한 법률 제81조에 명시되어 있습니다.",
+        "originwordCnt": "10",
+        "labelwordCnt": "19"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "94953",
+        "caseName": "관세법위반",
+        "caseNum": "80도86",
+        "sentenceDate": "1980.03.25",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "밀수입된 물건의 장물성은 어떻게 되나요?",
+        "output": "밀수입된 물건이 매수되거나 보관될 당시, 밀수의 본범에 대한 공소시효가 완성되어 국가가 형사권을 발동할 수 없는 상태에 이르면, 관세법 제186조에 따라 해당 물건은 장물성을 상실하게 됩니다.",
+        "originwordCnt": "25",
+        "labelwordCnt": "25"
+    }
+}

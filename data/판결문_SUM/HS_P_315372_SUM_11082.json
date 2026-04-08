@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315372",
+        "caseName": "사기",
+        "caseNum": "2023고정355",
+        "sentenceDate": "2023.09.08",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "주점에서 월급을 받아 이용료를 지급하겠다는 거짓말로 술과 안주, 도우미 서비스를 제공받았습니다. 실제로는 월급을 받을 가능성이 없었음에도 불구하고, 피고인은 총 세 차례에 걸쳐 약 226만 원 상당의 재산상 이익을 취득했습니다. 법원은 피고인의 사기 범행에 대해 형법 제347조 제1항을 적용해 벌금 300만 원을 선고하였습니다.",
+        "originwordCnt": "217",
+        "labelwordCnt": "42"
+    }
+}

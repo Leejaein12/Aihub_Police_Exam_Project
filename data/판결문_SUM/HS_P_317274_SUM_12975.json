@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317274",
+        "caseName": "자동차손해배상보장법위반등",
+        "caseNum": "2024고정61",
+        "sentenceDate": "2024.07.11",
+        "courtName": "춘천지방법원 원주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "과거 세 차례의 음주운전 전력이 있음에도 불구하고, 혈중알코올농도 0.075% 상태에서 약 3km 구간을 운전하여 도로교통법 제148조의2 제1항 제3호 및 제44조 제1항을 위반하였습니다. 법원은 재범 경력과 범행 경위를 고려하여 벌금 1,000만 원을 선고하였습니다.",
+        "originwordCnt": "242",
+        "labelwordCnt": "32"
+    }
+}

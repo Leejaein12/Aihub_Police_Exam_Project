@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "007278",
+        "promulgDate": "20220207",
+        "effectDate": "20220207",
+        "promulgNum": "01022",
+        "title": "보안관찰법 시행규칙",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제22조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보관조서와 보관물목록에는 각각 어떤 항목을 구체적으로 기재하여야 합니까?",
+        "output": "보안관찰법 시행규칙 제22조 제2항에 명시된 바와 같이, 보관조서에는 사안번호ㆍ제출자ㆍ소유자 및 보관경위를, 보관물목록에는 보관물의 순위ㆍ품명ㆍ수량ㆍ특징을 구체적으로 기재하여야 합니다.",
+        "originwordCnt": "42",
+        "labelwordCnt": "17"
+    }
+}

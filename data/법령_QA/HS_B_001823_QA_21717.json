@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "건축물의 주요구조부란 어떤 부분을 의미하나요?",
+        "output": "주요구조부는 내력벽, 기둥, 바닥, 보, 지붕틀 및 주계단을 의미합니다. 다만, 사이 기둥, 최하층 바닥, 작은 보, 차양, 옥외 계단 등 건축물의 구조상 중요하지 않은 부분은 제외된다고 건축법 제2조 제1항 제7호에 명시되어 있습니다.",
+        "originwordCnt": "690",
+        "labelwordCnt": "32"
+    }
+}

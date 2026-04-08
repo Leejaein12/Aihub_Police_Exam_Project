@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000170",
+        "promulgDate": "20210401",
+        "effectDate": "20210401",
+        "promulgNum": "17985",
+        "title": "환경분쟁 조정법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제28조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "알선위원의 임무는 무엇입니까?",
+        "output": "환경분쟁 조정법 제28조에 따르면 알선위원은 당사자 양쪽이 주장하는 요점을 확인하여 사건이 공정하게 해결되도록 노력하여야 합니다.",
+        "originwordCnt": "13",
+        "labelwordCnt": "15"
+    }
+}

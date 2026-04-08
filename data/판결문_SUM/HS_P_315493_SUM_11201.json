@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315493",
+        "caseName": "특수상해",
+        "caseNum": "2023고단4099",
+        "sentenceDate": "2024.01.11",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "동료와 주거지에서 술을 마시던 중 다툼이 발생하여 피고인은 와인병과 식칼을 사용해 피해자에게 심각한 상해를 입혔습니다. 이전에 3차례 형사처벌을 받은 전력이 있음에도 불구하고 재범하였으며, 형법 제258조의2와 제257조에 따라 징역 1년을 선고받았습니다. 또한 압수된 증거물 제1호를 몰수하였습니다.",
+        "originwordCnt": "431",
+        "labelwordCnt": "35"
+    }
+}

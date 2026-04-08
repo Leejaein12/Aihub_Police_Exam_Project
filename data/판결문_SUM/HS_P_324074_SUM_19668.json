@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "324074",
+        "caseName": "사기등",
+        "caseNum": "2023노1522",
+        "sentenceDate": "2023.09.13",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사기 및 관련 범죄 사건에서, 범행의 정도와 피해자에게 미친 영향을 고려하여 피고인의 가담이 심각하지 않다고 판단하였습니다. 피고인이 범행을 인정하고 피해자와 합의한 점을 반영하여 원심 판결이 다소 무겁다고 보고, 피고인 C에게 징역 2년형을 선고하되 집행을 유예하였습니다. 압수된 물품은 몰수되었으며, 항소는 기각되었습니다.",
+        "originwordCnt": "694",
+        "labelwordCnt": "40"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000416",
+        "promulgDate": "20220104",
+        "effectDate": "20220705",
+        "promulgNum": "18690",
+        "title": "비료관리법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제20조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "비료생산업자와 비료수입업자에 대한 등록취소와 영업 정지 등의 처분 기준은 어디에 규정되어 있나요?",
+        "output": "비료관리법 제20조 제3항에 따르면, 비료생산업자와 비료수입업자에 대한 등록취소와 영업 정지 등의 처분에 관한 구체적인 기준은 농림축산식품부령으로 정해집니다.",
+        "originwordCnt": "319",
+        "labelwordCnt": "17"
+    }
+}

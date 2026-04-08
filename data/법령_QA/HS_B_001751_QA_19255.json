@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001751",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "도시철도법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제37조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "도시철도운송사업자의 면허 취소나 사업 정지의 세부기준은 어떻게 정해지나요?",
+        "output": "도시철도법 제37조 제1항에 따른 행정처분의 세부기준은 위반행위의 종류와 위반 정도 등을 고려하여 국토교통부령으로 정합니다. 이는 도시철도법 제37조 제2항에 근거합니다.",
+        "originwordCnt": "181",
+        "labelwordCnt": "19"
+    }
+}

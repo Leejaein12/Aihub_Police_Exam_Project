@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "329227",
+        "caseName": "사기등",
+        "caseNum": "2023노423",
+        "sentenceDate": "2023.08.22.",
+        "courtName": "서울북부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "검사가 당심에서 이 사건 각 공소사실 중 범행 일시와 피해자를 아래 ‘다시 쓰는 판결 이유’ 기재와 같이 각 일부 변경하는 내용의 공소장변경허가신청을 하였고 이 법원이 이를 허가함으로써 그 심판대상이 변경되었으므로 원심판결은 더 이상 유지될 수 없어 원심판결을 파기하고 징역 2년을 선고하였습니다.",
+        "originwordCnt": "411",
+        "labelwordCnt": "41"
+    }
+}

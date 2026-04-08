@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "182819",
+        "caseName": "사기·특수절도",
+        "caseNum": "2015노1180",
+        "sentenceDate": "2015.10.16",
+        "courtName": "인천지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "사기범행과 동시에 이루어진 특수절도범행이 불가벌적 사후행위에 해당하나요?",
+        "output": "특수절도범행은 사기범행과 기본적인 사실관계 및 침해된 법익이 다르므로 불가벌적 사후행위에 해당하지 않으며, 별개의 범죄로 인정됩니다.",
+        "originwordCnt": "555",
+        "labelwordCnt": "15"
+    }
+}

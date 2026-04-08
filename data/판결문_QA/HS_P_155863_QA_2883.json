@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155863",
+        "caseName": "폭발물에의한살인미수",
+        "caseNum": "69도832",
+        "sentenceDate": "1969.07.08",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형법 제119조에 따른 폭발물 사용죄가 성립하기 위해 필요한 고의는 무엇인가요?",
+        "output": "형법 제119조에 따른 폭발물 사용죄가 성립하기 위해서는 폭발물을 사용하여 사람의 신체를 해할 의도와 같은 고의가 있어야 합니다. 이러한 고의가 없다면 폭발물 사용죄로 처벌할 수 없습니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "25"
+    }
+}

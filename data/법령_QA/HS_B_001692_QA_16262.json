@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001692",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19582",
+        "title": "형법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제169조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "형법에 따르면, 화재 발생 시 진화용 시설을 은닉하여 진화를 방해한 경우 어떤 처벌을 받나요?",
+        "output": "화재에 있어서 진화용의 시설 또는 물건을 은닉 또는 손괴하거나 기타 방법으로 진화를 방해한 자는 10년 이하의 징역에 처합니다. 이는 형법 제169조에 명시되어 있습니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "23"
+    }
+}

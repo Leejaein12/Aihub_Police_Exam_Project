@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317217",
+        "caseName": "사기",
+        "caseNum": "2024고정403",
+        "sentenceDate": "2024.08.13",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "여러 음식점에서 결제가 되지 않는 카드를 이용하여 마치 정상적으로 결제할 것처럼 속이고, 피해자들에게 음식 값을 지불할 것처럼 유도한 후 음식을 제공받아 재산상 이득을 취하였습니다. 이에 따라 각 사기죄가 인정되었으며, 법원은 피고인의 이전 기소유예 전력 및 피해자들과의 합의가 이루어지지 않은 점 등을 고려하여 벌금 30만 원을 선고하였습니다.",
+        "originwordCnt": "339",
+        "labelwordCnt": "46"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001377",
+        "promulgDate": "20170726",
+        "effectDate": "20170726",
+        "promulgNum": "14839",
+        "title": "대통령 등의 경호에 관한 법률",
+        "ministry": "대통령경호처",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "경호처 직원의 징계는 어떤 절차를 거쳐 이루어지나요?",
+        "output": "대통령 등의 경호에 관한 법률 제12조 제3항에 따르면 경호처 직원의 징계는 징계위원회의 의결을 거쳐 처장이 하며, 5급 이상 직원의 파면 및 해임은 고등징계위원회의 의결을 거쳐 처장의 제청으로 대통령이 합니다.",
+        "originwordCnt": "60",
+        "labelwordCnt": "29"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "214185",
+        "caseName": "관세법위반",
+        "caseNum": "77도1280",
+        "sentenceDate": "1978.02.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법률 개정으로 인해 형이 변경된 경우에도 반드시 신법이 적용되나요?",
+        "output": "형법 제1조 제2항에 따르면, 법률이념의 변경에 따라 처벌 자체가 부당하거나 과중한 처벌이 부과되었던 것을 반성적으로 고려하여 법령이 개정된 경우에는 신법이 적용됩니다. 그러나 경제적 사정에 따른 법령 개폐와 같은 경우에는 행위시의 법령이 적용됩니다.",
+        "originwordCnt": "48",
+        "labelwordCnt": "32"
+    }
+}

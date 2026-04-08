@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009997",
+        "promulgDate": "20210518",
+        "effectDate": "20220519",
+        "promulgNum": "18191",
+        "title": "불법정치자금 등의 몰수에 관한 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제26조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "몰수보전명령의 등본은 누구에게 송달되어야 하나요?",
+        "output": "몰수보전명령의 등본은 부동산의 소유자에게 송달되어야 하며, 소유자와 명의인이 다른 경우에는 명의인에게도 송달되어야 합니다. 이는 불법정치자금 등의 몰수에 관한 특례법 제26조 제2항에 근거합니다.",
+        "originwordCnt": "116",
+        "labelwordCnt": "22"
+    }
+}

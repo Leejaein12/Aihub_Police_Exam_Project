@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001135",
+        "promulgDate": "20160106",
+        "effectDate": "20160106",
+        "promulgNum": "13718",
+        "title": "폭력행위 등 처벌에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "폭력행위 등 처벌에 관한 법률에서 우범자로 간주될 수 있는 행위에는 어떤 것이 있나요?",
+        "output": "폭력행위 등 처벌에 관한 법률 제7조에 따르면, 정당한 이유 없이 이 법에 규정된 범죄에 공용될 우려가 있는 흉기나 그 밖의 위험한 물건을 휴대하는 행위는 우범자로 간주됩니다.",
+        "originwordCnt": "29",
+        "labelwordCnt": "26"
+    }
+}

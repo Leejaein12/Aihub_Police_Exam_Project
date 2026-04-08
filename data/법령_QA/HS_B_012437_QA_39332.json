@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012437",
+        "promulgDate": "20201222",
+        "effectDate": "20210623",
+        "promulgNum": "17683",
+        "title": "방위산업기술 보호법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제11조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "12 방위사업청장 또는 정보수사기관의 장은 조사의 결과를 언제까지 통지해야 하나요?",
+        "output": "12 제11조의2 제12항에 따르면, 방위사업청장 또는 정보수사기관의 장은 조사의 결과를 확정한 날부터 7일 이내에 그 결과를 조사대상자에게 통지하여야 합니다.",
+        "originwordCnt": "510",
+        "labelwordCnt": "19"
+    }
+}

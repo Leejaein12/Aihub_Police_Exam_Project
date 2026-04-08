@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336970",
+        "caseName": "특수협박",
+        "caseNum": "2024고정81",
+        "sentenceDate": "2024.05.23",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자신의 차량으로 운전 중 다른 차량이 끼어들었다는 이유로 급제동과 지그재그 운전을 하며 차량의 진로를 방해하고, 위험한 물건인 자동차를 이용해  협박한 혐의로 기소되었습니다. 법원은 이러한 행위가 형법 제284조, 제283조 제1항에 해당하는 특수협박죄에 해당한다고 판단하고, 벌금 300만 원을 선고하였습니다.",
+        "originwordCnt": "166",
+        "labelwordCnt": "38"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제39조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "건축물의 멸실 후 멸실신고를 한 경우에 등기촉탁이 필요한지요?",
+        "output": "건축물의 멸실 후 멸실신고를 한 경우 등기촉탁이 필요합니다. 근거는 건축법 제39조 제1항 제4호입니다.",
+        "originwordCnt": "92",
+        "labelwordCnt": "13"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311460",
+        "caseName": "협박",
+        "caseNum": "2023고정839",
+        "sentenceDate": "2023.09.22",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "이웃 주민인 피해자가 층간소음을 유발한다고 생각한 피고인은 피해자의 주거지 앞에서 현관문을 치며 불 지르겠다 등의 협박성 발언을 하였습니다. 피해자는 이러한 행위로 생명과 신체에 위협을 느꼈습니다. 법원은 피고인의 범행 내용과 피해 정도, 그리고 피고인의 건강 상태를 참작하여 형법 제283조 제1항에 따라 벌금 70만 원을 선고하였습니다.",
+        "originwordCnt": "172",
+        "labelwordCnt": "44"
+    }
+}

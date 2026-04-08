@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "213977",
+        "caseName": "업무상과실치사",
+        "caseNum": "77도523",
+        "sentenceDate": "1977.06.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "버스 운전자는 승차자가 차의 진행 중에 문을 열고 하차할 것을 예상하여 주의를 살필 의무가 있나요?",
+        "output": "버스 운전자는 승차자가 차의 진행 중에 문을 열고 하차하리라고 예상하여 주의 깊게 살펴야 할 주의의무가 없으며, 갑작스러운 하차를 예상하지 못하고 차를 운행한 것에 대해 과실이 있다고도 할 수 없어 무죄를 선고한 원심은 정당하여 상고를 기각하였습니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "35"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "97401",
+        "caseName": "폭력행위등처벌에관한법률위반",
+        "caseNum": "82도1363",
+        "sentenceDate": "1983.03.08",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "주지 취임을 위한 경내 난입행위가 주거침입죄로 인정된 이유는 무엇인가요?",
+        "output": "전임 주지 측이 사실상 점유하고 있는 사찰 경내에, 잠겨진 뒷문을 넘어 들어가거나 철조망을 제거하고 난입한 행위는 주거침입죄에 해당한다고 판단되었습니다. 이는 형법 제319조에 따른 것입니다.",
+        "originwordCnt": "468",
+        "labelwordCnt": "24"
+    }
+}

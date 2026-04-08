@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "74173",
+        "caseName": "보건범죄단속에관한특별조치법위반·조세범처벌법위반피고사건",
+        "caseNum": "76노889",
+        "sentenceDate": "1976.10.15",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "징역형과 벌금형을 병과해야 할 경우, 징역형만 작량감경하고 벌금형은 감경하지 않는 것이 적법한가요?",
+        "output": "징역형과 벌금형을 병과해야 할 경우, 형법 제53조에 따라 징역형만 작량감경하고 벌금형을 감경하지 않는 것은 위법하므로, 두 형 모두에 대해 작량감경을 적용해야 합니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "22"
+    }
+}

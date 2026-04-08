@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86748",
+        "caseName": "상습야간주거침입,절도",
+        "caseNum": "4294형상111",
+        "sentenceDate": "1961.05.10",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "상습적으로 야간에 주거침입 절도를 저지른 경우, 범행 횟수와 상관없이 죄가 성립하나요?",
+        "output": "형법 제332조 및 형법 제330조에 따르면, 상습적인 야간 주거침입 절도의 경우 범행이 단 1회라도 상습야간 주거침입 절도죄가 성립하며, 여러 차례 반복된 경우에도 포괄적 일죄로 인정됩니다.",
+        "originwordCnt": "20",
+        "labelwordCnt": "25"
+    }
+}

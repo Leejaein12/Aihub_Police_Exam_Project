@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337261",
+        "caseName": "공무집행방해",
+        "caseNum": "2024고단199",
+        "sentenceDate": "2024.06.27",
+        "courtName": "의정부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "경찰관들이 112 신고사건을 처리 중이던 상황에서 공무집행을 방해한 피고인은, 형법 제136조 제1항에 따라 공무집행방해죄로 처벌받게 되었습니다. 경찰관을 폭행하며 직무집행을 방해하였으나, 초범이며 범행을 인정하고 반성하는 점 등을 참작하여 벌금 400만 원이 선고되었습니다.",
+        "originwordCnt": "243",
+        "labelwordCnt": "31"
+    }
+}

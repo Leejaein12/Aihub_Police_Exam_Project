@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011358",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19590",
+        "title": "공익신고자 보호법",
+        "ministry": "국민권익위원회",
+        "fullText": "N",
+        "smClass": "제30조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공익신고자등에게 불이익조치를 한 자는 어떠한 처벌을 받나요?",
+        "output": "공익신고자 보호법 제30조 제2항 제1호에 따르면 제15조제1항을 위반하여 공익신고자등에게 제2조제6호가목에 해당하는 불이익조치를 한 자는 3년 이하의 징역 또는 3천만원 이하의 벌금에 처해집니다.",
+        "originwordCnt": "125",
+        "labelwordCnt": "22"
+    }
+}

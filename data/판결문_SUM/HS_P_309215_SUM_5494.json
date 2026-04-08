@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "309215",
+        "caseName": "교통사고처리특례법위반",
+        "caseNum": "2015고단452",
+        "sentenceDate": "2015. 6. 19.",
+        "courtName": "제주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "교통사고처리특례법을 위반한 사건에서 제한속도를 초과한 과실로 사고가 발생하였습니다. 사고로 인해 여러 명이 부상을 당하고 한 명이 사망하는 중대한 결과가 발생하였습니다. 범죄 사실은 인정되며 반성이 있지만, 피해의 정도와 사고의 중대성을 고려할 때 실형이 불가피하다고 판단되어 금고 1년 8개월을 처하였습니다.",
+        "originwordCnt": "388",
+        "labelwordCnt": "38"
+    }
+}

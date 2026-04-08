@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314733",
+        "caseName": "공무집행방해등",
+        "caseNum": "2023노1129",
+        "sentenceDate": "2023.07.21",
+        "courtName": "창원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "재물손괴와 공무집행방해 혐의로 기소되었으며, 원심에서 징역 6월을 선고 받았으나 피고인은 형이 너무 무겁다고 주장하였습니다. 이에 검사는 형이 가볍다고 항소하였으나, 법원은 피해자들과 합의하고 공탁한 점, 범행을 인정한 점 등을 고려해 항소를 받아들여 원심을 파기하고 징역 4월을 선고하였습니다.",
+        "originwordCnt": "380",
+        "labelwordCnt": "36"
+    }
+}

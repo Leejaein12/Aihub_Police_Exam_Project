@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010458",
+        "promulgDate": "20170726",
+        "effectDate": "20170726",
+        "promulgNum": "14839",
+        "title": "국민의 형사재판 참여에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제34조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국민참여재판의 배심원이 2인 이상 부족한 경우 법원은 어떤 절차를 밟아야 하나요?",
+        "output": "국민의 형사재판 참여에 관한 법률 제34조 제2항 제2호에 따르면, 배심원이 2인 이상 부족한 경우에는 검사, 피고인 또는 변호인의 동의를 받아야 합니다.",
+        "originwordCnt": "91",
+        "labelwordCnt": "21"
+    }
+}

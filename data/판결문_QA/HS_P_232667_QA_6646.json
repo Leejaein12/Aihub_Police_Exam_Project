@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "232667",
+        "caseName": "사기",
+        "caseNum": "2021노1841",
+        "sentenceDate": "2022.06.23",
+        "courtName": "서울동부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "원심판결에서 몰수된 압수품 중 일부가 파기된 이유는 무엇인가요?",
+        "output": "주문에 따라 원심판결 중 압수된 증 제5 내지 8호에 대한 몰수 부분이 파기되었습니다. 나머지 피고인들의 항소는 기각되었으며, 이에 따라 원심의 다른 부분은 그대로 유지됩니다.",
+        "originwordCnt": "3679",
+        "labelwordCnt": "24"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "236445",
+        "caseName": "특정경제범죄가중처벌등에관한법률위반(사기)·의료법위반",
+        "caseNum": "2015고합81",
+        "sentenceDate": "2016.07.15",
+        "courtName": "대구지방법원경주지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "의료법인의 운영과 관련한 중요사항이 어떻게 결정되었는지 궁금합니다.",
+        "output": "이 사건에서 의료법인의 운영과 관련한 중요사항은 실질적으로 이사회에서 결정된 것이 아니라 피고인이 단독으로 결정하고, 이사회는 형식적으로 승인하는 방식으로 운영된 것으로 보입니다",
+        "originwordCnt": "2706",
+        "labelwordCnt": "21"
+    }
+}

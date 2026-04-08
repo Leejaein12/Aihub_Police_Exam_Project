@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "91418",
+        "caseName": "관세법위반(예비적청구,무면허수입죄)",
+        "caseNum": "71도1394",
+        "sentenceDate": "1971.09.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "관세법 위반 사건에서 벌금형을 선고할 때 작량감경은 할 수 없지만 선고유예는 가능한가요?",
+        "output": "관세법 위반 사건에서 벌금형을 선고할 경우, 작량감경은 할 수 없으나 형법 제59조에 따라 선고유예는 가능합니다. 이는 법률상 선고유예가 가능하다는 취지로, 피고인의 범죄 경중과 재범의 위험성을 고려하여 판단됩니다.",
+        "originwordCnt": "79",
+        "labelwordCnt": "27"
+    }
+}

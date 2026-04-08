@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010420",
+        "promulgDate": "20210727",
+        "effectDate": "20230128",
+        "promulgNum": "18334",
+        "title": "장애인차별금지 및 권리구제 등에 관한 법률",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "차별 여부를 판단할 때 어떤 점을 고려해야 하나요?",
+        "output": "장애인차별금지 및 권리구제 등에 관한 법률 제5조 제2항에 따르면, 차별 여부를 판단할 때는 장애인 당사자의 성별, 장애의 유형 및 정도, 특성 등을 충분히 고려해야 합니다.",
+        "originwordCnt": "38",
+        "labelwordCnt": "25"
+    }
+}

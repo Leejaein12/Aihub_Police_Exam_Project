@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335787",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023노1043",
+        "sentenceDate": "2023.09.08",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주운전으로 혈중알코올농도 0.074% 상태에서 약 2㎞를 운전한 점, 폭력범죄 및 음주운전으로 벌금형 3회와 징역형 집행유예 1회 처벌받은 전력이 있는 점 등을 고려할 때 원심의 형은 가볍다고 판단되었습니다. 이에 따라 원심판결을 파기하고 벌금 300만 원을 선고하였습니다.",
+        "originwordCnt": "235",
+        "labelwordCnt": "35"
+    }
+}

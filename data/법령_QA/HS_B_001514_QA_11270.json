@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001514",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19746",
+        "title": "농약관리법",
+        "ministry": "농림축산식품부,농촌진흥청",
+        "fullText": "N",
+        "smClass": "제26조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "이의신청 심사 결과를 통지받은 후 행정심판을 청구할 수 있는 기간은 얼마인가요?",
+        "output": "농약관리법 제26조 제4항에 따르면 농촌진흥청장은 심사 결과를 알릴 때, 신청인이 그 결과를 받은 날부터 90일 이내에 행정심판을 청구할 수 있다는 뜻을 부기하여야 합니다.",
+        "originwordCnt": "129",
+        "labelwordCnt": "23"
+    }
+}

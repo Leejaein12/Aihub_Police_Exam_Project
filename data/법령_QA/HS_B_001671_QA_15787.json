@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제267조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "매일 계속 개정하지 못하는 경우 재판장은 어떻게 해야 하나요?",
+        "output": "형사소송법 제267조의2제4항에 따르면 재판장은 부득이한 사정으로 매일 계속 개정하지 못하는 경우에도 특별한 사정이 없는 한 전회의 공판기일부터 14일 이내로 다음 공판기일을 지정하여야 합니다.",
+        "originwordCnt": "61",
+        "labelwordCnt": "23"
+    }
+}

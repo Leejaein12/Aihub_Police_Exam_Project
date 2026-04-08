@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310290",
+        "caseName": "폭행",
+        "caseNum": "2024고정73",
+        "sentenceDate": "2024.07.25",
+        "courtName": "대전지방법원 천안지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "아파트 입주민인 피고인은 관리소장인 피해자와 주차관리 문제로 말다툼을 벌이다가, 피해자의 턱을 휴대전화로 2회 때려 폭행하였습니다. 법원은 피고인의 범행 경위와 방법, 처벌 전력 등을 고려하여 형법 제260조 제1항에 따라 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "152",
+        "labelwordCnt": "32"
+    }
+}

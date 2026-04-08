@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86139",
+        "caseName": "업무상횡령배임",
+        "caseNum": "4288형상192",
+        "sentenceDate": "1955.08.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "사실 오인이나 법령 적용의 착오가 있더라도 상고이유가 되지 않는 경우는 언제인가요?",
+        "output": "사실 오인이나 법령 적용의 착오가 있더라도 그로 인해 판결의 결론에 영향을 미치지 않을 경우에는 상고이유가 되지 않습니다. 이는 형사소송법 제838조에 따라 상고가 기각될 수 있는 근거가 됩니다.",
+        "originwordCnt": "25",
+        "labelwordCnt": "27"
+    }
+}

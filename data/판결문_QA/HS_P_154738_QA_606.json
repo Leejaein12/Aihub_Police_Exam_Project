@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "154738",
+        "caseName": "반공법위반",
+        "caseNum": "72도227",
+        "sentenceDate": "1972.03.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "재북가족과 단순한 안부에 관한 서신을 교환하는 행위가 법적으로 문제가 되나요?",
+        "output": "재북가족과 단순한 안부에 관한 서신을 교환하는 행위는 특별한 사정이 없는 한 반국가단체를 이롭게 한 것으로 볼 수 없어, 반공법 제4조 제1항에 위반되지 않습니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "23"
+    }
+}

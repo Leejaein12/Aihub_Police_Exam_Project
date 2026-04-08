@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "99115",
+        "caseName": "살인ㆍ강간ㆍ강간미수ㆍ절도",
+        "caseNum": "84도331",
+        "sentenceDate": "1984.04.10",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "브래지어로 목을 조른 행위가 살인의 범의를 인정할 수 있는 근거가 될 수 있나요?",
+        "output": "브래지어로 목을 졸랐다면, 그로 인해 사망에 이를 가능성이 충분히 예상되므로 살인의 범의가 있었다고 인정됩니다. 이는 형법 제250조에 의거하여 판단됩니다.",
+        "originwordCnt": "17",
+        "labelwordCnt": "19"
+    }
+}

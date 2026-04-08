@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312614",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단4360",
+        "sentenceDate": "2024.03.06",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중 알코올 농도 0.138%의 상태에서 차량을 운전하여 도로교통법을 위반하였습니다. 이전에 음주운전으로 세 차례 처벌받은 전력이 있으며, 재범 가능성에 대한 우려가 커졌습니다. 이에 따라 법원은 피고인에게 징역 1년의 형을 선고하되, 2년간 집행을 유예하고 보호관찰 및 80시간의 사회봉사를 명령하였습니다.",
+        "originwordCnt": "276",
+        "labelwordCnt": "37"
+    }
+}

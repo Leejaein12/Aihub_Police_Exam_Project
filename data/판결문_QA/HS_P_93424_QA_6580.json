@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93424",
+        "caseName": "사기",
+        "caseNum": "73도3220",
+        "sentenceDate": "1977.06.07",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "사기죄에서 기망의 의사가 없다고 판단된 사례가 있나요?",
+        "output": "형법 제347조에 따르면, 사기죄가 성립하기 위해서는 기망의 의사가 반드시 필요합니다. 이 판례에서는 피고인이 사기죄로 기소되었지만, 기망의 의사가 인정되지 않아 사기죄 성립 요건을 충족하지 못한다고 판단하였습니다.",
+        "originwordCnt": "11",
+        "labelwordCnt": "25"
+    }
+}

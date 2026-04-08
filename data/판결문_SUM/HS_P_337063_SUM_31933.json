@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337063",
+        "caseName": "상해",
+        "caseNum": "2024고단256",
+        "sentenceDate": "2024.05.16",
+        "courtName": "수원지방법원 안양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "화장실 청소 문제로 말다툼을 하던 중, 주먹과 발로 팔과 허벅지를 때려 상해를 입혔습니다. 법원은 형법 제257조 제1항을 적용하여 벌금 200만 원을 선고하였으며, 피해자의 상해가 비교적 경미하고, 피해자의 폭행이 먼저 있었던 점을 참작하였습니다. 또한 피고인의 나이, 성행, 범행 경위 등을 종합적으로 고려하여 양형이 결정되었습니다.",
+        "originwordCnt": "209",
+        "labelwordCnt": "43"
+    }
+}

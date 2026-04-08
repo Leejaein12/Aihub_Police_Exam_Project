@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "128028",
+        "caseName": "뇌물공여·제3자뇌물교부·조세범처벌법위반·사기",
+        "caseNum": "2006노59",
+        "sentenceDate": "2006.09.06",
+        "courtName": "창원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인들의 형량이 너무 무겁다고 주장한 이유는 무엇인가요?",
+        "output": "피고인들은 형량이 너무 무겁다고 주장하였으며, 법원은 피해자에게 실질적인 손해가 발생하지 않았고 피고인 1이 이미 11개월 이상 구금된 점을 고려하여, 원심의 형이 무겁다고 인정하여 이를 감경하였습니다.",
+        "originwordCnt": "1567",
+        "labelwordCnt": "25"
+    }
+}

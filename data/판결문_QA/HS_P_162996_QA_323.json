@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "162996",
+        "caseName": "강간상해·강도상해·상해·부착명령",
+        "caseNum": "2010고합324",
+        "sentenceDate": "2011.07.22",
+        "courtName": "의정부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인에게 전자발찌 부착명령을 기각한 이유는 무엇인가요?",
+        "output": "법원은 피고인이 과거 소년보호처분을 받은 전력이 있지만, 이는 성폭력범죄에 대한 엄격한 유죄 판결로 확정된 것이 아니므로, 특정 범죄자에 대한 위치추적 전자장치 부착 요건에 해당하지 않는다고 판단하여 부착명령청구를 기각했습니다.",
+        "originwordCnt": "2551",
+        "labelwordCnt": "28"
+    }
+}

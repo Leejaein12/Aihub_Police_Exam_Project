@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337260",
+        "caseName": "모욕",
+        "caseNum": "2024고단174",
+        "sentenceDate": "2024.04.26",
+        "courtName": "의정부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "식당에서 경찰관에게 모욕적인 발언을 하여 형법 제311조의 모욕죄에 해당하는 행위를 한 피고인은, 과거 여러 차례 형사 처벌을 받은 전력이 있고 누범 기간 중 범행을 저지른 점 등이 불리한 정상으로 고려되었습니다. 반면, 범행을 인정하고 반성하는 점 등 유리한 정상을 참작하여 벌금 100만 원을 선고받았습니다.",
+        "originwordCnt": "238",
+        "labelwordCnt": "43"
+    }
+}

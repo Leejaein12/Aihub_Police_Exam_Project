@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001133",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19743",
+        "title": "특정강력범죄의 처벌에 관한 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "재판장이 특정강력범죄사건의 공판기일을 지정할 때 어떤 기준을 따라야 하나요?",
+        "output": "재판장은 특별한 사정이 없는 한, 직전 공판기일부터 7일 이내로 다음 공판기일을 지정해야 합니다. 이는 특정강력범죄의 처벌에 관한 특례법 제10조 제2항에 따라 규정된 사항입니다.",
+        "originwordCnt": "45",
+        "labelwordCnt": "23"
+    }
+}

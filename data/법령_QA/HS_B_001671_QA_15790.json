@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제269조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "제1회 공판기일의 유예기간을 두지 않을 수 있나요?",
+        "output": "형사소송법 제269조제2항에 따르면 피고인이 이의없는 때에는 제269조제1항의 유예기간을 두지 아니할 수 있습니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "12"
+    }
+}

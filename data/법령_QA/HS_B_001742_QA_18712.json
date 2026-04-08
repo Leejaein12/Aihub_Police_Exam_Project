@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001742",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19134",
+        "title": "선박안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제23조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "컨테이너 형식승인증서의 유효기간이 만료될 때 어떤 조치를 해야 하나요?",
+        "output": "선박안전법 제23조 제6항에 따르면, 유효기간이 만료된 후에도 형식승인을 계속 유지하려는 자는 유효기간 만료일 3개월 전부터 15일 전까지 해양수산부장관에게 컨테이너 형식승인증서의 갱신을 신청하여야 합니다.",
+        "originwordCnt": "288",
+        "labelwordCnt": "23"
+    }
+}

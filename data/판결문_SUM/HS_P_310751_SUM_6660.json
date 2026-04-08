@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310751",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고정453",
+        "sentenceDate": "2024.07.22",
+        "courtName": "수원지방법원 안산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2022년 10월 24일, 안산시에서 혈중알코올농도 0.080%의 상태로 약 500m 구간을 운전한 사실이 확인되었습니다. 도로교통법 제148조의2 제3항 제2호 및 제44조 제1항에 따라 벌금형에 처해졌습니다. 또한, 형사소송법 제334조 제1항에 근거하여 가납명령이 내려졌습니다.",
+        "originwordCnt": "111",
+        "labelwordCnt": "30"
+    }
+}

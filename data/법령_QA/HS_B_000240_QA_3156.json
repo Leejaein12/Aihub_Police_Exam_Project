@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000240",
+        "promulgDate": "20211207",
+        "effectDate": "20220608",
+        "promulgNum": "18552",
+        "title": "골재채취법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제45조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "골재채취업자에게 한 처분과 그 밖의 행위가 그 승계인에게도 효력이 있습니까?",
+        "output": "골재채취법 제45조 제1항에 명시된 바와 같이, 이 법 또는 이 법에 따른 명령에 따라 골재채취업자에게 한 처분과 그 밖의 행위는 그 승계인에게도 효력이 있습니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "24"
+    }
+}

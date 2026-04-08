@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001662",
+        "promulgDate": "20201020",
+        "effectDate": "20210421",
+        "promulgNum": "17505",
+        "title": "소년법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제70조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소년법에 근거하여, 소년 보호사건과 관련된 기관이 재판, 수사, 군사상 필요한 경우 외의 조회에 응하면 어떤 처벌을 받나요?",
+        "output": "소년법 제70조 제2항에 따르면, 소년 보호사건과 관련된 기관이 재판, 수사, 군사상 필요한 경우 외의 조회에 응하면 1년 이하의 징역 또는 1천만원 이하의 벌금에 처해질 수 있습니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "26"
+    }
+}

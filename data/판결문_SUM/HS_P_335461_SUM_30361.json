@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335461",
+        "caseName": "사기",
+        "caseNum": "2021고단1437",
+        "sentenceDate": "2023.07.19",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "허위의 사실을 적시하여 명예를 훼손한 혐의로 기소되었습니다. 법원은 피고인이 사실을 확인하지 않은 잘못은 있지만, 피고인이 적시한 내용이 허위임을 인식하고 있었다고 보기 어렵다고 판단하였습니다. 따라서 피고인은 사실적시에 의한 명예훼손에 대해 유죄로 인정되었고, 벌금 50만 원에 처해졌습니다.",
+        "originwordCnt": "396",
+        "labelwordCnt": "35"
+    }
+}

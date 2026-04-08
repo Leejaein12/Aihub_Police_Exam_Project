@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005698",
+        "promulgDate": "20240125",
+        "effectDate": "20240131",
+        "promulgNum": "03125",
+        "title": "가정보호심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "가정법원의 배상명령에 대한 청구이의의 소는 어디에 제기해야 하나요?",
+        "output": "가정법원이 한 배상명령에 대한 청구이의의 소는 해당 가정법원의 소재지를 관할하는 지방법원에 제기하여야 합니다. 이는 가정보호심판규칙 제2조 제5항에 명시되어 있습니다.",
+        "originwordCnt": "181",
+        "labelwordCnt": "19"
+    }
+}

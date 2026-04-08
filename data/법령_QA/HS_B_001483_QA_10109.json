@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001483",
+        "promulgDate": "20220111",
+        "effectDate": "20230112",
+        "promulgNum": "18755",
+        "title": "어선법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제26조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "하역설비의 제한하중 등의 확인 기준, 절차 및 확인 사항의 표시에 관한 사항은 어떻게 정해지나요?",
+        "output": "어선법 제26조의2 제1항에 따른 하역설비의 제한하중등의 확인 기준, 절차 및 확인 사항의 표시 등에 관한 사항은 해양수산부령으로 정합니다. 이는 어선법 제26조의2 제4항에 근거합니다.",
+        "originwordCnt": "89",
+        "labelwordCnt": "23"
+    }
+}

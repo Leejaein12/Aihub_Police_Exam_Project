@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "320033",
+        "caseName": "폭행등",
+        "caseNum": "2023고정111",
+        "sentenceDate": "2023.09.21",
+        "courtName": "수원지방법원 여주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "폭행 및 특수협박 사건에서 외도를 했다는 생각에 격분하여, 상대방의 머리와 어깨를 플라스틱 바구니로 여러 차례 때려 폭행하였습니다. 또한, 위험한 식칼을 들고 죽여버린다고 협박한 사실이 확인되었습니다. 법원은 범행을 인정하고 반성하는 태도가 감경 사유로 작용하여, 벌금을 처하였습니다.",
+        "originwordCnt": "261",
+        "labelwordCnt": "35"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "156580",
+        "caseName": "수뢰",
+        "caseNum": "67도422",
+        "sentenceDate": "1967.05.02",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "재판장의 서명을 참여서기가 대신한 공판조서는 무효인가요?",
+        "output": "재판장의 서명을 참여서기가 대신하였다 하더라도, 군법회의법 제87조에 의하면 공판조서가 당연무효가 되는 것은 아닙니다. 참여한 서기가 서명을 전부 대신한 경우에도 공판조서의 효력은 유지됩니다.",
+        "originwordCnt": "304",
+        "labelwordCnt": "22"
+    }
+}

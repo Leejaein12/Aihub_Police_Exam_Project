@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "152611",
+        "caseName": "상습절도",
+        "caseNum": "66도105",
+        "sentenceDate": "1966.02.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 절도죄를 범한 후 친족관계에 해당한다는 진술이 있었을 때, 법원은 어떤 절차를 거쳐야 하나요?",
+        "output": "피고인이 절도죄를 범한 후 형법 제328조에 따른 친족관계에 해당한다는 진술이 있을 경우, 법원은 그 친족관계의 존부를 반드시 심리하여 확인해야 하며, 이를 소홀히 하고 유죄를 인정하는 것은 위법입니다.",
+        "originwordCnt": "62",
+        "labelwordCnt": "27"
+    }
+}

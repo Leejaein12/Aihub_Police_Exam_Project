@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "316336",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고정838",
+        "sentenceDate": "2023.09.22",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "노래연습장을 운영하는 사업자는 해당 법률에 따라 노래연습장에서 주류 판매가 금지되어 있습니다. 그럼에도 불구하고, 2023년 7월 16일, 이 사업자는 손님에게 캔맥주 6캔을 판매한 사실이 확인되었습니다. 판결은 범죄 전력과 범행의 동기 등을 종합적으로 고려하였습니다. 이에 따라 해당 법률 위반으로 벌금을 부과하였습니다.",
+        "originwordCnt": "218",
+        "labelwordCnt": "39"
+    }
+}

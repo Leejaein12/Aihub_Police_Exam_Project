@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311302",
+        "caseName": "건조물침입등",
+        "caseNum": "2023도13804",
+        "sentenceDate": "2024.05.30",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "건조물침입, 재물은닉, 문서은닉 혐의에 관한 상고심에서, 대법원은 원심 판결이 적법하게 이루어졌다고 판단하였습니다. 검찰 측 상고에 대해 원심은 공소사실 중 일부 무죄 판단에 논리와 경험의 법칙을 위반하지 않았고, 법리 오해도 없었다고 보았습니다. 이에 따라 상고를 모두 기각하였습니다.",
+        "originwordCnt": "191",
+        "labelwordCnt": "36"
+    }
+}

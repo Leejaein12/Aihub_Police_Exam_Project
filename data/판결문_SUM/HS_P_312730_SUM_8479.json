@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312730",
+        "caseName": "조세범처벌법위반",
+        "caseNum": "2023고정377",
+        "sentenceDate": "2023.11.23",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "기능성 침구류 제조업체를 운영하며, 부가가치세법에 위반하여 거짓 세금계산서를 발급한 혐의로 기소되었습니다. 피고인은 실거래와 다르게 공급가액을 과다 기재한 세금계산서를 발급하였으며, 총 11회에 걸쳐 허위 세금계산서를 발급하거나 수취하였습니다. 이에 따라 법원은 피고인에게 벌금 30,000,000원을 선고하였습니다.",
+        "originwordCnt": "260",
+        "labelwordCnt": "33"
+    }
+}

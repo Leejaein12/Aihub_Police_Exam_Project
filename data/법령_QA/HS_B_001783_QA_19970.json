@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001783",
+        "promulgDate": "20230418",
+        "effectDate": "20240419",
+        "promulgNum": "19359",
+        "title": "약사법",
+        "ministry": "보건복지부,식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보건복지부장관이 약사 또는 한약사의 신고를 반려할 수 있는 경우는 언제인가요?",
+        "output": "약사법 제7조 제2항에 따르면, 보건복지부장관은 제15조 제1항에 따라 연수교육을 명한 경우 해당 연수교육을 이수하지 아니한 약사 또는 한약사의 신고를 반려할 수 있습니다.",
+        "originwordCnt": "69",
+        "labelwordCnt": "22"
+    }
+}

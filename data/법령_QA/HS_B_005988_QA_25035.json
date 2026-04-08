@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005988",
+        "promulgDate": "20211231",
+        "effectDate": "20220101",
+        "promulgNum": "03016",
+        "title": "형사소송규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제63조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "압수수색영장의 집행에 관한 서류와 압수한 물건은 어디에 제출해야 하나요?",
+        "output": "형사소송규칙 제63조에 따르면 압수수색영장의 집행에 관한 서류와 압수한 물건은 압수수색영장을 발부한 법원에 이를 제출하여야 합니다. 다만, 검사의 지휘에 의하여 집행된 경우에는 검사를 경유하여야 합니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "24"
+    }
+}

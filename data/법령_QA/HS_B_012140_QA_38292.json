@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012140",
+        "promulgDate": "20240125",
+        "effectDate": "20240131",
+        "promulgNum": "03126",
+        "title": "아동보호심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "아동보호심판규칙에 의해 유치집행 또는 위탁집행이 되지않은 기간은 집행기간에 포함하나요?",
+        "output": "아동보호심판규칙 제8조 제3항에 따르면 아동학대범죄의 처벌 등에 관한 특례법 및 이 아동보호심판규칙에 의하여 유치집행 또는 위탁집행이 되지 아니한 기간은 집행기간에 산입하지 않습니다.",
+        "originwordCnt": "67",
+        "labelwordCnt": "22"
+    }
+}

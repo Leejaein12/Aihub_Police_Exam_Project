@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002012",
+        "promulgDate": "20210323",
+        "effectDate": "20210323",
+        "promulgNum": "17954",
+        "title": "한국교육학술정보원법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "한국교육학술정보원의 설립등기사항에는 어떤 항목들이 포함되나요?",
+        "output": "'한국교육학술정보원법' 제4조제2항에 따르면, 설립등기사항은 다음 각 호의 항목을 포함합니다.  1. 목적  2. 명칭  3. 주된 사무소  4. 임원의 성명 및 주소  5. 공고의 방법",
+        "originwordCnt": "44",
+        "labelwordCnt": "34"
+    }
+}

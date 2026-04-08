@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335667",
+        "caseName": "도박장소개설",
+        "caseNum": "2024고정36",
+        "sentenceDate": "2024.04.18",
+        "courtName": "대구지방법원 김천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "게임장을 운영하며, 손님들이 인터넷 도박사이트에 접속해 도박을 할 수 있도록 한 혐의로 기소되었습니다. 피고인은 영리 목적으로 도박 장소를 개설하였으며, 수수료를 지급받았습니다. 법원은 피고인에게 500만 원의 벌금을 부과하고 압수된 증거품에 대해서도 몰수를 명령하였습니다.",
+        "originwordCnt": "183",
+        "labelwordCnt": "32"
+    }
+}

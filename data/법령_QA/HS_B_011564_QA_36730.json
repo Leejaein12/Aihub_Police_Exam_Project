@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011564",
+        "promulgDate": "20201229",
+        "effectDate": "20211230",
+        "promulgNum": "17799",
+        "title": "방송광고판매대행 등에 관한 법률",
+        "ministry": "방송통신위원회",
+        "fullText": "N",
+        "smClass": "제31조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "공사는 매 회계연도 결산 결과 이익이 생긴 경우 어떤 순서대로 처리해야 합니까?",
+        "output": "1. 이월손실금의 보전2. 자본금의 2분의 1에 달할 때까지 이익금의 10분의 1 이상을 이익준비금에 적립3. 국고에의 납입4. 제2호에 따른 이익준비금 외의 준비금으로 적립",
+        "originwordCnt": "55",
+        "labelwordCnt": "25"
+    }
+}

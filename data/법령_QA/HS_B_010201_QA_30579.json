@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010201",
+        "promulgDate": "20240611",
+        "effectDate": "20240611",
+        "promulgNum": "34560",
+        "title": "범죄피해자 보호법 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제30조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "관할이 불명확한 사건에 대해서는 누가 관할 구조피해자 지구심의회를 지정합니까?",
+        "output": "관할이 불명확한 사건에 대해서는 범죄피해자 보호법 시행령 제30조 제2항에 따라 법무부장관이 신청인이나 지구심의회의 청구에 의하여 또는 직권으로 그 사건을 관할할 지구심의회를 지정합니다.",
+        "originwordCnt": "102",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334419",
+        "caseName": "업무상횡령",
+        "caseNum": "2022고단1348",
+        "sentenceDate": "2023.02.07",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A는 게임장을 운영한 B의 종업원으로 근무하며, 손님들이 게임을 통해 얻은 점수를 환전해주는 행위에 가담하였습니다. 이는 게임산업진흥에 관한 법률에 의해 금지된 행위로, 피고인은 B 및 E와 공모하여 점수를 현금으로 환전해주는 방식으로 범행을 저질렀습니다. 법원은 피고인이 범행을 자백하고 반성하고 있으며, 초범인 점 등을 고려하여 벌금 700만 원을 선고하였습니다.",
+        "originwordCnt": "330",
+        "labelwordCnt": "46"
+    }
+}

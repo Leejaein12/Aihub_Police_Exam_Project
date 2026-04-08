@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "215103",
+        "caseName": "업무상과실치사",
+        "caseNum": "68도1661",
+        "sentenceDate": "1969.01.21",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "운전사가 운행 중에 발생한 사고에서 과실이 없다고 인정된 이유는 무엇인가요?",
+        "output": "운전사가 시속 20킬로미터로 운전하던 중 피해자가 트럭에 뛰어오르려다가 실족하여 사고가 발생했으며, 운전사는 이를 사전에 인지할 수 없었기 때문에 과실이 없다고 인정되었습니다.",
+        "originwordCnt": "42",
+        "labelwordCnt": "21"
+    }
+}

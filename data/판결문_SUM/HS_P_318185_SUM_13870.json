@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318185",
+        "caseName": "도로교통법위반(음주운전)등",
+        "caseNum": "2024고단696",
+        "sentenceDate": "2024.06.25",
+        "courtName": "대구지방법원 포항지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.203% 상태에서 의무보험에 가입되지 않은 봉고Ⅲ 화물차를 약 1km 운전하여 도로교통법과 자동차손해배상보장법을 위반하였습니다. 법원은 음주운전으로 인한 사고 위험성과 의무보험 미가입 상태에서의 운전이 중대한 법 위반이라고 판단하여 피고인에게 벌금 1,200만 원을 선고하였습니다.",
+        "originwordCnt": "181",
+        "labelwordCnt": "32"
+    }
+}

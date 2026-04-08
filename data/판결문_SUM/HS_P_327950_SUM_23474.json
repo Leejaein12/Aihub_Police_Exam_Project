@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "327950",
+        "caseName": "사기등",
+        "caseNum": "2022노3465",
+        "sentenceDate": "2023.03.31.",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심은 피고인들이 범죄단체활동으로 받은 보수를 범죄수익으로 보고 추징 판결을 내렸고, 법원은 이를 인정하였습니다. 피고인 A는 피해자와 일부 합의하고 반성의 태도를 보인 점을 고려해 원심 형량이 유지되었습니다. 피고인 B은 피해 일부를 공탁하고 반성하였으나 원심 형량이 과중하다고 판단되어 징역 2년 4개월과 3,000만 원 추징으로 감형되었습니다.",
+        "originwordCnt": "778",
+        "labelwordCnt": "43"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335981",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2022노1382",
+        "sentenceDate": "2024.04.05",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주운전으로 벌금형을 받은 전력이 있음에도 불구하고 이후 다시 음주운전을 하여 물적사고를 일으켰으며, 당시 혈중알코올농도는 면허 취소 수준에 해당하는 높은 수치였습니다. 피고인은 원심의 형이 무겁다고 주장하였으나, 항소심은 원심의 양형이 재량의 합리적인 범위를 벗어나지 않았다고 보고 피고인의 항소를 기각하였습니다.",
+        "originwordCnt": "231",
+        "labelwordCnt": "37"
+    }
+}

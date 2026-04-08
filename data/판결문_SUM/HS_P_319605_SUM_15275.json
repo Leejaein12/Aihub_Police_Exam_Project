@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319605",
+        "caseName": "폭행",
+        "caseNum": "2023고정402",
+        "sentenceDate": "2024.05.09",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.137%의 만취 상태로 약 1km 구간을 운전한 혐의로 기소되었습니다. 법원은 피고인이 음주운전을 인정한 점, 반성하는 태도를 보인 점, 동종 전과가 없고 피해가 발생하지 않은 점 등을 고려하여 벌금형을 선고하였습니다. 법원은 도로교통법에 따라 음주운전 혐의로 벌금 500만 원을 선고하였습니다.",
+        "originwordCnt": "178",
+        "labelwordCnt": "39"
+    }
+}

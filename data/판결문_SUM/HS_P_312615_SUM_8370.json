@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312615",
+        "caseName": "공무집행방해",
+        "caseNum": "2023고단4440",
+        "sentenceDate": "2024.01.23",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주운전 의심 신고를 받고 출동한 경찰관에게 욕설을 하며 손바닥으로 목과 가슴 부위를 밀치는 등 폭행하여 공무집행을 방해하였습니다. 피고인은 범죄사실을 인정하고 반성하는 태도를 보였으며, 동종 범죄 전력이 없는 점이 고려되었습니다. 이에 따라 법원은 피고인에게 벌금 5,000,000원을 선고하였습니다.",
+        "originwordCnt": "221",
+        "labelwordCnt": "36"
+    }
+}

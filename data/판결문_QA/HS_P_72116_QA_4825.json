@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72116",
+        "caseName": "폭행치사피고사건",
+        "caseNum": "66노45",
+        "sentenceDate": "1966.06.17",
+        "courtName": "광주고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "반의사불벌죄에서 피해자란 누구를 의미하나요?",
+        "output": "반의사불벌죄에서 피해자는 범죄로 인해 법익을 침해당한 직접적인 피해자를 의미합니다. 이는 형법 제260조에서 규정된 바와 같이, 피해자의 명시한 의사에 반하여 논할 수 없는 범죄에서 해당 피해자를 지칭합니다.",
+        "originwordCnt": "30",
+        "labelwordCnt": "26"
+    }
+}

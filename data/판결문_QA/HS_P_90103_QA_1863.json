@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "90103",
+        "caseName": "강도살인,시체유기",
+        "caseNum": "69도1235",
+        "sentenceDate": "1969.09.23",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "검증조서 작성 시 일부만 발췌하여 작성한 경우, 그 증거능력은 어떻게 되나요?",
+        "output": "검증조서 작성 시 피의자 신문조서나 증인신문조서 중 일부만 발췌하여 작성한 경우, 해당 검증조서는 서증의 일체성 원칙을 위반한 것으로 간주되며, 형사소송법 제383조에 의해 적법한 증거능력이 인정되지 않습니다.",
+        "originwordCnt": "215",
+        "labelwordCnt": "26"
+    }
+}

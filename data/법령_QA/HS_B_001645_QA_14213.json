@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001645",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19329",
+        "title": "새마을금고법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제28조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "새마을금고는 여신거래와 관련하여 어떤 행위를 하지 않아야 합니까?",
+        "output": "새마을금고는 여신거래와 관련하여 차용인의 의사에 반하여 예탁금, 적금 등 금고가 취급하는 상품의 가입 또는 매입을 강요하는 행위를 하여서는 안 됩니다. 이는 새마을금고법 제28조의2 제1항 제1호에 명시되어 있습니다.",
+        "originwordCnt": "55",
+        "labelwordCnt": "27"
+    }
+}

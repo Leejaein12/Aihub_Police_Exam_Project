@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312459",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단275",
+        "sentenceDate": "2024.01.09",
+        "courtName": "전주지방법원 남원지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 9월 혈중알코올농도 0.103% 상태로 약 1km 구간을 음주운전한 혐의로 기소되었습니다. 법원은 피고인이 동종범죄로 처벌받은 전력이 있으며, 혈중알코올농도 수치가 낮지 않은 점을 고려하여 징역 1년 2개월을 선고하였으나, 형법 제62조 제1항에 따라 2년간 집행을 유예하였습니다.",
+        "originwordCnt": "214",
+        "labelwordCnt": "34"
+    }
+}

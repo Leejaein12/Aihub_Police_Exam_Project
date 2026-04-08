@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312865",
+        "caseName": "근로기준법위반",
+        "caseNum": "2023고단1090",
+        "sentenceDate": "2024.01.23",
+        "courtName": "대전지방법원 천안지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "건설업을 경영하며 근로자들에게 법정 지급 기한인 14일 이내에 임금을 지급하지 않아 근로기준법을 위반하였습니다. 이러한 사실은 법정 진술 및 기타 증거에 의해 충분히 입증되었으며, 피고인의 임금 미지급 고의도 인정되었습니다. 따라서 법원은 피고인에게 벌금 5,000,000원을 선고하였습니다.",
+        "originwordCnt": "447",
+        "labelwordCnt": "34"
+    }
+}

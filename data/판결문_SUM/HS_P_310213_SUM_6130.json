@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310213",
+        "caseName": "상해",
+        "caseNum": "2023고정1523",
+        "sentenceDate": "2024.07.18",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "거래 업체와 관련된 문제로 화가 난 피고인은 피해자의 턱과 가슴을 밀쳐 상해를 입힌 혐의로 기소되었습니다. 법원은 피고인의 범죄사실을 인정하고 형법 제257조 제1항에 따라 벌금 200만 원을 선고하였습니다. 벌금을 납입하지 않을 경우 노역장에 유치하도록 명령하였고, 벌금에 상당한 금액의 가납도 명령하였습니다.",
+        "originwordCnt": "185",
+        "labelwordCnt": "39"
+    }
+}

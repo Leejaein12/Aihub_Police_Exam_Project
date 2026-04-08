@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000994",
+        "promulgDate": "20221115",
+        "effectDate": "20230516",
+        "promulgNum": "19028",
+        "title": "온천법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "온천공보호구역 지정 시 누구의 의견을 들어야 합니까?",
+        "output": "시장ㆍ군수는 온천공보호구역을 지정ㆍ변경하거나 해제할 때에는 행정안전부령으로 정하는 바에 따라 미리 주민의 의견을 들어야 하고 지정ㆍ변경ㆍ해제에 관한 사실을 고시하여야 합니다. 이는 온천법 제5조 제6항에서 규정하고 있습니다.",
+        "originwordCnt": "216",
+        "labelwordCnt": "25"
+    }
+}

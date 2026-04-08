@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "92179",
+        "caseName": "폭력행위등처벌에관한법률위반",
+        "caseNum": "73도2578",
+        "sentenceDate": "1974.05.14",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법률상 의무 없는 진술서를 협박하여 작성하게 한 행위는 형법상 어떤 죄를 구성하나요?",
+        "output": "법률상 의무 없는 진술서를 협박으로 작성하게 한 행위는 형법 제324조에 따라 폭력에 의한 권리행사방해죄에 해당합니다. 이는 사람의 자유를 침해하는 행위로서, 피해자의 자유권 행사를 방해한 것으로 보아 처벌하게 됩니다.",
+        "originwordCnt": "38",
+        "labelwordCnt": "28"
+    }
+}

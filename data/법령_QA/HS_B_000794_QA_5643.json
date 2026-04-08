@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000794",
+        "promulgDate": "20230406",
+        "effectDate": "20230406",
+        "promulgNum": "19326",
+        "title": "방송법",
+        "ministry": "과학기술정보통신부,방송통신위원회",
+        "fullText": "N",
+        "smClass": "제47조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "이사의 결원이 발생할 경우 보궐이사는 언제 임명되며, 임기는 어떻게 됩니까?",
+        "output": "방송법 제47조 제2항에 따르면, 이사의 결원이 발생한 경우 결원된 날부터 30일 이내에 제46조에 따라 보궐이사를 임명해야 하며, 보궐이사의 임기는 전임자의 남은 임기 동안 유지됩니다.",
+        "originwordCnt": "40",
+        "labelwordCnt": "24"
+    }
+}

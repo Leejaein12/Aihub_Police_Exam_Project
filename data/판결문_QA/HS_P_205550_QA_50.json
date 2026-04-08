@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "205550",
+        "caseName": "모욕",
+        "caseNum": "2015고정740",
+        "sentenceDate": "2016.07.22",
+        "courtName": "대전지방법원천안지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "사측이 게시물을 철거하려 하자 노동조합 간부가 한 발언이 모욕죄에 해당할 수 있나요?",
+        "output": "피고인이 사측의 게시물 철거에 항의하며 한 발언이 비록 무례하거나 불쾌할 수 있으나, 피해자의 인격적 가치에 대한 사회적 평가를 저하시킬 만한 모욕적 언사가 아니라면 모욕죄가 성립하지 않습니다.",
+        "originwordCnt": "1175",
+        "labelwordCnt": "26"
+    }
+}

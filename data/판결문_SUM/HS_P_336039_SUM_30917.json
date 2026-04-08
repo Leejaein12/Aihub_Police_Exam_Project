@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336039",
+        "caseName": "경범죄처벌법위반",
+        "caseNum": "2023고정772",
+        "sentenceDate": "2023.09.04",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "112 치안종합상황실에 반복적인 전화 신고를 하였으며, 경찰관이나 경찰서에 불만을 표하거나 말을 하지 않고 전화를 끊었습니다. 이러한 행위로 피고인은 공무 수행 중인 경찰공무원의 업무를 방해하였습니다. 경범죄 처벌법 제3조 제2항 제3호에 따라 법원은 피고인에게 벌금 200,000원을 선고하였습니다.",
+        "originwordCnt": "183",
+        "labelwordCnt": "35"
+    }
+}

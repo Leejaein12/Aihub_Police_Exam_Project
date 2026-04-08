@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311101",
+        "caseName": "횡령",
+        "caseNum": "2023고정55",
+        "sentenceDate": "2023.07.12",
+        "courtName": "광주지방법원 순천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "동업 약정을 통해 공동 운영하던 선박에서 발생한 선원 사망사고 수습비용과 위판 판매대금 명목으로 피해자들로부터 받은 자금을 보관하던 중, 자금을 임의로 사용하여 횡령한 혐의로 기소되었습니다. 법원은 피고인이 범행을 시인하고 반성하며, 피해자들과 일부 합의한 점 등을 고려하여 벌금 300만 원을 선고하였습니다.",
+        "originwordCnt": "311",
+        "labelwordCnt": "39"
+    }
+}

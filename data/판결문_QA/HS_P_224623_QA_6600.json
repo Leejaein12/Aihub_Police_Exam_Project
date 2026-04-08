@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "224623",
+        "caseName": "노동조합및노동관계조정법위반",
+        "caseNum": "2016노1613",
+        "sentenceDate": "2017.09.01",
+        "courtName": "서울남부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "항소가 모두 기각된 이유는 무엇인가요?",
+        "output": "서울남부지방법원은 피고인들이 제기한 항소를 모두 기각하였습니다. 이는 원심판결에서 법리적 오류나 중대한 하자가 없다고 판단하여 원심의 판단을 유지하는 것이 적절하다고 보았기 때문입니다.",
+        "originwordCnt": "345",
+        "labelwordCnt": "21"
+    }
+}

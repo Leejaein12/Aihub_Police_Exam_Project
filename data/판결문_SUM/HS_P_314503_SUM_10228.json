@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314503",
+        "caseName": "개인정보보호법위반등",
+        "caseNum": "2023고합610",
+        "sentenceDate": "2023.10.12",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자신의 업소에 설치된 CCTV의 녹음 기능을 사용하여 15세 미성년자와 종업원 간의 대화를 몰래 녹음한 혐의로 기소되었습니다. 법원은 개인정보 보호법과 통신비밀 보호법을 위반한 것으로 판단하고, 징역 6개월 및 자격정지 1년의 형을 선고했습니다. 집행유예 1년이 부여된 이 판결은 피고인이 피해자의 사생활을 침해한 점을 고려하여 내린 것입니다.",
+        "originwordCnt": "732",
+        "labelwordCnt": "44"
+    }
+}

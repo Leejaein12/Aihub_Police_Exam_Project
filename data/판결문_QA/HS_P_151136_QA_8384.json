@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "151136",
+        "caseName": "비항상고",
+        "caseNum": "63오1",
+        "sentenceDate": "1963.04.04",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "만 20세 미만의 소년에게 정기형을 선고하는 것이 법령 위반에 해당하는지 궁금합니다.",
+        "output": "판결 선고 당시 만 20세 미만인 소년에게 정기형을 선고하는 것은 법령에 위반한 것으로 간주됩니다. 소년에 대해서는 소년법 제54조에 따라 부정기형을 선고해야 하며, 따라서 소년에게 정기형을 선고하는 것은 소년법 적용을 누락한 위법으로 비상상고 대상이 됩니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "34"
+    }
+}

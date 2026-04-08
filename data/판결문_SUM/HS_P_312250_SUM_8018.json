@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312250",
+        "caseName": "재물손괴등",
+        "caseNum": "2023고정314",
+        "sentenceDate": "2024.01.10",
+        "courtName": "광주지방법원 순천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "과거에 택시 요금을 지불하지 않은 사건으로 피해자와 감정이 좋지 않은 상태에서 피해자가 배정받은 택시의 사이드미러와 운전석 문을 발로 여러 차례 때려 약 170만 원 상당의 손괴를 입혔습니다. 또한, 피해자의 배를 발로 1회 때리며 폭행하였습니다. 법원은 피고인의 전과와 폭력 범죄 전력을 고려하여 피고인에게 벌금 400만 원을 선고하였습니다.",
+        "originwordCnt": "334",
+        "labelwordCnt": "46"
+    }
+}

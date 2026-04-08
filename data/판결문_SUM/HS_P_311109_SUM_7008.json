@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311109",
+        "caseName": "사기",
+        "caseNum": "2022고단5112",
+        "sentenceDate": "2024.01.24",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "부모님의 병원비와 대출 상환을 이유로 거짓말을 하여 금전을 편취한 혐의로 재판을 받았습니다. 피고인은 일정한 수입과 재산이 없었음에도 불구하고 피해자를 속여 돈을 받아냈습니다. 법원은 피고인의 사기 행위를 유죄로 판단하였고, 피고인이 범행을 인정하고 일부 피해금을 변제한 점을 참작하여 피고인에게 징역 5개월의 실형을 선고하였습니다.",
+        "originwordCnt": "581",
+        "labelwordCnt": "41"
+    }
+}

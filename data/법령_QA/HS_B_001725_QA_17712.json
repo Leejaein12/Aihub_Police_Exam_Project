@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제60조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에서 세대주명단의 교부신청은 언제까지 해야 합니까?",
+        "output": "공직선거법 제60조의3 제4항에 따르면, 세대주명단의 교부신청은 후보자등록기간개시일 전 5일까지 서면으로 신청하여야 하며, 그 작성비용을 함께 납부하여야 합니다.",
+        "originwordCnt": "344",
+        "labelwordCnt": "17"
+    }
+}

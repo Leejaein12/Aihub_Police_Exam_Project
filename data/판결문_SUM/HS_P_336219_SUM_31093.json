@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336219",
+        "caseName": "스토킹범죄의처벌등에관한법률위반",
+        "caseNum": "2024노1347",
+        "sentenceDate": "2024.06.27",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "농약병을 들고 피해자를 찾아가 음독을 시도하는 등 위협적인 행동을 한 죄질이 좋지 않고, 여러 양형 조건을 종합적으로 고려할 때, 원심에서 선고한 징역 8월에 집행유예 2년의 형이 재량의 합리적 범위를 벗어난 것으로 보이지 않았습니다. 이에 따라 법원은 피고인의 항소를 기각하였습니다.",
+        "originwordCnt": "170",
+        "labelwordCnt": "39"
+    }
+}

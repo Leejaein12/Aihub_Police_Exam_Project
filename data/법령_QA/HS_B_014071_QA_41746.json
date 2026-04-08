@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014071",
+        "promulgDate": "20221213",
+        "effectDate": "20230101",
+        "promulgNum": "19070",
+        "title": "인신매매등방지 및 피해자보호 등에 관한 법률",
+        "ministry": "여성가족부",
+        "fullText": "N",
+        "smClass": "제35조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "인신매매 피해자 지원시설은 피해자의 의사를 어떻게 존중해야 하나요?",
+        "output": "인신매매등방지 및 피해자보호 등에 관한 법률 제35조에 따르면, 지원시설의 장은 피해자가 밝힌 의사에 반하여 제34조에 따른 업무를 수행하여서는 안 됩니다.",
+        "originwordCnt": "15",
+        "labelwordCnt": "20"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "74804",
+        "caseName": "공문서변조동행사등피고사건",
+        "caseNum": "78노953",
+        "sentenceDate": "1980.12.04",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공문서의 사본을 변조한 것이 공문서변조죄에 해당하나요?",
+        "output": "공문서 원본을 전자복사기로 복사한 사본은 형법 제225조의 공문서에 해당하지 않으므로, 그 사본을 변조하였다고 하여도 공문서변조죄가 성립하지 않습니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "17"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "151133",
+        "caseName": "특정범죄처벌에관한임시특례법위반",
+        "caseNum": "63도67",
+        "sentenceDate": "1963.04.11",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "구 국방경비법에 따라 군법회의 판결이 언제 확정되나요?",
+        "output": "구 국방경비법 제101조에 따르면, 군법회의 판결은 담당관의 승인을 받은 즉시 확정됩니다. 따라서 피고인에 대한 판결은 제3군단 군단장이 1961년 12월 1일 승인한 시점에 확정된 것으로 간주됩니다.",
+        "originwordCnt": "158",
+        "labelwordCnt": "25"
+    }
+}

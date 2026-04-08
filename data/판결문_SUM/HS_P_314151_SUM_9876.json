@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314151",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고단52",
+        "sentenceDate": "2024.05.09",
+        "courtName": "청주지방법원 영동지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "운전 중 주의 의무를 소홀히 하여 교차로에서 우회전하다가 다른 차량과 충돌해 손해를 입혔으며, 의무보험 미가입 상태에서 차량을 운행한 점이 문제가 되었습니다. 과거에도 같은 사유로 처벌받은 전력이 있는 점이 불리하게 작용했으나, 범행을 인정하고 상대방 과실이 일부 인정된 점이 참작되었습니다. 이에 벌금을 부과하였습니다.",
+        "originwordCnt": "221",
+        "labelwordCnt": "41"
+    }
+}

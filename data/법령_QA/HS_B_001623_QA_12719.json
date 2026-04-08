@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "군사법원이 제1심으로 심판하는 사건은 무엇입니까?",
+        "output": "군사법원법 제11조에 따라 군사법원은 다음 각 호의 사건을 제1심으로 심판합니다.1. 제2조 또는 제3조에 따라 군사법원이 재판권을 가지는 사건2. 그 밖에 다른 법률에 따라 군사법원의 권한에 속하는 사건",
+        "originwordCnt": "29",
+        "labelwordCnt": "29"
+    }
+}

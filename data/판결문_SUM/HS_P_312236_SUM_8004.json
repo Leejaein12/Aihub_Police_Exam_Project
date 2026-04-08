@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312236",
+        "caseName": "도로교통법위반(음주운전)등",
+        "caseNum": "2023고단1910",
+        "sentenceDate": "2024.07.18",
+        "courtName": "광주지방법원 순천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "이전에 음주측정거부로 유죄판결을 받은 후 혈중알코올농도 0.139% 상태에서 무면허로 자동차를 운전하였습니다. 이는 도로교통법을 위반한 것으로, 피고인은 과거 음주운전으로 여러 차례 처벌받은 전력이 있습니다. 법원은 음주운전 사실을 유죄로 판단하였습니다. 피고인은 징역 1년 6개월의 형을 선고받았습니다.",
+        "originwordCnt": "1377",
+        "labelwordCnt": "34"
+    }
+}

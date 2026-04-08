@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009595",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19763",
+        "title": "공공주택 특별법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제35조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "주택건설사업계획의 승인에 대해 필요한 사항은 어떻게 정해지나요?",
+        "output": "공공주택 특별법 제35조 제7항 규정에 따르면 제1항 또는 제2항에 따른 사업계획의 승인에 대하여 신청 절차 및 구비서류 고시의 방법 등 그 밖에 필요한 사항은 대통령령으로 정합니다.",
+        "originwordCnt": "689",
+        "labelwordCnt": "26"
+    }
+}

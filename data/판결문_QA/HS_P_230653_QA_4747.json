@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "230653",
+        "caseName": "공무상표시무효",
+        "caseNum": "2007노307",
+        "sentenceDate": "2007.06.21",
+        "courtName": "의정부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "법원이 가처분 결정을 무시하고 온천수를 사용한 행위에 대해 무거운 형을 선고한 이유는 무엇인가요?",
+        "output": "법원이 가처분 결정을 무시하고 계속 온천수를 사용하여 경제적 이득을 얻은 점, 피고인의 전과와 성행 등을 고려하여 형이 선고되었으며, 형이 무겁지 않다고 판단된 이유는 이러한 법원의 결정을 무시한 행위의 중대성에 있습니다.",
+        "originwordCnt": "1191",
+        "labelwordCnt": "30"
+    }
+}

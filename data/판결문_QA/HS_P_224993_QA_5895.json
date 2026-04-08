@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "224993",
+        "caseName": "폐기물관리법위반",
+        "caseNum": "2018노2252",
+        "sentenceDate": "2019.01.09",
+        "courtName": "광주지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "원심에서 피고인의 행위를 유죄로 판단한 근거는 무엇인가요?",
+        "output": "원심은 폐기물관리법 제25조 제9항 제1호와 관련하여, 피고인이 허가받지 않은 특정 보관시설에 폐기물을 보관했다고 판단하여 유죄를 선고하였습니다. 그러나 항소심에서는 피고인이 적정한 보관시설에 폐기물을 보관하였다는 점을 들어 무죄 판결을 내렸습니다.",
+        "originwordCnt": "960",
+        "labelwordCnt": "28"
+    }
+}

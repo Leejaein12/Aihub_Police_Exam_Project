@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000912",
+        "promulgDate": "20200204",
+        "effectDate": "20200204",
+        "promulgNum": "16927",
+        "title": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국방부장관은 감염병 환자에 대해 어떤 조치를 해야 하나요?",
+        "output": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 제16조 제2항에 따르면, 보고를 받은 국방부장관은 지체 없이 감염병의 예방 및 관리에 관한 법률 에서 정하는 바에 따라 필요한 조치를 하여야 합니다.",
+        "originwordCnt": "79",
+        "labelwordCnt": "30"
+    }
+}

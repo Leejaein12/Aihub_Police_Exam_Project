@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001270",
+        "promulgDate": "20220111",
+        "effectDate": "20230112",
+        "promulgNum": "18755",
+        "title": "법률구조법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제35조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법무부장관은 법률구조법인에 대해 어떤 권한을 가지고 있나요?",
+        "output": "법률구조법 제35조제1항에 따르면 법무부장관은 법률구조법인을 지도ㆍ감독하며 필요하다고 인정하면 법률구조법인에 그 사업에 관한 지시나 명령을 할 수 있습니다. 다만, 법률구조사업의 구체적 사건에 대하여는 그러하지 아니합니다.",
+        "originwordCnt": "64",
+        "labelwordCnt": "24"
+    }
+}

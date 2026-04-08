@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011181",
+        "promulgDate": "20210608",
+        "effectDate": "20220101",
+        "promulgNum": "18221",
+        "title": "장애인연금법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "장애인연금 수급희망자나 수급권자의 금융정보 등을 제공하거나 취득한 자는 이 정보를 어떻게 처리해야 합니까?",
+        "output": "금융정보 등을 제공하거나 취득한 자는 해당 정보를 법에서 정한 목적 외의 다른 용도로 사용하거나 제공, 누설하여서는 안 됩니다. 이는 장애인연금법 제12조 제6항에 따른 것입니다.",
+        "originwordCnt": "260",
+        "labelwordCnt": "24"
+    }
+}

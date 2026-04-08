@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335398",
+        "caseName": "명예훼손",
+        "caseNum": "2024고정33",
+        "sentenceDate": "2024.03.21",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "금전 문제로 다툰 후, 현관문에 피해자의 명예를 훼손하는 내용을 볼펜으로 적어 사실을 공연히 적시하였습니다. 법원은 피고인이 고령으로 치매를 앓고 있으며 범죄 전력이 없고 범행 후 반성하는 태도를 보인 점 등을 참작하여 벌금 100만 원의 형을 선고유예하였습니다.",
+        "originwordCnt": "160",
+        "labelwordCnt": "36"
+    }
+}

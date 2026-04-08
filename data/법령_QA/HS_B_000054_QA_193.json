@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000054",
+        "promulgDate": "20231229",
+        "effectDate": "20240630",
+        "promulgNum": "19867",
+        "title": "도선법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "도선법 중 선장에 관한 규정은 누구에게 적용되나요?",
+        "output": "도선법 중 선장에 관한 규정은 선장의 직무를 대행하는 사람에게도 적용됩니다. 이는 도선법 제3조에 근거합니다.",
+        "originwordCnt": "13",
+        "labelwordCnt": "14"
+    }
+}

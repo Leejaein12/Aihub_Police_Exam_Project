@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000667",
+        "promulgDate": "20240206",
+        "effectDate": "20240209",
+        "promulgNum": "20240",
+        "title": "약관의 규제에 관한 법률",
+        "ministry": "공정거래위원회",
+        "fullText": "N",
+        "smClass": "제28조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "협의회는 집단분쟁조정에서 누구를 대표당사자로 선임할 수 있나요?",
+        "output": "약관의 규제에 관한 법률 제28조의2 제4항에 따르면, 협의회는 의결을 통해 집단분쟁조정의 당사자 중에서 공동의 이익을 대표하기에 가장 적합한 1인 또는 수인을 대표당사자로 선임할 수 있습니다.",
+        "originwordCnt": "208",
+        "labelwordCnt": "25"
+    }
+}

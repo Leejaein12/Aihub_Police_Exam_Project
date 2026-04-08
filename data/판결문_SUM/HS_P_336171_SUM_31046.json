@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336171",
+        "caseName": "교통사고처리특례법위반(치상)등",
+        "caseNum": "2023노2133",
+        "sentenceDate": "2024.04.04",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "제1심 형량이 너무 가벼워 부당하다고 항소했으나, 검사가 주장하는 사정들은 이미 제1심에서 충분히 고려된 것으로 보이며, 원심판결 이후 새로운 정상 또는 양형에 영향을 줄 특별한 사정변경이 확인되지 않았습니다. 원심 형량이 지나치게 가볍다고 판단할 근거가 없으므로 검사의 항소는 이유 없다고 보아 기각되었습니다.",
+        "originwordCnt": "166",
+        "labelwordCnt": "40"
+    }
+}

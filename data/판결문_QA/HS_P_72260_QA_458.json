@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72260",
+        "caseName": "국가보안법위반,반공법위반피고사건",
+        "caseNum": "67노57",
+        "sentenceDate": "1967.04.18",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "간첩이 북한으로 탈출할 때 그를 수송한 경우, 간첩죄의 공동정범이 될 수 있나요?",
+        "output": "간첩이 북한으로 탈출할 때 고무보트를 이용하여 모선까지 수송하여 그 탈출을 가능하게 했다면, 비록 직접 군사기밀을 탐지하거나 누설하지 않았다 하더라도 간첩죄의 공동정범이 됩니다. 이는 형법 제98조와 제30조에 따른 것입니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "28"
+    }
+}

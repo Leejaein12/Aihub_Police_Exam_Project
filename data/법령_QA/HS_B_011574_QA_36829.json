@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011574",
+        "promulgDate": "20220203",
+        "effectDate": "20220804",
+        "promulgNum": "18802",
+        "title": "군보건의료에 관한 법률",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가는 군인의 건강 증진과 질병 예방을 위해 무엇을 마련해야 하나요?",
+        "output": "군보건의료에 관한 법률 제4조 제2항에 따르면, 국가는 군인등의 건강을 증진하고 각종 질병과 부상을 예방ㆍ치료하기 위한 법적ㆍ제도적 장치를 마련하고 이에 필요한 재원을 확보해야 합니다.",
+        "originwordCnt": "36",
+        "labelwordCnt": "23"
+    }
+}

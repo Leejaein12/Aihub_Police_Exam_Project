@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000160",
+        "promulgDate": "20221213",
+        "effectDate": "20230114",
+        "promulgNum": "19090",
+        "title": "토양환경보전법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "측정망의 설치기준과 토양오염실태조사의 대상 지역 선정기준 등에 대한 사항이 규정된 법령의 형식은 무엇일까요?",
+        "output": "토양환경보전법 제5조 제3항에 의거하여, 측정망의 설치기준과 토양오염실태조사의 대상 지역 선정기준, 조사 방법 및 절차와 그 밖에 필요한 사항은 환경부령으로 정합니다.",
+        "originwordCnt": "187",
+        "labelwordCnt": "20"
+    }
+}

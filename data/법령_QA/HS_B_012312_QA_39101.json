@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012312",
+        "promulgDate": "20240123",
+        "effectDate": "20240123",
+        "promulgNum": "20129",
+        "title": "수산종자산업육성법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제25조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "수산종자생산업을 정지한 기간이 사업 개시 및 휴업 기간에 포함되나요?",
+        "output": "수산종자산업육성법 제25조제5항에 따르면, 제1항과 제2항의 기간에는 제27조에 따라 준용되는 「양식산업발전법」 제26조의 명령에 따라 수산종자생산업을 정지한 기간은 포함되지 않습니다.",
+        "originwordCnt": "102",
+        "labelwordCnt": "18"
+    }
+}

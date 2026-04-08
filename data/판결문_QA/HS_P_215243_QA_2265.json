@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "215243",
+        "caseName": "간통·무고·증회·도주",
+        "caseNum": "4285형상114",
+        "sentenceDate": "1955.03.04",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "다액의 향응은 사회적 의례의 범위에 속하지 않는가요?",
+        "output": "형법 제129조에 따르면, 다액의 향응은 사회적 의례의 범위를 초과하는 것으로 보며, 이는 뇌물성으로 판단될 수 있어 법적 처벌의 대상이 될 수 있습니다.",
+        "originwordCnt": "956",
+        "labelwordCnt": "22"
+    }
+}

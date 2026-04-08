@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000794",
+        "promulgDate": "20230406",
+        "effectDate": "20230406",
+        "promulgNum": "19326",
+        "title": "방송법",
+        "ministry": "과학기술정보통신부,방송통신위원회",
+        "fullText": "N",
+        "smClass": "제44조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국방송공사는 지역사회의 발전을 위해 무엇을 해야 합니까?",
+        "output": "방송법 제44조 제5항에 따르면, 공사는 방송의 지역적 다양성을 구현하고 지역사회의 균형 있는 발전에 이바지할 수 있는 양질의 방송프로그램을 개발하여 방송하여야 합니다.",
+        "originwordCnt": "75",
+        "labelwordCnt": "21"
+    }
+}

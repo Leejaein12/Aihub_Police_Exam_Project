@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001723",
+        "promulgDate": "20160529",
+        "effectDate": "20161130",
+        "promulgNum": "14184",
+        "title": "국민투표법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제52조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국민투표에서 투표소는 오전 몇 시에 열고, 오후 몇 시에 닫습니까?",
+        "output": "국민투표법 제52조 제1항에 따르면 국민투표에서 투표소는 오전 6시에 열고 오후 6시에 닫습니다. 그러나, 마감할 때에 투표소에서 투표를 하기 위하여 대기하고 있는 투표인에게는 투표를 시킨 후에 닫아야 합니다.",
+        "originwordCnt": "49",
+        "labelwordCnt": "27"
+    }
+}

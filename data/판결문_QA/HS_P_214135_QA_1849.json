@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "214135",
+        "caseName": "공용서류손상·허위공문서작성·허위공문서작성행사·사기",
+        "caseNum": "76도3467",
+        "sentenceDate": "1978.12.13",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "허위공문서작성죄에서 직무에 관한 문서란 어떤 문서를 포함하나요?",
+        "output": "허위공문서작성죄에 있어서 직무에 관한 문서는 그 직무권한이 널리 명령, 내규 또는 관례에 의한 직무집행의 권한으로 작성하는 경우를 포함한다고 보아야 합니다. 이는 형법 제227조에 따라 해석되는 사항입니다.",
+        "originwordCnt": "29",
+        "labelwordCnt": "26"
+    }
+}

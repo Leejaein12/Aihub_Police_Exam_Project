@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333543",
+        "caseName": "업무상배임",
+        "caseNum": "2024노668",
+        "sentenceDate": "2024.06.14",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "업무상 배임으로 기소되었고, 원심에서 징역 2년을 선고받았습니다. 항소심에서는 피고인이 피해자의 영업이사로 근무하며 법인카드를 무단으로 사용한 점이 인정되었으나, 원심 판결이 범행을 실체적 경합범으로 잘못 평가하여 처벌이 과중하다고 판단되었습니다. 항소심은 원심을 파기하고 피고인에게 징역 1년 6개월을 선고하였습니다.",
+        "originwordCnt": "391",
+        "labelwordCnt": "35"
+    }
+}

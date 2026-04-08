@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000319",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "소금산업 진흥법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제25조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시·도지사가 허가 지위 승계 신고에 대한 수리 여부를 제때 통지하지 않은 경우 어떻게 처리되나요?",
+        "output": "소금산업 진흥법 제25조 제5항에 따르면, 시·도지사가 정한 기간 내에 신고수리 여부를 통지하지 않으면 그 기간이 끝난 날의 다음 날에 신고수리를 한 것으로 간주됩니다.",
+        "originwordCnt": "173",
+        "labelwordCnt": "23"
+    }
+}

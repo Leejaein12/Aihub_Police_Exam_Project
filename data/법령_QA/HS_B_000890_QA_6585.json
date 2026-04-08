@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000890",
+        "promulgDate": "20211228",
+        "effectDate": "20220629",
+        "promulgNum": "18640",
+        "title": "학교보건법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "학교의 장은 대기오염대응매뉴얼을 어떻게 활용해야 하나요?",
+        "output": "'학교보건법' 제5조 제3항에 따르면, 학교의 장은 대기오염대응매뉴얼에 따라 학생 및 교직원의 세부 행동요령을 수립하고, 학생 및 교직원에게 세부 행동요령에 관한 교육을 실시하여야 합니다.",
+        "originwordCnt": "76",
+        "labelwordCnt": "23"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "151274",
+        "caseName": "간첩",
+        "caseNum": "63도312",
+        "sentenceDate": "1963.12.12",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "간첩행위의 기수 시기는 언제로 보아야 하나요?",
+        "output": "간첩으로서 군사기밀을 탐지하고 수집하면 그 순간 간첩행위는 기수에 이르게 되며, 수집한 자료가 지령자에게 도달해야만 범죄의 기수가 되는 것은 아닙니다. 이는 형법 제98조와 국가보안법 제3조에 근거하여 판단된 것입니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "27"
+    }
+}

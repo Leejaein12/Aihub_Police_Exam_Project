@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제198조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검사는 수사 과정에서 어떤 사항을 준수해야 하나요?",
+        "output": "형사소송법 제198조제2항에 따르면 검사ㆍ사법경찰관리와 그 밖에 직무상 수사에 관계있는 자는 피의자 또는 다른 사람의 인권을 존중하고 수사과정에서 취득한 비밀을 엄수하며 수사에 방해되는 일이 없도록 하여야 합니다.",
+        "originwordCnt": "95",
+        "labelwordCnt": "26"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311388",
+        "caseName": "범인은닉",
+        "caseNum": "2023고단871",
+        "sentenceDate": "2023.12.04",
+        "courtName": "대전지방법원 홍성지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A는 불법 체류 중인 중국 국적의 외국인으로, 불법 입국한 B가 도피 중이라는 사실을 알고 B에게 택시 요금을 대신 결제해주고 자신의 주거지에서 머무르게 하여 도피를 용이하게 하였습니다. 이에 A는 범인 은닉죄로 기소되었으며, 범행을 시인하고 반성하는 점, 범행 경위와 정황을 고려하여 징역 4개월을 선고받았으나, 판결 확정일로부터 1년간 형의 집행을 유예받았습니다.",
+        "originwordCnt": "328",
+        "labelwordCnt": "48"
+    }
+}

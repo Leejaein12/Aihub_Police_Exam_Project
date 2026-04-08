@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "97722",
+        "caseName": "상해(변경:폭행)",
+        "caseNum": "83도942",
+        "sentenceDate": "1983.05.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피해자의 멱살을 잡고 밀어 넘어뜨린 행위가 사회통념상 용인될 수 있는 이유는 무엇인가요?",
+        "output": "피해자가 피고인을 따라다니며 귀찮게 싸움을 걸어오는 것을 막기 위해 피고인이 피해자의 멱살을 잡고 밀어 넘어뜨린 행위는 사회통념상 용인되는 행위로서, 형법 제20조에 따라 위법성이 없는 것으로 판단됩니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "26"
+    }
+}

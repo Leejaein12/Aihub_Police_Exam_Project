@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "215227",
+        "caseName": "절도방화피고",
+        "caseNum": "4287형상47",
+        "sentenceDate": "1954.01.16",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "절도 증거 인멸을 목적으로 불을 지른 것이므로 방화죄가 성립하지 않는다고 주장했으나, 법원은 피고인이 건물에 불이 번질 수 있음을 충분히 인식하고 있었던 점을 들어 건조물 방화의 고의가 인정된다고 판단하였습니다. 따라서 절도의 증거 인멸을 위한 방화 행위는 형법 제164조의 건조물 방화죄에 해당하며, 피고인의 상고를 기각하였습니다.",
+        "originwordCnt": "45",
+        "labelwordCnt": "43"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011584",
+        "promulgDate": "20230111",
+        "effectDate": "20230111",
+        "promulgNum": "01108",
+        "title": "군검찰 압수물 사무규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "압수물을 다루는 군검찰부 직원은 압수물 관리에 있어 어떤 주의사항을 준수해야 하나요?",
+        "output": "압수물을 다루는 군검찰부 직원은 압수물이 멸실, 훼손 또는 변질되지 아니하도록 성실하게 관리하여야 합니다. 이는 군검찰 압수물 사무규칙 제3조 제1항에 명시되어 있습니다.",
+        "originwordCnt": "40",
+        "labelwordCnt": "21"
+    }
+}

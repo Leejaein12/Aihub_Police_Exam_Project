@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001486",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "수산업법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제42조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "혼획이 허용되는 경우 어업인이 취해야 할 조치는 무엇인가요?",
+        "output": "「수산업법」 제42조 제2항에 따르면, 어업인은 혼획이 허용되는 수산동물을 허용 범위를 넘어서 포획하거나 포획이 예상되는 경우 조업을 중단하거나 조업장소를 이동하는 등 적절한 조치를 취해야 합니다.",
+        "originwordCnt": "174",
+        "labelwordCnt": "24"
+    }
+}

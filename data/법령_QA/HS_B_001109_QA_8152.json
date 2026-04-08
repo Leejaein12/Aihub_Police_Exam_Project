@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001109",
+        "promulgDate": "20210924",
+        "effectDate": "20220701",
+        "promulgNum": "18465",
+        "title": "사면법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제15조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검찰총장이 법무부장관에게 특정한 자에 대한 복권을 상신할 수 있는 방법에는 어떤 것들이 있나요?",
+        "output": "검찰총장은 직권으로 또는 형의 집행을 지휘한 검찰청 검사의 보고 또는 사건 본인의 출원에 의하여 법무부장관에게 특정한 자에 대한 복권을 상신할 것을 신청할 수 있습니다. 이는 사면법 제15조 제1항에 근거합니다.",
+        "originwordCnt": "46",
+        "labelwordCnt": "29"
+    }
+}

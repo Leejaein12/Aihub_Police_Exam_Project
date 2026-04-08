@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010306",
+        "promulgDate": "20230103",
+        "effectDate": "20230404",
+        "promulgNum": "19166",
+        "title": "산업기술의 유출방지 및 보호에 관한 법률",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제23조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "산업기술분쟁조정위원회의 회의는 어떻게 의결되나요?",
+        "output": "산업기술분쟁조정위원회의 회의는 재적위원 과반수의 출석으로 개의하고, 출석위원 과반수의 찬성으로 의결됩니다. 이는 '산업기술의 유출방지 및 보호에 관한 법률' 제23조 제6항에 규정된 내용입니다.",
+        "originwordCnt": "163",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335418",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단1232",
+        "sentenceDate": "2024.04.03",
+        "courtName": "광주지방법원 순천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주운전으로 벌금형을 확정받은 후 10년 이내에 다시 음주운전 금지 규정을 위반하였습니다. 피고인은 혈중알코올농도 0.053% 상태로 약 500m 구간을 운전하였으며, 이에 도로교통법에 따라 징역 6개월을 선고받았습니다. 다만, 형의 집행은 2년간 유예되었고, 준법운전강의 40시간을 명령받았습니다.",
+        "originwordCnt": "253",
+        "labelwordCnt": "33"
+    }
+}

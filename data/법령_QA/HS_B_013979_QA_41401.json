@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013979",
+        "promulgDate": "20210101",
+        "effectDate": "20210101",
+        "promulgNum": "00996",
+        "title": "영장심의위원회 규칙",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "각 고등검찰청 검사장은 영장심의위원회가 어떤 기준을 유지할 수 있도록 구성·운영해야 하나요?",
+        "output": "각 고등검찰청 검사장은 영장심의위원회가 공정성을 유지할 수 있도록 구성·운영해야 합니다. 이는 영장심의위원회 규칙 제12조의 규정에 따릅니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "16"
+    }
+}

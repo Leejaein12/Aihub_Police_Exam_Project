@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000479",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19877",
+        "title": "농지법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제36조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "농지의 타용도 일시사용 신고와 관련된 세부사항은 어디에서 규정되나요?",
+        "output": "농지법 제36조의2 제6항에 따르면, 농지의 타용도 일시사용과 관련된 신고 대상 농지의 범위와 규모, 일시사용 기간, 복구비용의 산출 기준, 복구비용 납부 시기와 절차 등 필요한 사항은 대통령령으로 정합니다.",
+        "originwordCnt": "248",
+        "labelwordCnt": "27"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000128",
+        "promulgDate": "20210413",
+        "effectDate": "20211014",
+        "promulgNum": "18042",
+        "title": "임금채권보장법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "임금채권 대지급금 지급이 위계의 방법에 의한 경우, 책임은 어떻게 부여되나요?",
+        "output": "대지급금의 지급 또는 융자가 위계의 방법에 의한 경우, 그 행위를 한 자는 대지급금 또는 융자금을 받은 자와 연대하여 책임을 지게 됩니다. 이는 임금채권보장법 제14조 제4항에 따른 것입니다.",
+        "originwordCnt": "161",
+        "labelwordCnt": "27"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001645",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19329",
+        "title": "새마을금고법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제58조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "새마을금고중앙회의 총회는 몇 가지로 구분되며, 각각 어떻게 소집되나요?",
+        "output": "새마을금고법 제58조 제2항에 따르면 중앙회의 총회는 정기총회와 임시총회로 구분됩니다. 정기총회는 매년 1회 정관으로 정하는 바에 따라 소집되며, 임시총회는 필요하다고 인정되는 때에 소집됩니다.",
+        "originwordCnt": "129",
+        "labelwordCnt": "22"
+    }
+}

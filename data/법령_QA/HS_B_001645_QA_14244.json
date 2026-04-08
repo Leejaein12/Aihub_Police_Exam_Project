@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001645",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19329",
+        "title": "새마을금고법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제39조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "새마을금고는 합병 후 존속할 금고나 합병으로 설립되는 금고는 어떤 권리와 의무를 승계하게 되나요?",
+        "output": "합병 후 존속할 금고나 합병으로 설립되는 금고는 새마을금고법 제39조 제1항에 따라, 합병으로 소멸되는 금고의 모든 권리와 의무를 승계하게 됩니다.",
+        "originwordCnt": "37",
+        "labelwordCnt": "19"
+    }
+}

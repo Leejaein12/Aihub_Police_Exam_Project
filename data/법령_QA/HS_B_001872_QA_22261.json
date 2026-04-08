@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001872",
+        "promulgDate": "20210518",
+        "effectDate": "20211119",
+        "promulgNum": "18176",
+        "title": "근로기준법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제40조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "근로자의 취업을 방해하기 위해 비밀 기호나 명부를 작성하거나 통신을 하는 것이 허용되나요?",
+        "output": "누구든지 근로자의 취업을 방해할 목적으로 비밀 기호 또는 명부를 작성하거나 사용하는 것, 그리고 통신을 하는 행위를 해서는 안 됩니다. 이는 근로기준법 제40조에 명시되어 있습니다.",
+        "originwordCnt": "17",
+        "labelwordCnt": "24"
+    }
+}

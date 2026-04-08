@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001739",
+        "promulgDate": "20230725",
+        "effectDate": "20240126",
+        "promulgNum": "19573",
+        "title": "선박직원법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "해기사가 될 수 없는 사람은 누구입니까?",
+        "output": "선박직원법 제6조에 따르면, 다음 각 호의 어느 하나에 해당하는 사람은 해기사가 될 수 없습니다.1. 18세 미만인 사람2. 면허가 취소된 날부터 2년(「수산업법」 제68조제1항에 따라 면허가 취소된 경우에는 1년)이 지나지 아니한 사람",
+        "originwordCnt": "33",
+        "labelwordCnt": "32"
+    }
+}

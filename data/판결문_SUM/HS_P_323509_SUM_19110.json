@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "323509",
+        "caseName": "사기등",
+        "caseNum": "2022고단5222",
+        "sentenceDate": "2023.06.22",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피해자를 속여 재산상의 이익을 취득한 혐의로 기소된 피고인은 여러 차례에 걸쳐 피해자에게 가짜 투자 및 자금 관리 제안을 하였고, 이를 통해 총 13,937,717원의 편취금을 얻었습니다. 판결에 따르면 피고인은 사기 및 컴퓨터 등을 이용한 사기 범죄로 징역 2년을 선고받았으며, 피해자에게 편취한 금액을 지급하라는 배상 명령이 내려졌습니다.",
+        "originwordCnt": "890",
+        "labelwordCnt": "45"
+    }
+}

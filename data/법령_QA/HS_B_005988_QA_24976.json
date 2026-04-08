@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005988",
+        "promulgDate": "20211231",
+        "effectDate": "20220101",
+        "promulgNum": "03016",
+        "title": "형사소송규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제33조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "속기를 한 경우 재판장이 할 수 있는 조치에는 무엇이 있나요?",
+        "output": "형사소송규칙 제33조에 따르면 속기를 하게 한 경우에 재판장은 법원사무관 등으로 하여금 속기록의 전부 또는 일부를 조서에 인용하고 소송기록에 첨부하여 조서의 일부로 하게 할 수 있습니다.",
+        "originwordCnt": "25",
+        "labelwordCnt": "25"
+    }
+}

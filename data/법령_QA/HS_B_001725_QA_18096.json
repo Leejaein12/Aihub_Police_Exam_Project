@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제180조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에서 투표의 효력에 관한 이의가 있을 때 구 시 군선거관리위원회는 어떻게 결정합니까?",
+        "output": "투표의 효력에 관하여 이의가 있는 때에는 구 시 군선거관리위원회는 재적위원 과반수의 출석과 출석위원 과반수의 의결로 결정합니다. 공직선거법 제180조 제1항에 규정하고 있습니다.",
+        "originwordCnt": "30",
+        "labelwordCnt": "21"
+    }
+}

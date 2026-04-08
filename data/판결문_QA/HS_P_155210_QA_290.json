@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155210",
+        "caseName": "직권남용등",
+        "caseNum": "70도2406",
+        "sentenceDate": "1971.03.09",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "직무상의 권능을 행사할 때 법정조건을 구비하지 않고 이를 행사한 경우, 이는 직권남용에 해당하나요?",
+        "output": "직무상의 권능을 행사할 때 법정조건을 구비하지 않고 이를 행사한 경우, 이는 형법 제124조에 규정된 직권남용에 해당하여 불법행위로 간주됩니다.",
+        "originwordCnt": "395",
+        "labelwordCnt": "18"
+    }
+}

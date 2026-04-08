@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "73119",
+        "caseName": "반공법등피고사건",
+        "caseNum": "72노758",
+        "sentenceDate": "1972.10.19",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 북괴 지배하에 있는 지역에서 북괴 구성원의 지시에 따라 행동한 것이 강요된 행위에 해당한다고 볼 수 있나요?",
+        "output": "피고인이 자의로 이북으로 탈출했다고 하더라도, 북괴 지배하에서 생명과 신체에 대한 위해가 예측되는 상황에서 북괴 구성원의 지시에 기계적으로 따른 것은 형법 제12조에 규정된 강요된 행위에 해당합니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "25"
+    }
+}

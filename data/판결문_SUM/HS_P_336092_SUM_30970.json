@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336092",
+        "caseName": "폭행치상",
+        "caseNum": "2024고단90",
+        "sentenceDate": "2024.05.10",
+        "courtName": "창원지방법원 마산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공사장 소음 문제로 피해자와 다투던 중 라바콘으로 피해자 B의 손목 부위를 폭행하여 손가락 신근 및 힘줄을 손상시키는 상해를 입혔고, 피고인 B는 피해자 A의 얼굴을 주먹으로 여러 차례 때리고 다리를 걸어 넘어뜨린 뒤 발로 차서 입술 열상 등의 상해를 가하였습니다. 이에 법원은 피고인 A에게 벌금 5,000,000원을, 피고인 B에게 벌금 2,000,000원을 각각 선고하였습니다.",
+        "originwordCnt": "426",
+        "labelwordCnt": "51"
+    }
+}

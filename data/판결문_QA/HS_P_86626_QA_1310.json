@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86626",
+        "caseName": "살인",
+        "caseNum": "4293형상296",
+        "sentenceDate": "1960.09.06",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형법 부칙 제2조 제4항에 따른 형의 경중 비교는 어떤 순서로 이루어져야 하나요?",
+        "output": "형법 부칙 제2조 제4항에 따른 신구 형법의 형의 경중을 비교할 때에는, 먼저 형을 가중하거나 감경한 후에 그 경중을 비교해야 합니다. 이 순서를 통해 형법 제1조 제2항 및 형법 부칙 제3조에서 요구하는 가중 감경 비교의 적정성을 유지할 수 있습니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "38"
+    }
+}

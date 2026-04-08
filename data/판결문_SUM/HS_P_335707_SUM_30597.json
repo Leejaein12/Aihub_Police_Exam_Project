@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335707",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단1337",
+        "sentenceDate": "2023.11.24",
+        "courtName": "대구지방법원 포항지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.151% 상태로 약 100m 구간을 음주운전한 혐의로 기소되었습니다. 법원은 피고인이 음주운전으로 인한 처벌 전력이 있으며, 음주 수치가 높은 점을 고려하여 징역 1년을 선고하였습니다. 다만, 범행 경위와 피고인의 경제상황, 가족관계 등을 참작하여 형의 집행을 2년간 유예하기로 하였습니다.",
+        "originwordCnt": "136",
+        "labelwordCnt": "37"
+    }
+}

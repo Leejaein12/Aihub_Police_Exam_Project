@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "176080",
+        "caseName": "전기공사업법위반",
+        "caseNum": "2012노1700",
+        "sentenceDate": "2013.01.10",
+        "courtName": "창원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인 17의 법리오해 주장에 대해 법원은 어떻게 판단했나요?",
+        "output": "법원은 무등록 공사업과 명의대여로 인한 전기공사업법위반죄가 각각 구성요건과 보호법익이 다르며, 별개의 범죄로 인정된다고 판단했습니다. 따라서 피고인 17의 법리오해 주장은 이유 없다고 보아 원심의 판단을 유지했습니다.",
+        "originwordCnt": "857",
+        "labelwordCnt": "25"
+    }
+}

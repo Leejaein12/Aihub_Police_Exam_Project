@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000319",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "소금산업 진흥법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제30조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "안전관리대책이 수립된 후 해양수산부장관은 어떤 절차를 거쳐야 하나요?",
+        "output": "소금산업 진흥법 제30조 제2항에 따르면, 해양수산부장관은 제1항에 따라 수립된 안전관리대책을 관계 중앙행정기관의 장과 지방자치단체의 장에게 통보하여야 합니다.",
+        "originwordCnt": "71",
+        "labelwordCnt": "17"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "190076",
+        "caseName": "특정범죄가중처벌등에관한법률위반피고사건",
+        "caseNum": "77노1817",
+        "sentenceDate": "1978.01.18",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "관세법 위반 사건에서 벌금형에 대해 법률상 감경을 할 수 있나요?",
+        "output": "특정범죄가중처벌등에관한법률 제6조 제3항에 의하여 관세법 위반 사건에서 벌금을 병과할 경우, 형법 제32조에 따른 방조범 감경이나 작량감경을 할 수 없습니다.",
+        "originwordCnt": "1045",
+        "labelwordCnt": "19"
+    }
+}

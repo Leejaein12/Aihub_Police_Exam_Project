@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001589",
+        "promulgDate": "20230620",
+        "effectDate": "20231221",
+        "promulgNum": "19511",
+        "title": "소비자기본법",
+        "ministry": "공정거래위원회",
+        "fullText": "N",
+        "smClass": "제38조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국소비자원의 원장, 부원장, 소장 및 이사는 어떤 형태로 임명되나요?",
+        "output": "한국소비자원의 원장, 부원장, 소장 및 대통령령이 정하는 이사는 상임으로 하고 그 밖의 임원은 비상임으로 임명됩니다. 이는 소비자기본법 제38조 제2항에 근거합니다.",
+        "originwordCnt": "116",
+        "labelwordCnt": "20"
+    }
+}

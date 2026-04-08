@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335614",
+        "caseName": "공직선거법위반",
+        "caseNum": "2024고합81",
+        "sentenceDate": "2024.08.13",
+        "courtName": "전주지방법원 군산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공직선거법 제244조 제1항을 위반하여 선거 투표지를 손으로 찢어 훼손한 혐의로 기소되었습니다. 피고인은 투표소에서 모친의 기표된 투표지를 보며 화가 나 투표지를 훼손하였습니다. 법원은 피고인의 행위가 선거의 평온과 원활한 진행을 방해한 점을 들어 벌금 2,500,000원을 선고하였습니다.",
+        "originwordCnt": "293",
+        "labelwordCnt": "34"
+    }
+}

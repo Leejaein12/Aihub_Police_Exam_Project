@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013050",
+        "promulgDate": "20221115",
+        "effectDate": "20230516",
+        "promulgNum": "19027",
+        "title": "소방장비관리법",
+        "ministry": "소방청",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소방청장은 인증기관에 대해 어떤 범위에서 지도ㆍ감독 및 지원을 할 수 있나요?",
+        "output": "소방청장은 인증기관에 대하여 소방장비의 성능 및 안전성의 확보에 필요한 범위에서 대통령령으로 정하는 바에 따라 지도ㆍ감독 및 지원을 할 수 있습니다. 이는 소방장비관리법 제14조 제5항에 근거합니다.",
+        "originwordCnt": "234",
+        "labelwordCnt": "25"
+    }
+}

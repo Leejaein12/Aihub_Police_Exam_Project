@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "146890",
+        "caseName": "마약류관리에관한법률위반(향정)",
+        "caseNum": "2010노83",
+        "sentenceDate": "2010.07.08",
+        "courtName": "서울남부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인은 보호관찰소의 보호를 받고 있었다는 점을 근거로 항소했는데, 이 주장은 왜 받아들여지지 않았나요?",
+        "output": "피고인의 주장은 공범의 일관된 진술과 보호관찰소에서 받은 소변검사 결과 등을 종합적으로 고려할 때 신빙성이 부족하여 받아들여지지 않았습니다.",
+        "originwordCnt": "585",
+        "labelwordCnt": "17"
+    }
+}

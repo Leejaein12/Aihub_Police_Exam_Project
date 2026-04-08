@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013976",
+        "promulgDate": "20240524",
+        "effectDate": "20240524",
+        "promulgNum": "00483",
+        "title": "경찰수사규칙",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제103조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "송치 서류를 편철하는 순서는 어떻게 됩니까?",
+        "output": "송치 서류는 경찰수사규칙 제103조 제2항에 따라 다음 순서로 편철합니다. 1. 별지 제117호서식의 사건송치서2. 압수물 총목록3. 형사소송법 제198조제3항에 따라 작성된 서류 또는 물건 전부를 적은 기록목록4. 송치 결정서5. 그 밖의 서류",
+        "originwordCnt": "71",
+        "labelwordCnt": "35"
+    }
+}

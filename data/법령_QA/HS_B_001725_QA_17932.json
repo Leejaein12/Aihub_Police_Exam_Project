@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제137조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에 의하면 일간신문 등의 광고에 준용되는 규정은 무엇입니까?",
+        "output": "공직선거법 제137조 제3항에 따르면, 일간신문 등의 광고에 대해 제69조 제1항 후단, 제2항, 제5항, 제8항 및 제9항의 규정을 준용하며, 이 경우 후보자는 정당으로 봅니다.",
+        "originwordCnt": "241",
+        "labelwordCnt": "23"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009998",
+        "promulgDate": "20220104",
+        "effectDate": "20220705",
+        "promulgNum": "18678",
+        "title": "치료감호 등에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제43조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검사가 심사ㆍ결정을 신청할 때 제출해야 하는 것은 무엇인가요?",
+        "output": "치료감호 등에 관한 법률 제43조 제2항에 따르면 검사가 심사ㆍ결정을 신청할 때에는 심사신청서와 신청사항의 결정에 필요한 자료를 제출하여야 하며, 이 경우 치료감호시설의 장이나 보호관찰소의 장의 의견을 들어야 합니다.",
+        "originwordCnt": "64",
+        "labelwordCnt": "27"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000959",
+        "promulgDate": "20231226",
+        "effectDate": "20240627",
+        "promulgNum": "19837",
+        "title": "자연재해대책법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "재해 원인 분석 등을 위해 타인의 토지에 출입하려는 사람은 관계인에게 무엇을 보여주어야 합니까?",
+        "output": "자연재해대책법 제11조 제3항에 명시된 바와 같이, 제1항에 따른 행위를 하려는 사람은 그 권한을 나타내는 증표를 지니고 이를 관계인에게 보여주어야 합니다.",
+        "originwordCnt": "126",
+        "labelwordCnt": "20"
+    }
+}

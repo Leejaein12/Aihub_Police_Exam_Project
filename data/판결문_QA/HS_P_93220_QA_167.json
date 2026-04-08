@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93220",
+        "caseName": "의료법위반",
+        "caseNum": "75도2066",
+        "sentenceDate": "1976.11.23",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "침술사가 간판에 '복학'이라는 단어를 표시한 행위는 어떻게 해석되나요?",
+        "output": "침술사가 간판에 '복학'이라는 단어를 표시한 행위는, 특정 질병에 대해 특별한 기능이나 진료 방법을 대중에게 광고한 것으로 해석됩니다. 이는 침술의 일반적인 진료과목이 아닌 소아에게 흔히 발생하는 질병 명칭을 사용한 것으로, 특정 질병에 대한 전문성을 강조한 것입니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "35"
+    }
+}

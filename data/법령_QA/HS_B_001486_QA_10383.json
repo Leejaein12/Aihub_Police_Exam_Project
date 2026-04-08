@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001486",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "수산업법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제75조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "해양수산부장관이 어구의 실태조사를 할 수 있는 목적은 무엇인가요?",
+        "output": "「수산업법」 제75조 제1항에 따르면, 해양수산부장관은 어구의 효율적 관리를 위해 어구의 생산, 유통, 사용, 관리 및 폐어구와 유실어구의 수거 및 처리에 관한 실태조사를 할 수 있습니다.",
+        "originwordCnt": "81",
+        "labelwordCnt": "25"
+    }
+}

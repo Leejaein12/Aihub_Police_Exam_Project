@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000248",
+        "promulgDate": "20181218",
+        "effectDate": "20190119",
+        "promulgNum": "16001",
+        "title": "사도법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사도개설자가 통행제한이나 통행금지 조치를 취할 경우, 어떤 의무를 이행해야 하나요?",
+        "output": "사도법 제12조 제2항에 따르면, 사도개설자가 통행제한, 통행금지 등의 조치를 하는 경우 해당 사도의 입구에 그 기간과 이유를 분명하게 밝힌 표지를 설치하여야 합니다.",
+        "originwordCnt": "69",
+        "labelwordCnt": "22"
+    }
+}

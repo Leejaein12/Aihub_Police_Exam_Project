@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000798",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19597",
+        "title": "저작권법",
+        "ministry": "문화체육관광부",
+        "fullText": "N",
+        "smClass": "제101조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "컴퓨터의 유지, 보수를 위해 프로그램을 잠시 복제해도 되나요?",
+        "output": "저작권법 제101조의3제2항에 따르면 컴퓨터의 유지, 보수를 위하여 그 컴퓨터를 이용하는 과정에서 프로그램(정당하게 취득한 경우로 한정)을 일시적으로 복제할 수 있습니다.",
+        "originwordCnt": "228",
+        "labelwordCnt": "19"
+    }
+}

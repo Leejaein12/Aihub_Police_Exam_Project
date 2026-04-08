@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000921",
+        "promulgDate": "20170726",
+        "effectDate": "20170726",
+        "promulgNum": "14839",
+        "title": "계엄법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "계엄사령관의 지시나 조치를 위반한 경우 어떤 처벌을 받습니까?",
+        "output": "계엄법 제14조 제2항에 따르면, 제8조 제1항에 따른 계엄사령관의 지시나 제9조 제1항 또는 제2항에 따른 계엄사령관의 조치에 따르지 아니하거나 이를 위반한 자는 3년 이하의 징역에 처합니다.",
+        "originwordCnt": "76",
+        "labelwordCnt": "25"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001126",
+        "promulgDate": "20200324",
+        "effectDate": "20210325",
+        "promulgNum": "17113",
+        "title": "공무원범죄에 관한 몰수 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제25조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공무원범죄에 관한 몰수 특례법에 따르면 몰수보전명령의 집행은 언제 할 수 있습니까?",
+        "output": "공무원범죄에 관한 몰수 특례법 제25조 제2항에 따라, 몰수보전명령의 집행은 그 명령에 따라 처분이 금지되는 재산을 가진 자에게 몰수보전명령의 등본이 송달되기 전에도 할 수 있습니다.",
+        "originwordCnt": "30",
+        "labelwordCnt": "24"
+    }
+}

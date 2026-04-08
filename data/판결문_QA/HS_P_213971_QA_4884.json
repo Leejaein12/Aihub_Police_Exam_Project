@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "213971",
+        "caseName": "산림법위반",
+        "caseNum": "78도91",
+        "sentenceDate": "1978.04.11",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공원법에 따른 개간허가를 받은 경우, 산림법에 따른 허가도 필요한가요?",
+        "output": "공원법에 따른 임야개간 및 수목벌채허가를 받았다 하여도 산림법의 목적과 다르므로 산림법 소정의 허가가 필요없다고 할 수 없습니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "17"
+    }
+}

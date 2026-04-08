@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312732",
+        "caseName": "사문서위조등",
+        "caseNum": "2023고정485",
+        "sentenceDate": "2023.11.10",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "법무사 사무실에서 ㈜B의 가압류 해제를 위한 합의각서를 작성하면서 C의 동의 없이 C의 이름을 기재하고 인감도장을 날인하여 사문서를 위조하였습니다. 이후 피고인은 위조한 합의각서를 ㈜D의 대표이사에게 진정한 것처럼 전달하여 행사하였습니다. 법원은 피고인에게 벌금 3,000,000원을 선고하였습니다.",
+        "originwordCnt": "212",
+        "labelwordCnt": "33"
+    }
+}

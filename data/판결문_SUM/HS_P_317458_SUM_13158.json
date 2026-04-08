@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317458",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단1325",
+        "sentenceDate": "2023.11.14",
+        "courtName": "수원지방법원 안양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "한 개인이 2023년 6월 29일 술에 취한 상태에서 운전한 사실이 확인되었습니다. 혈중 알코올 농도가 0.238%로 측정되었으며, 운전한 거리와 경로도 명확하게 기록되어 있습니다. 이러한 행위는 도로교통법 제148조의2 제3항 제1호, 제44조 제1항에 해당하여 벌금형을 선고하였습니다.",
+        "originwordCnt": "126",
+        "labelwordCnt": "33"
+    }
+}

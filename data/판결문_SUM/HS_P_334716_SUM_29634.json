@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334716",
+        "caseName": "강제추행",
+        "caseNum": "2023고단4061",
+        "sentenceDate": "2023.09.20",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "만취 상태에 있던 피해자의 신체 일부를 무단으로 접촉하고 혀를 이용하여 강제로 입을 맞추는 방식으로 추행을 저질렀습니다. 이에 대해 법원은 피고인이 사건에 대한 진지한 반성과 함께 피해자와의 원만한 합의를 이루어 처벌을 원하지 않는 점, 초범이라는 점 등을 고려하여 형법에 따라 벌금형을 선고유예하기로 판단하였습니다.",
+        "originwordCnt": "305",
+        "labelwordCnt": "42"
+    }
+}

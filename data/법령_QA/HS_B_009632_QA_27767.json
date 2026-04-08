@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009632",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19589",
+        "title": "복권 및 복권기금법",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "복권위원회의 구성은 어떻게 되어 있나요?",
+        "output": "복권 및 복권기금법 제14조 제1항에 따르면, 복권위원회는 위원장 1명을 포함하여 총 25명 이내의 위원으로 구성됩니다.",
+        "originwordCnt": "83",
+        "labelwordCnt": "15"
+    }
+}

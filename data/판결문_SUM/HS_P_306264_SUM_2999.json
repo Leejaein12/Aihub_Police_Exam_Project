@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "306264",
+        "caseName": "사기",
+        "caseNum": "2015고단2949",
+        "sentenceDate": "2015. 8. 27.",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "결혼할 것처럼 속여 피해자에게 총 67회에 걸쳐 2억 1천여만 원을 편취한 혐의로 기소된 피고인은 피해자의 호감을 이용해 거짓말로 돈을 빌렸으며, 변제할 의사가 전혀 없었습니다. 법원은 피고인이 피해자와 합의하고 선처를 바란 점, 전과가 없는 점, 범행을 인정하고 반성하는 점 등을 고려해 징역 1년 6월에 처하되, 형의 집행을 2년간 유예하였습니다.",
+        "originwordCnt": "288",
+        "labelwordCnt": "48"
+    }
+}

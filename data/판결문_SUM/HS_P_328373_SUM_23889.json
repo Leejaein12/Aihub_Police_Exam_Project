@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328373",
+        "caseName": "보험사기방지특별법위반",
+        "caseNum": "2024고단18",
+        "sentenceDate": "2024.05.17.",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "중·고등학교 동네 선후배 관계로 보험사기를 목적으로 고의로 교통사고를 유발한 뒤, 보험회사에 사고 접수를 통해 합의금, 치료비 등을 편취하였습니다. 법원은 보험사기방지 특별법 제8조 및 형법 제30조 등을 적용하여 피고인 A와 B에게 각 징역 6개월, 피고인 C에게 징역 4개월을 선고하고, 각 형의 집행을 1년간 유예하며 사회봉사를 명하였습니다.",
+        "originwordCnt": "820",
+        "labelwordCnt": "45"
+    }
+}

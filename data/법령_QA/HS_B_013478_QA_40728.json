@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013478",
+        "promulgDate": "20230418",
+        "effectDate": "20230719",
+        "promulgNum": "19367",
+        "title": "건축물관리법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제44조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "건축물관리법에서 공공건축물의 관리자가 성능개선을 완료한 후에 해야 할 일은 무엇인가요?",
+        "output": "건축물관리법 제44조 제2항 규정에 따르면 공공건축물의 관리자는 성능개선을 완료한 날로부터 30일 이내에 그 사실을 국토교통부장관에게 통지해야 합니다.",
+        "originwordCnt": "87",
+        "labelwordCnt": "17"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312780",
+        "caseName": "사기",
+        "caseNum": "2023도6754",
+        "sentenceDate": "2023.08.18",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심에서는 공소사실에 대해 범죄의 증명이 없다고 판단하여 무죄를 선고하였고, 상고심에서 이를 다시 살펴본 결과, 원심의 판단이 논리와 경험의 법칙을 위반하거나 자유심증주의의 한계를 벗어난 잘못이 없다고 보았습니다. 이에 대법원은 상고를 기각하고 원심 판결을 그대로 유지하기로 하였습니다.",
+        "originwordCnt": "111",
+        "labelwordCnt": "35"
+    }
+}

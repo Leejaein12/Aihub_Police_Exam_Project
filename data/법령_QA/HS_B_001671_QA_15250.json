@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제58조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공무원이 서류 작성 시 삽입, 삭제 또는 난외기재를 할 때 어떤 절차를 따라야 합니까?",
+        "output": "형사소송법 제58조제2항에 따르면 삽입, 삭제 또는 난외기재를 할 때에는 이 기재한 곳에 날인하고 그 자수를 기재하여야 합니다. 단, 삭제한 부분은 해득할 수 있도록 자체를 존치하여야 합니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "26"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336214",
+        "caseName": "재물손괴",
+        "caseNum": "2024고정304",
+        "sentenceDate": "2024.07.10",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "이미 다른 사건으로 징역형이 확정된 상태에서 피해자가 운영하는 모텔 객실의 변기와 세면대 배수구에 빗, 칫솔, 유리 등의 이물질을 넣어 하수관을 막아 수리비 35만 원 상당의 손괴를 발생시킨 것으로 확인되었습니다. 법원은 피고인에게 벌금 70만 원을 선고하였습니다.",
+        "originwordCnt": "159",
+        "labelwordCnt": "35"
+    }
+}

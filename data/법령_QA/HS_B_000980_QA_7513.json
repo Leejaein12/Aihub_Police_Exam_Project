@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000980",
+        "promulgDate": "20221115",
+        "effectDate": "20230516",
+        "promulgNum": "19021",
+        "title": "경비업법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "경비업자가 위법 또는 부당한 경비업무를 의뢰받았을 때 어떻게 해야 하나요?",
+        "output": "경비업자는 경비업무를 성실하게 수행해야 하고, 도급을 의뢰받은 경비업무가 위법 또는 부당한 것일 때에는 이를 거부해야 합니다. 이는 경비업법 제7조 제2항에 따라 규정된 의무입니다.",
+        "originwordCnt": "211",
+        "labelwordCnt": "23"
+    }
+}

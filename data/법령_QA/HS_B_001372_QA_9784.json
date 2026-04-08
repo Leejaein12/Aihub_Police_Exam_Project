@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001372",
+        "promulgDate": "20201020",
+        "effectDate": "20201020",
+        "promulgNum": "17560",
+        "title": "감사원법",
+        "ministry": "감사원",
+        "fullText": "N",
+        "smClass": "제33조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "감사원은 감사 결과 위법 또는 부당하다고 인정되는 사실이 있을 때 누구에게 시정, 주의 등을 요구할 수 있나요?",
+        "output": "감사원법 제33조 제1항에 따르면 감사원은 감사 결과 위법 또는 부당하다고 인정되는 사실이 있을 때에는 소속 장관, 감독기관의 장 또는 해당 기관의 장에게 시정ㆍ주의 등을 요구할 수 있습니다.",
+        "originwordCnt": "45",
+        "labelwordCnt": "27"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001668",
+        "promulgDate": "20221227",
+        "effectDate": "20221227",
+        "promulgNum": "19105",
+        "title": "형의 집행 및 수용자의 처우에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제100조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "강제력을 행사하려면 사전에 고지해야 합니까?",
+        "output": "형의 집행 및 수용자의 처우에 관한 법률 제100조 제5항에 따르면, 강제력을 행사하려면 사전에 상대방에게 이를 경고하여야 합니다. 다만, 상황이 급박하여 경고할 시간적인 여유가 없는 때에는 그러하지 아니합니다.",
+        "originwordCnt": "218",
+        "labelwordCnt": "27"
+    }
+}

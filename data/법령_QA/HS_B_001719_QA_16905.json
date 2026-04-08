@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001719",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "국가공무원법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제17조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "신고를 방해하거나 신고자에 대한 불이익 조치는 금지됩니까?",
+        "output": "국가공무원법 제17조의2 제2항에 따르면 누구든지 제1항에 따른 신고를 하지 못하도록 방해하거나 신고를 취하하도록 강요해서는 아니 되며, 신고자에게 신고를 이유로 불이익조치를 해서는 안됩니다.",
+        "originwordCnt": "56",
+        "labelwordCnt": "22"
+    }
+}

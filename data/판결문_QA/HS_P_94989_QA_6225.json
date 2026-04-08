@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "94989",
+        "caseName": "보건범죄단속에관한특별조치법위반",
+        "caseNum": "80도428",
+        "sentenceDate": "1980.04.08",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "약사가 중이염을 진단하고 약을 조제한 행위는 의료행위에 해당하나요?",
+        "output": "보건범죄단속에관한특별조치법 제5조에 따르면, 약사가 환자로부터 설문지를 받고 이경을 사용하여 중이염을 진단하고, 약을 조제하여 투여하는 행위는 의료행위에 해당합니다.",
+        "originwordCnt": "27",
+        "labelwordCnt": "17"
+    }
+}

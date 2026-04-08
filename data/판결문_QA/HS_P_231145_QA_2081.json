@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "231145",
+        "caseName": "업무상과실치상피고사건",
+        "caseNum": "62도1",
+        "sentenceDate": "1962.04.12",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "정골원 조수가 붕대를 감을 때 환자의 혈액순환을 점검해야 할 주의의무가 있습니까?",
+        "output": "형법 제268조에 따르면, 정골원의 조수에게 붕대를 감을 때 혈액순환 정지로 인한 괴사를 방지하기 위해 붕대를 수시로 갈아주어야 할 업무상 주의의무가 있다고 볼 수는 없습니다.",
+        "originwordCnt": "66",
+        "labelwordCnt": "24"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011136",
+        "promulgDate": "20231226",
+        "effectDate": "20240701",
+        "promulgNum": "19830",
+        "title": "취업 후 학자금 상환 특별법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "교육부장관은 한국장학재단의 처분이 위법할 때 어떤 조치를 취할 수 있나요?",
+        "output": "취업 후 학자금 상환 특별법 제7조 제2항에 따르면, 교육부장관은 한국장학재단의 처분이 위법하거나 필요하다고 인정하는 경우 그 처분의 전부 또는 일부를 취소하거나 집행을 정지시킬 수 있습니다.",
+        "originwordCnt": "65",
+        "labelwordCnt": "25"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000143",
+        "promulgDate": "20210105",
+        "effectDate": "20210706",
+        "promulgNum": "17864",
+        "title": "노동조합 및 노동관계조정법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제85조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "중앙노동위원회의 재심판정에 불복할 경우 어떻게 해야 합니까?",
+        "output": "노동조합 및 노동관계조정법 제85조 제2항에 따르면, 중앙노동위원회의 재심판정에 대하여 관계 당사자는 그 재심판정서의 송달을 받은 날부터 15일 이내에 행정소송법이 정하는 바에 따라 소를 제기할 수 있습니다.",
+        "originwordCnt": "114",
+        "labelwordCnt": "26"
+    }
+}

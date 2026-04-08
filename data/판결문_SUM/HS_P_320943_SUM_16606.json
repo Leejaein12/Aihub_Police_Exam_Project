@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "320943",
+        "caseName": "상해",
+        "caseNum": "2023노415",
+        "sentenceDate": "2023.10.13",
+        "courtName": "춘천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "상대방의 늑골 골절 등 상해와 관련된 주장이 제기되었으나, 재판부는 사건 직후의 통증 호소와 의료 기록, 골절이 최근 발생한 것으로 보이는 의사의 진술 등을 근거로 원심의 유죄 판단이 타당하다고 보았습니다. 또한, 양형에 있어서 특별한 사정변경이 없고 원심의 형이 적절하다고 판단하여, 항소를 기각하었습니다.",
+        "originwordCnt": "441",
+        "labelwordCnt": "41"
+    }
+}

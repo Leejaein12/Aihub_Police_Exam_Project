@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000794",
+        "promulgDate": "20230406",
+        "effectDate": "20230406",
+        "promulgNum": "19326",
+        "title": "방송법",
+        "ministry": "과학기술정보통신부,방송통신위원회",
+        "fullText": "N",
+        "smClass": "제44조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국방송공사는 어떤 방송프로그램을 개발하여 방송해야 합니까?",
+        "output": "방송법 제44조 제4항에 따르면, 공사는 국내외를 대상으로 민족문화를 창달하고, 민족의 동질성을 확보할 수 있는 방송프로그램을 개발하여 방송하여야 합니다.",
+        "originwordCnt": "75",
+        "labelwordCnt": "18"
+    }
+}

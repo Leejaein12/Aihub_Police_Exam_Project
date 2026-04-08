@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332899",
+        "caseName": "전자금융거래법위반",
+        "caseNum": "2023고정247",
+        "sentenceDate": "2023.12.13",
+        "courtName": "창원지방법원 마산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 6월, 가게 입구에서 여성을 강제추행하였습니다. 법원은 피고인이 과거에 유사한 처벌을 받은 전력이 있고, 피해자가 정신적 충격을 겪은 점을 고려하였습니다. 다만, 피고인이 반성하고 조현병을 앓고 있는 점, 경제적 어려움을 감안해 벌금 5,000,000원을 선고하였습니다.",
+        "originwordCnt": "372",
+        "labelwordCnt": "33"
+    }
+}

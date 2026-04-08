@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313409",
+        "caseName": "감금치상등",
+        "caseNum": "2023고합253",
+        "sentenceDate": "2023.09.26",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "모텔 객실에서 피해자를 감금하고 폭행하여 상해를 입히고, 강압적인 행위로 피해자를 유사강간한 혐의로 기소되었습니다. 법원은 형법 제281조 제1항 전단, 제276조 제1항과 형법 제297조의2을 적용하여 징역 2년 6월을 선고하고, 성폭력 치료프로그램 40시간의 이수를 명하였습니다.",
+        "originwordCnt": "1181",
+        "labelwordCnt": "32"
+    }
+}

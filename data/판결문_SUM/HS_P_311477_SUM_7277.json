@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311477",
+        "caseName": "사기",
+        "caseNum": "2023노221",
+        "sentenceDate": "2024.01.31",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "검사는 피고인이 눈썰매장을 운영할 의사가 없었음에도 피해자를 기망하여 금전을 편취하였다고 주장하며, 원심의 무죄 판결에 대해 항소하였습니다. 그러나 항소심 법원은 원심이 제출된 증거를 종합적으로 고려하여 피고인에게 편취의 범의가 있었음을 합리적인 의심의 여지 없이 증명할 수 없다고 판단한 것이 정당하다고 보았습니다. 이에 항소는 기각되었습니다.",
+        "originwordCnt": "183",
+        "labelwordCnt": "42"
+    }
+}

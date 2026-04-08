@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000928",
+        "promulgDate": "20221213",
+        "effectDate": "20221213",
+        "promulgNum": "19076",
+        "title": "군사기밀 보호법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군사기밀의 지정 원칙은 어떻게 됩니까?",
+        "output": "군사기밀 보호법 제4조 제1항에 따르면 군사기밀은 그 내용과 가치의 정도에 따라 적절히 보호할 수 있는 최저등급으로 지정하여야 합니다. 이는 기밀의 중요도에 따라 적절한 보호조치를 취하여야 함을 의미합니다.",
+        "originwordCnt": "25",
+        "labelwordCnt": "27"
+    }
+}

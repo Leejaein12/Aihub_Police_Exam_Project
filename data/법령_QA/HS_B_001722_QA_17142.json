@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001722",
+        "promulgDate": "20240102",
+        "effectDate": "20240102",
+        "promulgNum": "19922",
+        "title": "정당법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제25조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "중앙당이 탈당신고서를 접수한 경우 어떤 절차를 따라야 합니까?",
+        "output": "중앙당이 탈당신고서를 접수한 때에는 즉시 탈당증명서를 교부하고, 해당 시ㆍ도당에 통보하여 당원명부의 기재를 말소하게 하여야 합니다. 이는 정당법 제25조 제4항에 근거합니다.",
+        "originwordCnt": "122",
+        "labelwordCnt": "20"
+    }
+}

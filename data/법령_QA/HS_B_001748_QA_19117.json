@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001748",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "화물자동차 운수사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제45조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "차고지설치자가 설치·운영계획을 수립할 때 시·도지사에게 받아야 할 것은 무엇인가요?",
+        "output": "화물자동차 운수사업법 제45조 제3항에 따르면 차고지설치자가 설치·운영계획을 수립할 때에는 미리 시·도지사의 인가를 받아야 하며, 계획을 변경하려는 경우에도 인가를 받아야 합니다.",
+        "originwordCnt": "154",
+        "labelwordCnt": "20"
+    }
+}

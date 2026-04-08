@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014070",
+        "promulgDate": "20230711",
+        "effectDate": "20240112",
+        "promulgNum": "19518",
+        "title": "스토킹범죄의 처벌 등에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "스토킹범죄에서 긴급응급조치의 대상자에게 사법경찰관이 고지해야 하는 사항은 무엇인가요?",
+        "output": "스토킹범죄의 처벌 등에 관한 법률 제6조 제2항에 따르면, 사법경찰관은 긴급응급조치를 하는 경우 해당 긴급응급조치대상자에게 조치의 내용 및 불복방법 등을 고지하여야 합니다.",
+        "originwordCnt": "33",
+        "labelwordCnt": "21"
+    }
+}

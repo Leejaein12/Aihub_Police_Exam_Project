@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336026",
+        "caseName": "스토킹범죄의처벌등에관한법률위반등",
+        "caseNum": "2023고단4116",
+        "sentenceDate": "2024.05.10",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "전 연인인 피해자가 연락을 중단하라는 의사를 표시했음에도 수차례 메시지와 전화를 통해 불안감을 유발하고, 피해자가 있는 장소에 찾아가는 등의 행동으로 스토킹과 협박 혐의를 받았습니다. 사건 공소 제기 후 피해자가 처벌을 원하지 않는다는 처벌불원서를 제출하였으므로, 법원은 공소를 모두 기각했습니다.",
+        "originwordCnt": "281",
+        "labelwordCnt": "37"
+    }
+}

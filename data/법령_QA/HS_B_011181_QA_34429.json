@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011181",
+        "promulgDate": "20210608",
+        "effectDate": "20220101",
+        "promulgNum": "18221",
+        "title": "장애인연금법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "장애인연금의 기초급여액이 기준연금액에 따라 변경될 수 있는 경우는 어떤 경우인가요?",
+        "output": "장애인연금법 제6조 제2항에 근거하면, 기초급여액은 제1항의 규정에도 불구하고, 기초연금법 제9조제3항에 따라 기준연금액이 고시된 경우, 그 기준연금액을 기초급여액으로 정합니다.",
+        "originwordCnt": "173",
+        "labelwordCnt": "18"
+    }
+}

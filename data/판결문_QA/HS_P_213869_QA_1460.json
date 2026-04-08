@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "213869",
+        "caseName": "부정선거관련자처벌법위반",
+        "caseNum": "77도251",
+        "sentenceDate": "1977.06.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "예비음모를 처벌한다는 규정만 있고 그 형에 대한 규정이 따로 없는 경우, 처벌할 수 있나요?",
+        "output": "부정선거관련자처벌법 제5조 제4항에서 예비음모를 처벌한다고 규정하고 있으나, 그 형에 대해 따로 규정하고 있지 않은 경우, 죄형법정주의 원칙에 따라 해당 예비음모를 처벌할 수 없습니다.",
+        "originwordCnt": "49",
+        "labelwordCnt": "23"
+    }
+}

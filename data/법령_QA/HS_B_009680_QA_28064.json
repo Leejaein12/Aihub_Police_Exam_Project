@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009680",
+        "promulgDate": "20230328",
+        "effectDate": "20230929",
+        "promulgNum": "19310",
+        "title": "악취방지법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제8조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "신고대상시설 운영자가 악취방지시설을 공동으로 설치ㆍ운영하려는 경우, 어떤 절차를 따라야 하나요?",
+        "output": "악취방지법 제8조의3 제4항에 따르면, 신고대상시설 운영자가 악취방지시설을 공동으로 설치ㆍ운영하려는 경우, 그 시설의 운영기구를 설치하고 대표자를 두어야 합니다.",
+        "originwordCnt": "132",
+        "labelwordCnt": "17"
+    }
+}

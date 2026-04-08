@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002025",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19889",
+        "title": "마약류 관리에 관한 법률",
+        "ministry": "보건복지부,식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제17조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "마약, 향정신성의약품 및 한외마약의 용기나 포장에 무엇을 기재해야 하나요?",
+        "output": "마약류 관리에 관한 법률 제17조 제1항에 따르면 마약, 향정신성의약품 및 한외마약의 용기ㆍ포장 또는 첨부 문서에는 총리령으로 정하는 사항을 기재하여야 합니다.",
+        "originwordCnt": "50",
+        "labelwordCnt": "20"
+    }
+}

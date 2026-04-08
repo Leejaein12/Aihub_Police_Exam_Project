@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319086",
+        "caseName": "농지법위반",
+        "caseNum": "2023고정1407",
+        "sentenceDate": "2024.05.09",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "노래방에서 주류를 판매하거나 제공해서는 안 된다는 음악산업진흥에 관한 법률 제34조 제3항 제2호에 따라 이를 위반한 혐의로 기소되었습니다. 노래연습장에서 손님들에게 소주 1병과 맥주 7캔을 제공한 사실이 인정되었습니다. 그러나 법원은 피고인의 주장과 증거를 종합적으로 검토한 결과, 벌금 150만 원을 선고하였습니다.",
+        "originwordCnt": "161",
+        "labelwordCnt": "38"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000899",
+        "promulgDate": "20230609",
+        "effectDate": "20230710",
+        "promulgNum": "19430",
+        "title": "고등교육법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제11조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "교육부장관은 교육통계조사의 업무를 위해 어떤 기관을 지정할 수 있나요?",
+        "output": "교육부장관은 교육통계조사 등의 업무를 위해 국가교육통계센터를 지정하여 그 업무를 위탁할 수 있으며, 지정이나 업무 위탁에 필요한 경비를 지원할 수 있습니다. 이는 고등교육법 제11조의3 제7항에 근거하고 있습니다.",
+        "originwordCnt": "244",
+        "labelwordCnt": "26"
+    }
+}

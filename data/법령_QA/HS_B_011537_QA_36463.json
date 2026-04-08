@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011537",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19338",
+        "title": "아이돌봄 지원법",
+        "ministry": "여성가족부",
+        "fullText": "N",
+        "smClass": "제10조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "광역지원센터의 장은 중요한 사항을 변경할 때 어떻게 해야 하나요?",
+        "output": "광역지원센터의 장은 중요한 사항을 변경하는 경우 시ㆍ도지사에게 승인을 받아야 합니다. 그 밖의 변경 사항일 경우에는 신고하여야 합니다. 이는 아이돌봄 지원법 제10조의4 제4항에 따라 명시된 규정입니다.",
+        "originwordCnt": "135",
+        "labelwordCnt": "25"
+    }
+}

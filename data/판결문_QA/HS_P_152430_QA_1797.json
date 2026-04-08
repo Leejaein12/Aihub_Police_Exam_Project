@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "152430",
+        "caseName": "항소기각결정에대한항고",
+        "caseNum": "64모4",
+        "sentenceDate": "1965.01.15",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "국선변호인에게 항소이유서를 제출할 기회를 주지 않고 피고인의 항소이유서 불제출만으로 항소를 기각하는 것이 위법한가요?",
+        "output": "형사소송법 제361조의 3 제1항에 따르면, 국선변호인에게 항소이유서를 제출할 기회를 주지 않고 피고인의 항소이유서 불제출만을 이유로 항소를 기각하는 것은 변호인의 변호권을 박탈하는 것이므로 위법입니다.",
+        "originwordCnt": "30",
+        "labelwordCnt": "23"
+    }
+}

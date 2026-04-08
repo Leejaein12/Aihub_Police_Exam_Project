@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93742",
+        "caseName": "살인ㆍ절도",
+        "caseNum": "78도49",
+        "sentenceDate": "1978.02.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "검사직무대리가 작성한 피의자신문조서의 증거능력이 인정될 수 있나요?",
+        "output": "검찰청법 제13조 제4항 및 법원조직법 제29조 제1항에 따르면, 검사직무대리는 합의부 심판사건에 관하여 수사할 수 없으므로, 검사직무대리가 작성한 피의자신문조서는 증거로 할 수 없습니다.",
+        "originwordCnt": "36",
+        "labelwordCnt": "22"
+    }
+}

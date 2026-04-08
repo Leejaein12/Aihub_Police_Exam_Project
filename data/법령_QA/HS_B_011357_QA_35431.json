@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011357",
+        "promulgDate": "20230314",
+        "effectDate": "20240315",
+        "promulgNum": "19234",
+        "title": "개인정보 보호법",
+        "ministry": "개인정보보호위원회",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "정보주체는 완전히 자동화된 개인정보 처리에 대해 어떤 권리를 가집니까?",
+        "output": "정보주체는 완전히 자동화된 개인정보 처리에 따른 결정을 거부하거나 그에 대한 설명 등을 요구할 권리가 있습니다. 개인정보 보호법 제4조 제6호에 규정되어 있습니다.",
+        "originwordCnt": "85",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001472",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19825",
+        "title": "중소기업창업 지원법",
+        "ministry": "중소벤처기업부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "중소기업창업 지원법은 어떤 업종에 적용되지 않나요?",
+        "output": "'중소기업창업 지원법' 제5조제1항에 따르면, 이 법은 창업 및 창업기업등에 관하여 적용됩니다. 다만, 사행산업 등 경제질서 및 미풍양속에 현저히 어긋나는 업종의 창업 및 창업기업등에 관하여는 적용하지 않습니다.",
+        "originwordCnt": "33",
+        "labelwordCnt": "26"
+    }
+}

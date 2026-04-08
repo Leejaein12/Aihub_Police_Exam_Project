@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009412",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19590",
+        "title": "산지관리법",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제19조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "대체산림자원조성비는 어떻게 납부할 수 있나요?",
+        "output": "산지관리법 제19조 제11항에 따르면 대체산림자원조성비는 현금 또는 대통령령으로 정하는 납부대행기관을 통하여 신용카드ㆍ직불카드 등으로 납부할 수 있습니다. 신용카드로 납부하는 경우에는 납부대행기관의 승인일을 납부일로 봅니다.",
+        "originwordCnt": "462",
+        "labelwordCnt": "23"
+    }
+}

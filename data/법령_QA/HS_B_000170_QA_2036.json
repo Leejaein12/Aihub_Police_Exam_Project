@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000170",
+        "promulgDate": "20210401",
+        "effectDate": "20210401",
+        "promulgNum": "17985",
+        "title": "환경분쟁 조정법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제15조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "조정위원회는 어떤 의견을 관계 행정기관의 장에게 통지할 수 있습니까?",
+        "output": "환경분쟁 조정법 제15조의2에 따르면 위원회는 소관 업무 수행으로 얻게 된 환경보전 및 환경피해방지를 위한 개선대책에 관한 의견을 관계 행정기관의 장에게 통지할 수 있습니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "23"
+    }
+}

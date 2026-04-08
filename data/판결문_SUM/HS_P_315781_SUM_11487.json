@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315781",
+        "caseName": "폭행",
+        "caseNum": "2023고정1420",
+        "sentenceDate": "2024.05.23",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "체류자격 연장 문제로 말다툼을 하던 중 피해자의 팔뚝과 손바닥을 잡아 폭행한 혐의로 기소되었습니다. 법원은 이러한 행위가 형법상 정당방위 또는 정당행위에 해당하지 않는다고 판단하였으며, 범행의 경위와 피해 정도, 전과 기록 등을 고려하여 형법 제260조 제1항에 따라 벌금형을 선택하되, 형법 제59조 제1항에 따라 형의 선고를 유예하였습니다.",
+        "originwordCnt": "319",
+        "labelwordCnt": "44"
+    }
+}

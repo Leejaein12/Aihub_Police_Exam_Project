@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "94713",
+        "caseName": "상습야간주거침입절도",
+        "caseNum": "79도2371",
+        "sentenceDate": "1979.12.11",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "상습적으로 단순절도와 야간주거침입절도를 저지른 경우, 어떤 죄가 성립하나요?",
+        "output": "상습적으로 단순절도와 야간주거침입절도를 저지른 경우, 법정형이 더 중한 상습야간주거침입절도죄에 다른 절도 행위들이 포괄되어 하나의 죄만 성립합니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "16"
+    }
+}

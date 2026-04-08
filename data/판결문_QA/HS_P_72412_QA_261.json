@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72412",
+        "caseName": "강도상해 피고사건",
+        "caseNum": "68노123",
+        "sentenceDate": "1968.07.25",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "강도치상죄에서 강도의 실행 중 상해가 발생한 경우, 재물 탈취가 미수에 그쳤다면 미수로 감경될 수 있나요?",
+        "output": "강도치상죄는 강도의 실행 중 상해가 발생한 경우, 재물의 탈취가 미수에 그쳤더라도 기수로 인정되며, 미수로 감경되지 않습니다. 이는 형법 제337조에 따른 해석입니다.",
+        "originwordCnt": "245",
+        "labelwordCnt": "21"
+    }
+}

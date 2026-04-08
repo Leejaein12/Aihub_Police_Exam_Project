@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "136427",
+        "caseName": "전자서명법위반·입찰방해",
+        "caseNum": "2008노3129",
+        "sentenceDate": "2008.11.11",
+        "courtName": "수원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법원이 전자서명법 위반에 대해 무죄를 선고한 이유는 무엇인가요?",
+        "output": "타인의 명의로 공인인증서를 발급받은 것이 아니라 명의자들이 직접 공인인증서를 관리하고 있었으므로, '이 부분 공소사실에 대해 무죄를 선고한다'는 주문에 따라 무죄가 선고되었습니다.",
+        "originwordCnt": "4907",
+        "labelwordCnt": "21"
+    }
+}

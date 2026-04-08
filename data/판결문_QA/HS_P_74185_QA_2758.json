@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "74185",
+        "caseName": "특수강도피고사건",
+        "caseNum": "76노1651",
+        "sentenceDate": "1976.12.10",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "칼날 길이 5.5센티미터 손톱깎이칼이 형법에서 규정하는 흉기에 해당하나요?",
+        "output": "칼날 길이 5.5센티미터의 손톱깎이칼이 사람의 신체에 훼손을 가할 수 있을 정도의 형태 구조를 갖춘 경우, 이는 형법 제334조 제2항에서 규정하는 흉기에 해당한다고 보아야 합니다.",
+        "originwordCnt": "56",
+        "labelwordCnt": "24"
+    }
+}

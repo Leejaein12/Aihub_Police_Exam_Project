@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336932",
+        "caseName": "상해등",
+        "caseNum": "2023노4495",
+        "sentenceDate": "2024.02.07",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "상해와 재물손괴 혐의로 기소되었으며, 벌금형을 초과하는 처벌 전력은 없으나 동종 전과가 2회 있습니다. 피해자들과 합의하지 못했고 피해 회복도 이루어지지 않았습니다. 이에 원심의 벌금 700만 원형은 가볍다고 판단되어, 형법 제257조 제1항과 제366조를 적용해 징역 6월에 집행유예 2년을 선고하였습니다.",
+        "originwordCnt": "219",
+        "labelwordCnt": "37"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "228463",
+        "caseName": "준항고",
+        "caseNum": "2018보6",
+        "sentenceDate": "2019.08.16",
+        "courtName": "서울남부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "검찰이 디지털포렌식 절차를 진행하면서 준항고인의 참여권을 보장하지 않은 것이 문제인가요?",
+        "output": "검찰이 디지털포렌식 절차를 진행할 때 준항고인에게 참여권을 통지하지 않고, 압수조서와 압수목록을 교부하지 않은 것은 형사소송법에 따른 적법절차를 위반한 것으로 인정되었습니다. 따라서 이 사건 압수처분은 위법하여 취소되었습니다.",
+        "originwordCnt": "1030",
+        "labelwordCnt": "26"
+    }
+}

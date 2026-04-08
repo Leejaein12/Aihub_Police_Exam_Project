@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332966",
+        "caseName": "사기등",
+        "caseNum": "2023노3458",
+        "sentenceDate": "2023.11.23",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "지인의 주민등록번호를 도용하여 피고인이 국민건강보험급여를 편취한 사실이 인정되며, 동종 범죄로 여러 차례 처벌받은 이력이 있습니다. 원심은 주민등록법 위반과 다른 범죄 간의 경합 관계를 잘못 판단하여 판결에 영향을 미친 점이 있으며, 이에 따라 법정 형을 재조정하게 되었습니다. 따라서, 원심판결을 파기하고, 피고인에게 벌금을 부과하였습니다.",
+        "originwordCnt": "337",
+        "labelwordCnt": "42"
+    }
+}

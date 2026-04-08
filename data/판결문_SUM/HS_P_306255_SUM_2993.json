@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "306255",
+        "caseName": "아동복지법위반, 협박",
+        "caseNum": "2015고단1308",
+        "sentenceDate": "2015. 6. 11.",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술에 취해 자신의 아들을 폭행한 피고인은, 물건을 던지며 협박하는 등 신체적 학대를 하였습니다. 또한, 다음 날에는 사건을 경찰에 신고한 처를 협박하였습니다. 피고인은 이로 인해 아동복지법 위반 및 협박 혐의로 기소되었으며, 법원은 피고인의 범행이 죄질이 나쁘고 피해자들과의 관계 등을 고려해 징역 10월의 실형을 선고하였습니다.",
+        "originwordCnt": "351",
+        "labelwordCnt": "43"
+    }
+}

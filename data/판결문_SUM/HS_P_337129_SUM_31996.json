@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337129",
+        "caseName": "점유이탈물횡령",
+        "caseNum": "2023고단4085",
+        "sentenceDate": "2024.05.14",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "타인의 주민등록증을 습득한 후 이를 반환하지 않고 자신이 가질 목적으로 횡령하였습니다. 법원은 이러한 행위가 점유이탈물횡령에 해당한다고 판단하고, 형법 제360조 제1항을 적용하여 벌금 30만 원을 선고하였습니다. 범행을 인정하고 반성하며 형사처벌 전력이 없다는 점을 고려하여 형을 정한 것입니다.",
+        "originwordCnt": "177",
+        "labelwordCnt": "36"
+    }
+}

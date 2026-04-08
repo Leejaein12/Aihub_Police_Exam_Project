@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "71938",
+        "caseName": "물가조절에관한임시조치법위반피고사건",
+        "caseNum": "63노3",
+        "sentenceDate": "1963.05.23",
+        "courtName": "광주고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "벌금형의 경중을 비교할 때 어떤 기준이 적용되나요?",
+        "output": "벌금형의 경중을 비교할 때, 행위시법에 따른 벌금액이 정해져 있지 않은 경우, 재판시법에서 정한 소액이 많은 경우가 더 중한 것으로 보게 됩니다. 이는 형법 부칙 제1조와 형법 제50조에 근거한 판단입니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "29"
+    }
+}

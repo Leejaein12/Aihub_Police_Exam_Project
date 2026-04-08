@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "143427",
+        "caseName": "업무상배임",
+        "caseNum": "4294형상449",
+        "sentenceDate": "1961.10.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "포괄일죄에 대한 판결에서 주문은 어떻게 선고해야 하나요?",
+        "output": "포괄일죄에 대해서는 유죄와 무죄를 불문하고 하나의 주문으로 선고하여야 하며, 이를 분리하여 일부에 유죄, 일부에 무죄라는 두 개의 주문을 낼 수는 없습니다.",
+        "originwordCnt": "13",
+        "labelwordCnt": "21"
+    }
+}

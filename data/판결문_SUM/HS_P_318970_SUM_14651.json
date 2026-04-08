@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318970",
+        "caseName": "강제추행",
+        "caseNum": "2023노1182",
+        "sentenceDate": "2023.07.18",
+        "courtName": "서울고등법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "야간에 피고인은 일면식도 없는 피해자를 뒤따라가 피해자의 고시원 방안에 침입한 후 피고인의 바지 지퍼를 내리고 피해자의 팔을 만져 강제로 추행하였습니다. 원심의 형이 과중하다는 피고인의 주장은, 원심이 이미 피고인에게 유리한 정상들을 고려하여 형을 정한 바가 있어 받아들여지지 않았습니다. 따라서 피고인의 항소를 기각하였습니다.",
+        "originwordCnt": "1037",
+        "labelwordCnt": "41"
+    }
+}

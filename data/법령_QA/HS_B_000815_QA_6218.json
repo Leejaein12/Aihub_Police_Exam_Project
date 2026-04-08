@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000815",
+        "promulgDate": "20240326",
+        "effectDate": "20240326",
+        "promulgNum": "20423",
+        "title": "청소년 보호법",
+        "ministry": "여성가족부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "청소년유해매체물은 어떤 보호조치에 따라 포장해야 합니까?",
+        "output": "청소년 보호법 제14조 제1항에 따르면 청소년유해매체물은 포장해야 합니다. 이 경우 매체물의 특성으로 인해 포장할 수 없는 것은 포장에 준하는 보호조치를 마련하여 시행해야 합니다.",
+        "originwordCnt": "41",
+        "labelwordCnt": "23"
+    }
+}

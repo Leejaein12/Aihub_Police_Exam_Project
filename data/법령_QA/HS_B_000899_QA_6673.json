@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000899",
+        "promulgDate": "20230609",
+        "effectDate": "20230710",
+        "promulgNum": "19430",
+        "title": "고등교육법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제19조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "학교가 설치한 대학평의원회의 구성ㆍ운영 등에 필요한 사항을 정하는 기준은 무엇인가요?",
+        "output": "고등교육법 제19조의2 제7항에 의하면 그 밖에 대학평의원회의 구성ㆍ운영 등에 필요한 사항은 대통령령으로 정하는 바에 따라 해당 학교법인의 정관 및 학칙으로 정합니다",
+        "originwordCnt": "246",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012045",
+        "promulgDate": "20210608",
+        "effectDate": "20220101",
+        "promulgNum": "18213",
+        "title": "기초연금법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제25조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가는 기초연금 지급에 드는 비용 중 얼마나 부담하나요?",
+        "output": "기초연금법 제25조 제1항에 따르면, 국가는 지방자치단체의 노인인구 비율 및 재정 여건 등을 고려하여 기초연금 지급에 드는 비용 중 40% 이상 90% 이하의 범위에서 대통령령으로 정하는 비율에 해당하는 비용을 부담합니다.",
+        "originwordCnt": "65",
+        "labelwordCnt": "29"
+    }
+}

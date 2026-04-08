@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "121403",
+        "caseName": "사기",
+        "caseNum": "91도1796",
+        "sentenceDate": "1991.12.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "검사만이 항소한 경우 피고인이 사실오인 등을 주장하며 상고할 수 없다는 법적 근거는 무엇인가요?",
+        "output": "피고인이 사실오인이나 법령위반 사유를 주장하며 상고할 수 없는 이유는 형사소송법 제383조와 제384조에 명시되어 있습니다. 이 규정에 따라 피고인은 자신이 항소하지 않은 경우, 사실오인이나 법령위반을 상고 이유로 삼을 수 없습니다.",
+        "originwordCnt": "154",
+        "labelwordCnt": "29"
+    }
+}

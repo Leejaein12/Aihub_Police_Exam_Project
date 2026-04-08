@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "96379",
+        "caseName": "세무사법위반",
+        "caseNum": "81도2292",
+        "sentenceDate": "1982.02.23",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "경영지도사나 기장지도업체가 세무사와 같은 역할을 할 수 있나요?",
+        "output": "중소기업진흥법 제10조와 세무사법 제2조에 따르면, 경영지도사나 기장지도업체는 세무사와는 달라서 납세의무자의 위촉에 따라 조세에 관한 기장업무를 대리할 수 없습니다. 이러한 업무는 세무사의 직무에 해당하며, 경영지도사나 기장지도업체는 이를 수행할 권한이 없습니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "29"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313403",
+        "caseName": "근로기준법위반등",
+        "caseNum": "2023고정636",
+        "sentenceDate": "2023.09.13",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "의약품 제조업체의 대표이사로서 퇴직한 근로자에게 임금과 퇴직금을 근로기준법 제36조 및 근로자퇴직급여 보장법 제9조에 따라 지급기일 내에 지급하지 않았습니다. 그러나 피해자가 처벌을 원하지 않는다는 의사를 표시한 고소취하서를 제출하여 근로기준법 제109조 제2항에 따라 반의사불벌죄로 공소가 기각되었습니다.",
+        "originwordCnt": "236",
+        "labelwordCnt": "34"
+    }
+}

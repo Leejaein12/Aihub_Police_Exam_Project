@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "97601",
+        "caseName": "의료법위반",
+        "caseNum": "82도2680",
+        "sentenceDate": "1983.04.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "약사가 진맥과 문진을 통해 환자의 병을 진단하고, 의약품조제 원전이 아닌 책을 참고하여 약을 조제한 것이 의료행위에 해당하나요?",
+        "output": "약사가 진맥과 문진을 통해 환자의 병명을 판단하고, 보건사회부장관 지정의 공정서가 아닌 다른 책을 참고하여 약을 조제한 경우, 이는 의료법 제25조 제1항에 규정된 의료행위에 해당합니다.",
+        "originwordCnt": "63",
+        "labelwordCnt": "24"
+    }
+}

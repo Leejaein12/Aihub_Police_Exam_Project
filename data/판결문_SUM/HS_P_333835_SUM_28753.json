@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333835",
+        "caseName": "사기등",
+        "caseNum": "2023고단224",
+        "sentenceDate": "2023.05.03",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "별다른 재산이나 수입이 없었고 아파트를 분양해줄 수 없었지만 공사비용 2천만원을 빌려주면 아파트 분양권을 주겠다고 거짓말하여 기망했습니다. 또한 근로자가 퇴직한 근로자의임금을 지급하지 않았습니다. 따라서 재판부는 피고인에게 징역 6월, 집행유예 2년을 선고하였고 80시간의 사회봉사를 명령했습니다.",
+        "originwordCnt": "338",
+        "labelwordCnt": "33"
+    }
+}

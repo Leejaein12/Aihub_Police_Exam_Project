@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제24조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에서 선거구법률안은 본회의에서 어떻게 처리되나요?",
+        "output": "공직선거법 제24조의2제6항에 따르면, 국회의장은 선거구법률안 또는 그 포함된 법률안을 처음 개의하는 본회의에 부의하여야 하며, 본회의는 이를 수정 없이 바로 표결합니다.",
+        "originwordCnt": "157",
+        "labelwordCnt": "20"
+    }
+}

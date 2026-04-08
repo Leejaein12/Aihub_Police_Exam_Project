@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "145389",
+        "caseName": "재물손괴",
+        "caseNum": "2006고정2934",
+        "sentenceDate": "2007.02.23",
+        "courtName": "서울동부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "재물을 손괴한 행위에 대해 법원은 어떤 이유로 벌금형을 선고하였나요?",
+        "output": "술에 취해 타인의 차량을 손괴한 행위를 인정하고, 형법 제366조에 따라 벌금형을 선택했습니다. 주문에서는 벌금 500,000원을 부과하고, 미납 시 노역장 유치를 명시했습니다.",
+        "originwordCnt": "194",
+        "labelwordCnt": "21"
+    }
+}

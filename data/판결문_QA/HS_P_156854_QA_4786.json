@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "156854",
+        "caseName": "도주",
+        "caseNum": "71도1468",
+        "sentenceDate": "1971.11.30",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "범행 동기를 말하는 주장이 심신장애를 이유로 범죄 성립을 조각하는 주장이 될 수 있나요?",
+        "output": "범행 당시의 착각이나 범행 동기를 말하는 주장은 법률상 범죄 성립을 조각하는 이유나 형의 감면 이유로서 심신장애를 주장한 것으로 볼 수 없습니다. 이는 형법 제10조 제1항 및 제2항의 규정에 따른 것입니다.",
+        "originwordCnt": "69",
+        "labelwordCnt": "30"
+    }
+}

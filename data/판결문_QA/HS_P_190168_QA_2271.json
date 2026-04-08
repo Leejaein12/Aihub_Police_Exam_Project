@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "190168",
+        "caseName": "특정범죄가중처벌등에관한법률위반피고사건",
+        "caseNum": "79노403",
+        "sentenceDate": "1979.07.26",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "예비행위의 방조행위는 방조범으로 처벌할 수 있나요?",
+        "output": "형법 제32조에 따르면, 예비행위의 방조행위는 방조범으로 처벌할 수 없습니다. 이는 예비행위가 본범의 실행에 이르지 않은 준비 단계에 머물러 있는 행위이므로, 그 방조행위 또한 범죄로 처벌할 수 없다는 원칙에 기초합니다.",
+        "originwordCnt": "48",
+        "labelwordCnt": "29"
+    }
+}

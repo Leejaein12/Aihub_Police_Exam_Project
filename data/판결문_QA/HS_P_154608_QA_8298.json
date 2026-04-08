@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "154608",
+        "caseName": "반공법위반",
+        "caseNum": "72도999",
+        "sentenceDate": "1972.06.27",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "반공법 제4조에서 반국가 단체를 찬양하거나 이롭게 하는 행위에 목적의식이 필요한가요?",
+        "output": "반공법 제4조에 따르면, 반국가 단체를 찬양하거나 이롭게 하는 행위에는 행위자에게 특별한 목적의식(의욕)이 필요하지 않습니다. 해당 행위에 대한 사실 인식만 있으면 족하다고 판단됩니다.",
+        "originwordCnt": "57",
+        "labelwordCnt": "22"
+    }
+}

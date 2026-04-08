@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011584",
+        "promulgDate": "20230111",
+        "effectDate": "20230111",
+        "promulgNum": "01108",
+        "title": "군검찰 압수물 사무규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검찰서기는 군검찰 압수물과 관련된 업무를 처리할 때 어떤 태도를 가져야 하나요?",
+        "output": "검찰서기는 압수물을 신속하고 정확하게 취급하고, 관계 서류를 정비하여 타인의 의혹을 사는 일이 없도록 엄정한 태도로 관련 업무를 처리해야 합니다. 이는 군검찰 압수물 사무규칙 제3조 제2항에 규정되어 있습니다.",
+        "originwordCnt": "40",
+        "labelwordCnt": "27"
+    }
+}

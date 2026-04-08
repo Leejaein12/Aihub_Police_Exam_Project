@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001783",
+        "promulgDate": "20230418",
+        "effectDate": "20240419",
+        "promulgNum": "19359",
+        "title": "약사법",
+        "ministry": "보건복지부,식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제68조의11",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "의약품부작용 심의위원회의 구성은 어떻게 이루어집니까?",
+        "output": "약사법 제68조의11 제2항에 따르면, 의약품부작용 심의위원회는 위원장 1명을 포함한 10명 이상 15명 이내의 위원으로 구성되며, 위원장은 위원 중에서 호선으로 선출됩니다.",
+        "originwordCnt": "151",
+        "labelwordCnt": "20"
+    }
+}

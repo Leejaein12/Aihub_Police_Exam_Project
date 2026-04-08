@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86358",
+        "caseName": "업무상실화",
+        "caseNum": "4290형상433",
+        "sentenceDate": "1958.01.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "검사 또는 사법경찰관이 작성한 조서의 증거가치는 어떻게 평가되나요?",
+        "output": "검사 또는 사법경찰관이 작성한 조서는 법정에서 증거능력을 갖춘 경우, 법원이 조사한 다른 증거와 동등한 증거가치가 있으며, 그 증거의 선택은 사실심의 자유심증에 따라 결정됩니다.",
+        "originwordCnt": "14",
+        "labelwordCnt": "23"
+    }
+}

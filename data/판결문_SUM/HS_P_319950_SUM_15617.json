@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319950",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고정129",
+        "sentenceDate": "2023.11.14",
+        "courtName": "서울서부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2020년 7월 13일, 한 기숙사에서 동료가 자리를 비운 사이에 소유물인 맨투맨 티셔츠를 절취한 사실이 확인되었습니다. 범행자는 이를 인정하며, 증거로는 진술서와 CCTV 분석 결과 등이 제시되었습니다. 이에 따라 법원은  범죄 행위에 대한 엄중한 경각심을 일깨우고자 벌금을 부과하였습니다.",
+        "originwordCnt": "137",
+        "labelwordCnt": "37"
+    }
+}

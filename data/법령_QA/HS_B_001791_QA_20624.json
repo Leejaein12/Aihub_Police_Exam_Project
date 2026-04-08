@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001791",
+        "promulgDate": "20230613",
+        "effectDate": "20231214",
+        "promulgNum": "19442",
+        "title": "결핵예방법",
+        "ministry": "질병관리청",
+        "fullText": "N",
+        "smClass": "제20조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "질병관리청장은 결핵환자등과 잠복결핵감염자에 대하여 결핵 치료에 드는 비용을 지원할 수 있습니까?",
+        "output": "질병관리청장은 대통령령으로 정하는 바에 따라 결핵환자등과 잠복결핵감염자에 대하여 예산의 범위에서 결핵 치료에 드는 비용을 지원할 수 있습니다. 이는 결핵예방법 제20조에 명시되어 있습니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "22"
+    }
+}

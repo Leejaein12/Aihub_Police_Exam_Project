@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312721",
+        "caseName": "사기",
+        "caseNum": "2023고단2625",
+        "sentenceDate": "2024.01.19",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "대금을 변제할 의사나 능력이 없었음에도 불구하고, 피해자로부터 스포츠토토를 외상으로 발권받아 재산상 이익을 취득하였습니다. 이에 대해 법원은 피고인에게 징역 6개월을 선고하였으나, 형의 집행은 2년간 유예하였습니다. 또한, 피고인이 피해자와 합의하고 배상명령 신청서에 서명·날인이 누락된 점을 이유로 배상신청은 각하되었습니다.",
+        "originwordCnt": "333",
+        "labelwordCnt": "36"
+    }
+}

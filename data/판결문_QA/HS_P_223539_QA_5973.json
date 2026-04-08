@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "223539",
+        "caseName": "업무상배임",
+        "caseNum": "72도1366",
+        "sentenceDate": "1973.11.13",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "업무상배임죄에서 본인에게 손해를 가한다는 것은 어떤 의미인가요?",
+        "output": "형법 제356조와 제355조에 따르면, 업무상배임죄에서 “본인에게 손해를 가한 때”란 재산적 가치의 감소를 의미하며, 이는 재산적 실해를 가한 경우뿐만 아니라 실해 발생의 위험을 초래한 경우도 포함됩니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "25"
+    }
+}

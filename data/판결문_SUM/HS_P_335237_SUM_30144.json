@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335237",
+        "caseName": "강제추행",
+        "caseNum": "2023노1221",
+        "sentenceDate": "2023.08.10",
+        "courtName": "의정부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "치료를 빙자하여 피해자를 추행하였으며, 피해자가 엄벌을 탄원하고 있는 점 등을 고려할 때 죄질이 좋지 않다고 판단되었습니다. 또한 범행 인정 및 공탁 등의 유리한 사정을 참작하더라도 원심의 형은 재량의 범위 내에 있어 무겁거나 가볍지 않다고 보이므로, 이에 따라 피고인과 검사의 항소를 모두 기각하였습니다.",
+        "originwordCnt": "199",
+        "labelwordCnt": "42"
+    }
+}

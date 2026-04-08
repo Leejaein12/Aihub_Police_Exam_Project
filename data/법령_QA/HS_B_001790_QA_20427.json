@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001790",
+        "promulgDate": "20240220",
+        "effectDate": "20240521",
+        "promulgNum": "20323",
+        "title": "검역법",
+        "ministry": "질병관리청",
+        "fullText": "N",
+        "smClass": "제4조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "질병관리청장과 검역소장은 기본계획이나 시행계획의 수립,시행에 필요한 자료를 요청할 수 있나요?",
+        "output": "질병관리청장과 검역소장은 기본계획이나 시행계획의 수립,시행에 필요한 자료의 제공을 관계 행정기관 또는 단체에 요청할 수 있습니다. 검역법 제4조의2 제4항에 규정되어 있습니다.",
+        "originwordCnt": "113",
+        "labelwordCnt": "20"
+    }
+}

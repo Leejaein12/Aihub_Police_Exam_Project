@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332174",
+        "caseName": "사기등",
+        "caseNum": "2023고단1184",
+        "sentenceDate": "2023.06.29",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2022년 6월 식당에서 피고인이 술값 문제로 소란을 피워 식당 영업을 방해했고, 출동한 경찰의 신원 확인 요구를 거부하며 경찰관의 손목을 때려 공무집행을 방해한 사실이 인정되었습니다. 이전에도 유사한 범죄 전력이 있었으나, 피해자들과의 합의와 경찰관의 사과 수용이 참작되었습니다. 이에 징역 10개월에 처하되, 집행을 유예하였습니다.",
+        "originwordCnt": "575",
+        "labelwordCnt": "41"
+    }
+}

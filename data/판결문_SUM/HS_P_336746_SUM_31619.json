@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336746",
+        "caseName": "재물손괴",
+        "caseNum": "2024고정282",
+        "sentenceDate": "2024.05.14",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피해자가 분실한 지갑과 그 안에 있던 체크카드, 주민등록증, 현금을 습득한 후 반환 절차를 밟지 않고 자신의 소유로 가져감으로써 점유이탈물을 횡령하였습니다. 이에 대해 법원은 형법 제360조 제1항을 적용하여 벌금 50만 원을 선고하였습니다.",
+        "originwordCnt": "224",
+        "labelwordCnt": "31"
+    }
+}

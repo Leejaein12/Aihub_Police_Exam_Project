@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001372",
+        "promulgDate": "20201020",
+        "effectDate": "20201020",
+        "promulgNum": "17560",
+        "title": "감사원법",
+        "ministry": "감사원",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "감사위원회의의 증인 또는 감정인에 관하여는 어떠한 법령을 통해 정하는가요?",
+        "output": "감사원법 제14조 제2항에 의거하면, 제1항의 증인 또는 감정인에 관하여는 형사소송법 제1편제12장 및 제13장을 각각 준용합니다. 다만, 같은 법 제151조와 구인에 관한 규정은 준용하지 않습니다.",
+        "originwordCnt": "42",
+        "labelwordCnt": "24"
+    }
+}

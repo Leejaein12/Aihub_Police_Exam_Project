@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72412",
+        "caseName": "강도상해 피고사건",
+        "caseNum": "68노123",
+        "sentenceDate": "1968.07.25",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "강도치상죄가 성립하려면 상해가 강도의 수단으로 발생해야 하나요?",
+        "output": "강도치상죄는 강도의 실행 중 또는 그 기회에 상해의 결과가 발생함으로써 성립되며, 상해가 강도의 수단으로 발생하지 않았더라도 죄책을 면할 수 없습니다. 이는 형법 제337조에 따라 강도치상죄로 처벌됩니다.",
+        "originwordCnt": "43",
+        "labelwordCnt": "26"
+    }
+}

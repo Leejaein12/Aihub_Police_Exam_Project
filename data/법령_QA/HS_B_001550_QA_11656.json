@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001550",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "한국은행법",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제67조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국은행은 극심한 통화팽창기에는 어떤 조치를 취할 수 있습니까?",
+        "output": "한국은행은 극심한 통화팽창기에는 금융기관에 대한 여신을 제한하여야 하며, 부득이한 경우에만 신규로 여신하되 조속히 여신액을 감축하도록 노력하여야 합니다. 이는 한국은행법 제67조에 명시되어 있습니다.",
+        "originwordCnt": "20",
+        "labelwordCnt": "22"
+    }
+}

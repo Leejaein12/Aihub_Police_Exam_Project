@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155911",
+        "caseName": "명령위반",
+        "caseNum": "68도1833",
+        "sentenceDate": "1969.04.15",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "군무이탈죄에 대한 공소시효가 완성된 자에게도 자수 명령이 정당한가요?",
+        "output": "군형법 제47조에 따라, 군무이탈자에 대한 자수 명령은 군무이탈죄에 대한 공소시효가 완성된 자에 대해서도 정당한 명령으로 인정됩니다. 이는 공소시효의 완성과 관계없이 자수 명령이 법적 효력을 가지는 것으로 판단됩니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "27"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155592",
+        "caseName": "공정증서원본불실기재,강제집행면탈",
+        "caseNum": "70도643",
+        "sentenceDate": "1970.05.12",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공정증서원본불실기재죄는 어떤 경우에 성립하지 않나요?",
+        "output": "공정증서원본불실기재죄는 공정증서원본에 불실한 사실을 기재하게 해야 성립하는 범죄로, 가등기가 권리자와 의무자의 합의에 의해 이루어진 경우에는 해당 죄가 성립하지 않습니다. 이는 형법 제228조에 따라 판단됩니다.",
+        "originwordCnt": "59",
+        "labelwordCnt": "24"
+    }
+}

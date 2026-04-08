@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001692",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19582",
+        "title": "형법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "자기의 행위가 법령에 의하여 죄가 되지 아니하는 것으로 오인한 경우에는 처벌을 받지 않습니까?",
+        "output": "자기의 행위가 법령에 의하여 죄가 되지 아니하는 것으로 오인한 행위는 그 오인에 정당한 이유가 있는 때에 한하여 벌하지 아니합니다. 이는 형법 제16조에 명시되어 있습니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "24"
+    }
+}

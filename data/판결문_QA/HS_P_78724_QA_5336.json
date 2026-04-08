@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78724",
+        "caseName": "병역법위반",
+        "caseNum": "2007노2254",
+        "sentenceDate": "2007.09.05",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "양심적 병역거부가 헌법상 정당한 사유로 인정될 수 있나요?",
+        "output": "양심적 병역거부는 헌법상 양심의 자유와 종교의 자유로 보호받을 수 있으나, 국방의 의무와 같은 헌법적 법익보다 우월한 가치로 인정되지 않으므로 병역법 제88조 제1항의 정당한 사유로 인정되지 않습니다.",
+        "originwordCnt": "1307",
+        "labelwordCnt": "26"
+    }
+}

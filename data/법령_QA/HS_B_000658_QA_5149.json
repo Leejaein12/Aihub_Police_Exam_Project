@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000658",
+        "promulgDate": "20240326",
+        "effectDate": "20240326",
+        "promulgNum": "20408",
+        "title": "통계법",
+        "ministry": "기획재정부,통계청",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "통계와 관련된 법령을 제정 또는 개정할 때 필요한 절차는 무엇인가요?",
+        "output": "'통계법' 제5조 제2항에 따르면, 관계 행정기관의 장은 통계의 작성, 보급 및 이용에 관한 사항을 내용으로 하는 법령을 제정, 개정 또는 폐지하고자 할 때에는 미리 통계청장과 협의하여야 합니다.",
+        "originwordCnt": "41",
+        "labelwordCnt": "27"
+    }
+}

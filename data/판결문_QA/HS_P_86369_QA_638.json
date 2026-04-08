@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86369",
+        "caseName": "살인",
+        "caseNum": "4291형상415",
+        "sentenceDate": "1958.11.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "범행 당시 피고인의 정신 상태를 판단할 때 증인의 증언만으로 판단할 수 있나요?",
+        "output": "범행 당시 피고인의 정신 상태를 판단할 때에는 증인의 증언만으로 판단해서는 안 됩니다. 정신의 미약 정도를 인정하려면 전문의에 의한 의학적 감정이 필요하며, 이를 무시하고 증언만으로 피고인의 정신 상태를 판단한 것은 위법합니다. 이는 형법 제10조에 근거한 판단입니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "35"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제8조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에서 언론중재위원회는 어떤 목적으로 선거기사심의위원회를 설치·운영해야 하나요?",
+        "output": "공직선거법 제8조의3제1항에 따르면, 언론중재위원회는 선거기사의 공정성을 유지하기 위하여 선거기사심의위원회를 설치·운영하여야 합니다.",
+        "originwordCnt": "247",
+        "labelwordCnt": "11"
+    }
+}

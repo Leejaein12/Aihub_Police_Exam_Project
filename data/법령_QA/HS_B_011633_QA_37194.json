@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011633",
+        "promulgDate": "20191210",
+        "effectDate": "20200611",
+        "promulgNum": "16785",
+        "title": "식물신품종 보호법",
+        "ministry": "농림축산식품부,해양수산부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "품종보호관리인은 어떤 절차에서 재외자를 대리하나요?",
+        "output": "식물신품종 보호법 제4조 제2항에 따르면, 품종보호관리인은 특별히 주어진 권한과 모든 품종보호에 관한 절차 및 이 법 또는 이 법에 따른 명령에 따라 행정청이 한 처분에 관한 소송에서 재외자를 대리합니다.",
+        "originwordCnt": "146",
+        "labelwordCnt": "29"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "306365",
+        "caseName": "야생생물보호및관리에관한법률위반",
+        "caseNum": "2019고정769",
+        "sentenceDate": "2019. 9. 6.",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "반달가슴곰을 증식하는 사업을 운영하는 피고인은, 환경부로부터 인공증식 허가를 받지 않고 국제적 멸종위기종인 반달가슴곰 8마리를 증식한 사실이 인정되었습니다. 또한, 해당 사건 법인은 피고인의 위법행위와 관련된 법인의 업무를 총괄하였습니다. 이에 두 피고인에게 각각 벌금 300만 원이 선고되었습니다.",
+        "originwordCnt": "225",
+        "labelwordCnt": "35"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001742",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19134",
+        "title": "선박안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "해양수산부장관은 건조검사에 합격한 선박에 대해 어떤 조치를 취하나요?",
+        "output": "선박안전법 제7조 제2항에 따르면, 해양수산부장관은 건조검사에 합격한 선박에 대하여 해양수산부령으로 정하는 사항과 검사기록을 기재한 건조검사증서를 교부하여야 합니다.",
+        "originwordCnt": "104",
+        "labelwordCnt": "17"
+    }
+}

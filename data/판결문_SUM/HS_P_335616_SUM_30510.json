@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335616",
+        "caseName": "폭행",
+        "caseNum": "2022고단664",
+        "sentenceDate": "2023.08.23",
+        "courtName": "의정부지방법원 남양주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "주점 옆 노상에서 피해자들과 말다툼 중 피해자 F와 G의 멱살을 잡고 얼굴과 뺨을 때려 폭행하였습니다. 이에 따라 피고인은 폭행죄로 기소되었습니다. 법원은 피고인에게 벌금 300만 원을 선고하였습니다. 피해자 B와 C에 대한 폭행에 대해서는 처벌불원의 의사 표시로 인해 공소가 기각되었습니다.",
+        "originwordCnt": "316",
+        "labelwordCnt": "38"
+    }
+}

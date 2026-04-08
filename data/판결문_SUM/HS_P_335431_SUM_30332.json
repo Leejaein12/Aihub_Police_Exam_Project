@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335431",
+        "caseName": "도로교통법위반등",
+        "caseNum": "2023고단959",
+        "sentenceDate": "2024.02.06",
+        "courtName": "광주지방법원 목포지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "과거 음주운전으로 처벌받은 전력이 있음에도 다시 혈중알코올농도 0.141%의 술에 취한 상태로 약 1m를 운전한 사실이 인정되었습니다. 법원은 도로교통법 제148조의2 제1항 제3호 및 제44조 제1항을 적용하여 피고인에게 징역 6개월을 선고하였으나, 1년간 형의 집행을 유예하고, 40시간의 준법운전강의 수강을 명령하였습니다.",
+        "originwordCnt": "197",
+        "labelwordCnt": "37"
+    }
+}

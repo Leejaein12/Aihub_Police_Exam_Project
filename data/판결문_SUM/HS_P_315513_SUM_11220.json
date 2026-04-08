@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315513",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023노1454",
+        "sentenceDate": "2023.08.10",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주운전으로 징역 1년을 선고받은 피고인에 대하여, 항소심 법원은 피고인의 범행 인정 및 반성, 동종 및 이종 범죄 전력, 음주 수치 등 여러 양형 요소가 이미 원심에서 충분히 고려되었으며, 항소심에서 이를 변경할 만한 사정변경도 없다고 판단하였습니다. 따라서 피고인의 항소는 이유 없으므로 이를 기각되었습니다.",
+        "originwordCnt": "188",
+        "labelwordCnt": "42"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "151280",
+        "caseName": "관세법위반",
+        "caseNum": "63도224",
+        "sentenceDate": "1963.10.10",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "불이익변경 금지의 원칙에 반하지 않는다고 인정된 실례는 어떤 경우인가요?",
+        "output": "벌금형을 감경하면서 추가로 물건을 몰수한 판결이 전체적으로 보아 불이익변경 금지의 원칙에 반하지 않는다고 인정된 사례에서는, 벌금이 감경된 대신 부가형으로 물건이 몰수되었지만 전체 형이 더 중해졌다고 볼 수 없다고 판단되었습니다.",
+        "originwordCnt": "473",
+        "labelwordCnt": "29"
+    }
+}

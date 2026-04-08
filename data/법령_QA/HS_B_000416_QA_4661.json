@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000416",
+        "promulgDate": "20220104",
+        "effectDate": "20220705",
+        "promulgNum": "18690",
+        "title": "비료관리법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "비료생산업자의 지위를 승계한 자는 어떤 절차를 따라야 하나요?",
+        "output": "비료관리법 제13조 제2항에 따르면, 비료생산업자의 지위를 승계한 자는 농림축산식품부령으로 정하는 바에 따라 승계한 날부터 30일 이내에 관할 시장ㆍ군수ㆍ구청장에게 신고하여야 합니다.",
+        "originwordCnt": "67",
+        "labelwordCnt": "20"
+    }
+}

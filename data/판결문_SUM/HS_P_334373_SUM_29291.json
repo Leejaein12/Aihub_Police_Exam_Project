@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334373",
+        "caseName": "강제추행",
+        "caseNum": "2023노321",
+        "sentenceDate": "2023.04.26",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "해외에 거점을 둔 보이스피싱 범죄에 필수적인 역할인 중계기 관리책으로 가담하여 3,000만 원 상당의 피해를 입힌 혐의로 1심에서 징역 2년을 선고받은 피고인은 항소심에서 형이 너무 무거워 부당하다고 주장했습니다. 그러나, 항소심 법원은 1심의 양형이 재량의 합리적인 범위를 벗어나지 않았다고 판단하여 피고인의 항소를 기각하였습니다.",
+        "originwordCnt": "244",
+        "labelwordCnt": "41"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335693",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단293",
+        "sentenceDate": "2024.02.08",
+        "courtName": "광주지방법원 해남지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "주차된 차량의 창문을 통해 글로브 박스에서 현금 500만 원을 절취한 혐의로 기소되었습니다. 법원은 피고인이 집행유예 기간 중 범행을 저질러 죄질이 좋지 않다고 보았으나, 피고인이 자신의 잘못을 인정하고 피해자와 합의한 점 등을 참작하여 벌금 200만 원을 선고하였습니다.",
+        "originwordCnt": "212",
+        "labelwordCnt": "36"
+    }
+}

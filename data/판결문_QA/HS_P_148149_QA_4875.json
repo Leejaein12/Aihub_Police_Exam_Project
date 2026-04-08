@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "148149",
+        "caseName": "특정경제범죄가중처벌등에관한법률위반(배임)",
+        "caseNum": "2008고합183",
+        "sentenceDate": "2009.05.28",
+        "courtName": "전주지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "법원이 피고인에게 징역형을 선고하면서도 무죄 부분을 따로 선고하지 않은 이유는 무엇인가요?",
+        "output": "법원은 특정경제범죄가중처벌등에관한법률위반(배임)죄를 유죄로 인정한 이상, 그와 일죄의 관계에 있는 공소사실에 대해 따로 무죄를 선고하지 않고 피고인에게 징역 1년 6월의 형을 선고했습니다.",
+        "originwordCnt": "1456",
+        "labelwordCnt": "21"
+    }
+}

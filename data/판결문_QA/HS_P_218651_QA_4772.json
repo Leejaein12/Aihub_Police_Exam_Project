@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "218651",
+        "caseName": "증권거래법위반",
+        "caseNum": "2010고단5647",
+        "sentenceDate": "2011.04.07",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "미공개정보 이용행위가 기업과 증권거래시장에 미치는 영향은 어떤가요?",
+        "output": "미공개정보 이용행위는 기업 운영과 증권거래시장의 투명성과 건전성을 저해하여 기업과 시장에 대한 신뢰를 떨어뜨릴 우려가 있어 그 죄질이 가볍지 않습니다.",
+        "originwordCnt": "1324",
+        "labelwordCnt": "19"
+    }
+}

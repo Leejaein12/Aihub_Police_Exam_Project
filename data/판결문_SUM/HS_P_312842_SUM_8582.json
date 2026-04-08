@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312842",
+        "caseName": "산림보호법위반",
+        "caseNum": "2023고단1510",
+        "sentenceDate": "2024.05.09",
+        "courtName": "대전지방법원 서산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "우편물을 소각하기 위해 불을 붙였으나, 주변 환경이 매우 건조하고 바람이 강하게 불고 있었음에도 불구하고 필요한 조치를 취하지 않아 화재를 발생시켰습니다. 이로 인해 타인 소유 산림이 소실되었고, 공공의 안전을 위협하는 결과를 초래하였습니다. 법원은 피고인에게 징역 10개월을 선고하되, 집행을 유예하였습니다.",
+        "originwordCnt": "737",
+        "labelwordCnt": "38"
+    }
+}

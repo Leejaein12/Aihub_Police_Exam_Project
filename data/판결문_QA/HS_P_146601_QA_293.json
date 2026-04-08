@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "146601",
+        "caseName": "근로기준법위반·도박개장",
+        "caseNum": "2009고단381",
+        "sentenceDate": "2010.02.04",
+        "courtName": "창원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인 1에게 집행유예와 사회봉사가 선고된 이유는 무엇인가요?",
+        "output": "피고인 1은 범행의 죄질이 좋지 않지만, 일부 금품을 전달자로서 역할만 했고 범죄 전력이 없는 점 등을 고려하여 징역형의 집행유예와 120시간의 사회봉사 명령이 선고되었습니다.",
+        "originwordCnt": "2623",
+        "labelwordCnt": "23"
+    }
+}

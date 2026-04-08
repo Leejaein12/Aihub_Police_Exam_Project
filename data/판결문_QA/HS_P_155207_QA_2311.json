@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155207",
+        "caseName": "공문서위조등",
+        "caseNum": "70도2536",
+        "sentenceDate": "1971.03.09",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "뇌물수수죄는 형법총칙의 공범 규정을 적용받아야 하나요?",
+        "output": "뇌물수수죄는 필요적 공범으로서 형법총칙의 공범 규정을 적용받지 않습니다. 따라서 형법 제30조를 따로 적용할 필요가 없으며, 이에 해당 죄는 별도의 공범 규정을 고려할 필요가 없습니다.",
+        "originwordCnt": "16",
+        "labelwordCnt": "24"
+    }
+}

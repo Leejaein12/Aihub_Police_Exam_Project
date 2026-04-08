@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001655",
+        "promulgDate": "20231226",
+        "effectDate": "20240627",
+        "promulgNum": "19841",
+        "title": "주민등록법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제20조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "거주불명자의 거주사실 등에 대한 사실조사는 누가 실시해야 합니까?",
+        "output": "시장ㆍ군수 또는 구청장은 거주불명자 관리를 위하여 대통령령으로 정하는 바에 따라 거주불명자의 거주사실 등에 대한 사실조사를 실시하여야 합니다. 이는 주민등록법 제20조의2 제1항에 근거합니다.",
+        "originwordCnt": "112",
+        "labelwordCnt": "22"
+    }
+}

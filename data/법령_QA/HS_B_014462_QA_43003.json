@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014462",
+        "promulgDate": "20230628",
+        "effectDate": "20230628",
+        "promulgNum": "01120",
+        "title": "군사법경찰 수사규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제32조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군사법경찰관리가 피의자신문조서와 진술조서에 추가로 요청할수 있는 절차는 무엇인가요?",
+        "output": "피의자신문조서와 진술조서에는 진술자로 하여금 간인한 후 기명날인 또는 서명하게 해야 합니다. 이는 군사법경찰 수사규칙 제32조 제4항에 명시된 절차입니다.",
+        "originwordCnt": "68",
+        "labelwordCnt": "18"
+    }
+}

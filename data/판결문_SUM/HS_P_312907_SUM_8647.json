@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312907",
+        "caseName": "업무방해",
+        "caseNum": "2024고정21",
+        "sentenceDate": "2024.04.18",
+        "courtName": "대전지방법원 천안지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "주점에서 소란을 피우며 종업원에게 욕설을 하고 손님들에게 시비를 거는 등 위력으로 피해자의 주점 운영 업무를 방해하였습니다. 이에 법원은 피고인의 행위가 형법 제314조 제1항에 따른 업무방해죄에 해당한다고 판단하여 벌금 200만 원을 선고하였습니다.",
+        "originwordCnt": "161",
+        "labelwordCnt": "31"
+    }
+}

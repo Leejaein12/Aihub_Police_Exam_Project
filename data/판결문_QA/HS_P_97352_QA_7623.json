@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "97352",
+        "caseName": "국가보안법위반",
+        "caseNum": "82도2658",
+        "sentenceDate": "1983.02.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "반국가 단체의 활동을 찬양하거나 고무한 행위가 국가보안법에 따라 처벌되기 위한 요건은 무엇인가요?",
+        "output": "국가보안법 제7조 제1항에 따르면, 반국가 단체의 활동을 찬양하거나 고무하는 행위가 처벌되기 위해서는 그 행위가 객관적으로 반국가 단체의 이익이 될 수 있어야 하며, 주관적으로도 반국가 단체에 이롭다는 인식을 가지고 있어야 합니다.",
+        "originwordCnt": "75",
+        "labelwordCnt": "30"
+    }
+}

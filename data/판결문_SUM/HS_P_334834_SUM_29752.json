@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334834",
+        "caseName": "업무상횡령등",
+        "caseNum": "2022노2608",
+        "sentenceDate": "2023.01.13",
+        "courtName": "창원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "항소심에서 원심의 형량이 지나치게 무겁다고 주장하였으나, 항소심 법원은 원심과 비교하여 피고인에게 유리한 새로운 양형자료가 제출되지 않은 점과 원심이 고려한 양형조건들이 합리적 범위 내에 있는 점을 들어 피고인의 주장을 받아들이지 않았습니다. 이에 따라 피고인의 항소를 기각하였습니다.",
+        "originwordCnt": "242",
+        "labelwordCnt": "35"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310770",
+        "caseName": "교통사고처리특례법위반(치상)",
+        "caseNum": "2024고단278",
+        "sentenceDate": "2024.07.02",
+        "courtName": "수원지방법원 평택지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "운전면허 없이 차량을 운전하고 음주 측정을 거부한 사건입니다. 운전자는 과거 음주운전 전력이 있음에도 다시 음주 상태로 운전했으며, 경찰의 음주 측정 요구에 응하지 않고 저항하였습니다. 법원은 음주운전의 위험성과 재범을 고려해 징역 1년에 집행유예 2년을 선고하고, 사회봉사 및 준법운전 강의 수강을 명령하였습니다.",
+        "originwordCnt": "322",
+        "labelwordCnt": "40"
+    }
+}

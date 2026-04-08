@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "68001",
+        "caseName": "사기·허위공문서작성·허위작성공문서행사",
+        "caseNum": "2006도1663",
+        "sentenceDate": "2006.05.11",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공무원이 아닌 자가 허위공문서작성죄의 간접정범이나 공동정범이 될 수 있나요?",
+        "output": "형법 제33조와 제30조에 따르면, 공무원이 아닌 자는 원칙적으로 허위공문서작성죄의 간접정범이 될 수 없으나, 공무원과 공동으로 허위공문서작성죄를 범한 경우에는 공동정범으로 처벌될 수 있습니다.",
+        "originwordCnt": "10",
+        "labelwordCnt": "22"
+    }
+}

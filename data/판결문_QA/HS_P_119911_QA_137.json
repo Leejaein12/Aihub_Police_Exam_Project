@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "119911",
+        "caseName": "공무집행방해",
+        "caseNum": "94노1533",
+        "sentenceDate": "1994.12.13",
+        "courtName": "서울형사지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피의자를 음주측정을 위해 강제연행하는 행위가 적법한 공무집행으로 인정되지 않은 이유는 무엇인가요?",
+        "output": "피의자를 음주측정을 목적으로 동의 없이 강제연행하는 행위는 형사소송법 제215조에 따라 법관의 검증영장 없이 진행된 불법 강제수사로, 적법한 공무집행으로 인정될 수 없다고 판단되었습니다.",
+        "originwordCnt": "48",
+        "labelwordCnt": "22"
+    }
+}

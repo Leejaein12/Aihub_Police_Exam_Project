@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "214129",
+        "caseName": "반공법위반",
+        "caseNum": "78도2706",
+        "sentenceDate": "1979.01.16",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "어떤 문장에서 반국가단체의 활동을 찬양하는 내용이 일부 포함되었다면, 문장의 결론이 다르더라도 그 문장이 반공법 제4조 제1항에 해당할 수 있나요?",
+        "output": "반공법 제4조 제1항에 따르면, 문장의 결론이 다르더라도 반국가단체의 활동을 찬양, 고무, 동조하는 구절이 포함되어 있다면, 그 문장은 반공법의 구성요건에 해당할 수 있습니다.",
+        "originwordCnt": "84",
+        "labelwordCnt": "22"
+    }
+}

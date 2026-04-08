@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "237433",
+        "caseName": "허위공문서작성등피고사건",
+        "caseNum": "74노914",
+        "sentenceDate": "1980.05.16",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형법 제225조에 따른 문서위조죄에서, 문서의 내용이 실체적 진실에 부합하는 경우에도 문서위조죄가 성립할 수 있나요?",
+        "output": "형법 제225조에 따르면, 문서의 내용이 실체적 진실에 부합하더라도 작성권한자의 결재 없이 함부로 이를 작성하고 행사한 경우에는 공문서위조죄 및 그 행사죄의 죄책을 면할 수 없습니다.",
+        "originwordCnt": "30",
+        "labelwordCnt": "24"
+    }
+}

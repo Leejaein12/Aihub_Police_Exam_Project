@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001499",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19752",
+        "title": "사료관리법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시ㆍ도지사는 성분등록 신청을 받은 후 어떤 절차를 거쳐야 하나요?",
+        "output": "사료관리법 제12조 제2항에 따르면, 시ㆍ도지사는 성분등록 신청을 받은 경우 그 내용이 사료공정 등에 적합한지 확인하고, 적합한 경우 성분등록증을 지체 없이 신청인에게 교부해야 합니다.",
+        "originwordCnt": "121",
+        "labelwordCnt": "23"
+    }
+}

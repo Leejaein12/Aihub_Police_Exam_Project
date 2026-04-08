@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010306",
+        "promulgDate": "20230103",
+        "effectDate": "20230404",
+        "promulgNum": "19166",
+        "title": "산업기술의 유출방지 및 보호에 관한 법률",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제22조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "비밀유지명령이 내려진 경우 법원은 어떤 조치를 취해야 하나요?",
+        "output": "법원은 비밀유지명령이 결정된 경우, 그 결정서를 비밀유지명령을 받은 자에게 송달해야 합니다. 이는 '산업기술의 유출방지 및 보호에 관한 법률' 제22조의4 제3항에 규정된 내용입니다.",
+        "originwordCnt": "224",
+        "labelwordCnt": "22"
+    }
+}

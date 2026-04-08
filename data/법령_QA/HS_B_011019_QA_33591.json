@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011019",
+        "promulgDate": "20240213",
+        "effectDate": "20240517",
+        "promulgNum": "20309",
+        "title": "산림보호법",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제17조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "산림청장이나 시장이 산림보호원을 둘 수 있는 근거는 무엇인가요?",
+        "output": "산림보호법 제17조 제1항에 따르면 산림청장, 시ㆍ도지사, 시장ㆍ군수ㆍ구청장 또는 지방산림청장은 산림보호구역 및 산림정화구역의 훼손ㆍ오염 방지 등 산림보호를 위하여 필요하면 산림보호원을 둘 수 있습니다.",
+        "originwordCnt": "90",
+        "labelwordCnt": "22"
+    }
+}

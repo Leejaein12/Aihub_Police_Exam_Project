@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "166502",
+        "caseName": "대부업의 등록 및 금융이용자보호에 관한 법률 위반·전자금융거래법 위반",
+        "caseNum": "2009노2212",
+        "sentenceDate": "2010.05.13",
+        "courtName": "서울남부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "2008년 12월 15일자 대부행위에 대해 법원이 무죄를 선고한 이유는 무엇인가요?",
+        "output": "2008년 12월 15일자 대부행위에 대해 법원은 제한이자율을 초과하지 않은 것으로 판단하였으며, 이에 해당 부분에 대해 무죄를 선고하였습니다.",
+        "originwordCnt": "2232",
+        "labelwordCnt": "17"
+    }
+}

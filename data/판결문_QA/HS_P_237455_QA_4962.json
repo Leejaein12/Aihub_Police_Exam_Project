@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "237455",
+        "caseName": "보건범죄단속에관한특별조치법위반피고사건",
+        "caseNum": "78노114",
+        "sentenceDate": "1980.03.27",
+        "courtName": "광주고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공판기일에 증인의 진술을 들을 수 없는 경우에 해당하는 상황은 어떤 경우인가요?",
+        "output": "형사소송법 제314조에 따르면, 증인에 대한 소재탐지가 불가능하여 공판기일에 출석할 수 없는 경우는 증인이 사망하거나 질병이 있는 경우와 마찬가지로 공판기일에 진술할 수 없는 때에 해당합니다.",
+        "originwordCnt": "69",
+        "labelwordCnt": "24"
+    }
+}

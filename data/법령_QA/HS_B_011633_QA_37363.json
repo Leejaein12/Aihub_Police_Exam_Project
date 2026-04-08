@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011633",
+        "promulgDate": "20191210",
+        "effectDate": "20200611",
+        "promulgNum": "16785",
+        "title": "식물신품종 보호법",
+        "ministry": "농림축산식품부,해양수산부",
+        "fullText": "N",
+        "smClass": "제69조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "재정에는 어떤 사항들을 구체적으로 밝혀야 합니까?",
+        "output": "식물신품종 보호법 제69조 제2항에 따르면 재정에는 통상실시권의 범위 및 기간, 대가와 그 지급방법 및 지급시기를 구체적으로 밝혀야 합니다.1. 통상실시권의 범위 및 기간  2. 대가와 그 지급방법 및 지급시기",
+        "originwordCnt": "59",
+        "labelwordCnt": "31"
+    }
+}

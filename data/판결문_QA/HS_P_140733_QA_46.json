@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "140733",
+        "caseName": "청원법위반",
+        "caseNum": "2009노718",
+        "sentenceDate": "2009.06.17",
+        "courtName": "인천지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 무자격자에게 의약품을 판매한 청원의 허위성을 인정할 수 있었나요?",
+        "output": "피고인이 무자격자에게 의약품을 판매한 점에 관한 청원의 허위성을 인정하기에 충분한 증거가 없었으므로, 피고인에게 허위성의 인식이 있었다고 볼 수 없습니다. 원심이 이 점을 인정하지 않은 것은 사실오인 내지 법리오해의 위법이 없다고 볼 수 있습니다.",
+        "originwordCnt": "903",
+        "labelwordCnt": "33"
+    }
+}

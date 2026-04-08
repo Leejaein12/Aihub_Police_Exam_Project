@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제47조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "검찰서기는 어떤 사무를 맡고 있나요?",
+        "output": "검찰서기는 군검사의 명령을 받아 다음 각 호의 사무에 종사합니다. 군사법원법 제47조 제4항에 근거하고 있습니다. 1. 수사에 관한 사무2. 형사기록의 작성과 보존3. 재판집행에 관한 사무4. 그 밖의 검찰행정에 관한 사무",
+        "originwordCnt": "74",
+        "labelwordCnt": "33"
+    }
+}

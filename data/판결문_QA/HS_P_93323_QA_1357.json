@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93323",
+        "caseName": "간통",
+        "caseNum": "77도421",
+        "sentenceDate": "1977.03.08",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "이혼심판청구소송이 각하된 후 새로운 고소를 하지 못한 상태가 고소할 수 없는 불가항력의 사유에 해당하나요?",
+        "output": "형사소송법 제230조 제1항 단서에 따르면, 이혼심판청구소송이 각하되어 고소의 효력을 상실하거나 피고소인의 주소를 알지 못한 사유는 고소할 수 없는 불가항력의 사유에 해당하지 않는다고 볼 수 없습니다.",
+        "originwordCnt": "63",
+        "labelwordCnt": "25"
+    }
+}

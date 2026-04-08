@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72560",
+        "caseName": "폭행치사피고사건",
+        "caseNum": "66노24",
+        "sentenceDate": "1969.03.04",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "폭행치사죄로 공소된 사건에서 공소장 변경절차 없이 폭행죄로 인정할 수 있나요?",
+        "output": "폭행치사죄로 공소된 사건에서 공소장 변경절차 없이 폭행죄로 다스리는 것은 형사소송법 제298조에 따라 심판의 청구가 없는 사실을 심판한 결과가 되므로, 이는 적법하지 않습니다.",
+        "originwordCnt": "23",
+        "labelwordCnt": "22"
+    }
+}

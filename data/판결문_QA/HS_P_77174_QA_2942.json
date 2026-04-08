@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "77174",
+        "caseName": "횡령피고사건",
+        "caseNum": "62도263",
+        "sentenceDate": "1963.02.28",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "용도를 정하여 교부받은 금전을 다른 용도로 사용하면 횡령죄가 성립하나요?",
+        "output": "금전을 불특정물로 용도를 정하거나 어떤 조건, 기한을 붙여서 교부받은 경우, 그 정한 용도 이외의 방법으로 금원을 처분하거나 정해진 조건, 기한을 무효로 하는 방법으로 금원을 처분하면 횡령죄가 성립합니다. 이는 형법 제355조 제1항에 따른 것입니다.",
+        "originwordCnt": "51",
+        "labelwordCnt": "33"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001790",
+        "promulgDate": "20240220",
+        "effectDate": "20240521",
+        "promulgNum": "20323",
+        "title": "검역법",
+        "ministry": "질병관리청",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검역소장은 검역조사를 위해 출입국자와 운송수단의 장에게 무엇을 요구할 수 있나요?",
+        "output": "검역소장은 출입국자와 운송수단의 장에게 필요한 서류를 제출하거나 제시하도록 요구할 수 있으며, 필요한 사항을 질문하거나 검사,조사할 수 있습니다. 검역법 제12조 제3항에 규정되어 있습니다.",
+        "originwordCnt": "135",
+        "labelwordCnt": "22"
+    }
+}

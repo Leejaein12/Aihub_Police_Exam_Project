@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312300",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단2061",
+        "sentenceDate": "2023.09.21",
+        "courtName": "서울서부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A와 B는 주차된 차량에서 문이 잠기지 않은 차량을 대상으로 금품을 절취하는 소위 차털이 범행을 공모하였습니다. 피고인 A는 직접 차량에 들어가 현금과 지갑을 훔쳤고, 피고인 B는 망을 보는 역할을 하였습니다. 피고인 A는 징역 4개월, 피고인 B는 징역 6개월을 선고받았으며, 각각 1년과 2년의 집행유예가 결정되었습니다. 피고인 B에게는 보호관찰이 명령되었습니다.",
+        "originwordCnt": "615",
+        "labelwordCnt": "47"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001740",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19772",
+        "title": "선원법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제77조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "선내 급식비 지급 시 어떤 내용을 밝혀야 하나요?",
+        "output": "선원법 제77조 제2항에 따르면 선박소유자는 선내 급식비를 지급할 때에는 선원 1인당 1일 기준액을 밝혀야 합니다.",
+        "originwordCnt": "94",
+        "labelwordCnt": "15"
+    }
+}

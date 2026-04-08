@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335864",
+        "caseName": "특수협박",
+        "caseNum": "2023고단2772",
+        "sentenceDate": "2024.04.02",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자신의 주거지 앞에 차량을 주차한 것에 화가 나 전화로 말다툼을 벌인 후, 낫과 손도끼를 꺼내 피해자 차량 앞에서 기다리고 있다가 협박한 혐의로 기소되었습니다. 피고인은 위험한 물건을 휴대한 협박죄로 징역 6개월이 선고되었으나, 2년간 집행이 유예되었습니다.",
+        "originwordCnt": "266",
+        "labelwordCnt": "34"
+    }
+}

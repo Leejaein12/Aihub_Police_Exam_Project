@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009503",
+        "promulgDate": "20230103",
+        "effectDate": "20230704",
+        "promulgNum": "19160",
+        "title": "소방시설 설치 및 관리에 관한 법률",
+        "ministry": "소방청",
+        "fullText": "N",
+        "smClass": "제29조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소방시설관리업의 등록신청과 관련된 사항은 무엇으로 정해지나요?",
+        "output": "소방시설관리업의 등록신청과 등록증ㆍ등록수첩의 발급ㆍ재발급 신청, 그 밖에 관리업의 등록에 필요한 사항은 행정안전부령으로 정합니다. 이는 소방시설 설치 및 관리에 관한 법률 제29조 제3항에 근거합니다.",
+        "originwordCnt": "63",
+        "labelwordCnt": "23"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310752",
+        "caseName": "재물손괴등",
+        "caseNum": "2024고정469",
+        "sentenceDate": "2024.07.18",
+        "courtName": "수원지방법원 안산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2024년 3월 13일 한 고시원에서 보안 출입문이 열린 틈을 이용해 침입하였고, 그 과정에서 고시원에 놓여 있던 소화기를 집어들어 소화액을 분사하여 소화기와 바닥 매트의 효용을 해하였습니다. 이러한 행위는 건조물침입 및 재물손괴에 해당하며, 법원은 전과와 피해자의 의사를 고려하여 벌금을 선고하였습니다.",
+        "originwordCnt": "242",
+        "labelwordCnt": "38"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "214015",
+        "caseName": "절도",
+        "caseNum": "79도1032",
+        "sentenceDate": "1980.02.12",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공소장에 기재된 범행일시가 실제 범행일시와 1일 차이가 나는 경우, 공소장 변경이 필요한가요?",
+        "output": "형사소송법 제298조에 따르면, 공소장에 기재된 범행일시가 실제 범행일시와 1일 차이가 나는 경우, 이는 명백한 오기로서 공소장 변경 절차를 필요로 하지 않으며, 법원은 이를 바로잡을 수 있습니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "26"
+    }
+}

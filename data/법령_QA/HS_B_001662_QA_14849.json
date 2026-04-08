@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001662",
+        "promulgDate": "20201020",
+        "effectDate": "20210421",
+        "promulgNum": "17505",
+        "title": "소년법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제50조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법원이 소년에 대한 피고사건을 심리한 결과 보호처분에 해당할 사유가 있다고 인정할 때에는 어떤 조치를 취해야 합니까?",
+        "output": "소년법 제50조에 따르면, 법원은 소년에 대한 피고사건을 심리한 결과 보호처분에 해당할 사유가 있다고 인정하면 결정으로써 사건을 관할 소년부에 송치하여야 합니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "20"
+    }
+}

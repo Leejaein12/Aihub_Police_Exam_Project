@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001662",
+        "promulgDate": "20201020",
+        "effectDate": "20210421",
+        "promulgNum": "17505",
+        "title": "소년법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제69조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소년법에 근거하여, 성인이 고의로 나이를 거짓으로 진술하여 보호처분이나 소년 형사처분을 받은 경우에는 어떤 처벌을 받나요?",
+        "output": "소년법 제69조에 따르면, 성인이 고의로 나이를 거짓으로 진술하여 보호처분이나 소년 형사처분을 받은 경우에는 1년 이하의 징역에 처해집니다.",
+        "originwordCnt": "17",
+        "labelwordCnt": "17"
+    }
+}

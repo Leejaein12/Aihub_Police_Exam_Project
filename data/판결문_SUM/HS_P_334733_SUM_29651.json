@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334733",
+        "caseName": "강제추행",
+        "caseNum": "2023고정38",
+        "sentenceDate": "2023.06.16",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "주점 주인의 엉덩이와 성기 부위를 만져 강제추행을 저지른 사실이 인정되었습니다. 이는 형법 제298조에 해당하는 범죄로, 범행 인정 및 반성, 피해자의 처벌 불원, 동종 전과 부재 등을 고려하여 벌금 300만 원과 성폭력 치료프로그램 40시간 이수를 명하였습니다.",
+        "originwordCnt": "295",
+        "labelwordCnt": "35"
+    }
+}

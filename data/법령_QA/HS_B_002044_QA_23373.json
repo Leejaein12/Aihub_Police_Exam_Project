@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002044",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20416",
+        "title": "아동ㆍ청소년의 성보호에 관한 법률",
+        "ministry": "여성가족부",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "아동 청소년의 성을 사는 행위 또는 성착취물 제작의 대상이 될 것을 알면서 아동 청소년을 매매하거나 이송한 자는 어떻게 처벌되나요?",
+        "output": "아동 청소년의 성보호에 관한 법률 제12조 제1항에 따르면 무기 또는 5년 이상의 징역에 처합니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "14"
+    }
+}

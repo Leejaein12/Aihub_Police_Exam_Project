@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337117",
+        "caseName": "공무집행방해등",
+        "caseNum": "2023고단3115",
+        "sentenceDate": "2024.04.04",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술에 취해 경찰관을 폭행하고, 노래방에서 소란을 피워 공무집행과 업무를 방해한 혐의로 기소되었습니다. 법원은 형법 제136조 제1항과 제314조 제1항을 적용하여 벌금 900만 원을 선고하였습니다. 피고인의 반성과 피해자와의 합의가 유리한 사정으로 고려되었으나, 반복된 폭행과 공무집행방해의 죄질이 무거워 벌금형이 선고되었습니다.",
+        "originwordCnt": "363",
+        "labelwordCnt": "37"
+    }
+}

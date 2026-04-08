@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009146",
+        "promulgDate": "20220426",
+        "effectDate": "20230427",
+        "promulgNum": "18846",
+        "title": "국가인권위원회법",
+        "ministry": "국가인권위원회",
+        "fullText": "N",
+        "smClass": "제54조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가인권위원회의 파견 요청을 받은 기관의 장은 어떤 조치를 취할 수 있나요?",
+        "output": "국가인권위원회의 파견 요청을 받은 관계기관 등의 장은 위원회와 협의하여 소속 공무원 또는 직원을 위원회에 파견할 수 있습니다. 이는 국가인권위원회법 제54조 제2항에 따라 이루어집니다.",
+        "originwordCnt": "79",
+        "labelwordCnt": "23"
+    }
+}

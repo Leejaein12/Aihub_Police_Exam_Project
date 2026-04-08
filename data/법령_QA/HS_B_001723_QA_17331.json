@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001723",
+        "promulgDate": "20160529",
+        "effectDate": "20161130",
+        "promulgNum": "14184",
+        "title": "국민투표법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제61조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "투표소에 투표구선거관리위원회 위원들은 언제까지 출석하여야 합니까?",
+        "output": "투표구선거관리위원회 위원들은 투표소에 과반수가 참여하되, 늦어도 투표 개시 1시간 전까지 출석하여야 합니다. 이는 국민투표법 제61조에 명시되어 있습니다.",
+        "originwordCnt": "11",
+        "labelwordCnt": "17"
+    }
+}

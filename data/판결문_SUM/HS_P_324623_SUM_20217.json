@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "324623",
+        "caseName": "사기등",
+        "caseNum": "2022노215",
+        "sentenceDate": "2023.02.09",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "범죄사실과 증거에 따르면, 특정 범죄에 대해 원심이 내린 형이 적절하지 않다는 주장이 있었습니다. 형법 제37조 전단과 제38조 제1항에 의거하여, 경합범 관계에 있는 여러 범죄는 하나의 형으로 선고되어야 하며, 피고인을 징역 2년에 처하였습니다. 또한, 원심판결의 배상명령을 제외한 부분을 각 파기하였습니다.",
+        "originwordCnt": "493",
+        "labelwordCnt": "39"
+    }
+}

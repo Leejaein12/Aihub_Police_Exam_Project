@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "77355",
+        "caseName": "약사법위반",
+        "caseNum": "2005노1137",
+        "sentenceDate": "2005.09.16",
+        "courtName": "대전지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "약사가 한약을 조제할 때 조제기록부를 작성해야 하나요?",
+        "output": "약사법 제25조의2에 따르면, 약사가 한약을 조제할 때도 조제기록부를 작성해야 할 의무가 있습니다. 따라서 피고인에게 한약 조제 시 조제기록부를 작성할 의무가 있다고 볼 수 있습니다.",
+        "originwordCnt": "250",
+        "labelwordCnt": "24"
+    }
+}

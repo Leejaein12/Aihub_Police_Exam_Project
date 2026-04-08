@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335715",
+        "caseName": "사기",
+        "caseNum": "2023고단85",
+        "sentenceDate": "2023.11.08",
+        "courtName": "대구지방법원 포항지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공사 대금을 받은 후 리모델링 공사를 완료해주겠다는 거짓말로 피해자들을 기망하여 총 5명의 피해자로부터 금전을 편취하였습니다. 피고인은 공사 계약을 체결하였으나, 실제로는 부가세 체납과 압류 상태로 공사를 정상적으로 진행할 의사나 능력이 없었습니다. 법원은 피고인에게 징역 1년 2월을 선고하고, 배상명령 신청은 각하하였습니다.",
+        "originwordCnt": "511",
+        "labelwordCnt": "39"
+    }
+}

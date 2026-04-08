@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314449",
+        "caseName": "주거침입",
+        "caseNum": "2023고단3732",
+        "sentenceDate": "2023.08.17",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "동의 없이 피해자의 주거지에 세 차례 침입한 혐의로 기소되었습니다. 법원은 피고인의 범행이 죄질이 나쁘지만, 피고인이 과거 약 20년 전 1회의 벌금 전과 외에는 형사처벌 전력이 없는 점을 참작하여 벌금 500만 원을 선고하였습니다. 피고인이 벌금을 납부하지 않을 경우, 1일당 10만 원씩 노역장에 유치할 것을 명령하였습니다.",
+        "originwordCnt": "318",
+        "labelwordCnt": "44"
+    }
+}

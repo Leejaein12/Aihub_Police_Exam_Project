@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "303321",
+        "caseName": "주거침입, 협박",
+        "caseNum": "2013노1048",
+        "sentenceDate": "2013. 9. 27.",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "항소심에서는 원심에서 벌금형을 선고받은 피고인에게 누범 가중을 적용한 법적 오류를 지적하며 원심 판결을 파기하고 징역 6월의 실형을 선고하였습니다. 원심은 피고인의 전과를 근거로 형법 제35조에 따른 누범 가중을 적용했으나, 누범 가중은 금고 이상의 형에만 해당하고 벌금형을 선택한 경우에는 적용할 수 없다는 법리 해석이 잘못된 것이었습니다.",
+        "originwordCnt": "495",
+        "labelwordCnt": "44"
+    }
+}

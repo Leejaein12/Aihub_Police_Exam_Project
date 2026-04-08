@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "98354",
+        "caseName": "공기호부정사용",
+        "caseNum": "83도2078",
+        "sentenceDate": "1983.10.25",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "차량 번호표가 공기호에 해당한다고 본 법원의 판단 근거는 무엇인가요?",
+        "output": "법원은 차량 번호표가 형법 제238조와 도로교통법 제10조 및 제61조에서 규정하는 공기호에 해당한다고 판단하였습니다. 이는 차량 번호표가 공적 기능을 수행하는 표시물로서, 해당 법령에서 정한 공기호의 정의에 부합하기 때문입니다.",
+        "originwordCnt": "7",
+        "labelwordCnt": "27"
+    }
+}

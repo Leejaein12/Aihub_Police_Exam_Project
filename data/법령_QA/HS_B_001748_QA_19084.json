@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001748",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "화물자동차 운수사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제40조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "위·수탁계약의 내용이 현저하게 불공정한 경우 어떻게 되나요?",
+        "output": "화물자동차 운수사업법 제40조 제7항에 따르면 위·수탁계약의 내용이 당사자 일방에게 현저하게 불공정한 경우, 특정 조건에 해당하면 그 부분에 한정하여 무효로 간주됩니다.",
+        "originwordCnt": "273",
+        "labelwordCnt": "20"
+    }
+}

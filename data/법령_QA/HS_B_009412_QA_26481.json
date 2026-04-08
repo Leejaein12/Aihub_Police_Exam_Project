@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009412",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19590",
+        "title": "산지관리법",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제35조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국유림의 산지에서 토석을 매입하거나 무상양여를 받으려는 자는 어떤 절차를 거쳐야 하나요?",
+        "output": "산지관리법 제35조에 따르면, 국유림의 산지에 있는 토석의 매입을 신청하거나 무상양여를 받으려는 자는 제26조에 따라 채석 경제성에 관한 평가를 받아 그 결과를 산림청장에게 제출하여야 합니다.",
+        "originwordCnt": "271",
+        "labelwordCnt": "24"
+    }
+}

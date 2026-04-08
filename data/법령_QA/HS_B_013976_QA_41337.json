@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013976",
+        "promulgDate": "20240524",
+        "effectDate": "20240524",
+        "promulgNum": "00483",
+        "title": "경찰수사규칙",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제98조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사법경찰관이,검사에게 사건기록을 송부할 때는 어떻게 해야 합니까?",
+        "output": "수사준칙 제51조 제4항에 따라 검사에게 사건기록을 송부할 때, 별지 제108호서식의 수사중지 사건기록 송부서를 사건기록에 편철해야 합니다. 이는 경찰수사규칙 제98조 제3항에 따른 규정입니다.",
+        "originwordCnt": "171",
+        "labelwordCnt": "22"
+    }
+}

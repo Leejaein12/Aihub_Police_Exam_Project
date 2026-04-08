@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "338154",
+        "caseName": "업무상횡령",
+        "caseNum": "2022고단2878",
+        "sentenceDate": "2022.11.17.",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "업무상 횡령 사건에서, 피고인이 타인을 허위로 등록하여 회사 자금을 횡령한 사실이 확인되었습니다. 이들은 2015년부터 2016년까지 총 42회에 걸쳐 법인 계좌에서 개인 계좌로 자금을 이체하여 사용하였습니다. 법원은 이러한 범행의 규모와 피해 정도를 고려하여 피고인 A에게 2,000만 원, 피고인 B에게 1,000만 원의 벌금을 부과하였습니다.",
+        "originwordCnt": "424",
+        "labelwordCnt": "42"
+    }
+}

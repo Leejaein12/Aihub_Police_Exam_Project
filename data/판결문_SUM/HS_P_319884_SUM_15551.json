@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319884",
+        "caseName": "교통사고처리특례법위반(치사)",
+        "caseNum": "2024고단1102",
+        "sentenceDate": "2024.06.05",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "면허 없이 자동차를 운전한 사실이 확인되었습니다. 도로교통법을 위반한 것으로, 약 3.6km 구간에서 운전하였습니다. 법원은 이러한 범죄 사실을 고려하여 징역 10월을 선고하였으며, 판결 확정일부터 2년간 형 집행을 유예하였습니다. 또한, 준법운전 강의  수강을 명하였습니다.",
+        "originwordCnt": "118",
+        "labelwordCnt": "33"
+    }
+}

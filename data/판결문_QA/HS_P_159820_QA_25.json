@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "159820",
+        "caseName": "사문서 변조·변조 사문서 행사",
+        "caseNum": "2010노1321",
+        "sentenceDate": "2010.10.15",
+        "courtName": "의정부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 통장 입금자명을 가리고 복사한 행위가 사문서변조죄에 해당할 수 있나요?",
+        "output": "형법 제366조에 따르면, 피고인이 통장 입금자명을 가리고 복사하여도 그 행위로 인해 공공적 신용을 해할 정도의 새로운 증명력이 작출되지 않았다면 사문서변조죄로 볼 수 없습니다.",
+        "originwordCnt": "1161",
+        "labelwordCnt": "23"
+    }
+}

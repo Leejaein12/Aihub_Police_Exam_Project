@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311956",
+        "caseName": "교통사고처리특례법위반(치상)",
+        "caseNum": "2023고단3088",
+        "sentenceDate": "2023.07.19",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "운전 중 백색 실선이 표시된 구간에서 부주의하게 차선을 변경하다가 직진 중이던 피해자의 차량을 충격하여 피해자에게 요추 염좌 등의 상해를 입혔습니다. 법원은 교통사고처리특례법 및 형법을 적용하여 피고인에게 벌금 100만 원을 선고하였으며, 형법 제62조 제1항에 따라 1년간 집행을 유예하였습니다.",
+        "originwordCnt": "287",
+        "labelwordCnt": "37"
+    }
+}

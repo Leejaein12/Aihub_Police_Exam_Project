@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "92151",
+        "caseName": "사기미수",
+        "caseNum": "74도196",
+        "sentenceDate": "1974.03.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "소송사기의 실행은 어떤 시점에서 착수되었다고 볼 수 있나요?",
+        "output": "소송사기는 불실한 청구를 목적으로 소를 제기하는 시점에 그 행위의 착수가 있었다고 할 수 있습니다. 이는 형법 제347조에서 규정하는 사기죄의 실행 착수로 간주되며, 소의 제기 자체가 법원을 기망하여 부당한 이익을 얻으려는 행위의 시작으로 보기 때문입니다.",
+        "originwordCnt": "16",
+        "labelwordCnt": "34"
+    }
+}

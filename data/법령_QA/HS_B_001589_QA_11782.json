@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001589",
+        "promulgDate": "20230620",
+        "effectDate": "20231221",
+        "promulgNum": "19511",
+        "title": "소비자기본법",
+        "ministry": "공정거래위원회",
+        "fullText": "N",
+        "smClass": "제18조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사업자는 안전하고 쾌적한 소비생활 환경을 조성하기 위해 어떤 노력을 해야 하나요?",
+        "output": "사업자는 안전하고 쾌적한 소비생활 환경을 조성하기 위하여 물품등을 제공함에 있어서 환경친화적인 기술의 개발과 자원의 재활용을 위하여 노력하여야 합니다. 이는 소비자기본법 제18조 제3항에 근거합니다.",
+        "originwordCnt": "69",
+        "labelwordCnt": "23"
+    }
+}

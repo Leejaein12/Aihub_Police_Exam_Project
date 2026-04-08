@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "307140",
+        "caseName": "야간건조물침입절도, 절도",
+        "caseNum": "2016고단3530",
+        "sentenceDate": "2017. 6. 8.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "야간에 상점과 노점에 침입하여 총 9차례에 걸쳐 현금과 물품을 절취한 사건에서, 법원은 피고인이 주로 천막을 걷어내고 냉장고나 선반에 있는 물건들을 절취한 점, 생계형 범죄로 범행을 저질렀으나 동종 범죄로 집행유예 기간 중 재범을 저질렀다는 점을 고려하여 징역 1년을 선고하였습니다.",
+        "originwordCnt": "595",
+        "labelwordCnt": "38"
+    }
+}

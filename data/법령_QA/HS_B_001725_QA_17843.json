@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제93조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에서 선거운동을 하도록 권유하기 위해 어떤 행위를 할 수 없나요?",
+        "output": "공직선거법 제93조 제3항에 따르면, 누구든지 선거운동을 하도록 권유, 약속하기 위하여 선거구민에 대하여 신분증명서, 문서 기타 인쇄물을 발급, 배부 또는 징구하거나 하게 할 수 없습니다.",
+        "originwordCnt": "211",
+        "labelwordCnt": "24"
+    }
+}

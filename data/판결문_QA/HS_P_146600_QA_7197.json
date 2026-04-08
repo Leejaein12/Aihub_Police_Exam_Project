@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "146600",
+        "caseName": "특정범죄가중처벌등에관한법률위반(절도)",
+        "caseNum": "2009고합43",
+        "sentenceDate": "2009.04.30",
+        "courtName": "광주지방법원순천지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "범행 전력과 누범 기간 중의 범행이 형량에 어떤 영향을 미쳤나요?",
+        "output": "동종 범죄로 6차례 처벌받았고, 누범 기간 중에 다시 범행을 저지른 점을 중요하게 고려하여 형량을 결정했습니다. 특히 피고인의 성행이 좋지 않다고 판단되어 실형이 선고되었습니다.",
+        "originwordCnt": "372",
+        "labelwordCnt": "23"
+    }
+}

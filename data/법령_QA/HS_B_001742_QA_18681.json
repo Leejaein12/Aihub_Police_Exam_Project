@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001742",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19134",
+        "title": "선박안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제18조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검정에 합격한 선박용물건에는 어떤 조치를 취해야 하나요?",
+        "output": "선박안전법 제18조 제10항에 따르면, 해양수산부장관은 검정에 합격한 선박용물건 또는 소형선박에 대해 검정증서를 교부하고, 해당 선박용물건에는 검정에 합격했음을 나타내는 표시를 해야 합니다.",
+        "originwordCnt": "317",
+        "labelwordCnt": "21"
+    }
+}

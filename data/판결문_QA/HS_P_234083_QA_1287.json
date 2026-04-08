@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "234083",
+        "caseName": "관세법위반등피고사건",
+        "caseNum": "72노506",
+        "sentenceDate": "1972.11.30",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 사법경찰관 앞에서 작성한 자술서는 어떤 법적 지위를 가지나요?",
+        "output": "사법경찰관 앞에서 피고인이 작성한 자술서는 형사소송법 제312조 및 제313조에 따라 사법경찰관(사무취급)이 작성한 피의자신문조서의 일부로 보아야 합니다. 이는 자술서가 피의자신문조서와 동일한 증거능력을 가진다는 의미입니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "23"
+    }
+}

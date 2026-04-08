@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314129",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고단293",
+        "sentenceDate": "2024.05.30",
+        "courtName": "수원지방법원 안양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2024년 1월 23일, 어느 지역 두 사이 도로에서 혈중알코올농도 0.212%로 운전한 사건이 발생하였습니다. 해당 운전자는 약 23km를 주행하며 도로교통법을 위반하였습니다. 법원은 초범이며, 과거 범죄전력이 없는 점이 형량 결정에 반영하였으며, 음주운전의 위험성을 고려하여 벌금 1,200만 원을 선고하였습니다.",
+        "originwordCnt": "247",
+        "labelwordCnt": "36"
+    }
+}

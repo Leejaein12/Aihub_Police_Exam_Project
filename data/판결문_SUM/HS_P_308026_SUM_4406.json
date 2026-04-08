@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "308026",
+        "caseName": "특수폭행",
+        "caseNum": "2020고정455",
+        "sentenceDate": "2020. 8. 27.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "주점에서 술값 문제로 일행과 다투던 중, 다른 손님이 조용히 해달라는 말을 하자 기분이 나빠 맥주병을 집어 던져 폭행하였습니다. 법원은 피고인이 위험한 물건을 사용하여 사람을 폭행한 점을 인정하고, 형법 제261조에 따라 특수폭행죄로 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "126",
+        "labelwordCnt": "35"
+    }
+}

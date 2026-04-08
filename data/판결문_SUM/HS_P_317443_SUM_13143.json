@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317443",
+        "caseName": "사기",
+        "caseNum": "2023노5140",
+        "sentenceDate": "2023.11.07",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "대출 수수료를 명목으로 피해자로부터 1억 원을 편취한 혐의로 기소되었습니다. 원심에서는 징역 10개월을 선고하였으나, 피고인이 반성하며 피해자와 합의한 점을 고려하여 형이 과중하다고 판단하였습니다. 따라서 원심판결을 파기하고 징역 10개월의 형을 선고하되, 그 집행을 2년간 유예하기로 하였습니다.",
+        "originwordCnt": "334",
+        "labelwordCnt": "34"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "151147",
+        "caseName": "형의집행에관하여재판의해석에대한이의신청",
+        "caseNum": "63초1",
+        "sentenceDate": "1963.01.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "군법회의법에서 '재판을 선고한 군법회의'는 무엇을 의미하나요?",
+        "output": "구 군법회의법 제520조에서 말하는 '재판을 선고한 군법회의'는 형을 선고한 군법회의를 의미합니다. 이는 형의 선고가 이루어진 군법회의를 지칭하며, 해당 군법회의의 재판이 군법상의 절차와 효력을 갖춘 것으로 해석됩니다.",
+        "originwordCnt": "376",
+        "labelwordCnt": "26"
+    }
+}

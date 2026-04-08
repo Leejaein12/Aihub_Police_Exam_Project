@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "138263",
+        "caseName": "인신보호",
+        "caseNum": "2008인1",
+        "sentenceDate": "2009.02.17",
+        "courtName": "대전지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "청구인이 조울증이 완치되었다는 주장에 대해 법원은 어떤 근거로 판단했나요?",
+        "output": "법원은 진료기록부와 관련자들의 진술을 토대로 청구인의 조울증이 완치되지 않았음을 인정하였으며, 이에 따라 청구인이 주장한 수용사유 소멸을 받아들이지 않고 구제청구를 기각하였습니다.",
+        "originwordCnt": "197",
+        "labelwordCnt": "20"
+    }
+}

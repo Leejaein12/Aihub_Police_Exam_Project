@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "214169",
+        "caseName": "업무상과실치상",
+        "caseNum": "78도2388",
+        "sentenceDate": "1978.11.14",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "의사의 의료행위가 정당업무의 범위를 넘는 위법행위로 판단될 수 있나요?",
+        "output": "의사가 인공분만기인 “샥숀”을 사용하여 발생한 상해는 통상적으로 있을 수 있는 것이므로, 이로 인해 의사의 정당업무의 범위를 넘는 위법행위로 볼 수 없습니다. 형법 제20조에 따라 이러한 의료행위는 정당행위로 인정됩니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "28"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "304386",
+        "caseName": "도로교통법위반(무면허운전)",
+        "caseNum": "2009고정2532",
+        "sentenceDate": "2009. 8. 13.",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피고인 A는 2009년 1월 19일 면허 없이 스포티지 차량을 운전한 혐의를 받았으나, 법원은 피고인이 운전면허 취소처분에 대한 적법한 통지나 공고를 받지 않았다는 점을 근거로 공소사실의 범죄를 입증할 증거가 부족하다고 판단하여 무죄를 선고했다.",
+        "originwordCnt": "209",
+        "labelwordCnt": "32"
+    }
+}

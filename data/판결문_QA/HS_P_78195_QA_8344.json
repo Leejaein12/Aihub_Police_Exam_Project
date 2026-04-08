@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78195",
+        "caseName": "사기미수·사문서부정행사",
+        "caseNum": "2006노2491",
+        "sentenceDate": "2007.01.10",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "원심 판결이 파기된 후 선고된 형벌과 구금일수 산입 내용은 무엇인가요?",
+        "output": "항소심에서 원심 판결이 파기되었으며, 피고인에게 징역 8개월의 형이 선고되었습니다. 또한, 원심 판결 선고 전의 구금일수 47일이 징역형에 산입되었습니다.",
+        "originwordCnt": "1618",
+        "labelwordCnt": "18"
+    }
+}

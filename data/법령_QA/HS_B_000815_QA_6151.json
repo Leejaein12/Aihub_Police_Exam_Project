@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000815",
+        "promulgDate": "20240326",
+        "effectDate": "20240326",
+        "promulgNum": "20423",
+        "title": "청소년 보호법",
+        "ministry": "여성가족부",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "청소년유해업소의 구분은 어떤 기준에 따릅니까?",
+        "output": "청소년 보호법 제2조 제5호에 따라 청소년유해업소의 구분은 그 업소가 영업을 할 때 다른 법령에 따라 요구되는 허가ㆍ인가ㆍ등록ㆍ신고 등의 여부와 관계없이 실제로 이루어지고 있는 영업행위를 기준으로 합니다.",
+        "originwordCnt": "1190",
+        "labelwordCnt": "26"
+    }
+}

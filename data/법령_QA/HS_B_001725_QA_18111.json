@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제185조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에서 관할선거구선거관리위원회는 개표록을 송부받은 후 어떤 절차를 밟아야 합니까?",
+        "output": "관할선거구선거관리위원회는 개표록을 송부받은 후 지체 없이 후보자별 득표수를 계산, 공표하고 선거록을 작성하여야 합니다.  공직선거법 제185조 제2항에 규정합니다.",
+        "originwordCnt": "125",
+        "labelwordCnt": "18"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315717",
+        "caseName": "협박",
+        "caseNum": "2024고정163",
+        "sentenceDate": "2024.05.23",
+        "courtName": "부산지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "남편은 배우자가 자신을 경찰에 고소한 것에 분노하여 협박한 것으로 인정되었으나 협박죄는 반의사불벌죄로서, 배우자가 처벌을 원하지 않으면 처벌할 수 없는 범죄입니다. 배우자가 공소 제기 후 처벌 의사를 철회하면서 처벌을 원하지 않는다는 처벌불원서를 제출하였고, 이에 따라 법원은 형사소송법 제327조 제6호에 근거하여 공소를 기각하였습니다.",
+        "originwordCnt": "122",
+        "labelwordCnt": "41"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000980",
+        "promulgDate": "20221115",
+        "effectDate": "20230516",
+        "promulgNum": "19021",
+        "title": "경비업법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제16조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "경비원의 장비를 개조하여 사용하면 안 되는 이유는 무엇인가요?",
+        "output": "경비업법 제16조의2 제3항에 따르면, 누구든지 경비원이 휴대하는 장비를 임의로 개조하여 통상의 용법과 달리 사용함으로써 다른 사람의 생명ㆍ신체에 위해를 가하여서는 안 됩니다.",
+        "originwordCnt": "90",
+        "labelwordCnt": "21"
+    }
+}

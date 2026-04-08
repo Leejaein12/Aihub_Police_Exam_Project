@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "97399",
+        "caseName": "양곡관리법위반·식품위생법위반",
+        "caseNum": "81도2761",
+        "sentenceDate": "1983.03.08",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "양곡관리법에 따르면, 최종소비자가 보유한 양곡을 가공하는 행위는 법에 위반되나요?",
+        "output": "양곡관리법 제23조 제1호의 3과 제16조 제1항에 따르면, 최종소비자가 보유한 양곡을 허가 없이 가공하는 행위는 법에 위반됩니다. 이는 소비자 손에 들어간 양곡도 유통 가능성을 가진 양곡에 포함되기 때문입니다.",
+        "originwordCnt": "799",
+        "labelwordCnt": "27"
+    }
+}

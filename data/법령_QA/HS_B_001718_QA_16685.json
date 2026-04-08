@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001718",
+        "promulgDate": "20231226",
+        "effectDate": "20240627",
+        "promulgNum": "19854",
+        "title": "공직자윤리법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법무부장관 또는 국방부장관은 조사의뢰를 받으면 어떻게 해야 하나요?",
+        "output": "조사의뢰를 받으면 지체 없이 검사 또는 군검사에게 조사를 하게 하고 그 조사 결과를 공직자윤리위원회에 통보하여야 합니다. 공직자윤리법 제8조 제8항에 명시하고 있습니다.",
+        "originwordCnt": "544",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314075",
+        "caseName": "아동복지법위반(아동유기ㆍ방임)",
+        "caseNum": "2023고정852",
+        "sentenceDate": "2024.01.09",
+        "courtName": "수원지방법원 안산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "아동복지법 위반으로, 특정 아동의 친모가 아동들을 방임한 혐의로 기소되었습니다. 2022년 3월부터 9월까지 주거지에서 아동들을 비위생적인 환경에 방치하여 기본적 보호와 양육의무를 소홀히 하였습니다. 이로 인해 법원은 아동복지법 제71조에 따라 벌금을 부과하고, 아동학대 치료프로그램 이수를 명하였습니다.",
+        "originwordCnt": "251",
+        "labelwordCnt": "34"
+    }
+}

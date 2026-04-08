@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319995",
+        "caseName": "업무상배임",
+        "caseNum": "2023고단2234",
+        "sentenceDate": "2024.04.18",
+        "courtName": "수원지방법원 안양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "구매부장으로 재직하던 사람은 피해회사의 리베이트 약정을 체결하여 업무상 의무를 위반하였습니다. 피해회사는 원부자재를 시가보다 높은 가격으로 구매하도록 강요받았고, 이로 인해 총 20,800,400원의 손해를 끼쳤습니다. 이러한 행위는 법령에 따라 처벌받아야 하며, 법원은 해당 인물에게 벌금을 부과하였습니다.",
+        "originwordCnt": "428",
+        "labelwordCnt": "34"
+    }
+}

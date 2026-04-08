@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "141843",
+        "caseName": "준강제추행",
+        "caseNum": "2008고합651",
+        "sentenceDate": "2009.01.09",
+        "courtName": "대구지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "찜질방 수면실에서 피해자를 추행한 사실에 대해 어떤 처벌이 내려졌나요?",
+        "output": "찜질방 수면실에서 피해자를 추행한 사실이 인정되어 벌금 300만 원에 처해졌으며, 벌금을 납입하지 않을 경우 50,000원을 1일로 환산하여 노역장에 유치됩니다. 또한, 벌금 상당 금액에 대한 가납명령도 내려졌습니다.",
+        "originwordCnt": "210",
+        "labelwordCnt": "26"
+    }
+}

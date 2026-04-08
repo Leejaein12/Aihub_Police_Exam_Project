@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000669",
+        "promulgDate": "20240326",
+        "effectDate": "20240326",
+        "promulgNum": "20409",
+        "title": "물가안정에 관한 법률",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공공요금 및 수수료 협의 시 기획재정부장관은 어떤 자문을 받을 수 있나요?",
+        "output": "물가안정에 관한 법률 제4조 제4항에 따르면 기획재정부장관은 공공요금 및 수수료에 관한 협의를 할 때, 원가 산정의 적절성, 소비자 부담, 국민경제에 미치는 효과 등에 관하여 전문가에게 자문할 수 있습니다.",
+        "originwordCnt": "121",
+        "labelwordCnt": "28"
+    }
+}

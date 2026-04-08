@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335655",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단7",
+        "sentenceDate": "2023.11.01",
+        "courtName": "대구지방법원 김천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.148%로 차량을 운전하다가 음주운전으로 적발되었습니다. 이전에도 두 차례 음주운전으로 벌금형 처벌을 받은 이력이 있습니다. 물적 피해가 발생했으나, 보험을 통해 일부 피해가 회복된 점과 재범하지 않겠다는 다짐 등을 고려하여 징역 1년에 집행유예 2년, 보호관찰 및 준법운전강의 수강을 명령하였습니다.",
+        "originwordCnt": "246",
+        "labelwordCnt": "38"
+    }
+}

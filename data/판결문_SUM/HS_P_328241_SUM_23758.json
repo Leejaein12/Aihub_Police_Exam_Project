@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328241",
+        "caseName": "업무방해등",
+        "caseNum": "2023고정135",
+        "sentenceDate": "2023.03.22.",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "수산물 가게 앞에서 가게 운영자의 발언에 화가 나 약 14분간 큰소리로 욕설을 하고 탁자를 던지며 소란을 피워 형법 제314조 제1항에 따른 위력으로 피해자의 영업을 방해하였습니다. 법원은 업무방해에 대해 벌금 100만 원을 선고하고, 모욕 혐의는 피해자의 고소 취하로 형사소송법 제327조 제5호에 따라 공소를 기각했습니다.",
+        "originwordCnt": "269",
+        "labelwordCnt": "43"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336213",
+        "caseName": "재물손괴",
+        "caseNum": "2024고정282",
+        "sentenceDate": "2024.05.14",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "노상에 주차된 피해자 C의 제네시스 차량 조수석 문을 발로 차 약 8㎝ 길이의 흠집을 내어 재물의 효용을 해한 혐의로 기소되었습니다. 피고인은 이전에 특수상해죄로 징역형이 확정된 전력이 있습니다. 법원은 피고인이 피해를 회복하지 않은 점과 사건 당시의 상황 등을 고려하여 피고인에게 벌금 30만 원을 선고하였습니다.",
+        "originwordCnt": "203",
+        "labelwordCnt": "43"
+    }
+}

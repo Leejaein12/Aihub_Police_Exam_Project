@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "240471",
+        "caseName": "업무상군용물횡령등",
+        "caseNum": "77도2952",
+        "sentenceDate": "1977.11.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "직무유기죄가 성립하려면 어떤 요건이 필요합니까?",
+        "output": "형법 제122조에 따르면, 직무유기죄가 성립하려면 직무에 관한 의식적인 방임이나 포기 등 정당한 이유 없이 직무를 수행하지 않은 경우여야 합니다. 단순히 권한을 초과한 행위만으로는 직무유기죄에 해당하지 않습니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "26"
+    }
+}

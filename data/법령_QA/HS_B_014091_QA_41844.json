@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014091",
+        "promulgDate": "20210608",
+        "effectDate": "20211209",
+        "promulgNum": "18206",
+        "title": "재난안전통신망법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "행정안전부장관과 전기통신사업자는 무선통신시설을 어떻게 이용할 수 있습니까?",
+        "output": "행정안전부장관과 전기통신사업자는 상호 간에 무선통신시설을 공동으로 이용할 수 있습니다. 이는 재난안전통신망법 제10조 제1항에 명시되어 있으며, 이를 위해 양측은 업무협약을 체결해야 합니다.",
+        "originwordCnt": "45",
+        "labelwordCnt": "21"
+    }
+}

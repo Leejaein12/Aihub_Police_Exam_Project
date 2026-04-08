@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "147055",
+        "caseName": "강간상해·절도",
+        "caseNum": "2009고합339",
+        "sentenceDate": "2010.04.09",
+        "courtName": "울산지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인은 심신상실이나 심신미약 상태에 있었다는 주장이 받아들여졌나요?",
+        "output": "피고인이 술에 취한 상태였다는 사실은 인정되나, 그로 인해 사물을 변별하거나 의사를 결정할 능력이 미약한 상태에 있었다고는 보이지 않아, 피고인의 심신상실 또는 심신미약 주장은 받아들여지지 않았습니다.",
+        "originwordCnt": "583",
+        "labelwordCnt": "25"
+    }
+}

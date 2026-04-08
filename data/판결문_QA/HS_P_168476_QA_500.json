@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "168476",
+        "caseName": "사회봉사신청 기각에 대한 이의 인용에 대한 즉시 항고",
+        "caseNum": "2010로152",
+        "sentenceDate": "2010.12.29",
+        "courtName": "부산지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "벌금 미납자가 사회봉사 신청을 할 수 있는 기간의 기산점은 언제인가요?",
+        "output": "벌금 미납자가 사회봉사 신청을 할 수 있는 기간의 기산점은 납부명령서가 미납자에게 고지된 시점으로 해석되며, 그때부터 사회봉사 신청기간이 진행됩니다.",
+        "originwordCnt": "556",
+        "labelwordCnt": "18"
+    }
+}

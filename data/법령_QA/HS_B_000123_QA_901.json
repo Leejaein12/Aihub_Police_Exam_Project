@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000123",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19965",
+        "title": "고용정책 기본법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제29조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가는 근로자의 고용기회를 확대하고 기업의 경쟁력을 높이기 위해 무엇을 해야 하나요?",
+        "output": "고용정책 기본법 제29조제1항에 따르면 국가는 근로자의 고용기회를 확대하고 기업의 경쟁력을 높이기 위하여 기업의 고용창출, 고용유지 및 인력의 재배치 등 지원에 필요한 대책을 수립ㆍ시행하여야 합니다.",
+        "originwordCnt": "57",
+        "labelwordCnt": "24"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001719",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "국가공무원법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제48조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "실비 변상이나 보상을 부정하게 수령한 경우 어떤 조치가 취해지나요?",
+        "output": "국가공무원법 제48조 제3항에 따르면 제1항 및 제2항에 따른 실비 변상이나 보상을 거짓이나 그 밖의 부정한 방법으로 수령한 경우에는 수령한 금액의 5배의 범위에서 가산하여 징수할 수 있습니다.",
+        "originwordCnt": "91",
+        "labelwordCnt": "26"
+    }
+}

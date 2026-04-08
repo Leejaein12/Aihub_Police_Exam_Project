@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "304670",
+        "caseName": "공직선거법위반",
+        "caseNum": "2013고합74",
+        "sentenceDate": "2013. 3. 12.",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "선거 투표 과정에서 투표지를 촬영하여 공직선거법 제256조 제2항 제2호 사목, 제166조의2 제1항에 따라 비밀선거 원칙을 침해하는 행위를 하였다고 인정되었습니다. 법원은 피고인의 반성, 전과 없는 점, 선거에 영향을 미치려는 의도가 없었던 사정 등을 참작하여 벌금 30만 원을 선고하였습니다.",
+        "originwordCnt": "196",
+        "labelwordCnt": "37"
+    }
+}

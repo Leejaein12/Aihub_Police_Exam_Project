@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011537",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19338",
+        "title": "아이돌봄 지원법",
+        "ministry": "여성가족부",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보호자에게 안내할 서비스 내용과 절차 등은 어떻게 정해지나요?",
+        "output": "제1항 및 제2항에 따라 보호자에게 안내하여야 할 서비스의 내용, 방법, 절차, 아이돌보미의 정보 및 제공 방법, 그 밖에 필요한 사항은 여성가족부령으로 정합니다. 이는 아이돌봄 지원법 제12조 제3항에 명시된 사항입니다.",
+        "originwordCnt": "78",
+        "labelwordCnt": "29"
+    }
+}

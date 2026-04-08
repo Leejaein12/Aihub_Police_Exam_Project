@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002025",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19889",
+        "title": "마약류 관리에 관한 법률",
+        "ministry": "보건복지부,식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제51조의6",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국마약퇴치운동본부는 필요한 경우 어디에 지부를 둘 수 있나요?",
+        "output": "마약류 관리에 관한 법률 제51조의6 제3항에 따르면 한국마약퇴치운동본부는 정관으로 정하는 바에 따라 필요한 곳에 지부를 둘 수 있습니다.",
+        "originwordCnt": "117",
+        "labelwordCnt": "18"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155222",
+        "caseName": "폭력행위등처벌에관한법률위반",
+        "caseNum": "70도2615",
+        "sentenceDate": "1971.02.23",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "상소 제기 후 판결 선고 전의 구금일수는 본형에 산입해야 하나요?",
+        "output": "네, 상소 제기 후 판결 선고 전의 구금일수는 형사소송법 제482조 제1항 제2호에 따라 본형에 전부 산입되어야 합니다. 따라서 원심에서 피고인들의 미결 구금일수를 산입하지 않은 조처는 정당한 것으로 인정됩니다.",
+        "originwordCnt": "20",
+        "labelwordCnt": "28"
+    }
+}

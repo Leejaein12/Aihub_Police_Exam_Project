@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001790",
+        "promulgDate": "20240220",
+        "effectDate": "20240521",
+        "promulgNum": "20323",
+        "title": "검역법",
+        "ministry": "질병관리청",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검역감염병 환자란 무엇을 의미하나요?",
+        "output": "검역감염병 환자란 검역감염병 병원체가 인체에 침입하여 증상을 나타내는 사람으로서 의사, 치과의사 또는 한의사의 진단 및 검사를 통하여 확인된 사람을 말합니다. 검역법 제2조 제3항에 규정되어 있습니다.",
+        "originwordCnt": "201",
+        "labelwordCnt": "25"
+    }
+}

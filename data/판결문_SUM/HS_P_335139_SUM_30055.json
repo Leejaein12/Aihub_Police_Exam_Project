@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335139",
+        "caseName": "보험사기방지특별법위반등",
+        "caseNum": "2023고단405",
+        "sentenceDate": "2023.08.22",
+        "courtName": "수원지방법원 성남지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "현역입영 통지서를 수령하고도 정당한 사유 없이 입영일을 넘긴 혐의로 기소된 사건입니다. 법원은 피고인이 입영하지 않은 점을 인정하고, 잘못을 인정하며 병역 의무를 이행할 의사를 밝힌 점, 과거에 벌금형 외에 다른 전과가 없는 점 등을 고려하여 징역 6개월을 선고하였으나, 2년간 집행유예를 명하였습니다.",
+        "originwordCnt": "160",
+        "labelwordCnt": "40"
+    }
+}

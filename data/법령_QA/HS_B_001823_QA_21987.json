@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제68조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국토교통부장관이 대지의 안전 및 건축물의 구조상 안전에 관한 세부기준을 정하거나 승인하기 위해 필요한 절차는 무엇입니까?",
+        "output": "국토교통부장관이 세부기준을 정하거나 승인하려면 미리 건축위원회의 심의를 거쳐야 합니다. 이는 건축법 제68조 제2항에 근거한 내용입니다.",
+        "originwordCnt": "135",
+        "labelwordCnt": "15"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000212",
+        "promulgDate": "20200811",
+        "effectDate": "20210408",
+        "promulgNum": "17472",
+        "title": "시체 해부 및 보존 등에 관한 법률",
+        "ministry": "보건복지부,질병관리청",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "변사체에 대한 해부가 「형사소송법」에 따른 해부를 배제할 수 있는지요?",
+        "output": "'시체 해부 및 보존 등에 관한 법률' 제7조 제2항에 따르면, 제1항에 따른 해부는 「형사소송법」 제140조 또는 제173조제1항에 따른 해부를 배제하지 않습니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "21"
+    }
+}

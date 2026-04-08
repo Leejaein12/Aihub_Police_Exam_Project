@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "158507",
+        "caseName": "성매매 알선등 행위의 처벌에 관한 법률위반(성매매 알선등)",
+        "caseNum": "2010노317",
+        "sentenceDate": "2010.05.07",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "내용증명 발송과 각서 요구가 적절한 조치로 인정되지 않은 이유는 무엇인가요?",
+        "output": "내용증명 발송과 각서 요구는 성매매 장소로 이용되지 않도록 하기 위한 충분한 조치로 인정되지 않았으며, 이로 인해 성매매알선 행위를 방조한 것으로 판단되었습니다.",
+        "originwordCnt": "1635",
+        "labelwordCnt": "21"
+    }
+}

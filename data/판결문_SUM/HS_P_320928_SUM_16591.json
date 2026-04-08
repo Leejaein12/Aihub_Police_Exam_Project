@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "320928",
+        "caseName": "경범죄처벌법위반",
+        "caseNum": "2023고단901",
+        "sentenceDate": "2023.12.07",
+        "courtName": "청주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "목사가 신도를 자신의 주거지에서 부적절하게 신체 접촉한 사건입니다. 두 차례에 걸쳐 강제로 끌어안는 행위가 성적 자기결정권을 침해한 것으로 판단되었습니다. 법원은 책임이 가볍지 않다고 보았으나, 반성과 상대방이 처벌을 원하지 않는 점 등을 고려해 벌금형을 선고하였습니다. 또한 성폭력 치료 프로그램 이수를 명령하였습니다.",
+        "originwordCnt": "383",
+        "labelwordCnt": "40"
+    }
+}

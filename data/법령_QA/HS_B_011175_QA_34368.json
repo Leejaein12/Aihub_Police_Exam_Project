@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011175",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19886",
+        "title": "국민영양관리법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "영양소 섭취기준 및 식생활 지침의 주요 내용 및 발간 주기는 어떻게 정해지나요?",
+        "output": "국민영양관리법 제14조 제4항 규정에 따르면 제1항에 따른 영양소 섭취기준 및 제3항에 따른 식생활 지침의 주요 내용 및 발간 주기 등 세부적인 사항은 보건복지부령으로 정합니다.",
+        "originwordCnt": "129",
+        "labelwordCnt": "24"
+    }
+}

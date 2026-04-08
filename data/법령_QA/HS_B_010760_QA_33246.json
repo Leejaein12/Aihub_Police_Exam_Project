@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010760",
+        "promulgDate": "20150330",
+        "effectDate": "20150330",
+        "promulgNum": "02594",
+        "title": "인신보호규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제17조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "원심 법원은 즉시항고가 이유 없다고 판단하면 항고기록을 언제까지 송부해야 하나요?",
+        "output": "인신보호규칙 제17조에 따르면 항고장을 받은 날로부터 3일 이내에 송부해야 합니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "10"
+    }
+}

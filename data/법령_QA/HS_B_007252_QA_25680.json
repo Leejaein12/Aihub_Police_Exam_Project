@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "007252",
+        "promulgDate": "20210707",
+        "effectDate": "20210707",
+        "promulgNum": "00817",
+        "title": "보건범죄단속에관한특별조치법시행규칙",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "부정의약품등의 유해기준에 따르면, 현저한 유해 및 현저한 부족의 판정은 어떻게 이루어지나요?",
+        "output": "보건범죄단속에관한특별조치법시행규칙 제4조 제1항에 따르면, 현저한 유해 및 현저한 부족의 판정을 위한 검정은 별표에 의한 시공품량을 채취하여 행하여야 합니다.",
+        "originwordCnt": "20",
+        "labelwordCnt": "18"
+    }
+}

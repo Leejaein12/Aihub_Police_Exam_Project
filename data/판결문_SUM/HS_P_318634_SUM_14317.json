@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318634",
+        "caseName": "사기",
+        "caseNum": "2023고정84",
+        "sentenceDate": "2024.02.14",
+        "courtName": "대구지방법원 상주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자전거 운전 중 주의 의무를 소홀히 하여 주차된 차량에 손해를 입힌 혐의로 기소되었습니다. 그러나 사건 발생 후 피해자가 피해 변제를 받았고, 피고인의 처벌을 원하지 않는다는 의사를 표시하였습니다. 이에 따라 법원은 도로교통법 및 교통사고처리특례법을 적용하여 반의사불벌죄로 판단하였으며, 형사소송법에 따라 공소를 기각하는 판결을 내렸습니다.",
+        "originwordCnt": "150",
+        "labelwordCnt": "42"
+    }
+}

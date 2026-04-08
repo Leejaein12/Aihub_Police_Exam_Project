@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317262",
+        "caseName": "협박",
+        "caseNum": "2023고정296",
+        "sentenceDate": "2023.08.25",
+        "courtName": "부산지방법원 동부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피해자와 대화 중 '요 새끼 쳐 죽일놈'이라는 메시지를 보내어 피해자를 협박한 사실이 인정되었습니다. 피고인의 법정진술과 경찰 진술조서, 메시지 내역 사진 등을 근거로 범죄사실이 인정되었으며, 형법 제283조 제1항에 따라 벌금 100만 원이 부과되었습니다.",
+        "originwordCnt": "170",
+        "labelwordCnt": "32"
+    }
+}

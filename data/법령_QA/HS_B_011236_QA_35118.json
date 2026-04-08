@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011236",
+        "promulgDate": "20200204",
+        "effectDate": "20200204",
+        "promulgNum": "16915",
+        "title": "성폭력범죄자의 성충동 약물치료에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제22조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "성폭력 수형자에 대하여 항고법원이 항고를 기각하는 경우는 어떤 경우인가요?",
+        "output": "성폭력범죄자의 성충동 약물치료에 관한 법률 제22조 제7항에 따르면, 항고법원은 항고 절차가 법률에 위반되거나 항고가 이유 없다고 인정한 경우에는 결정으로써 항고를 기각하여야 합니다.",
+        "originwordCnt": "422",
+        "labelwordCnt": "22"
+    }
+}

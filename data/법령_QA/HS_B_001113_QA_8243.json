@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001113",
+        "promulgDate": "20210105",
+        "effectDate": "20210105",
+        "promulgNum": "17825",
+        "title": "국제형사사법 공조법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국제형사사법 공조법에 따르면 공조에 관하여 공조조약과 상충되는 규정이 있는 경우 어떻게 해야 하나요?",
+        "output": "국제형사사법 공조법 제3조에 따르면, 공조에 관하여 공조조약에 이 법과 다른 규정이 있는 경우에는 해당 조약의 규정에 따릅니다.",
+        "originwordCnt": "14",
+        "labelwordCnt": "17"
+    }
+}

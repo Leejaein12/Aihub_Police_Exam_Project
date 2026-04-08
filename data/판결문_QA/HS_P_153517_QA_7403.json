@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "153517",
+        "caseName": "공용서류등무효·수뢰·알선수뢰·증뢰물전달",
+        "caseNum": "66도567",
+        "sentenceDate": "1966.10.18",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공용서류를 파기한 경우, 공용서류 무효죄가 성립하기 위해서는 어떤 요건이 필요한가요?",
+        "output": "공용서류 무효죄는 공무소에서 사용하는 서류를 정당한 권한 없이 그 효용을 해할 때 성립합니다. 공문서가 작성자의 지배를 벗어나 객관적으로 완성된 후 파기된 경우에 해당하며, 이는 형법 제141조 제1항에 따른 것입니다.",
+        "originwordCnt": "59",
+        "labelwordCnt": "29"
+    }
+}

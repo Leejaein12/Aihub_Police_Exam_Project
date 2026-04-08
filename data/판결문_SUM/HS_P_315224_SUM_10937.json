@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315224",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고단91",
+        "sentenceDate": "2024.04.12",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "운전면허 없이 약 2m 거리를 운전한 혐의로 기소된 피고인은 이미 동종 범죄로 수차례 처벌받은 전력이 있으나, 범행을 인정하고 운전한 거리가 길지 않았던 점이 참작되었습니다. 법원은 이러한 사정을 고려하여 징역 4개월을 선고하였으나, 2년간의 집행유예와 40시간의 준법운전강의 수강을 명했습니다.",
+        "originwordCnt": "168",
+        "labelwordCnt": "37"
+    }
+}

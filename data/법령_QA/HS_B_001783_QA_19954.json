@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001783",
+        "promulgDate": "20230418",
+        "effectDate": "20240419",
+        "promulgNum": "19359",
+        "title": "약사법",
+        "ministry": "보건복지부,식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제2조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "약의 날은 언제이며, 그 목적은 무엇인가요?",
+        "output": "약사법 제2조의2 제1항에 따르면, 매년 11월 18일을 약의 날로 하며, 국민의 생명, 신체 및 건강상의 안전을 확보하는 의약품의 중요성을 널리 알리고 의약품의 오남용을 방지하기 위함입니다.",
+        "originwordCnt": "65",
+        "labelwordCnt": "25"
+    }
+}

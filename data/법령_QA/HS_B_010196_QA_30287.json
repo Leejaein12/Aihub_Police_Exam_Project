@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010196",
+        "promulgDate": "20230321",
+        "effectDate": "20240322",
+        "promulgNum": "19242",
+        "title": "게임산업진흥에 관한 법률",
+        "ministry": "문화체육관광부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "정부는 게임산업 관련정책 실태조사의 대상 및 방법 등에 관한 사항은 어떠한 법령으로 정해지나요?",
+        "output": "정부는 게임산업 관련정책 실태조사의 대상 및 방법 등에 관한 사항은 대통령령으로 정합니다. 이는 게임산업 진흥에 관한 법률 제11조 제2항에 명시되어 있습니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "21"
+    }
+}

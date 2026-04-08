@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012516",
+        "promulgDate": "20200331",
+        "effectDate": "20201001",
+        "promulgNum": "17155",
+        "title": "한국재정정보원법",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국재정정보원의 감사는 어떤 업무를 담당하나요?",
+        "output": "한국재정정보원법 제7조 제3항에 따르면, 감사는 한국재정정보원의 재산 및 회계와 업무를 감사합니다.",
+        "originwordCnt": "51",
+        "labelwordCnt": "11"
+    }
+}

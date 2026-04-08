@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "96994",
+        "caseName": "판결정정",
+        "caseNum": "82초33",
+        "sentenceDate": "1982.10.04",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형사소송법 제400조 제1항에서 상고심 판결 정정 사유로서의 ‘오류’가 인정되는 경우는 무엇인가요?",
+        "output": "형사소송법 제400조 제1항에 따르면, 상고심 판결에서 정정 사유로 인정되는 '오류'는 명백한 경우에 한정됩니다. 채증법칙에 위배되어 판단이 잘못된 경우는 이에 해당하지 않으며, 단순한 판단 오류는 정정 사유가 되지 않습니다.",
+        "originwordCnt": "29",
+        "labelwordCnt": "28"
+    }
+}

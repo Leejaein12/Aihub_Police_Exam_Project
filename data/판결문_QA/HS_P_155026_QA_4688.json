@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155026",
+        "caseName": "사문서위조,사문서위조행사",
+        "caseNum": "71도814",
+        "sentenceDate": "1971.06.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "소송상 청구가 부당한 주장일 경우, 정당방위의 요건인 급박하고 부당한 법익의 침해행위에 해당하나요?",
+        "output": "소송상 청구가 부당한 주장이라 하더라도, 형법 제21조에서 규정하는 정당방위의 요건인 급박하고 부당한 법익의 침해행위에 해당한다고 볼 수 없습니다. 따라서 이에 대한 정당방위 주장은 인정되지 않습니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "25"
+    }
+}

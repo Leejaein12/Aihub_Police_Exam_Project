@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010722",
+        "promulgDate": "20171128",
+        "effectDate": "20171128",
+        "promulgNum": "15082",
+        "title": "방사성폐기물 관리법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "원자력발전사업자는 방사성폐기물 관리시설 부지 선정 시 어떤 역할을 하나요?",
+        "output": "방사성폐기물 관리법 제5조 제3항에 따르면, 원자력발전사업자는 방사성폐기물 관리시설 부지 선정 시 방사성폐기물 관리사업자에게 인적ㆍ기술적 지원과 협력을 해야 합니다.",
+        "originwordCnt": "61",
+        "labelwordCnt": "18"
+    }
+}

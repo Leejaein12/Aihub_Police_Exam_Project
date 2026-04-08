@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "329485",
+        "caseName": "사기등",
+        "caseNum": "2022노1010",
+        "sentenceDate": "2023.01.16.",
+        "courtName": "서울서부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심이 선고한 형량은 징역 2년과 몰수, 추징으로 구성되며, 피고인은 양형이 무겁다고 주장하였으나, 법원은 원심의 판단이 합리적인 범위 내에 있다고 판단하였습니다. 법원은 원심이 다양한 정상을 고려하여 형을 정한 점을 인정하고, 새로운 감경 사유가 없음을 확인하였습니다. 따라서 피고인의 주장은 이유가 없다고 결론지었습니다.",
+        "originwordCnt": "209",
+        "labelwordCnt": "40"
+    }
+}

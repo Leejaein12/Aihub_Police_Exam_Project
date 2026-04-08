@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001134",
+        "promulgDate": "20191203",
+        "effectDate": "20191203",
+        "promulgNum": "16669",
+        "title": "화염병 사용 등의 처벌에 관한 법률",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "화염병을 사용하여 사람이 위험에 처할 경우 처벌은 어떻게 되나요?",
+        "output": "화염병 사용 등의 처벌에 관한 법률 제3조 제1항에 따르면, 화염병을 사용하여 사람의 생명,신체 또는 재산을 위험에 빠트린 경우 5년 이하의 징역 또는 5천만원 이하의 벌금에 처합니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "26"
+    }
+}

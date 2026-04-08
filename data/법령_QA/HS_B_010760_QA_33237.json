@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010760",
+        "promulgDate": "20150330",
+        "effectDate": "20150330",
+        "promulgNum": "02594",
+        "title": "인신보호규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법원이 신병보호결정을 취소하거나 변경할 때 어떤 절차를 진행할 수 있나요?",
+        "output": "인신보호규칙 제14조 제3항에 따르면 심문기일을 지정하여 관련자를 소환할 수 있습니다.",
+        "originwordCnt": "58",
+        "labelwordCnt": "10"
+    }
+}

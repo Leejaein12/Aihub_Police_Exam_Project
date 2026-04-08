@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155880",
+        "caseName": "병역법위반",
+        "caseNum": "69도934",
+        "sentenceDate": "1969.07.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "크리스천의 양심상의 결정을 이유로 군복무를 거부하는 것이 헌법상 양심의 자유에 포함되나요?",
+        "output": "구 헌법 제17조에 따르면, 크리스천의 소위 '양심상의 결정'으로 군복무를 거부하는 행위는 헌법에서 보장하는 양심의 자유에 해당하지 않습니다.",
+        "originwordCnt": "70",
+        "labelwordCnt": "17"
+    }
+}

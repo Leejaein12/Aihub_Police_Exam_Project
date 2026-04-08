@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000994",
+        "promulgDate": "20221115",
+        "effectDate": "20230516",
+        "promulgNum": "19028",
+        "title": "온천법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제17조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "온천법에 따르면 온천목욕장의 수질기준은 무엇에 적합해야 합니까?",
+        "output": "온천법 제17조 제1항에 따르면, 동법 제16조 제2항에 따라 공중의 목욕용으로 제공되는 온천은 공중위생관리법 제4조 제2항에도 불구하고 행정안전부령으로 정하는 수질기준에 적합하여야 합니다.",
+        "originwordCnt": "40",
+        "labelwordCnt": "21"
+    }
+}

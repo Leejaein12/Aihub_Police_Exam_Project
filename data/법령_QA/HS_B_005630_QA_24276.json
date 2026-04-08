@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005630",
+        "promulgDate": "20200805",
+        "effectDate": "20200805",
+        "promulgNum": "30909",
+        "title": "형의 집행 및 수용자의 처우에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제58조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "변호인과 접견하는 미결수용자를 제외한 수용자의 접견시간은 얼마인가요?",
+        "output": "변호인과 수용자의 접견시간은 회당 30분 이내로 합니다. 형의 집행 및 수용자의 처우에 관한 법률 시행령 제58조 제2항에 명시하고 있습니다.",
+        "originwordCnt": "100",
+        "labelwordCnt": "19"
+    }
+}

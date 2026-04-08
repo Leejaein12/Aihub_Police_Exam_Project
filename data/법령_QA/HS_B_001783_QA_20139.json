@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001783",
+        "promulgDate": "20230418",
+        "effectDate": "20240419",
+        "promulgNum": "19359",
+        "title": "약사법",
+        "ministry": "보건복지부,식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제35조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "우선심사 대상 지정의 기준과 절차는 어떻게 정해지나요?",
+        "output": "약사법 제35조의4 제5항에 따르면, 제1항부터 제4항까지의 규정에 따른 우선심사 대상 지정의 기준, 절차, 방법 및 우선심사의 절차 등에 필요한 사항은 총리령으로 정합니다.",
+        "originwordCnt": "127",
+        "labelwordCnt": "22"
+    }
+}

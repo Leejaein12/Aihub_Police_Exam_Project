@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319339",
+        "caseName": "업무방해",
+        "caseNum": "2024고정369",
+        "sentenceDate": "2024.07.11",
+        "courtName": "서울북부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "지하철 역사 내에서 민원을 제기하였으나, 역사 관리자인 피해자가 내용을 이해하지 못하자 불만을 참지 못하고 표출하며 약 30분간 소란을 피워 역사 관리 업무를 방해한 혐의로 기소되었습니다. 법원은 피고인이 잘못을 인정하고 반성하고 있으며, 피해자와 합의하여 피해자가 처벌을 원하지 않는 점을 참작하여 벌금 50만 원을 선고하였습니다.",
+        "originwordCnt": "185",
+        "labelwordCnt": "43"
+    }
+}

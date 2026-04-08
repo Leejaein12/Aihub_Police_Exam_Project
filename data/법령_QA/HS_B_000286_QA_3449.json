@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000286",
+        "promulgDate": "20221231",
+        "effectDate": "20221231",
+        "promulgNum": "19207",
+        "title": "한국전력공사법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국전력공사는 어떻게 설립되나요?",
+        "output": "한국전력공사법 제7조 제1항에 따르면, 한국전력공사는 주된 사무소의 소재지에서 설립등기를 함으로써 성립됩니다.",
+        "originwordCnt": "40",
+        "labelwordCnt": "11"
+    }
+}

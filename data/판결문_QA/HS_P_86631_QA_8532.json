@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86631",
+        "caseName": "살인",
+        "caseNum": "4293형상398",
+        "sentenceDate": "1960.09.30",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형의 경중을 비교할 때 어떤 절차를 따라야 합니까?",
+        "output": "형법 부칙 제2조 제4항에 따르면, 형의 경중을 비교할 때는 반드시 형을 가중하거나 감경한 후에 비교해야 합니다. 원판결에서 형법의 경합가중을 무시하고 신구법의 법정형만으로 형을 비교하는 것은 위법에 해당하며, 이로 인해 형기의 범위에 영향을 미칠 수 있습니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "35"
+    }
+}

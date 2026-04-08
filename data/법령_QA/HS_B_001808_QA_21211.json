@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001808",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19591",
+        "title": "건설산업기본법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "건설산업기본법의 기본이념은 무엇인가요?",
+        "output": "'건설산업기본법' 제3조에 따르면, 이 법은 건설산업이 설계, 감리, 시공, 사업관리, 유지관리 등의 분야에 걸쳐 국제경쟁력을 갖출 수 있도록 균형 있게 발전시켜 국민경제와 국민의 생활안전에 이바지하는 것을 기본이념으로 합니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "28"
+    }
+}

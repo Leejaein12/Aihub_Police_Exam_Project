@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335129",
+        "caseName": "강제추행",
+        "caseNum": "2023노2943",
+        "sentenceDate": "2024.06.26",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A가 피해자를 강제추행했다는 공소사실에 대해, 원심은 제출된 증거들만으로는 피고인이 성적 자유를 침해할 의도로 추행을 했다고 보기 어렵다고 판단해 무죄를 선고했습니다. 검사는 원심판결이 사실오인이라고 항소했으나, 항소심에서는 원심의 판단이 정당하고 위법이 없다고 보아 검사의 항소를 기각하였습니다.",
+        "originwordCnt": "190",
+        "labelwordCnt": "34"
+    }
+}

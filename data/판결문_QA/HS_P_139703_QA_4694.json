@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "139703",
+        "caseName": "업무방해·집회및시위에관한법률위반",
+        "caseNum": "2008노3262",
+        "sentenceDate": "2008.12.18",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "공사장 출입구를 막고 집회를 하여 공사차량의 출입이 방해된 사실이 인정된 이유는 무엇인가요?",
+        "output": "공사장 출입구를 막고 바닥에 앉아 집회를 진행하면서 공사차량의 출입이 방해된 사실이 원심에서 적법하게 채택된 증거들에 의해 인정되었습니다.",
+        "originwordCnt": "457",
+        "labelwordCnt": "17"
+    }
+}

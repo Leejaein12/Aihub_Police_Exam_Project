@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010708",
+        "promulgDate": "20200811",
+        "effectDate": "20200912",
+        "promulgNum": "17472",
+        "title": "건강검진기본법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공공보건의료기관은 민간보건의료기관과의 협력이 필요한가요?",
+        "output": "건강검진기본법 제6조 규정에 따르면 보건의료기본법 제3조의 보건의료인ㆍ공공보건의료기관과 민간보건의료기관은 건강검진을 효율적으로 시행하기 위하여 상호 협력하도록 노력하여야 합니다.",
+        "originwordCnt": "15",
+        "labelwordCnt": "16"
+    }
+}

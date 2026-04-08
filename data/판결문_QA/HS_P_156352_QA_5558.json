@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "156352",
+        "caseName": "반공법위반",
+        "caseNum": "67도1460",
+        "sentenceDate": "1967.12.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 반국가단체의 활동을 찬양하거나 고무한 사실이 있다면, 무죄가 인정될 수 있나요?",
+        "output": "피고인이 반국가단체의 활동을 찬양하거나 고무한 사실이 있다면, 그로 인해 반공법 제4조 제1항에 따른 범죄가 성립할 수 있으며, 무죄가 인정될 수 있는 이유가 없습니다.",
+        "originwordCnt": "573",
+        "labelwordCnt": "23"
+    }
+}

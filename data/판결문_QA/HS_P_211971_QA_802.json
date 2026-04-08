@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "211971",
+        "caseName": "측량법위반",
+        "caseNum": "81도1819",
+        "sentenceDate": "1982.08.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "경계복원측량이 측량법상의 측량에 해당할 수 있나요?",
+        "output": "경계복원측량은 지적법 제25조 제1항에 따른 지적측량의 일종으로, 측량법상의 측량에 해당하지 않습니다. 경계복원측량은 측량방법, 자격요건, 면허부여기관 등이 측량법과 다르기 때문에 측량법 제2조 제1호 및 제37조 제2호에 규정된 측량에 포함되지 않습니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "29"
+    }
+}

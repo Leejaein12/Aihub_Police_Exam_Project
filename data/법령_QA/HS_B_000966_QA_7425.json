@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000966",
+        "promulgDate": "20201222",
+        "effectDate": "20210101",
+        "promulgNum": "17689",
+        "title": "사행행위 등 규제 및 처벌 특례법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제24조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "영업소를 폐쇄하려는 관계 공무원은 영업소 관계인에게 무엇을 내보여야 합니까?",
+        "output": "사행행위 등 규제 및 처벌 특례법 제24조 제5항에 따르면 동법 제1항에 따라 영업소를 폐쇄하는 관계 공무원은 그 권한을 표시하는 증표를 지니고 이를 관계인에게 내보여야 합니다.",
+        "originwordCnt": "196",
+        "labelwordCnt": "25"
+    }
+}

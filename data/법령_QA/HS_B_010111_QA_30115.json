@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010111",
+        "promulgDate": "20230613",
+        "effectDate": "20231214",
+        "promulgNum": "19448",
+        "title": "긴급복지지원법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "긴급지원심의위원회가 심사를 하지 않아도 되는 경우는 무엇인가요?",
+        "output": "긴급복지지원법 제14조 제2항에 따르면, 긴급지원심의위원회는 긴급지원대상자가 「국민기초생활 보장법」 또는 「의료급여법」에 따른 수급권자로 결정된 경우에는 제1항에 따른 심사를 하지 않을 수 있습니다.",
+        "originwordCnt": "64",
+        "labelwordCnt": "21"
+    }
+}

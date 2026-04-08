@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "94490",
+        "caseName": "도주",
+        "caseNum": "79도622",
+        "sentenceDate": "1979.08.31",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "도주죄의 공소시효는 도주 상태가 계속되는 동안에도 중단되나요?",
+        "output": "도주죄의 경우, 도주 상태가 계속된다고 해서 공소시효가 중단되지는 않습니다. 도주죄는 도주 상태가 계속되는 동안에도 공소시효는 정상적으로 진행되며, 도주 중이라는 이유만으로 공소시효의 진행을 중단할 수는 없습니다. 이는 형법 제145조 및 형사소송법 제252조에 따라 적용됩니다.",
+        "originwordCnt": "30",
+        "labelwordCnt": "33"
+    }
+}

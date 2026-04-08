@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "152858",
+        "caseName": "환부기각결정에대한재항고",
+        "caseNum": "65모25",
+        "sentenceDate": "1965.09.02",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "부정임산물을 몰수할 때 형법 제48조 제1항이 적용되나요?",
+        "output": "임산물단속에 관한 법률 제4조와 형법 제48조 제1항에 따르면, 부정임산물을 몰수하는 경우에도 형법 제48조 제1항이 적용됩니다. 판결요지는 부정임산물의 몰수 절차에 형법 규정이 함께 적용되어야 함을 명확히 하고 있습니다.",
+        "originwordCnt": "65",
+        "labelwordCnt": "27"
+    }
+}

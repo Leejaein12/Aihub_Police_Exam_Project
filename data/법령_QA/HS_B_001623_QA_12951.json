@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제108조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 소환장을 송달한 것과 같은 효력이 있는 경우는 무엇인가요?",
+        "output": "피고인이 기일에 출석한다는 서면을 제출하거나 출석한 피고인에게 다음 번 기일을 정하여 출석을 명령한 경우 소환장을 송달한 것과 같은 효력이 있습니다. 군사법원법 제108조 제2항에 명시하고 있습니다.",
+        "originwordCnt": "90",
+        "labelwordCnt": "25"
+    }
+}

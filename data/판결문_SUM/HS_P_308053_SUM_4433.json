@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "308053",
+        "caseName": "폭행",
+        "caseNum": "2020고합103",
+        "sentenceDate": "2020. 12. 1.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "복지공단 직원과 장애보상 문제로 상담하던 중, 불만을 표하며 피해자의 목을 팔로 밀쳐 폭행한 혐의로 기소되었습니다. 피고인은 폭행의 고의가 없었다고 주장했으나, 배심원 7명의 만장일치로 유죄가 인정되었습니다. 법원은 피고인이 동종 전과가 있고 누범기간 중 재범한 점, 피해자로부터 용서받지 못한 점 등을 고려하여 징역 4개월을 선고하였습니다.",
+        "originwordCnt": "373",
+        "labelwordCnt": "43"
+    }
+}

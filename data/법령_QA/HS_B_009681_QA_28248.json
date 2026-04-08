@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009681",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19761",
+        "title": "청소년복지 지원법",
+        "ministry": "여성가족부",
+        "fullText": "N",
+        "smClass": "제35조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시장ㆍ군수ㆍ구청장 등이 청소년복지시설에 대해 시설개선, 사업정지, 폐쇄를 명할 수 있는 위반행위별 처분기준에 대해 규정된 법령의 형식은 무엇일까요?",
+        "output": "청소년복지 지원법 제35조 제2항에 의하면, 위반행위별 처분기준은 여성가족부령으로 정합니다.",
+        "originwordCnt": "89",
+        "labelwordCnt": "9"
+    }
+}

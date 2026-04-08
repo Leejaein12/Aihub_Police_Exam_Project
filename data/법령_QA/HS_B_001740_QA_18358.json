@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001740",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19772",
+        "title": "선원법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제35조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "선원근로계약이 항해 중에 종료될 경우 계약은 어떻게 처리됩니까?",
+        "output": "선원법 제35조 제1항에 따르면, 선원근로계약이 선박의 항해 중에 종료할 경우, 그 계약은 선박이 다음 항구에 입항하여 그 항구에서 부릴 화물을 모두 부리거나 내릴 여객이 다 내릴 때까지 존속하는 것으로 봅니다.",
+        "originwordCnt": "63",
+        "labelwordCnt": "30"
+    }
+}

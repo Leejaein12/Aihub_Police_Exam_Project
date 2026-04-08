@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336207",
+        "caseName": "특정범죄가중처벌등에관한법률위반(운전자폭행등)",
+        "caseNum": "2024고단285",
+        "sentenceDate": "2024.04.18",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "운행 중이던 마을버스 운전자에게 배차 간격을 지키지 않는다는 이유로 항의하던 중, 피해자의 얼굴을 손으로 한 차례 때리고 오른쪽 팔을 잡아당겨 폭행하였습니다. 법원은 피고인에게 징역 4개월을 선고하였으나 피고인이 잘못을 인정하는 점, 다소 우발적 범행인 점 등을 고려하여 1년간 형 집행을 유예하였습니다.",
+        "originwordCnt": "139",
+        "labelwordCnt": "40"
+    }
+}

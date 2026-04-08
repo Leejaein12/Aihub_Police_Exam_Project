@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "74353",
+        "caseName": "강도강간등피고사건",
+        "caseNum": "76노합1423",
+        "sentenceDate": "1977.03.24",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "강도강간죄에서 강간의 점에 대한 고소가 취소된 경우, 공소기각 판결을 할 수 있나요?",
+        "output": "강도강간의 공소사실 중 강간의 점에 대한 고소가 취소되었더라도, 이를 이유로 강도의 점을 분리하여 강간의 점에 대해 공소기각의 판결을 선고할 수는 없습니다. 이는 형사소송법 제327조에 따라 처리됩니다.",
+        "originwordCnt": "1543",
+        "labelwordCnt": "26"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333053",
+        "caseName": "강제추행",
+        "caseNum": "2023고단617",
+        "sentenceDate": "2024.01.22",
+        "courtName": "춘천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "식당에서 소란을 피우고 주방에 소변을 보는 등의 행위로 식당 운영을 방해했으며, 이를 저지하려는 경찰관을 폭행하여 공무집행을 방해하였습니다. 법원은 피고인이 범행을 부인하였으나 피해자와의 합의, 그리고 여러 전과를 고려하여 징역 10개월을 선고하였고, 2년간 집행을 유예하며 사회봉사 80시간을 명령하였다.",
+        "originwordCnt": "360",
+        "labelwordCnt": "36"
+    }
+}

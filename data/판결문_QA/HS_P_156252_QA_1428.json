@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "156252",
+        "caseName": "군무이탈",
+        "caseNum": "69도1111",
+        "sentenceDate": "1969.08.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "집행유예 기간 중에 새로운 죄를 범한 경우, 집행유예를 받은 죄와 관련하여 누범가중 처벌이 가능한가요?",
+        "output": "집행유예 기간 중에 새로운 죄를 범하였다 하더라도, 형법 제35조에 따라 그 새로운 죄에 대하여 집행유예를 받은 죄와의 관계에서 누범가중 처벌할 수는 없습니다.",
+        "originwordCnt": "32",
+        "labelwordCnt": "22"
+    }
+}

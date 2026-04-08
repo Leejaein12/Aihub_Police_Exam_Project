@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337988",
+        "caseName": "사기등",
+        "caseNum": "2021고단1594",
+        "sentenceDate": "2023.04.14.",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "B 등과 공모하여 불특정 다수인으로부터 Q코인 투자금을 모집하며 사기, 유사수신행위의 규제에 관한 법률, 방문판매 등에 관한 법률을 위반했습니다. Q코인은 실제 결제수단으로 사용되지 않았으며, 피고인은 가상의 수익을 약속하여 636,625,000원을 편취하였습니다. 법원은 이러한 범행의 죄질이 나쁘고 피해액이 상당함을 고려해 징역 6개월을 선고했습니다.",
+        "originwordCnt": "1224",
+        "labelwordCnt": "40"
+    }
+}

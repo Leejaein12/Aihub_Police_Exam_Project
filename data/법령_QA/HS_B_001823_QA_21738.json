@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "컨테이너를 이용한 간이창고는 건축법의 적용을 받나요?",
+        "output": "건축법 제3조 제1항 제4호에 명시된 내용에 의하면, 산업집적활성화 및 공장설립에 관한 법률 제2조제1호에 따른 공장의 용도로만 사용되는 건축물의 대지에 설치된 이동이 쉬운 컨테이너를 이용한 간이창고는 건축법의 적용을 받지 않습니다.",
+        "originwordCnt": "171",
+        "labelwordCnt": "29"
+    }
+}

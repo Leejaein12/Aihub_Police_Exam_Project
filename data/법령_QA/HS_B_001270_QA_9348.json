@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001270",
+        "promulgDate": "20220111",
+        "effectDate": "20230112",
+        "promulgNum": "18755",
+        "title": "법률구조법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "대한법률구조공단은 어떤 사업을 합니까?",
+        "output": "법률구조법 제21조에 따르면 대한법률구조공단은 제1조의 목적을 달성하기 위하여 다음 각 호의 사업을 합니다.1. 법률구조2. 법률구조제도에 관한 조사ㆍ연구3. 준법정신을 드높이기 위한 계몽사업4. 그 밖에 공단의 목적 달성에 필요한 사업",
+        "originwordCnt": "31",
+        "labelwordCnt": "32"
+    }
+}

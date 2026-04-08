@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "322936",
+        "caseName": "공직선거법위반",
+        "caseNum": "2023노342",
+        "sentenceDate": "2024.01.18",
+        "courtName": "광주고등법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "제3자의 기부행위가 법이 정한 범위에 해당하지 않으며, 기부의 목적이 업무의 편의성을 위한 것이라고 주장하였으나 법원은 이를 인정하지 않았습니다. 증거에 따르면, 피고인이 C 예비후보자를 지원하기 위한 기부행위를 한 사실이 충분히 인정되었고, 원심의 양형이 재량의 합리적 범위를 벗어나지 않는다고 판단하였습니다. 따라서, 모든 항소가 기각되었습니다.",
+        "originwordCnt": "718",
+        "labelwordCnt": "42"
+    }
+}

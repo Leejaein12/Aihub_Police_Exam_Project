@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "325733",
+        "caseName": "업무상횡령",
+        "caseNum": "2021노3670",
+        "sentenceDate": "2023.06.22.",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "업무상횡령으로 유죄 판결을 받은 피고인은 원심에서 징역 1년형을 선고받았으나, 항소심에서 그 형이 지나치게 무겁다고 주장하였다. 법원은 횡령 범행의 수법과 피해 규모 등을 고려할 때 피고인의 죄책이 가볍지 않다고 판단하였다. 그러나 피고인이 반성하며 피해 일부를 변제한 점을 감안해 원심판결을 파기하고, 징역 8개월을 선고하였다.",
+        "originwordCnt": "263",
+        "labelwordCnt": "43"
+    }
+}

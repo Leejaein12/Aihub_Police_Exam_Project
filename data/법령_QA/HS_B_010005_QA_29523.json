@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010005",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19882",
+        "title": "산림자원의 조성 및 관리에 관한 법률",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제37조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "산림청장은 어떤 경우에 선도 산림경영단지를 선정할 수 있나요?",
+        "output": "제37조 제3항에 따르면, 산림청장은 산림경영을 선도하기 위하여 필요한 경우 경제림육성단지 중 경영 여건이 우수한 단지를 선도 산림경영단지로 선정하여 육성할 수 있습니다.",
+        "originwordCnt": "90",
+        "labelwordCnt": "21"
+    }
+}

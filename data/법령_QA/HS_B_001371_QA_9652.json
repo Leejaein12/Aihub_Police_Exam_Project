@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001371",
+        "promulgDate": "20201215",
+        "effectDate": "20240101",
+        "promulgNum": "17646",
+        "title": "국가정보원법",
+        "ministry": "국가정보원",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가정보원 직원이 정치활동에 관여하는 행위를 하면 어떤 처벌을 받게 됩니까?",
+        "output": "국가정보원법 제21조 제1항에 의하면 제11조를 위반하여 정당이나 그 밖의 정치단체에 가입하거나 정치활동에 관여하는 행위를 한 사람은 7년 이하의 징역과 7년 이하의 자격정지에 처합니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "23"
+    }
+}

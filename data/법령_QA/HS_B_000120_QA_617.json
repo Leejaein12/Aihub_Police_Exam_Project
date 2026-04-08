@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000120",
+        "promulgDate": "20210817",
+        "effectDate": "20220218",
+        "promulgNum": "18425",
+        "title": "건설근로자의 고용개선 등에 관한 법률",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제7조의5",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "기능등급확인증을 발급받으려는 자는 수수료를 납부하여야 합니까?",
+        "output": "건설근로자의 고용개선 등에 관한 법률 제7조의5 제2항에 명시된 바와 같이, 제1항에 따라 기능등급확인증을 발급받으려는 자는 국토교통부령으로 정하는 바에 따라 수수료를 납부하여야 합니다.",
+        "originwordCnt": "51",
+        "labelwordCnt": "22"
+    }
+}

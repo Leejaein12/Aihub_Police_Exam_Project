@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93391",
+        "caseName": "특정범죄가중처벌등에관한법률위반",
+        "caseNum": "77도629",
+        "sentenceDate": "1977.05.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "외국 판결로 몰수와 추징이 선고된 경우에도 관세법에 따른 추징 사유에 해당하나요?",
+        "output": "형법 제7조의 규정 취지에 따르면 외국 판결에 의해 몰수 또는 추징 선고가 있더라도 관세법 제198조에서 정한 몰수할 수 없는 경우에 해당합니다. 따라서 해당 물품의 범칙 당시 국내 도매가격에 상당하는 금액을 추징하는 것이 마땅합니다.",
+        "originwordCnt": "63",
+        "labelwordCnt": "33"
+    }
+}

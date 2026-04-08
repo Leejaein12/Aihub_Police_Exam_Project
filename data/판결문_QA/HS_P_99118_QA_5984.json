@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "99118",
+        "caseName": "근로기준법위반",
+        "caseNum": "84도367",
+        "sentenceDate": "1984.04.10",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "근로자가 업무상 부상으로 휴업 중인 기간에 해고된 후, 그 해고를 승인한 경우에도 근로기준법 위반이 성립되나요?",
+        "output": "근로자가 업무상 부상으로 인한 휴업 기간 중에 해고된 경우, 이후 근로자가 그 해고를 승인하였다 하더라도 근로기준법 제27조 제2항 위반의 죄는 여전히 성립합니다.",
+        "originwordCnt": "293",
+        "labelwordCnt": "22"
+    }
+}

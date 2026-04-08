@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010485",
+        "promulgDate": "20210112",
+        "effectDate": "20210112",
+        "promulgNum": "17894",
+        "title": "재해경감을 위한 기업의 자율활동 지원에 관한 법률",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "재해경감 우수기업 인증과 관련된 비용은 누가 부담하나요?",
+        "output": "재해경감 우수기업 인증에 필요한 평가 및 인증서 발급에 소요되는 비용은 재해경감을 위한 기업의 자율활동 지원에 관한 법률 제7조 제5항에 따라, 신청하는 자가 부담합니다.",
+        "originwordCnt": "78",
+        "labelwordCnt": "23"
+    }
+}

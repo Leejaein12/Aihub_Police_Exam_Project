@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001109",
+        "promulgDate": "20210924",
+        "effectDate": "20220701",
+        "promulgNum": "18465",
+        "title": "사면법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제23조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검사가 집행정지 중인 자에 대한 사면장을 접수했을 때, 어떤 절차를 따라야 합니까?",
+        "output": "검사는 집행정지 중인 자에 대한 사면장을 접수했을 때 그 사실을 해당 사건 본인이 수감되어 있던 교정시설의 장과 감독 경찰관서에 통지하여야 합니다. 이는 사면법 제23조 제1항에 근거한 조치입니다.",
+        "originwordCnt": "49",
+        "labelwordCnt": "27"
+    }
+}

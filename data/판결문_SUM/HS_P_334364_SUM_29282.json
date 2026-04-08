@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334364",
+        "caseName": "업무상횡령",
+        "caseNum": "2023노2138",
+        "sentenceDate": "2024.05.29",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "검사는 피고인이 성공보수금을 피해자를 위해 보관하는 지위에 있다고 주장하며 원심의 무죄 판결에 대해 사실오인 및 법리오해를 이유로 항소하였습니다. 그러나 법원은 피고인이 피해자를 위한 성공보수금 보관의 신임관계가 존재하지 않는다고 보고, 횡령죄가 성립하지 않는다고 판단한 원심의 결론이 정당하다고 보아 검사의 항소를 기각하였습니다.",
+        "originwordCnt": "229",
+        "labelwordCnt": "40"
+    }
+}

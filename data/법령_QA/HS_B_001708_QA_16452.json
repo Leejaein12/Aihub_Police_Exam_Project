@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001708",
+        "promulgDate": "20210105",
+        "effectDate": "20210105",
+        "promulgNum": "17828",
+        "title": "변호사법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제28조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "수임 장부에는 어떤 내용을 기재해야 하나요?",
+        "output": "변호사법 제28조 제2항에 따르면 수임 장부에는 수임받은 순서에 따라 수임일, 수임액, 위임인 등의 인적사항, 수임한 법률사건이나 법률사무의 내용, 그 밖에 대통령령으로 정하는 사항을 기재하여야 합니다.",
+        "originwordCnt": "46",
+        "labelwordCnt": "25"
+    }
+}

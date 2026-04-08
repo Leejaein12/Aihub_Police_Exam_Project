@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313071",
+        "caseName": "폭행",
+        "caseNum": "2024고단657",
+        "sentenceDate": "2024.07.23",
+        "courtName": "창원지방법원 마산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술에 취한 고소인이 욕설을 하고 시비를 걸자 자리를 피했으나, 일행이 폭행당하는 것을 보고 화가 나 고소인의 뒷무릎을 찬 혐의로 기소되었습니다. 법원은 피고인의 행위가 형법 제260조 제1항에 해당하나, 피해자가 처벌을 원하지 않는다는 합의서를 제출한 점을 근거로 형사소송법 제327조 제6호에 따라 공소를 기각하였습니다.",
+        "originwordCnt": "154",
+        "labelwordCnt": "41"
+    }
+}

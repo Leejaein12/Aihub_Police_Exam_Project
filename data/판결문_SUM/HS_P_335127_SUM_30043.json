@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335127",
+        "caseName": "정보통신망이용촉진및정보보호등에관한법률위반(명예훼손)",
+        "caseNum": "2023고정2234",
+        "sentenceDate": "2024.02.07",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "남자 아이돌 그룹의 멤버인 피해자에 대해 피고인이 트위터에 사실을 적시하여 명예를 훼손한 혐의로 기소되었으나, 피해자가 처벌을 원하지 않는다는 의사를 표시한 처벌불원서를 제출함에 따라 법원은 형사소송법 제327조 제6호에 근거해 공소를 기각하였습니다.",
+        "originwordCnt": "207",
+        "labelwordCnt": "30"
+    }
+}

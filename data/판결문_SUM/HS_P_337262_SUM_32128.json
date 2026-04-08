@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337262",
+        "caseName": "업무방해등",
+        "caseNum": "2024고단251",
+        "sentenceDate": "2024.06.27",
+        "courtName": "의정부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술에 취해 행패를 부리며 업무를 방해하고, 경찰관에게 폭언과 폭행을 하여 공무집행을 방해한 피고인은 형법 제314조 제1항과 형법 제136조 제1항에 따라 업무방해 및 공무집행방해죄로 징역 8월을 선고받았습니다. 각 범행을 인정하고 반성하는 점과 피해자들이 처벌을 원하지 않는 점 등을 참작하여, 판결 확정일부터 2년간 형 집행이 유예되었습니다.",
+        "originwordCnt": "269",
+        "labelwordCnt": "44"
+    }
+}

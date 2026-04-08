@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "167621",
+        "caseName": "사기",
+        "caseNum": "2009고단3511",
+        "sentenceDate": "2010.04.15",
+        "courtName": "대구지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법원이 무죄 판결을 내린 이유는 무엇인가요?",
+        "output": "주문에 따르면, 법원은 피고인에게 적용된 혐의를 입증할 만한 충분한 증거가 부족하다고 판단하여 최종적으로 무죄를 선고하였습니다. 법원은 유죄의 증거가 합리적 의심 없이 증명되지 않았다는 이유로 무죄 결정을 내렸습니다.",
+        "originwordCnt": "1143",
+        "labelwordCnt": "27"
+    }
+}

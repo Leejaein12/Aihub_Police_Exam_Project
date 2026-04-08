@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000416",
+        "promulgDate": "20220104",
+        "effectDate": "20220705",
+        "promulgNum": "18690",
+        "title": "비료관리법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "농림축산식품부장관은 비료 공급과 관련하여 어떤 지원을 할 수 있나요?",
+        "output": "농림축산식품부장관은 비료관리법 제7조 제3항에 따라 시ㆍ도지사 또는 농업협동조합중앙회가 비료를 공급하는 경우, 예산의 범위에서 비용의 일부를 지원할 수 있습니다.",
+        "originwordCnt": "91",
+        "labelwordCnt": "18"
+    }
+}

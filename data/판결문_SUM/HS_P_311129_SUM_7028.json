@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311129",
+        "caseName": "사기",
+        "caseNum": "2023고단3766",
+        "sentenceDate": "2024.01.11",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "인터넷 카페에 허위로 기프트콘을 판매하겠다는 글을 게시한 후, 이를 보고 연락한 피해자들에게 실제로 기프트콘을 제공할 의사나 능력이 없음에도 불구하고 돈을 송금받아 편취하였습니다. 법원은 피고인이 범행을 인정하고 반성하며, 피해자 중 한 명과 합의가 이루어진 점을 참작하여 징역 2월에 처하되, 1년간 집행을 유예하였습니다.",
+        "originwordCnt": "312",
+        "labelwordCnt": "41"
+    }
+}

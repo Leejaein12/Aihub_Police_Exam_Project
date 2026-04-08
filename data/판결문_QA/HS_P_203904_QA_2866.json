@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "203904",
+        "caseName": "구속영장신청기각결정에대한재항고",
+        "caseNum": "4290형항9",
+        "sentenceDate": "1958.03.14",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "구속영장 신청이 기각된 결정에 대해 항고나 재항고를 할 수 있나요?",
+        "output": "형사소송법 제201조 제3항의 규정에 따르면, 구속영장 신청이 기각된 결정에 대해 항고나 재항고를 할 수 없으며, 이는 형사소송법의 기본정신 및 법조문 배열상의 위치와 문리해석상 정당한 해석으로 인정됩니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "26"
+    }
+}

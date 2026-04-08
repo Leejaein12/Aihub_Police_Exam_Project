@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "151348",
+        "caseName": "특수절도",
+        "caseNum": "63도423",
+        "sentenceDate": "1964.03.31",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "범죄 구성요건에 해당하는 구체적 사실에 대한 엄격한 증명 없이 유죄를 인정한 경우 어떤 법률위반에 해당하나요?",
+        "output": "범죄 구성요건에 해당하는 구체적 사실에 대한 엄격한 증명 없이 유죄를 인정한 것은 형사소송법 제307조의 엄격한 증명 원칙을 위반한 것으로 봅니다. 이는 판결에 중요한 영향을 미친 법률 위반에 해당하여 원심의 판단이 부당하게 됩니다.",
+        "originwordCnt": "94",
+        "labelwordCnt": "32"
+    }
+}

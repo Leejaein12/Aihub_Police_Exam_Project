@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "176546",
+        "caseName": "성폭력범죄의처벌등에관한특례법위반(통신매체이용음란)",
+        "caseNum": "2013노1570",
+        "sentenceDate": "2014.02.20",
+        "courtName": "서울북부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "원심의 형이 너무 가벼워서 부당하다고 볼 수 있나요?",
+        "output": "원심의 형은 사건 기록과 제반 양형조건들을 종합적으로 고려할 때, 너무 가벼워서 부당하다고 볼 수 없습니다.",
+        "originwordCnt": "79",
+        "labelwordCnt": "15"
+    }
+}

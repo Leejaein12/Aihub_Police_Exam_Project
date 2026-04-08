@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "338303",
+        "caseName": "스토킹범죄의처벌등에관한법률위반",
+        "caseNum": "2022고단5828",
+        "sentenceDate": "2023.01.31.",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2022년 3월부터 6월까지의 기간 동안 특정인에 대한 지속적인 스토킹 행위가 확인되었습니다. 이로 인해 해당 행위자는 스토킹 범죄를 저질렀습니다. 법원은 이에 대해 스토킹범죄의 처벌 등에 관한 법률 제18조 제1항에 따라 벌금 300만 원을 선고하였습니다.",
+        "originwordCnt": "257",
+        "labelwordCnt": "33"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010306",
+        "promulgDate": "20230103",
+        "effectDate": "20230404",
+        "promulgNum": "19166",
+        "title": "산업기술의 유출방지 및 보호에 관한 법률",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "산업기술보호위원회에 간사는 누구로 임명되나요?",
+        "output": "산업기술보호위원회에 간사는 산업통상자원부 소속 공무원 중에서 위원장이 지명하는 자로 임명됩니다. 이는 '산업기술의 유출방지 및 보호에 관한 법률' 제7조 제4항에 규정되어 있습니다.",
+        "originwordCnt": "220",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000319",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "소금산업 진흥법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가 또는 지방자치단체는 소금사업자와 소비자 교육훈련을 위해 어떤 기관을 지정할 수 있나요?",
+        "output": "소금산업 진흥법 제8조 제2항에 따르면, 국가 또는 지방자치단체는 교육훈련을 위하여 적절한 시설과 인력을 갖춘 기관 또는 단체를 교육훈련기관으로 지정할 수 있습니다.",
+        "originwordCnt": "138",
+        "labelwordCnt": "21"
+    }
+}

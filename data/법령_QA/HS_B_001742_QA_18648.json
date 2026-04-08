@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001742",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19134",
+        "title": "선박안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국제협약검사증서를 회수하거나 효력정지 또는 취소할 수 있는 경우는 언제인가요?",
+        "output": "선박안전법 제12조 제3항에 따르면, 해양수산부장관은 국제협약검사증서의 소유자가 국제협약을 위반한 경우 해당 증서를 회수하거나 효력정지 또는 취소할 수 있습니다.",
+        "originwordCnt": "106",
+        "labelwordCnt": "18"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012338",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19913",
+        "title": "금융회사의 지배구조에 관한 법률",
+        "ministry": "금융위원회",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "금융회사의 주요업무집행책임자와 금융회사의 관계는 어떤 법에 따라 규정되나요?",
+        "output": "금융회사의 지배구조에 관한 법률 제8조 제3항에 따르면, 주요업무집행책임자와 해당 금융회사의 관계는 「민법」 중 위임에 관한 규정을 준용합니다.",
+        "originwordCnt": "46",
+        "labelwordCnt": "17"
+    }
+}

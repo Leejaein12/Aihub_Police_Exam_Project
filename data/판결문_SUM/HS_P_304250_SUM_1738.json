@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "304250",
+        "caseName": "공무집행방해",
+        "caseNum": "2008고단6939",
+        "sentenceDate": "2009. 1. 29.",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피고인 A는 2008년 11월 12일 부산에서 경찰의 순찰차를 세운 뒤, 경찰관에게 김해까지 태워 달라고 요청했으나 거부당하자 경찰관을 폭행하고 욕설을 하며 공무집행을 방해했다. 이에 대해 법원은 A에게 징역 6개월을 선고하고, 구금일수를 산입하며, 집행유예 2년을 부여했다. A는 별다른 전과가 없고 합의 및 반성 등의 사정이 참작되었다.",
+        "originwordCnt": "190",
+        "labelwordCnt": "44"
+    }
+}

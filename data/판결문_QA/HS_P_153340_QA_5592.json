@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "153340",
+        "caseName": "임산물단속에관한법률위반",
+        "caseNum": "66도705",
+        "sentenceDate": "1966.06.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 임목을 벌채할 때 입목벌채의 인식이 있었으나, 위법성이 인정되지 않는 경우에도 죄가 성립하나요?",
+        "output": "임산물단속에관한법률 제2조 및 제7조에 따르면, 피고인에게 임목벌채의 인식은 있었으나 자기 행위가 산림보호를 해한다는 위법성이 인정되지 않는 경우에는 죄가 성립되지 않습니다.",
+        "originwordCnt": "32",
+        "labelwordCnt": "20"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005988",
+        "promulgDate": "20211231",
+        "effectDate": "20220101",
+        "promulgNum": "03016",
+        "title": "형사소송규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제26조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "고소인, 고발인 또는 피해자는 재판서 등본 또는 초본의 교부를 청구할 수 있나요?",
+        "output": "형사소송규칙 제26조제2항에 따르면 고소인, 고발인 또는 피해자는 비용을 납입하고 재판서 또는 재판을 기재한 조서의 등본 또는 초본의 교부를 청구할 수 있습니다. 다만, 그 청구하는 사유를 소명하여야 합니다.",
+        "originwordCnt": "54",
+        "labelwordCnt": "27"
+    }
+}

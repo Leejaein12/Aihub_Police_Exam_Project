@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001123",
+        "promulgDate": "20210720",
+        "effectDate": "20220121",
+        "promulgNum": "18299",
+        "title": "보호관찰 등에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제88조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국법무보호복지공단 기금의 운용과 관리는 누가 담당하며, 필요한 사항은 어떻게 정해지는가요?",
+        "output": "한국법무보호복지공단 기금의 운용과 관리는 공단이 담당하며, 기금의 운용ㆍ관리에 필요한 사항은 대통령령으로 정해집니다. 이는 보호관찰 등에 관한 법률 제88조에 근거합니다.",
+        "originwordCnt": "13",
+        "labelwordCnt": "19"
+    }
+}

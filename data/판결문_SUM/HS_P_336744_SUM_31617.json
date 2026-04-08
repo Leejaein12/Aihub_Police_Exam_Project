@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336744",
+        "caseName": "성폭력범죄의처벌등에관한특례법위반(비밀준수등)",
+        "caseNum": "2024고정115",
+        "sentenceDate": "2024.04.05",
+        "courtName": "수원지방법원 성남지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "성폭력 범죄로 인해 신상정보 등록대상자가 되었으나, 이후 주소가 변경되었음에도 불구하고 20일 이내에 변경된 신상정보를 관할 경찰관서에 제출하지 않았습니다. 법원은 피고인의 범행 경위와 전과, 범행 후 정황 등을 종합적으로 고려하여 벌금 70만 원을 선고하였습니다.",
+        "originwordCnt": "198",
+        "labelwordCnt": "33"
+    }
+}

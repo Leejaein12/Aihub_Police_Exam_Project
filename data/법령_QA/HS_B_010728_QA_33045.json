@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010728",
+        "promulgDate": "20230516",
+        "effectDate": "20231117",
+        "promulgNum": "19412",
+        "title": "지능형 로봇 개발 및 보급 촉진법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가 및 지방자치단체는 지능형 로봇의 개발ㆍ보급을 위해 어떤 책무를 가지나요?",
+        "output": "지능형 로봇 개발 및 보급 촉진법 제3조 제1항에 따르면, 국가 및 지방자치단체는 지능형 로봇이 국민의 안전과 편의를 증진시키는 방향으로 개발ㆍ보급될 수 있도록 사회적 기반을 조성해야 합니다.",
+        "originwordCnt": "46",
+        "labelwordCnt": "26"
+    }
+}

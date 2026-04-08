@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000161",
+        "promulgDate": "20230914",
+        "effectDate": "20240315",
+        "promulgNum": "19720",
+        "title": "실내공기질 관리법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제4조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "관계 중앙행정기관의 장과 시ㆍ도지사는 환경부장관에게 무엇을 제출해야 하나요?",
+        "output": "실내공기질 관리법 제4조의4 제2항에 따르면, 관계 중앙행정기관의 장 및 시ㆍ도지사는 다음 연도의 시행계획 및 전년도의 추진실적을 대통령령으로 정하는 바에 따라 환경부장관에게 제출하여야 합니다.",
+        "originwordCnt": "60",
+        "labelwordCnt": "23"
+    }
+}

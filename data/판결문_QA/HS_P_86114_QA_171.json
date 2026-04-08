@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86114",
+        "caseName": "법령제19호위반,양곡관리법위반",
+        "caseNum": "4288형상87",
+        "sentenceDate": "1955.07.08",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "정부가 지정한 가격을 초과하여 양곡을 판매한 무역업자는 어떤 법령을 위반한 것으로 보아야 할까요?",
+        "output": "정부의 지정가격을 초과한 가격으로 양곡을 판매한 무역업자는 특별한 사정이 없는 한 군정법령 제19호 제3조에 위반한 것으로 인정될 것입니다.",
+        "originwordCnt": "54",
+        "labelwordCnt": "18"
+    }
+}

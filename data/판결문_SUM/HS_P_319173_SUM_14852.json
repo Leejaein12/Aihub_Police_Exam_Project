@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319173",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단3416",
+        "sentenceDate": "2024.02.22",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.157% 상태로 2.4km 구간을 운전하였습니다. 이는 도로교통법 제148조의2 제1항 제3호 및 제44조 제1항을 위반한 것으로, 이 전에도 음주운전으로 벌금형을 받은 전력이 있습니다. 법원은 음주운전 재범임에도 판시 전과 외에는 별다른 형사처벌 전력이 없다는 점을 참작하여 벌금 1,500만 원을 선고하였습니다.",
+        "originwordCnt": "194",
+        "labelwordCnt": "39"
+    }
+}

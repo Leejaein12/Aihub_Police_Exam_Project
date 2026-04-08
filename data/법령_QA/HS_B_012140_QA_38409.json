@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012140",
+        "promulgDate": "20240125",
+        "effectDate": "20240131",
+        "promulgNum": "03126",
+        "title": "아동보호심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제62조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "아동학대범죄의 항고법원은 합의부원에게 명하거나 누구에게 촉탁할 수 있습니까?",
+        "output": "아동보호심판규칙 제62조 제2항에 따르면 동조 제1항의 조사는 이를 합의부원에게 명하거나 가정법원 또는 지방법원과 그 지원의 판사에게 촉탁하여 할 수 있습니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "20"
+    }
+}

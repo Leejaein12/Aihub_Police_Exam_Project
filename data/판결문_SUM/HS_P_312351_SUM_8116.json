@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312351",
+        "caseName": "모욕",
+        "caseNum": "2023고정48",
+        "sentenceDate": "2023.10.17",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "반찬가게를 운영하는 피고인이 가게 앞 손소독제 파손 문제로 피해자와 다투던 중, 다른 손님들이 있는 가운데 피해자에게 욕설을 반복하여 공연히 모욕한 사실이 인정되었습니다. CCTV 영상 및 증인 진술을 통해 범죄 사실이 입증되었습니다. 이에 따라 법원은 형법 제311조를 적용해 피고인에게 벌금 1,000,000원을 선고하였습니다.",
+        "originwordCnt": "242",
+        "labelwordCnt": "41"
+    }
+}

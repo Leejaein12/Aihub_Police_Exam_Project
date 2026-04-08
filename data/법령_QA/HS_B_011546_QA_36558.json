@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011546",
+        "promulgDate": "20161220",
+        "effectDate": "20161220",
+        "promulgNum": "14408",
+        "title": "난민법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "외국인이 입국심사를 받는 때에 난민인정 신청을 하려면 어떻게 해야 합니까?",
+        "output": "난민법 제6조 제1항에 따르면 외국인이 입국심사를 받는 때에 난민인정 신청을 하려면 「출입국관리법」에 따른 출입국항을 관할하는 지방출입국ㆍ외국인관서의 장에게 난민인정신청서를 제출하여야 합니다.",
+        "originwordCnt": "105",
+        "labelwordCnt": "20"
+    }
+}

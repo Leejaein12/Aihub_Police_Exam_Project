@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001783",
+        "promulgDate": "20230418",
+        "effectDate": "20240419",
+        "promulgNum": "19359",
+        "title": "약사법",
+        "ministry": "보건복지부,식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제21조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공공심야약국 지정이 취소된 경우, 지원금은 어떻게 처리되나요?",
+        "output": "약사법 제21조의3에 따르면, 보건복지부장관, 시·도지사 또는 시장·군수·구청장은 지정이 취소된 경우 해당 공공심야약국에 지급한 지원금의 전부 또는 일부를 환수할 수 있습니다.",
+        "originwordCnt": "190",
+        "labelwordCnt": "20"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "77788",
+        "caseName": "노동조합및노동관계조정법위반·산업안전보건법위반",
+        "caseNum": "2004노2001",
+        "sentenceDate": "2005.12.27",
+        "courtName": "창원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법원이 피고인들의 항소를 기각한 이유는 무엇인가요?",
+        "output": "주문에 따르면, 법원은 피고인들의 항소를 모두 기각하였습니다. 이는 원심판결에 변경할 만한 사유가 없다고 판단하여, 피고인들이 제기한 항소를 받아들이지 않고 원심의 결정을 그대로 유지하기로 한 것입니다.",
+        "originwordCnt": "2468",
+        "labelwordCnt": "25"
+    }
+}

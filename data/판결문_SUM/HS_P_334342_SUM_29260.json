@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334342",
+        "caseName": "조세범처벌법위반",
+        "caseNum": "2023고정1425",
+        "sentenceDate": "2023.11.07",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "주식회사 B의 대표 A는 주식회사 E로부터 실제로 재화나 용역을 공급받지 않았음에도 불구하고, 공급가액 9억 원 상당의 광고 제작 용역을 제공받은 것처럼 허위 세금계산서를 교부받았습니다. 이에 따라 주식회사 B 또한 대표의 위반 행위에 따라 조세범 처벌법 위반으로 처벌받았습니다. 법원은 피고인 A와 주식회사 B에게 각각 10,000,000원의 벌금을 선고하였습니다.",
+        "originwordCnt": "236",
+        "labelwordCnt": "46"
+    }
+}

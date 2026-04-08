@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제117조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군사법원이 피고인에게 출석을 명령할 수 있나요?",
+        "output": "군사법원법 제117조에 따르면 군사법원은 필요하면 피고인에게 지정한 장소에 출석하거나 동행할 것을 명령할 수 있습니다.",
+        "originwordCnt": "14",
+        "labelwordCnt": "14"
+    }
+}

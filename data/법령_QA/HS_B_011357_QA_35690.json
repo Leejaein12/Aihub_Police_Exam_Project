@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011357",
+        "promulgDate": "20230314",
+        "effectDate": "20240315",
+        "promulgNum": "19234",
+        "title": "개인정보 보호법",
+        "ministry": "개인정보보호위원회",
+        "fullText": "N",
+        "smClass": "제42조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "개인정보 분쟁위원회 위원이 사건에 당사자의 대리인으로 관여한 경우에는 어떻게 되나요?",
+        "output": "위원이 그 사건에 관하여 당사자의 대리인으로서 관여하거나 관여하였던 경우 제척됩니다. 개인정보 보호법 제42조 제1항 제4호에 규정되어 있습니다.",
+        "originwordCnt": "111",
+        "labelwordCnt": "17"
+    }
+}

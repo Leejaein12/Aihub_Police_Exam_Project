@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001708",
+        "promulgDate": "20210105",
+        "effectDate": "20210105",
+        "promulgNum": "17828",
+        "title": "변호사법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소속이 변경된 변호사는 변경 후 어떤 신고를 해야 하나요?",
+        "output": "변호사법 제14조 제2항에 의거하여 소속이 변경된 변호사는 지체 없이 종전 소속 지방변호사회에 신고하여야 합니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "14"
+    }
+}

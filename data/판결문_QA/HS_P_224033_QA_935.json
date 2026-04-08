@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "224033",
+        "caseName": "업무상횡령등피고사건",
+        "caseNum": "84노138",
+        "sentenceDate": "1984.04.24",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형법 제262조의 상해치사죄는 어떤 요건으로 성립하나요?",
+        "output": "형법 제262조에 따르면, 상해를 가하여 사람이 사망에 이르게 한 경우 상해치사죄가 성립합니다. 이는 사망의 결과에 대한 책임을 묻는 것으로, 가해자가 고의적으로 상해를 입혔을 때 사망에 이르게 되었을 경우 적용됩니다.",
+        "originwordCnt": "20806",
+        "labelwordCnt": "29"
+    }
+}

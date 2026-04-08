@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336580",
+        "caseName": "도로법위반",
+        "caseNum": "2023고정624",
+        "sentenceDate": "2023.11.23",
+        "courtName": "서울서부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "화물자동차의 적재량 측정을 위한 법적 의무를 위반하여, 피고인은 2023년 2월 3일 고속도로에서 화물차 전용 축중차로가 아닌 일반 하이패스 차로로 진입하였습니다. 이러한 행위는 도로법에 따라 정해진 적재량 측정 절차를 따르지 않은 것으로, 이에 따라 피고인은 도로법 제115조 제5호와 제78조 제3항에 의거하여 벌금형이 부과되었습니다.",
+        "originwordCnt": "152",
+        "labelwordCnt": "42"
+    }
+}

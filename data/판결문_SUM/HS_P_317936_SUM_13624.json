@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317936",
+        "caseName": "상해",
+        "caseNum": "2023고정1033",
+        "sentenceDate": "2024.03.29",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 2월 20일 주택에서, 한 개인이 소리를 지르며 불쾌한 말을 했다는 이유로 피고인이 상대방에게 폭행을 가하였습니다. 이로 인해 상대방은 치료가 필요한 상해를 입게 되었으며, 폭력 범죄로 여러 차례 처벌받은 경력이 있었습니다. 법원은 상대방의 상해 정도와 폭행을 가한 사람의 전과를 고려하여 벌금 200만원을 부과하였습니다.",
+        "originwordCnt": "223",
+        "labelwordCnt": "43"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001859",
+        "promulgDate": "20220203",
+        "effectDate": "20220203",
+        "promulgNum": "18810",
+        "title": "광산안전법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "조광권 설정 시 처분의 효력은 누구에게 미치나요?",
+        "output": "'광산안전법' 제3조제2항에 따르면, 조광권이 설정되거나 조광구가 증가한 경우, 이 법에 따른 처분과 채굴권자가 이 법에 따라 행한 절차 또는 그 밖의 행위는 조광권의 범위에서 조광권자에 대해 효력을 가집니다.",
+        "originwordCnt": "94",
+        "labelwordCnt": "28"
+    }
+}

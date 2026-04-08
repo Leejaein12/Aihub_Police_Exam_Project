@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335745",
+        "caseName": "영화및비디오물의진흥에관한법률위반등",
+        "caseNum": "2023고단1633",
+        "sentenceDate": "2023.09.05",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "연인 사이로서 음란한 영상을 제작하고 이를 해외 유료 콘텐츠 사이트에 게시하여 수익을 올리기 위해 공모하였습니다. 피고인 A는 B와의 유사성행위 장면을 촬영하여 게시하는 등 등급분류를 받지 않은 비디오물을 제작하고, 음란 영상을 판매하였습니다. 법원은 피고인들에게 징역 1년에 집행유예 2년을 선고하였습니다.",
+        "originwordCnt": "558",
+        "labelwordCnt": "38"
+    }
+}

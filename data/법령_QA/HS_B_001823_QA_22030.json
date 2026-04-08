@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제77조의5",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "협정체결자는 건축협정서를 작성하고 관리하기 위하여 어떤 자율적 기구를 설립할 수 있습니까?",
+        "output": "협정체결자는 건축협정서 작성 및 관리 등을 위하여 필요한 경우 자율적 기구로서 건축협정운영회를 설립할 수 있습니다. 이는 건축법 제77조의5 제1항에 명시되어 있습니다.",
+        "originwordCnt": "56",
+        "labelwordCnt": "21"
+    }
+}

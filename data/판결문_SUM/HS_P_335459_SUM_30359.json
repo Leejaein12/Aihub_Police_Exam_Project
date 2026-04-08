@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335459",
+        "caseName": "상해",
+        "caseNum": "2024고정44",
+        "sentenceDate": "2024.06.25",
+        "courtName": "광주지방법원 해남지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "개를 조용히 시키라는 요구를 받자, 분노하여 욕설과 함께 피해자의 멱살을 잡고 밀쳤습니다. 이로 인해 피해자는 상해를 입어 약 84일간 치료가 필요하게 되었습니다. 법원은 피고인이 이전에도 폭력 관련 범죄로 여러 차례 처벌받은 전력이 있음을 고려하여, 벌금 2,000,000원을 선고하였습니다.",
+        "originwordCnt": "294",
+        "labelwordCnt": "37"
+    }
+}

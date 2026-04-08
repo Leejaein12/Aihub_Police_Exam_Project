@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "건축물의 정의는 무엇인가요?",
+        "output": "건축물은 토지에 정착하는 공작물 중 지붕과 기둥 또는 벽이 있는 것과 이에 딸린 시설물을 말합니다. 또한, 지하나 고가의 공작물에 설치하는 사무소, 공연장, 점포, 차고, 창고 등의 시설물도 포함된다고 건축법 제2조 제1항 제2호에서 규정하고 있습니다.",
+        "originwordCnt": "690",
+        "labelwordCnt": "34"
+    }
+}

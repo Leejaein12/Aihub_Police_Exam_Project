@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001486",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "수산업법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제62조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "유어장이 적절하게 관리되지 않는 경우 어떤 조치가 취해지나요?",
+        "output": "「수산업법」 제62조 제6항에 따르면, 시장, 군수, 구청장은 유어장이 해양수산부령에 따라 적절하게 관리ㆍ운영되지 않을 경우, 시정명령을 내리거나 유어장 지정을 취소할 수 있습니다.",
+        "originwordCnt": "245",
+        "labelwordCnt": "21"
+    }
+}

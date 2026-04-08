@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335593",
+        "caseName": "사기등",
+        "caseNum": "2023고단516",
+        "sentenceDate": "2023.08.16",
+        "courtName": "전주지방법원 군산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "타인의 체크카드 정보를 무단으로 사용하고 피해자를 속여 재산상의 이익을 취득한 혐의로 기소되었습니다. 법원은 피고인의 범죄사실을 인정하여 징역 6개월에 처하되, 2년간 집행을 유예하고 사회봉사 80시간을 명령하였습니다. 양형에서는 피해자가 처벌을 원하지 않는 점과 피고인이 반성하고 있는 점이 참작되었습니다.",
+        "originwordCnt": "448",
+        "labelwordCnt": "36"
+    }
+}

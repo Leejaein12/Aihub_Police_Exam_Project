@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "193039",
+        "caseName": "사기·업무상횡령·권리행사방해",
+        "caseNum": "2014고단1421",
+        "sentenceDate": "2016.08.18",
+        "courtName": "대전지방법원천안지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인의 사기 범행이 인정된 이유는 무엇인가요?",
+        "output": "피고인은 피해자 회사에게 공사대금을 지급할 의사나 능력이 없었음에도 불구하고 공사를 하도록 속여 공사대금 1억 4,300만 원 상당의 재산상 이익을 편취하였기 때문에 사기 범행이 인정되었습니다.",
+        "originwordCnt": "615",
+        "labelwordCnt": "24"
+    }
+}

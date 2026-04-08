@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009514",
+        "promulgDate": "20230613",
+        "effectDate": "20240614",
+        "promulgNum": "19457",
+        "title": "의료기기법",
+        "ministry": "보건복지부,식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "진단용 방사선 발생장치와 특수의료장비의 설치ㆍ운영은 어떤 법률을 따르나요?",
+        "output": "의료기기법 제4조에 따르면, 진단용 방사선 발생장치와 특수의료장비의 설치ㆍ운영에 대해서는 「의료법」 제37조, 제38조 및 「수의사법」 제17조의3, 제17조의4에 따릅니다.",
+        "originwordCnt": "18",
+        "labelwordCnt": "17"
+    }
+}

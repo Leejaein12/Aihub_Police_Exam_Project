@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001624",
+        "promulgDate": "20210924",
+        "effectDate": "20220701",
+        "promulgNum": "18465",
+        "title": "군형법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제41조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "군형법 상 근무를 기피할 목적으로 신체를 상해한 사람은 어떤 처벌을 받나요?",
+        "output": "군형법 제41조 제1항에 따르면 근무를 기피할 목적으로 신체를 상해한 사람은 다음 각 호의 구분에 따라 처벌합니다.1. 적전인 경우 사형, 무기 또는 5년 이상의 징역2. 그 밖의 경우 3년 이하의 징역",
+        "originwordCnt": "63",
+        "labelwordCnt": "32"
+    }
+}

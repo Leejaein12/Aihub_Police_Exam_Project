@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334404",
+        "caseName": "강제추행",
+        "caseNum": "2024고정143",
+        "sentenceDate": "2024.04.19",
+        "courtName": "수원지방법원 성남지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2022년 12월, 피고인은 헤어진 연인인 피해자의 집을 방문해 성관계를 요구하며 피해자의 엉덩이를 만져 강제추행을 저질렀습니다. 법원은 피고인에게 벌금 100만 원을 선고하고, 40시간의 성폭력 치료프로그램 이수를 명령하였습니다. 피고인의 신상정보 공개 및 취업제한 명령은 범행 경위와 재범 위험성 등을 고려해 면제되었습니다.",
+        "originwordCnt": "388",
+        "labelwordCnt": "39"
+    }
+}

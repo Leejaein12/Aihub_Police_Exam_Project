@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318097",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단328",
+        "sentenceDate": "2023.09.15",
+        "courtName": "의정부지방법원 남양주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "승용차를 운전하던 중 2021년 8월 도로에서 주의의무를 소홀히 하여 리어카를 끌고 가던 피해자와 사고를 일으켰습니다. 이 사고로 피해자는 약 7주간 치료가 필요한 부상을 입었습니다. 이후 피해자는 처벌을 원하지 않는 의사를 밝혔고, 이로 인해 공소가 기각되었습니다.",
+        "originwordCnt": "184",
+        "labelwordCnt": "35"
+    }
+}

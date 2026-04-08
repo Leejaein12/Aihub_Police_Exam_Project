@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011584",
+        "promulgDate": "20230111",
+        "effectDate": "20230111",
+        "promulgNum": "01108",
+        "title": "군검찰 압수물 사무규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제55조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검찰서기는 군검찰 공문서 사본과 압수물 공고목록표를 어떻게 처리해야 하나요?",
+        "output": "검찰서기는 공문서 사본에 압수물 공고목록표 1부를 첨부하여 압수표 뒷면에 편철해야 합니다. 이는 군검찰 압수물 사무규칙 제55조 제3항에 규정되어 있습니다.",
+        "originwordCnt": "79",
+        "labelwordCnt": "19"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014091",
+        "promulgDate": "20210608",
+        "effectDate": "20211209",
+        "promulgNum": "18206",
+        "title": "재난안전통신망법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "행정안전부장관이 재난안전통신망의 구축 및 운영에 관한 시행계획을 수립하고 시행해야 하는 주기는 어떻게 되나요?",
+        "output": "행정안전부장관은 재난안전통신망법 제5조 제1항에 따라 재난안전통신망의 구축 및 운영에 관한 시행계획을 매년 수립하고 시행하여야 합니다.",
+        "originwordCnt": "58",
+        "labelwordCnt": "15"
+    }
+}

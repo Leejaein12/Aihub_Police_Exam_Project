@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005896",
+        "promulgDate": "20161129",
+        "effectDate": "20161201",
+        "promulgNum": "02696",
+        "title": "소년심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제26조의7",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "화해권고기일조서에 관하여 심리는 무엇으로 간주합니까?",
+        "output": "소년심판규칙 제26조의7 제2항에 명시된 바와 같이, 화해권고기일조서에 관하여는 심리는 화해권고로 봅니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "11"
+    }
+}

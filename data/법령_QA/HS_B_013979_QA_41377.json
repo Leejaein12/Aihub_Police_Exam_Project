@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013979",
+        "promulgDate": "20210101",
+        "effectDate": "20210101",
+        "promulgNum": "00996",
+        "title": "영장심의위원회 규칙",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "영장심의위원회 위원후보는 어떤 기준으로 선정되나요?",
+        "output": "영장심의위원회 규칙 제3조 제2항에 명시된 바에 의하면, 영장심의위원회 위원후보는 사법제도 등에 관한 학식과 경험이 풍부하고 덕망이 있는 사람 중에서 각 고등검찰청 검사장이 위촉합니다.",
+        "originwordCnt": "70",
+        "labelwordCnt": "23"
+    }
+}

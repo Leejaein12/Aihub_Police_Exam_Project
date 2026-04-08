@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315378",
+        "caseName": "업무방해",
+        "caseNum": "2024고정252",
+        "sentenceDate": "2024.06.25",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "식당에서 종업원과 손님의 다툼을 목격한 후 고성과 욕설을 하며 소란을 일으킨 피고인은 나가달라는 요구에 응하지 않고 약 30분 동안 행패를 부렸습니다. 이로 인해 식당 운영이 방해되었으며, 이후 경찰의 출동에도 소란을 멈추지 않았습니다. 법원은 이를 업무방해로 판단하여 벌금 300만 원을 선고하였습니다.",
+        "originwordCnt": "251",
+        "labelwordCnt": "40"
+    }
+}

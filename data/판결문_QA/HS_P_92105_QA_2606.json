@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "92105",
+        "caseName": "부정수표단속법위반",
+        "caseNum": "73도3445",
+        "sentenceDate": "1974.02.12",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "선일자수표의 소지인이 발행일 이전에 제시하여 예금 부족으로 지급되지 않은 경우, 부정수표로 볼 수 있나요?",
+        "output": "선일자수표의 소지인이 발행일자 도래 전에 특약을 어기고 수표를 제시했을 때 예금 부족으로 지급이 이루어지지 않았다면, 부정수표단속법 제2조에 의하여 이를 부정수표로 간주해야 합니다.",
+        "originwordCnt": "29",
+        "labelwordCnt": "22"
+    }
+}

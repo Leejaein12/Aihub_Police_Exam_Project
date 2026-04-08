@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001460",
+        "promulgDate": "20220610",
+        "effectDate": "20230611",
+        "promulgNum": "18958",
+        "title": "산업표준화법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제39조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "인증기관은 이의신청을 받았을 때 어떻게 처리해야 하나요?",
+        "output": "산업표준화법 제39조 제2항에 따르면, 인증기관은 제1항에 따른 이의신청을 받은 경우, 그 사실관계를 조사하여 필요한 조치를 취하고, 그 결과를 이의신청을 한 자에게 회신하여야 합니다.",
+        "originwordCnt": "55",
+        "labelwordCnt": "23"
+    }
+}

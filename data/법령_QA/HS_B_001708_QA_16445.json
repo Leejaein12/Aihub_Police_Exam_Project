@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001708",
+        "promulgDate": "20210105",
+        "effectDate": "20210105",
+        "promulgNum": "17828",
+        "title": "변호사법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제24조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "변호사는 직무를 수행할 때 어떤 의무를 지켜야 하나요?",
+        "output": "변호사법 제24조 제2항에 따르면 변호사는 직무를 수행할 때 진실을 은폐하거나 거짓 진술을 하여서는 안 됩니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "15"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011546",
+        "promulgDate": "20161220",
+        "effectDate": "20161220",
+        "promulgNum": "14408",
+        "title": "난민법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "출입국항에서 난민인정신청서를 제출한 사람은 어디에 머무를 수 있습니까?",
+        "output": "난민법 제6조 제2항에 따르면 지방출입국ㆍ외국인관서의 장은 출입국항에서 난민인정신청서를 제출한 사람에 대하여 7일의 범위에서 출입국항에 있는 일정한 장소에 머무르게 할 수 있습니다.",
+        "originwordCnt": "105",
+        "labelwordCnt": "21"
+    }
+}

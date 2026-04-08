@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001501",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19753",
+        "title": "수의사법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제20조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "농림축산식품부장관은 동물 진료의 체계적인 발전을 위해 어떤 조치를 해야 합니까?",
+        "output": "수의사법 제20조의3에 따라, 농림축산식품부장관은 동물 진료의 체계적인 발전을 위하여 동물의 질병명, 진료항목 등 동물 진료에 관한 표준화된 분류체계를 작성하여 고시하여야 합니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "21"
+    }
+}

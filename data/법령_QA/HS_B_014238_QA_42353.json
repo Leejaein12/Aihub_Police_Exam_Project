@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014238",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19587",
+        "title": "국가첨단전략산업 경쟁력 강화 및 보호에 관한 특별조치법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "전략산업 현황조사와 발전전망 예측에 대한 세부 사항은 어떻게 결정되나요?",
+        "output": "'국가첨단전략산업 경쟁력 강화 및 보호에 관한 특별조치법' 제7조 제2항에 따르면 제1항에 따른 현황조사 및 발전전망 예측에 관하여 필요한 사항은 대통령령으로 정합니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "21"
+    }
+}

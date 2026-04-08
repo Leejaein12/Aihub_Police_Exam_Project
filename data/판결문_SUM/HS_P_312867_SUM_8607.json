@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312867",
+        "caseName": "주거침입미수등",
+        "caseNum": "2023고단1190",
+        "sentenceDate": "2023.10.05",
+        "courtName": "대전지방법원 천안지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "주거지에서 퇴거된 후 다시 침입을 시도하였으나 창문이 잠겨 미수에 그쳤고, 이후 피해자와 성관계 도중 폭행을 가하였습니다. 이에 주거침입미수와 폭행 혐의로 재판을 받았으며, 법원은 피고인의 범행 경위와 피해자와의 관계, 반성하는 태도 등을 고려하여 징역 1년에 처하되 3년간 집행을 유예하였습니다.",
+        "originwordCnt": "280",
+        "labelwordCnt": "38"
+    }
+}

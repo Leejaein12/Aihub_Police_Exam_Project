@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312150",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단1613",
+        "sentenceDate": "2023.08.24",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "과거 음주운전으로 벌금형을 확정받았음에도 불구하고, 다시 음주운전을 하여 도로교통법을 위반하였습니다. 혈중알코올농도 0.136% 상태에서 약 23km 구간을 운전한 사실이 인정되었습니다. 법원은 도로교통법 제148조의2 제1항 제3호에 따라 피고인에게 벌금 5백만 원을 선고하였습니다.",
+        "originwordCnt": "178",
+        "labelwordCnt": "30"
+    }
+}

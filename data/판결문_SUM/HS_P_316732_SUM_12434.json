@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "316732",
+        "caseName": "도로교통법위반(무면허운전)등",
+        "caseNum": "2023고단1169",
+        "sentenceDate": "2023.09.20",
+        "courtName": "전주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주운전으로 운전면허가 취소된 상태에서 무면허로 차량을 운전하였으며, 주차금지 입간판으로 차량 번호판을 가려 단속을 피하려는 행위를 하였습니다. 이는 도로교통법 및 자동차관리법을 위반한 것으로, 재판부는 피고인이 범행을 인정하고 있는 점, 집행유예 기간 중임에도 범행을 저지른 점 등을 고려하여 벌금형을 처하였습니다.",
+        "originwordCnt": "272",
+        "labelwordCnt": "38"
+    }
+}

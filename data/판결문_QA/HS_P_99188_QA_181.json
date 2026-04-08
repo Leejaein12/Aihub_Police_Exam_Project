@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "99188",
+        "caseName": "모욕·건설업법위반",
+        "caseNum": "83도123",
+        "sentenceDate": "1984.04.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "건설업자가 일정 규모에 미달하는 건설공사를 도급받아 시공할 때 건설업 면허가 필요한가요?",
+        "output": "건설업자가 일정 규모에 미달하는 건설공사를 도급받아 시공할 경우에도 건설업법 제4조에 따라 건설업 면허를 받아야 시공할 수 있습니다.",
+        "originwordCnt": "75",
+        "labelwordCnt": "17"
+    }
+}

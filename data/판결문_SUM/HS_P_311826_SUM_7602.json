@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311826",
+        "caseName": "준사기",
+        "caseNum": "2024고정41",
+        "sentenceDate": "2024.05.31",
+        "courtName": "수원지방법원 안산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "결혼정보업체를 운영하는 사람은 사리분별능력이 떨어진 사람을 이용해 금전을 편취한 혐의로 기소되었습니다. 이 사람은 결혼할 아름다운 아가씨를 만나게 해주겠다고 거짓말하며 결혼정보업체에 회원 등록을 유도하였고, 금원을 편취한 사실이 확인되었습니다. 범행의 수법과 피해금액, 처벌 의사를 고려하여 벌금형을 처하였습니다.",
+        "originwordCnt": "301",
+        "labelwordCnt": "35"
+    }
+}

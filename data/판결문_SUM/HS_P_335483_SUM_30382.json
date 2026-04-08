@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335483",
+        "caseName": "업무상횡령",
+        "caseNum": "2023고단1529",
+        "sentenceDate": "2023.11.24",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "PC방에서 근무하며 피해자의 금고에 보관된 재물을 횡령하였습니다. 피고인은 사기죄로 전과가 있으며, 범행 이후에도 재판에 성실히 응하지 않았습니다. 그러나 피해자에게 120만 원을 변제하였고, 자신의 잘못을 인정한 점이 고려되었습니다. 법원은 피고인을 징역 6개월에 처하였습니다.",
+        "originwordCnt": "294",
+        "labelwordCnt": "32"
+    }
+}

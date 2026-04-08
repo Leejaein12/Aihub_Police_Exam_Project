@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000798",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19597",
+        "title": "저작권법",
+        "ministry": "문화체육관광부",
+        "fullText": "N",
+        "smClass": "제59조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "배타적발행권의 존속기간이 언제까지인가요?",
+        "output": "저작권법 제59조제1항에 따르면 배타적발행권은 그 설정행위에 특약이 없는 때에는 맨 처음 발행등을 한 날부터 3년간 존속합니다 다만, 저작물의 영상화를 위하여 배타적발행권을 설정하는 경우에는 5년으로 합니다.",
+        "originwordCnt": "65",
+        "labelwordCnt": "25"
+    }
+}

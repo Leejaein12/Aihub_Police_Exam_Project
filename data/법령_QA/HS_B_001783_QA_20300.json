@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001783",
+        "promulgDate": "20230418",
+        "effectDate": "20240419",
+        "promulgNum": "19359",
+        "title": "약사법",
+        "ministry": "보건복지부,식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제50조의10",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "이해관계인은 어떤 정보를 식품의약품안전처장에게 제공할 수 있나요?",
+        "output": "약사법 제50조의10 제5항에 따르면, 이해관계인은 우선판매품목허가가 소멸 조건에 해당한다는 취지의 정보를 식품의약품안전처장에게 제공할 수 있습니다.",
+        "originwordCnt": "193",
+        "labelwordCnt": "15"
+    }
+}

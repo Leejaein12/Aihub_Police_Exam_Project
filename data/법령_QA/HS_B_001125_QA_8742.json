@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001125",
+        "promulgDate": "20210105",
+        "effectDate": "20210105",
+        "promulgNum": "17826",
+        "title": "마약류 불법거래 방지에 관한 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제72조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검사가 마약류 불법거래와 관련하여 추징보전명령을 청구해야 하는 것은 어떤 경우에만 가능한가요?",
+        "output": "마약류 불법거래 방지에 관한 특례법 제72조 제1항에 따르면, 검사는 공조요청이 추징을 목적으로 한 보전에 관한 것일 때에는 판사에게 추징보전명령을 청구하여야 합니다.",
+        "originwordCnt": "23",
+        "labelwordCnt": "21"
+    }
+}

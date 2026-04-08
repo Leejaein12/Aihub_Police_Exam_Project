@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "179901",
+        "caseName": "사기",
+        "caseNum": "2014고단39",
+        "sentenceDate": "2014.10.14",
+        "courtName": "전주지방법원남원지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "보험사기죄가 인정된 이유는 무엇인가요?",
+        "output": "허위로 작성된 매매계약서를 근거로 가축재해보험 계약을 체결하고, 보험사고 발생 시 과다 산정된 보험금을 청구하여 편취한 점이 인정되었습니다. 이에 따라 징역 1년과 징역 6월의 형이 선고되었고, 각각 2년과 1년간 형의 집행이 유예되었습니다.",
+        "originwordCnt": "1062",
+        "labelwordCnt": "31"
+    }
+}

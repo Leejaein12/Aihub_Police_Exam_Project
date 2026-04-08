@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009885",
+        "promulgDate": "20240130",
+        "effectDate": "20240501",
+        "promulgNum": "20173",
+        "title": "대중교통의 육성 및 이용촉진에 관한 법률",
+        "ministry": "국토교통부,해양수산부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "모든 국민은 대중교통서비스 이용 시 어떤 권리를 가지나요?",
+        "output": "대중교통의 육성 및 이용촉진에 관한 법률 제4조 제1항에 따르면, 모든 국민은 대중교통서비스를 이용할 때 부당한 차별을 받지 않고, 편리하고 안전하게 대중교통을 이용할 권리를 가집니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "24"
+    }
+}

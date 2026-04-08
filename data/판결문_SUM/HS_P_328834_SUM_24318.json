@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328834",
+        "caseName": "횡령등",
+        "caseNum": "2022노1509",
+        "sentenceDate": "2023.11.17.",
+        "courtName": "서울북부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공사대금을 보관하던 중 일부를 개인적인 용도로 사용하여 횡령한 혐의로 기소되었습니다. 원심은 피고인에게 징역형을 선고하였으나, 항소심에서는 피고인이 피해자와의 계약에서 실질적으로 피해자의 대리인 역할을 수행하였고, 피해자의 허락 없이 공사대금을 사용한 것으로 보지 않았습니다. 따라서 피고인은 무죄로 판단되어 처벌받지 않게 되었습니다.",
+        "originwordCnt": "1500",
+        "labelwordCnt": "38"
+    }
+}

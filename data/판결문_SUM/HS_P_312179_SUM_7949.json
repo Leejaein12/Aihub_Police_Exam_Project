@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312179",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고단647",
+        "sentenceDate": "2024.06.19",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.240% 상태로 약 20km 구간을 음주 운전한 혐의로 기소되었습니다. 법원은 피고인의 음주 상태가 매우 중하고 사고 발생의 위험이 있었음을 불리한 사정으로 고려하였습니다. 그러나 실제 사고가 발생하지 않았고, 피고인에게 동종 전과가 없다는 점 등을 참작하여 벌금 1,000만 원을 선고하였습니다.",
+        "originwordCnt": "208",
+        "labelwordCnt": "39"
+    }
+}

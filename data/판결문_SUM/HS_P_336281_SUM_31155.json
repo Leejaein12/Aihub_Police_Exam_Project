@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336281",
+        "caseName": "상해",
+        "caseNum": "2023고정668",
+        "sentenceDate": "2024.06.25",
+        "courtName": "부산지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "폭행을 당한 후 이에 대응하며 피해자의 몸을 수회 밀치고 잡아당기는 행위를 하여 약 14일간의 치료를 요하는 상해를 입힌 혐의로 기소되었으며, 법원은 이를 정당방위의 한계를 넘어선 행위로 판단하였습니다. 당시의 CCTV 영상 및 목격자의 진술을 근거로 피고인의 행위가 단순 방어를 넘어섰다고 인정되었으며, 벌금 30만 원을 선고하였습니다.",
+        "originwordCnt": "285",
+        "labelwordCnt": "44"
+    }
+}

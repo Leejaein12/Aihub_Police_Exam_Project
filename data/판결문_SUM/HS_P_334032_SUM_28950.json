@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334032",
+        "caseName": "스토킹범죄의처벌등에관한법률위반등",
+        "caseNum": "2023고정648",
+        "sentenceDate": "2024.05.08",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "헤어진 후 연락을 거부하는 상대방에게 반복적으로 집을 찾아가 문을 두드리고 따라다니며 불안감을 조성한 사건입니다. 또한, 주거지의 잠금장치를 손상하여 수리비가 발생하였습니다. 이에 따라 스토킹 처벌법 위반과 재물손괴죄로 각각 벌금형이 선고되었으며, 스토킹 치료 프로그램 이수 명령이 내려졌습니다.",
+        "originwordCnt": "293",
+        "labelwordCnt": "35"
+    }
+}

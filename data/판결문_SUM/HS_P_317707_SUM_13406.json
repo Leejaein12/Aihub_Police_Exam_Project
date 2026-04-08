@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317707",
+        "caseName": "현주건조물방화예비등",
+        "caseNum": "2023고단1171",
+        "sentenceDate": "2023.07.19",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "배우자와 장모가 있는 주거지에서 휘발유를 이용해 방화를 예비하고 협박하였습니다. 피해자 B와 C에게 휘발유를 뿌리고 불을 지르려 한 행위는 위험한 물건을 휴대한 협박과 관련하여 중범죄에 해당합니다. 법원은 피고인을 징역 1년 6월에 처하고 3년간 형의 집행을 유예하였습니다.",
+        "originwordCnt": "429",
+        "labelwordCnt": "35"
+    }
+}

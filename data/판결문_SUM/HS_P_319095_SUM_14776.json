@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319095",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고정893",
+        "sentenceDate": "2023.10.18",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알콜농도 0.264% 상태로 아파트 주차장에서 약 10m 구간을 운전하여 도로교통법 제148조의2 제1항 제2호 및 제44조 제1항을 위반하였습니다. 음주 상태로 차량을 운전한 행위는 도로 안전에 심각한 위협을 초래한다는 점에서 벌금 1,000만 원이 선고되었습니다.",
+        "originwordCnt": "134",
+        "labelwordCnt": "32"
+    }
+}

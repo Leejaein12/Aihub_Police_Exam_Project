@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제201조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "판사는 피의자를 심문할 때 어떤 조치를 해야 합니까?",
+        "output": "형사소송법 제201조의2제5항에 따르면 판사는 제201조의2제1항 또는 제201조의2제2항에 따라 심문하는 때에는 공범의 분리심문이나 그 밖에 수사상의 비밀보호를 위하여 필요한 조치를 하여야 합니다.",
+        "originwordCnt": "237",
+        "labelwordCnt": "21"
+    }
+}

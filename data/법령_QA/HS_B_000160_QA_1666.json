@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000160",
+        "promulgDate": "20221213",
+        "effectDate": "20230114",
+        "promulgNum": "19090",
+        "title": "토양환경보전법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제32조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "토양이 오염된 사실을 발견하고도 신고하지 않은 자에게는 얼마의 과태료가 부과될까요?",
+        "output": "토양환경보전법 제32조 제1항 제1호에 따르면, 동법 제11조 제1항을 위반하여 토양이 오염된 사실을 발견하고도 그 사실을 신고하지 아니한 자에게는 300만원 이하의 과태료를 부과합니다.",
+        "originwordCnt": "287",
+        "labelwordCnt": "22"
+    }
+}

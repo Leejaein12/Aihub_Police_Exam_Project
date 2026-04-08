@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014462",
+        "promulgDate": "20230628",
+        "effectDate": "20230628",
+        "promulgNum": "01120",
+        "title": "군사법경찰 수사규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제50조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군사법경찰관이 구속의 집행정지 결정을 문서로 해야 하는 이유는 무엇인가요?",
+        "output": "구속의 집행정지 결정을 할 때에는 문서로 해야 합니다. 이는 군사법경찰 수사규칙 제50조 제2항에 따라 별지 제53호서식의 구속집행정지 결정서에 따라야 한다고 규정되어 있기 때문입니다.",
+        "originwordCnt": "82",
+        "labelwordCnt": "23"
+    }
+}

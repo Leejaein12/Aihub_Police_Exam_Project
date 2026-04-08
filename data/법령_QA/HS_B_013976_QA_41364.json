@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013976",
+        "promulgDate": "20240524",
+        "effectDate": "20240524",
+        "promulgNum": "00483",
+        "title": "경찰수사규칙",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제109조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "불송치 결정서, 압수물 총목록, 기록목록은 각각 어떤 서식에 따르나요?",
+        "output": "경찰수사규칙 제109조 제1항에 따르면,불송치 결정서는 별지 제122호서식에 따르며, 압수물 총목록은 별지 제115호서식에 따라 작성하고, 기록목록은 별지 제116호서식에 따른다고 명시되어 있습니다.",
+        "originwordCnt": "68",
+        "labelwordCnt": "20"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002044",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20416",
+        "title": "아동ㆍ청소년의 성보호에 관한 법률",
+        "ministry": "여성가족부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "상습적으로 아동ㆍ청소년성착취물을 제작한 경우 어떤 처벌을 받게 되나요?",
+        "output": "아동ㆍ청소년의 성보호에 관한 법률 제11조 제7항에 따르면 상습적으로 제1항의 죄를 범한 자는 그 죄에 대하여 정하는 형의 2분의 1까지 가중합니다.",
+        "originwordCnt": "109",
+        "labelwordCnt": "20"
+    }
+}

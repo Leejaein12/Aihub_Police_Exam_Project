@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86498",
+        "caseName": "수회,증회",
+        "caseNum": "4292형상129",
+        "sentenceDate": "1959.05.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "수뢰자가 뇌물을 증뢰자에게 반환한 경우, 뇌물의 몰수와 추징은 어떻게 이루어지나요?",
+        "output": "수뢰자가 뇌물을 증뢰자에게 반환한 경우, 형사소송법 제383조에 따라 몰수와 추징은 증뢰자로부터 이루어져야 합니다. 반환된 뇌물은 증뢰자에게 귀속되므로, 그로부터 몰수 및 추징이 진행되어야 합니다.",
+        "originwordCnt": "51",
+        "labelwordCnt": "23"
+    }
+}

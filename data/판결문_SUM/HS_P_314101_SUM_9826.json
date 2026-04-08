@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314101",
+        "caseName": "특수협박",
+        "caseNum": "2023고단1511",
+        "sentenceDate": "2023.11.08",
+        "courtName": "수원지방법원 안양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 7월 23일, 한 도로에서 왜 쳐다보냐는 질문을 듣고 화가 나 주먹 크기의 돌을 집어 들고 협박하는 발언을 하였습니다. 이로 인해 위험한 물건을 휴대하여 협박한 사실이 인정되었습니다. 재판부는 범행을 자백하고, 합의가 이루어진 점, 초범인 점 등을 고려하여 형의 선고를 유예하기로 하였습니다.",
+        "originwordCnt": "192",
+        "labelwordCnt": "41"
+    }
+}

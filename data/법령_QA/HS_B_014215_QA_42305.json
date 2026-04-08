@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014215",
+        "promulgDate": "20220104",
+        "effectDate": "20230105",
+        "promulgNum": "18685",
+        "title": "재난안전산업 진흥법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "행정안전부장관은 재난안전산업에 관한 실태조사를 정기적으로 진행합니까?",
+        "output": "재난안전산업 진흥법 제8조 제1항에 따르면 행정안전부장관은 재난안전산업의 진흥을 위한 정책의 수립ㆍ시행 등을 위하여 재난안전산업에 관한 실태조사를 정기적으로 실시하여야 합니다.",
+        "originwordCnt": "63",
+        "labelwordCnt": "19"
+    }
+}

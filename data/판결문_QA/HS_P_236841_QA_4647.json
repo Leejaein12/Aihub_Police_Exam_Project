@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "236841",
+        "caseName": "국가보안법위반·간첩방조피고사건",
+        "caseNum": "73노711",
+        "sentenceDate": "1975.02.14",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "간첩방조죄의 성립에 있어서 반국가단체의 구성원이나 그 지령을 받은 자라는 요건이 필요한가요?",
+        "output": "지 않습니다. 이러한 요건은 간첩죄의 정범인 경우에만 요구되며, 방조죄의 경우에는 해당하지 않습니다. 이는 국가보안법 제2조와 형법 제98조 및 제32조에 규정된 내용입니다.",
+        "originwordCnt": "48",
+        "labelwordCnt": "21"
+    }
+}

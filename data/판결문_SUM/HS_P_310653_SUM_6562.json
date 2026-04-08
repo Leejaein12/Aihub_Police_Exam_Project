@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310653",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고정337",
+        "sentenceDate": "2024.08.28",
+        "courtName": "수원지방법원 성남지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 10월 21일 혈중알코올농도 0.098% 상태로 음주운전을 하였습니다. 법원은 피고인이 음주운전을 인정하고 반성하고 있는 점, 피고인의 과거 전과가 이종 벌금 1회에 불과한 점, 그리고 음주운전 경위 등에 참작할 사유가 있는 점을 고려하여 피고인에게 벌금 6,000,000원을 선고하였습니다.",
+        "originwordCnt": "197",
+        "labelwordCnt": "36"
+    }
+}

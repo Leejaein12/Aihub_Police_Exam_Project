@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001988",
+        "promulgDate": "20230725",
+        "effectDate": "20240126",
+        "promulgNum": "19573",
+        "title": "수상레저안전법",
+        "ministry": "해양경찰청",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시도지사와 해양경찰서장은 기본계획을 바탕으로 어떤 계획을 수립해야 하나요?",
+        "output": "수상레저안전법  제4조 4항에 따르면 시도지사 또는 해양경찰서장은 기본계획을 바탕으로 해양수산부령으로 정하는 바에 따라 매년 수상레저안전관리 시행계획을 수립·시행하여야 합니다.",
+        "originwordCnt": "114",
+        "labelwordCnt": "19"
+    }
+}

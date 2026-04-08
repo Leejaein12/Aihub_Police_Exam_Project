@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86760",
+        "caseName": "국민의료법위반",
+        "caseNum": "4293형상474",
+        "sentenceDate": "1961.08.09",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "국민의료법 시행 이전에 한지의생 면허증을 소지한 사람이 양방 의료행위를 할 수 있나요?",
+        "output": "국민의료법 시행 이전에 한지의생 면허증을 소지한 사람은 양방 의료행위를 할 수 없습니다. 양방 의료행위는 국민의료법 제40조에 따라 의사만이 할 수 있는 행위로 규정되어 있습니다.",
+        "originwordCnt": "37",
+        "labelwordCnt": "24"
+    }
+}

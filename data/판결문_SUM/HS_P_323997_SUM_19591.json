@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "323997",
+        "caseName": "보험사기방지특별법위반",
+        "caseNum": "2023고정165",
+        "sentenceDate": "2023.08.09",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "치조골 이식술 보험에 가입한 후, 실제로는 단순 임플란트 시술을 받았음에도 불구하고 허위진단서를 제출하여 보험금을 부당하게 수령한 사실이 밝혀졌습니다. 법원은 피고인의 범행을 인정하며 반성하는 점, 동종 전력이 없는 점 등을 고려하여 벌금 70만 원에 처하고, 판결 확정일부터 1년간 집행을 유예하기로 결정하였습니다.",
+        "originwordCnt": "241",
+        "labelwordCnt": "40"
+    }
+}

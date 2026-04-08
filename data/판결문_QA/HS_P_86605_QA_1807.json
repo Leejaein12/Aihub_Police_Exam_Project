@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86605",
+        "caseName": "사문서위조등",
+        "caseNum": "4292형상817",
+        "sentenceDate": "1960.01.30",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "기류부는 공정증서에 해당하나요?",
+        "output": "형법 제228조 제1항에 따르면, 기류부는 공정증서에 해당합니다. 공정증서란 공무원이 법령에 따라 작성한 문서를 의미하며, 기류부는 이러한 요건을 충족하므로 공정증서로 인정됩니다.",
+        "originwordCnt": "47",
+        "labelwordCnt": "20"
+    }
+}

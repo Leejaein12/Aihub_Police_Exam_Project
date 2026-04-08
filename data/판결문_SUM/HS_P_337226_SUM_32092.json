@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337226",
+        "caseName": "모욕",
+        "caseNum": "2023고정317",
+        "sentenceDate": "2023.11.30",
+        "courtName": "의정부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "인터넷 커뮤니티에서 모욕하는 댓글을 작성하였습니다. 법원은 이러한 행위가 형법 제311조에 따른 모욕죄에 해당한다고 판단하였으며, 범행을 인정하고 반성하고 있는 점, 피해자와의 합의가 이루어지지 않은 점 등을 종합적으로 고려하여 벌금 200만 원을 선고하였습니다.",
+        "originwordCnt": "230",
+        "labelwordCnt": "31"
+    }
+}

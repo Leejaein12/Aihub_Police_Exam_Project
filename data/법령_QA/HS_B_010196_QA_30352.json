@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010196",
+        "promulgDate": "20230321",
+        "effectDate": "20240322",
+        "promulgNum": "19242",
+        "title": "게임산업진흥에 관한 법률",
+        "ministry": "문화체육관광부",
+        "fullText": "N",
+        "smClass": "제21조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "자체등급분류사업자의 지정 및 사업자 요건에 관한 세부사항은 어떠한 법령으로 정해지나요?",
+        "output": "자체등급분류사업자의 지정 및 사업자 요건에 관한 세부사항은 문화체육관광부령으로 정해집니다. 이는 게임산업 진흥에 관한 법률 제21조의2 제5항에 명시되어 있습니다.",
+        "originwordCnt": "314",
+        "labelwordCnt": "18"
+    }
+}

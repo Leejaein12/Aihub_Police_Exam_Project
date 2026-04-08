@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "327960",
+        "caseName": "스토킹범죄의처벌등에관한법률위반",
+        "caseNum": "2022노3573",
+        "sentenceDate": "2023.11.03.",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피고인의 제1, 2 원심판결의 각 죄는 형법 제37조 전단의 경합범 관계에 있어 형법 제38조 제1항에 따라 하나의 형이 선고되어야 하므로 원심판결들은 유지될 수 없어 파기되었습니다. 이에 따라 피고인을 벌금 600만 원에 처하였습니다.",
+        "originwordCnt": "386",
+        "labelwordCnt": "32"
+    }
+}

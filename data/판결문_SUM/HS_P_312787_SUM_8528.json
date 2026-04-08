@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312787",
+        "caseName": "살인등",
+        "caseNum": "2023도8409",
+        "sentenceDate": "2023.09.21",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "살인 및 장애인복지법 위반 혐의로 기소되었습니다. 원심에서는 공소사실의 유죄를 판단하고, 피고인의 범행 동기 및 환경을 고려하여 징역 20년을 선고하였습니다. 상고심에서는 원심의 판단이 논리와 경험의 법칙을 위반하지 않았음을 확인하였으며, 원심이 양형 조건을 적절히 고려했음을 인정하였습니다. 이에 따라 상고는 기각되었습니다.",
+        "originwordCnt": "171",
+        "labelwordCnt": "38"
+    }
+}

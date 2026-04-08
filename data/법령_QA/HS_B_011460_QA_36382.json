@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011460",
+        "promulgDate": "20230304",
+        "effectDate": "20230718",
+        "promulgNum": "19228",
+        "title": "보훈보상대상자 지원에 관한 법률",
+        "ministry": "국가보훈부",
+        "fullText": "N",
+        "smClass": "제67조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보훈보상대상자가 대부금 상환 중 사망한 경우, 대부에 관한 채무는 어떻게 처리되나요?",
+        "output": "보훈보상대상자 지원에 관한 법률 제67조 제1항에 따르면, 대부를 받은 사람이 대부금 상환기간 중 사망하면 그 대부에 관한 채무는 상속인에게 승계됩니다.",
+        "originwordCnt": "51",
+        "labelwordCnt": "20"
+    }
+}

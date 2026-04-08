@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "97609",
+        "caseName": "보호감호(살인미수)",
+        "caseNum": "83감도10",
+        "sentenceDate": "1983.04.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "살인미수죄와 재물손괴, 흉기사용 협박 및 상해죄가 동종 또는 유사한 범죄로 인정될 수 있나요?",
+        "output": "살인미수죄와 재물손괴, 흉기사용 협박, 상해죄는 범죄의 수단과 방법, 유형 등이 유사하다고 인정될 수 있습니다. 판결에서는 이러한 범죄들이 사회보호법 제6조 제2항에 따라 동종 또는 유사한 범죄로 판단되었습니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "26"
+    }
+}

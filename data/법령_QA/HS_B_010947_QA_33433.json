@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010947",
+        "promulgDate": "20171212",
+        "effectDate": "20171212",
+        "promulgNum": "15153",
+        "title": "외국법자문사법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "원자격국 외에서 수행한 법률 사무 경력은 외국법자문사 자격승인에 포함되나요?",
+        "output": "외국법자문사법 제4조 제2항에 따르면, 신청인이 원자격국 외의 외국에서 원자격국 법령에 관한 법률 사무를 수행한 기간은 대통령령에 따라 제1항의 기간에 산입할 수 있습니다.",
+        "originwordCnt": "76",
+        "labelwordCnt": "22"
+    }
+}

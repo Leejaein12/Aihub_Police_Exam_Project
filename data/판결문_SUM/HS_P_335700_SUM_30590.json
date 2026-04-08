@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335700",
+        "caseName": "상해",
+        "caseNum": "2023고정63",
+        "sentenceDate": "2023.11.23",
+        "courtName": "대구지방법원 의성지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "양수기 사용 문제로 말다툼 중 폭력을 행사하여 서로에게 상해를 입혔습니다. A는 피해자의 멱살을 잡아 밀어 피해자에게 8주간의 치료가 필요한 골절상을, B는 A의 멱살을 잡아 흔들어 2주간의 치료가 필요한 좌상을 입혔습니다. 법원은 피고인들이 서로 원만히 합의하고 초범인 점을 참작하여 선고를 유예했습니다.",
+        "originwordCnt": "207",
+        "labelwordCnt": "40"
+    }
+}

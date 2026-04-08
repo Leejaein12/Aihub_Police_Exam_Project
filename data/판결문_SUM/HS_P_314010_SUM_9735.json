@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314010",
+        "caseName": "업무방해",
+        "caseNum": "2023노730",
+        "sentenceDate": "2023.12.11",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "토지 옆 도로에 트랙터를 주차하여 공사 차량의 통행을 방해하였습니다. 원심은 피고인의 행위를 무죄로 판단하였으나, 피해자와 증인들의 일관된 진술 및 제출된 현장 사진으로 미루어 보아 피고인의 업무 방해 사실이 인정되었습니다. 이로 인해 검사의 항소가 받아들여져 원심 판결을 파기하고 피고인에게 5,000,000원의 벌금형을 선고하였습니다.",
+        "originwordCnt": "1025",
+        "labelwordCnt": "41"
+    }
+}

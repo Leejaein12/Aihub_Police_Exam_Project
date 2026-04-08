@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014462",
+        "promulgDate": "20230628",
+        "effectDate": "20230628",
+        "promulgNum": "01120",
+        "title": "군사법경찰 수사규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "고소인 등의 요청이 없는 경우, 군사법경찰관은 수사 진행 상황을 어떤 방법으로 통지하나요?",
+        "output": "고소인 등의 별도 요청이 없으면 군사법경찰관은 서면 또는 문자메시지로 수사 진행 상황을 통지합니다. 이 내용은 군사법경찰 수사규칙 제5조 제2항에 명시되어 있습니다.",
+        "originwordCnt": "179",
+        "labelwordCnt": "21"
+    }
+}

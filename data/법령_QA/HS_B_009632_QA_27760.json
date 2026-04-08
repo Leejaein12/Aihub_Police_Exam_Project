@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009632",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19589",
+        "title": "복권 및 복권기금법",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "복권위원회는 복권발행업무를 어떻게 위탁할 수 있나요?",
+        "output": "복권위원회는 복권 및 복권기금법 제12조 제1항에 따라, 대통령령으로 정하는 바에 따라 단체, 법인, 또는 개인에게 복권의 발행, 관리 및 판매 업무의 일부를 위탁할 수 있습니다.",
+        "originwordCnt": "95",
+        "labelwordCnt": "25"
+    }
+}

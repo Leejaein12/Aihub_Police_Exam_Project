@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000993",
+        "promulgDate": "20230103",
+        "effectDate": "20230704",
+        "promulgNum": "19162",
+        "title": "자전거 이용 활성화에 관한 법률",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제4조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "자전거의 날을 지정ㆍ운영하는 주체는 누구입니까?",
+        "output": "자전거 이용자의 자긍심을 북돋우고 자전거 이용을 활성화하기 위하여 행정안전부장관이 자전거의 날을 지정ㆍ운영합니다. 이는 자전거 이용 활성화에 관한 법률 제4조의2 제1항에 명시되어 있습니다.",
+        "originwordCnt": "27",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "158115",
+        "caseName": "뇌물 수수,제3자 뇌물수 교부",
+        "caseNum": "65도785",
+        "sentenceDate": "1965.10.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "증뢰물 전달죄의 성립 시점은 언제인가요?",
+        "output": "증뢰물 전달죄는 제3자가 증뢰자로부터 수뢰할 사람에게 전달될 금품임을 알고 그 금품을 받은 순간 성립합니다. 형법 제133조 제2항에 따라, 제3자가 해당 금품을 수뢰자에게 실제로 전달했는지 여부는 증뢰물 전달죄 성립에 영향을 미치지 않습니다.",
+        "originwordCnt": "173",
+        "labelwordCnt": "31"
+    }
+}

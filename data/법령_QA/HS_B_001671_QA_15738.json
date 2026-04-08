@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제266조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법원은 공소의 제기가 있을 때 공소장 부본을 피고인에게 송달해야 하나요?",
+        "output": "형사소송법 제266조에 따르면 법원은 공소의 제기가 있는 때에는 지체없이 공소장의 부본을 피고인 또는 변호인에게 송달하여야 합니다. 단, 제1회 공판기일 전 5일까지 송달하여야 합니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "23"
+    }
+}

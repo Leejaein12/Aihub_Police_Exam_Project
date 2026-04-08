@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312523",
+        "caseName": "실화",
+        "caseNum": "2023고단321",
+        "sentenceDate": "2023.09.06",
+        "courtName": "대구지방법원 안동지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "가스레인지 불을 켜 놓고 주거지에서 잠을 자는 등 피고인의 부주의로 화재가 발생하여 본인의 주거지뿐 아니라 피해자들이 관리하거나 거주하는 건조물 3동까지 전소되었습니다. 이로 인해 약 38,936,000원 상당의 재산 피해가 발생하였고, 이에 대해 피고인은 형법에 따라 벌금 200만 원을 선고받았습니다.",
+        "originwordCnt": "326",
+        "labelwordCnt": "38"
+    }
+}

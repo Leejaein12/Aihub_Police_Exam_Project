@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "225465",
+        "caseName": "특정범죄가중처벌등에관한법률위반(절도)·주거침입",
+        "caseNum": "2019고단2688",
+        "sentenceDate": "2019.08.29",
+        "courtName": "의정부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "유리한 정상으로 고려된 점은 무엇인가요?",
+        "output": "유리한 정상으로는 이번 사건 범행을 자백한 점이 고려되었습니다. 이를 종합적으로 판단하여, 징역 2년의 형을 선고하고, 압수된 증 제9호를 몰수하기로 결정하였습니다.",
+        "originwordCnt": "497",
+        "labelwordCnt": "20"
+    }
+}

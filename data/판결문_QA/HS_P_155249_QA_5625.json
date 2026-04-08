@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155249",
+        "caseName": "위증",
+        "caseNum": "70도2393",
+        "sentenceDate": "1971.01.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "항소심에서 항소이유 중 일부만 판단한 경우에도 상고할 수 있나요?",
+        "output": "항소심에서 항소이유 중 일부만 판단했더라도, 그로 인해 판결 결과에 영향을 미치지 않았다면 상고심에서 그 이유로 항소심 판결을 파기할 수 없습니다. 형사소송법 제364조가 이를 규정하고 있습니다.",
+        "originwordCnt": "748",
+        "labelwordCnt": "25"
+    }
+}

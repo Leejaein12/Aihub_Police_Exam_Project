@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001748",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "화물자동차 운수사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "운송사업자는 위·수탁차주와의 계약에 있어 어떤 제한을 두어서는 안 되나요?",
+        "output": "화물자동차 운수사업법 제11조 제17항에 따르면 운송사업자는 위·수탁차주가 다른 운송사업자와 동시에 1년 이상의 운송계약을 체결하는 것을 제한하거나 이를 이유로 불이익을 주어서는 안 됩니다.",
+        "originwordCnt": "532",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001748",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "화물자동차 운수사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제46조의6",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "화물자동차 휴게소 운영의 위탁 기간과 방법은 무엇에 의해 정해지나요?",
+        "output": "화물자동차 운수사업법 제46조의6 제2항에 따르면 제1항에 따른 화물자동차 휴게소 운영의 위탁 기간과 방법 등 필요한 사항은 국토교통부령으로 정해집니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "18"
+    }
+}

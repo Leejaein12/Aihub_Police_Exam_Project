@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "188538",
+        "caseName": "사기·양곡관리법위반",
+        "caseNum": "2016노940",
+        "sentenceDate": "2016.10.14",
+        "courtName": "청주지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 콩 생산연도를 허위로 표시한 것에 대해 영리목적이 없었다는 주장은 법원에서 어떻게 받아들여졌나요?",
+        "output": "법원은 피고인의 주장을 받아들이지 않고, 기록에 비추어 피고인이 정부 보조금과 관련하여 매출액을 부풀려야 할 필요가 있었던 것으로 보아, 영리목적이 없었다는 주장은 인정되지 않는다고 판단했습니다.",
+        "originwordCnt": "233",
+        "labelwordCnt": "24"
+    }
+}

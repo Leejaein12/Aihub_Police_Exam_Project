@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "307211",
+        "caseName": "도로교통법위반",
+        "caseNum": "2016고정50",
+        "sentenceDate": "2016. 3. 7.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "등록되지 않은 상태로 운영된 인터넷 사이트를 통해 불법 운전교육이 이루어졌습니다. 피고인은 해당 사이트 광고를 보고 연락한 고객들에게 운전교육을 제공하고, 그 대가로 총 2,324만원을 수강생들로부터 받았습니다. 이는 도로교통법 제150조 제6호 및 제116조 제1호에 위반되는 행위로, 피고인에게 벌금 4,000,000원이 선고되었습니다.",
+        "originwordCnt": "255",
+        "labelwordCnt": "38"
+    }
+}

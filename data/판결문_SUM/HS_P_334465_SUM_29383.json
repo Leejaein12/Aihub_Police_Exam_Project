@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334465",
+        "caseName": "병역법위반",
+        "caseNum": "2023고단7684",
+        "sentenceDate": "2024.05.02",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사회복무요원 소집대상자인 피고인은 군사교육소집 통지서를 받았음에도 정당한 사유 없이 소집일로부터 3일 이내에 응하지 않아 병역법을 위반하였습니다. 법원은 피고인이 중증 우울증으로 군 면제 판정을 받은 점, 이전에 형사처벌 전력이 없고 나이와 환경, 범행 동기 및 결과 등을 참작하여 징역 6개월의 형을 선고하되, 2년간 집행을 유예하였습니다.",
+        "originwordCnt": "205",
+        "labelwordCnt": "44"
+    }
+}

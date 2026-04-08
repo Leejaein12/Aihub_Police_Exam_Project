@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335642",
+        "caseName": "도로교통법위반(음주운전)등",
+        "caseNum": "2023고단584",
+        "sentenceDate": "2024.01.17",
+        "courtName": "대구지방법원 경주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "과거 음주운전으로 벌금형 약식명령을 확정받은 전력이 있으며, 이번에 혈중알코올농도 0.254% 상태에서 무면허로 화물차를 운전하여 도로교통법을 재차 위반하였습니다. 법원은 징역 1년 6월을 선고하면서도, 형의 집행을 2년간 유예하고, 사회봉사 80시간과 준법운전강의 40시간을 명령하였습니다.",
+        "originwordCnt": "279",
+        "labelwordCnt": "31"
+    }
+}

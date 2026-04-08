@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72023",
+        "caseName": "살인,존속살해미수피고사건",
+        "caseNum": "64노110",
+        "sentenceDate": "1965.01.20",
+        "courtName": "광주고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형의 가중감경 순서를 잘못 적용한 경우 어떤 위법이 발생하나요?",
+        "output": "형법 제56조에 따르면 형의 가중감경 순서는 법률상 감경을 먼저 한 후 경합범 가중을 해야 합니다. 따라서 법원이 경합범 가중을 먼저 한 뒤 법률상 감경을 적용한 경우, 이는 형기 산정에 영향을 미쳐 판결에 중대한 위법을 발생시킵니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "35"
+    }
+}

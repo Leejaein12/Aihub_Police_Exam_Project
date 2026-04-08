@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010944",
+        "promulgDate": "20090325",
+        "effectDate": "20090926",
+        "promulgNum": "09523",
+        "title": "벌금 미납자의 사회봉사 집행에 관한 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법원은 벌금 미납자에게 사회봉사 허가 여부의 결정을 검사와 신청인에게 어떤 방식으로 알려야 합니까?",
+        "output": "벌금 미납자의 사회봉사 집행에 관한 특례법 제7조 제1항에서 법원은 제6조제1항의 결정을 검사와 신청인에게 서면으로 알려야 한다고 규정하고 있습니다",
+        "originwordCnt": "45",
+        "labelwordCnt": "18"
+    }
+}

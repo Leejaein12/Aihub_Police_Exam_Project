@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "309972",
+        "caseName": "출입국관리법위반",
+        "caseNum": "2017고단828",
+        "sentenceDate": "2017. 11. 23.",
+        "courtName": "춘천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "외국인을 취업활동 자격 없이 고용한 행위로 출입국관리법 제94조 제9호 및 제18조 제3항에 따라 처벌받았습니다. 체류 자격이 없는 외국인 3명을 자신의 마사지업소에서 고용하여 월급을 지급하였습니다. 이러한 행위는 사회의 안전과 질서를 해치는 것으로 보아 법원은 벌금 500만 원을 선고하였습니다.",
+        "originwordCnt": "217",
+        "labelwordCnt": "37"
+    }
+}

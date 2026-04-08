@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "179431",
+        "caseName": "공무집행방해",
+        "caseNum": "2014고단1573",
+        "sentenceDate": "2014.10.08",
+        "courtName": "서울서부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 공무원에게 큰소리로 항의하고 폭행한 행위는 어떤 법적 문제가 있나요?",
+        "output": "피고인이 국민권익위원회 공무원에게 큰소리로 항의하며 폭행한 행위는 정당한 공무집행을 방해한 것으로 인정되며, 이는 공무집행방해죄에 해당합니다.",
+        "originwordCnt": "194",
+        "labelwordCnt": "15"
+    }
+}

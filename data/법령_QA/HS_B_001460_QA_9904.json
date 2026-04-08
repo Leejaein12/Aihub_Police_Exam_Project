@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001460",
+        "promulgDate": "20220610",
+        "effectDate": "20230611",
+        "promulgNum": "18958",
+        "title": "산업표준화법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "산업표준을 제정ㆍ개정 또는 폐지하려는 경우 산업통상자원부장관은 누구와 협의하고 어떤 절차를 거쳐야 하나요?",
+        "output": "산업표준화법 제5조 제2항에 따르면 산업통상자원부장관은 산업표준을 제정ㆍ개정 또는 폐지하려는 경우 관계 행정기관의 장과 협의하고 심의회의 심의를 거쳐야 합니다.",
+        "originwordCnt": "168",
+        "labelwordCnt": "18"
+    }
+}

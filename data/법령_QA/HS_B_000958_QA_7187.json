@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000958",
+        "promulgDate": "20240116",
+        "effectDate": "20240116",
+        "promulgNum": "20027",
+        "title": "소하천정비법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소하천 예정지가 변경되거나 폐지될 수 있는 경우는 무엇이 있습니까?",
+        "output": "소하천정비법 제4조 제2항에 따르면, 소하천등 정비에 관한 계획이나 다른 법률에 따른 각종 공사계획 등으로 인하여 소하천 예정지가 변경되거나 그 계획에서 제외된 경우, 그 소하천 예정지를 변경하거나 폐지할 수 있습니다.",
+        "originwordCnt": "139",
+        "labelwordCnt": "29"
+    }
+}

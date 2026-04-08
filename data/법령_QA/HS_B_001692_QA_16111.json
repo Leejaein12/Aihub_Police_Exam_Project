@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001692",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19582",
+        "title": "형법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제57조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "징역, 금고, 벌금이나 과료에 관한 유치 또는 구류의 기간과 관련하여 판결선고전의 구금일수는 어떻게 계산하여야 할까요?",
+        "output": "구금일수의 1일은 징역, 금고, 벌금이나 과료에 관한 유치 또는 구류의 기간의 1일로 계산합니다. 이는 형법 제57조 제2항에서 규정하고 있습니다.",
+        "originwordCnt": "33",
+        "labelwordCnt": "19"
+    }
+}

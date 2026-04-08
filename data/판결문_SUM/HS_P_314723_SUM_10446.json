@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314723",
+        "caseName": "모욕",
+        "caseNum": "2023고정285",
+        "sentenceDate": "2023.09.14",
+        "courtName": "창원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "경찰공무원에게 욕설을 하여 모욕죄를 저질렀습니다. 형법 제311조에 따라 모욕죄가 인정되었으며, 현장에서 경찰에게 심한 욕설을 하여 그 죄질이 불량하다고 판단되었습니다. 사건 이후 피해자들에게 사죄하려는 노력을 보였으나, 이러한 사정을 참작하더라도 벌금 100만 원이 과다하지 않다고 보아 벌금형이 선고되었습니다.",
+        "originwordCnt": "185",
+        "labelwordCnt": "36"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86623",
+        "caseName": "업무방해",
+        "caseNum": "4293형상397",
+        "sentenceDate": "1960.08.03",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "업무방해죄가 성립하려면 실제로 업무 방해 결과가 발생해야 하나요?",
+        "output": "형법 제314조에 따르면, 업무방해죄의 성립에는 실제로 업무 방해의 결과가 발생할 필요는 없습니다. 판결요지에 따르면, 업무방해죄는 업무 방해 결과의 발생 가능성만 있어도 충분히 성립하는 범죄이므로, 결과의 염려가 있으면 성립 요건을 충족한다고 보고 있습니다.",
+        "originwordCnt": "17",
+        "labelwordCnt": "32"
+    }
+}

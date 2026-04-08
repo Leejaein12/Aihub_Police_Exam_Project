@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "154712",
+        "caseName": "상해·무고",
+        "caseNum": "72도256",
+        "sentenceDate": "1972.04.20",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "원심이 상해사실을 인정하면서도 무죄를 선고한 이유는 무엇인가요?",
+        "output": "원심이 피고인이 피해자에게 제3,4요추골압박골절상을 입힌 사실이 없다는 이유만으로 무죄를 선고한 것은, 형법 제257조에 따른 공소사실에 제3,4요추골압박골절상 외에 다른 상해도 포함된다는 취지를 고려하지 않고, 이유 명시를 다하지 못한 위법이 있습니다.",
+        "originwordCnt": "48",
+        "labelwordCnt": "29"
+    }
+}

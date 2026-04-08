@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "74350",
+        "caseName": "향토예비군설치법위반등피고사건",
+        "caseNum": "76노646",
+        "sentenceDate": "1977.02.17",
+        "courtName": "광주고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "향토예비군 훈련 소집통지서가 교육훈련 1일 전에 전달된 경우, 이 소집통지서의 효력은 어떻게 되나요?",
+        "output": "향토예비군설치법 시행령 제13조 제2항에 따르면, 소집통지서의 전달 기간은 강행규정으로 해석되어야 합니다. 따라서 교육훈련 1일 전에 전달된 소집통지서는 소집통지서로서의 효력이 없습니다.",
+        "originwordCnt": "20",
+        "labelwordCnt": "20"
+    }
+}

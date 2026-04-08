@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "73356",
+        "caseName": "강간치상피고사건",
+        "caseNum": "73노403",
+        "sentenceDate": "1973.05.17",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "강간치상죄가 성립하기 위한 요건은 무엇인가요?",
+        "output": "강간치상죄는 강간, 강제추행, 준강간 또는 준강제추행의 죄를 범한 자가 범행 중 피해자에게 상해를 입히는 경우 성립합니다. 강간이 미수에 그치더라도 그로 인해 피해자에게 상해를 입혔다면 강간치상죄가 성립합니다. 이러한 해석은 형법 제301조에 근거한 것입니다.",
+        "originwordCnt": "32",
+        "labelwordCnt": "32"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013976",
+        "promulgDate": "20240524",
+        "effectDate": "20240524",
+        "promulgNum": "00483",
+        "title": "경찰수사규칙",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제50조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사법경찰관이 체포영장을 신청해야하는 경우 절차가 어떻게 되나요?",
+        "output": "경찰수사규칙 제50조에 따라 현재 수사 중인 다른 범죄사실에 관하여 그 피의자에 대해 발부된 유효한 체포영장이 있는지를 확인해야 하며 해당사항이 있는 경우에는 그 사실을 체포영장 신청서에 적어야 합니다.",
+        "originwordCnt": "40",
+        "labelwordCnt": "27"
+    }
+}

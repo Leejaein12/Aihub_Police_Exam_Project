@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002009",
+        "promulgDate": "20161220",
+        "effectDate": "20161220",
+        "promulgNum": "14413",
+        "title": "특정범죄신고자 등 보호법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "범죄신고등을 함으로써 자신의 범죄가 발견된 경우 어떻게 처벌이 되나요?",
+        "output": "특정범죄신고자 등 보호법 제16조에 따르면 범죄신고등을 함으로써 그와 관련된 자신의 범죄가 발견된 경우 그 범죄신고자등에 대하여 형을 감경하거나 면제할 수 있습니다.",
+        "originwordCnt": "20",
+        "labelwordCnt": "21"
+    }
+}

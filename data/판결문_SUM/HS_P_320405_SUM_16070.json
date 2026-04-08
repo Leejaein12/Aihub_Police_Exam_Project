@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "320405",
+        "caseName": "절도",
+        "caseNum": "2023고단1368",
+        "sentenceDate": "2023.09.15",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "과거 동종 범행으로 여러 차례 처벌받은 전력이 있으며, 누범 기간 중 피해자의 집에서 블루투스 이어폰을 절취한 혐의로 기소되었습니다. 법원은 피고인이 범행을 인정하고 반성하는 점을 고려하였으나, 동종 범죄로 실형을 선고받은 전력이 있고 이번 범행이 누범 기간 중에 저질러진 점을 중하게 보아 징역 6개월을 선고하였습니다.",
+        "originwordCnt": "251",
+        "labelwordCnt": "43"
+    }
+}

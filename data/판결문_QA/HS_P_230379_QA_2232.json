@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "230379",
+        "caseName": "게임산업진흥에관한법률위반",
+        "caseNum": "2011노3082",
+        "sentenceDate": "2012.05.03",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인의 항소 이유인 양형부당 주장은 왜 받아들여지지 않았나요?",
+        "output": "피고인의 항소 이유인 양형부당 주장은, 피고인이 일했던 사행성 게임장이 도박장과 같은 시스템을 갖추고 영업하여 사회적 해악성이 높았던 점을 고려할 때, 원심이 선고한 형이 너무 무겁다고 볼 수 없으므로 받아들여지지 않았습니다.",
+        "originwordCnt": "112",
+        "labelwordCnt": "30"
+    }
+}

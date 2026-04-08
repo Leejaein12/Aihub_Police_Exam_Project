@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "331454",
+        "caseName": "횡령",
+        "caseNum": "2022고정100",
+        "sentenceDate": "2023.01.31",
+        "courtName": "춘천지방법원 속초지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자신이 임대해준 횟집에서 발생한 고객 대금 약 2,424만 원을 보관하던 피고인은 이를 생활비와 대출금 변제 등에 사용하여 피해자의 재산을 횡령하였습니다. 법원은 피고인이 범행을 인정하고 반성하는 태도를 보이며 일부 금액을 반환하려는 노력을 기울였으나, 피해 금액이 크고 피해자와 합의에 이르지 못한 점을 고려하여 벌금 500만 원을 선고하였습니다.",
+        "originwordCnt": "273",
+        "labelwordCnt": "45"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001513",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19754",
+        "title": "식물방역법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제28조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검역에서 합격한 식물등에 대해 식물검역관이 해야 할 일은 무엇입니까?",
+        "output": "식물방역법 제28조 제2항에 따르면, 식물검역관은 제1항에 따라 검역을 한 결과 합격한 경우에는 농림축산식품부령으로 정하는 검역증명서를 발급하거나 그 식물등에 검역에 합격하였다는 표시를 하여야 합니다.",
+        "originwordCnt": "58",
+        "labelwordCnt": "23"
+    }
+}

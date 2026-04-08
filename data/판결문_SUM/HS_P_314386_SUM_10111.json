@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314386",
+        "caseName": "근로자퇴직급여보장법위반",
+        "caseNum": "2023고단4106",
+        "sentenceDate": "2024.05.02",
+        "courtName": "인천지방법원 부천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "건설업을 운영하며 근로자 D의 퇴직금을 지급하지 않은 혐의로 기소되었습니다. 그러나 D는 공소가 제기된 후 피고인에 대한 처벌을 원하지 않는다는 의사를 명확히 밝혔습니다. 법원은 이러한 사정을 고려하여 근로자퇴직급여 보장법 제44조 단서에 따라 피해자의 의사에 반하여 공소를 제기할 수 없음을 이유로 공소를 기각했습니다.",
+        "originwordCnt": "162",
+        "labelwordCnt": "41"
+    }
+}

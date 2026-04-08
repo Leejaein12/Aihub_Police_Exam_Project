@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "125984",
+        "caseName": "증권거래법위반",
+        "caseNum": "2007노653",
+        "sentenceDate": "2008.06.24",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인들이 주식 매도를 통해 손실을 회피했다고 볼 수 없었던 이유는 무엇인가요?",
+        "output": "피고인들이 주식을 매도하여 손실을 회피했다고 볼 수 없는 이유는, 주가가 유상증자 공시 이후 급격히 하락했으나 곧바로 회복되었고, 이로 인해 손실 회피가 있었다고 단정할 수 없기 때문입니다. 따라서 주문에 따라 피고인들에게 모두 무죄를 선고합니다.",
+        "originwordCnt": "9071",
+        "labelwordCnt": "33"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317097",
+        "caseName": "아동복지법위반(아동학대)",
+        "caseNum": "2023고단1420",
+        "sentenceDate": "2024.04.16",
+        "courtName": "의정부지방법원 남양주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "킥복싱 학원에서 피해아동이 욕설을 했다는 이유로 뺨을 때리고 복부를 주먹으로 치는 등 신체적 학대행위를 하여 아동복지법을 위반하였습니다. 법원은 피고인이 반성하고 피해자와 원만히 합의한 점을 고려하여 벌금 100만 원을 선고하였습니다. 또한, 취업제한명령은 불필요하다고 판단하여 이를 면제하였습니다.",
+        "originwordCnt": "258",
+        "labelwordCnt": "35"
+    }
+}

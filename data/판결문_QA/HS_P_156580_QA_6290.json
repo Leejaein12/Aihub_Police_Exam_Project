@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "156580",
+        "caseName": "수뢰",
+        "caseNum": "67도422",
+        "sentenceDate": "1967.05.02",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "제1심 판결서에 재판장과 심판관의 서명이 없고 기명날인이 되어 있으면 판결이 무효인가요?",
+        "output": "제1심 판결서에 재판장과 심판관의 서명이 없고 기명날인이 되어 있다 하더라도, 그로 인해 제1심 판결 자체가 전혀 없었다고는 할 수 없습니다. 이는 군법회의법 제87조에 따라 잘못된 부분이긴 하나, 판결의 존재 자체를 부정할 수 있는 사유는 아닙니다.",
+        "originwordCnt": "51",
+        "labelwordCnt": "35"
+    }
+}

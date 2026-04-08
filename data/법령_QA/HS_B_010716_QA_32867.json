@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010716",
+        "promulgDate": "20240213",
+        "effectDate": "20240517",
+        "promulgNum": "20309",
+        "title": "6ㆍ25 전사자유해의 발굴 등에 관한 법률",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가는 6ㆍ25 전사자유해와 관련하여 어떤 책무를 가지나요?",
+        "output": "6ㆍ25 전사자유해의 발굴 등에 관한 법률 제4조에 따르면, 국가는 전사자유해를 조사ㆍ발굴하고 국립묘지에 안장하며, 전사자유해의 유가족을 찾기 위한 시책을 마련해야 합니다.",
+        "originwordCnt": "16",
+        "labelwordCnt": "20"
+    }
+}

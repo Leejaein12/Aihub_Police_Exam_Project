@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310379",
+        "caseName": "야간방실침입절도",
+        "caseNum": "2024고단313",
+        "sentenceDate": "2024.08.22",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "병원 탈의실에 침입하여 피해자의 옷장에 있던 상품권과 현금을 절취하였습니다. 피고인은 과거에도 여러 차례 절도죄로 약식명령을 받은 전력이 있습니다. 법원은 피고인이 범행을 인정하고 피해자와 합의한 점을 고려하여 징역 4개월을 선고하고, 1년간 집행을 유예하였으며, 보호관찰을 명했습니다.",
+        "originwordCnt": "186",
+        "labelwordCnt": "34"
+    }
+}

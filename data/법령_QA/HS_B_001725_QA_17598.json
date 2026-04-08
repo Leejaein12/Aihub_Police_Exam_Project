@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제34조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에 따르면, 임기만료에 의한 대통령선거의 선거일은 언제입니까?",
+        "output": "공직선거법 제34조 제1항에 따르면, 임기만료에 의한 대통령선거의 선거일은 그 임기만료일 전 70일 이후 첫 번째 수요일입니다. 이 날짜는 임기만료일을 기준으로 정해지며, 첫 번째 수요일에 실시됩니다.",
+        "originwordCnt": "62",
+        "labelwordCnt": "25"
+    }
+}

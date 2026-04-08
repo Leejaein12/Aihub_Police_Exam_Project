@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014390",
+        "promulgDate": "20230117",
+        "effectDate": "20240118",
+        "promulgNum": "19213",
+        "title": "재난관리자원의 관리 등에 관한 법률",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제19조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가재난관리물류기업의 지정을 해제한 경우 어떻게 알립니까?",
+        "output": "행정안전부 장관이 국가재난관리물류기업을 지정 해제를 한 경우에는 그 사실을 지체 없이 해당 물류기업에 문서로 알려야 합니다. 이는 재난관리자원의 관리 등에 관한 법률 제19조 제2항에 규정되어 있습니다.",
+        "originwordCnt": "50",
+        "labelwordCnt": "26"
+    }
+}

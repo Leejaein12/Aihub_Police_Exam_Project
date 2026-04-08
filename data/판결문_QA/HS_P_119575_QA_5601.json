@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "119575",
+        "caseName": "위헌여부심판제청",
+        "caseNum": "93초969",
+        "sentenceDate": "1993.04.27",
+        "courtName": "서울형사지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "위헌 여부의 심판이 제청된 대통령선거법 조항들은 어떤 기본권 침해의 우려가 있나요?",
+        "output": "위헌 여부의 심판이 제청된 대통령선거법 제36조 제1항 본문과 제162조 제1항 제1호는 헌법 제10조, 제12조, 제21조, 제24조에 따라 표현의 자유, 참정권, 인간의 존엄, 행복추구권 등의 기본권을 침해할 우려가 있습니다.",
+        "originwordCnt": "138",
+        "labelwordCnt": "28"
+    }
+}

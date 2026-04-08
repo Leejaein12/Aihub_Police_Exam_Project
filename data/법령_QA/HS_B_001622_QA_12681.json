@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001622",
+        "promulgDate": "20240206",
+        "effectDate": "20240507",
+        "promulgNum": "20191",
+        "title": "병역법",
+        "ministry": "국방부,병무청",
+        "fullText": "N",
+        "smClass": "제66조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "의무, 법무, 군종 및 수의 분야 예비역장교가 자격을 상실하면 어떻게 되나요?",
+        "output": "병역법 제66조 제2항에 따르면 의무, 법무, 군종 및 수의 분야의 예비역장교는 그 자격을 상실하거나 면허가 취소된 경우에는 그 신분이 상실되며, 보충역에 편입됩니다.",
+        "originwordCnt": "147",
+        "labelwordCnt": "22"
+    }
+}

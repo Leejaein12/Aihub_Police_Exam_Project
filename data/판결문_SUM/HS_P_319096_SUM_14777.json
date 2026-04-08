@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319096",
+        "caseName": "모욕",
+        "caseNum": "2023고정971",
+        "sentenceDate": "2023.11.10",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "편의점에서 말다툼 중 '문 가리고 있으니까 병신이지' 등 모욕적인 표현을 사용하여 공연히 피해자를 모욕하였으며, 형법 제311조에 따라 모욕죄로 처벌받았습니다. 고의성, 공연성, 공소기각 사유 등을 주장하였으나, 법원은 모욕의 고의와 공연성을 인정하고 피고인의 주장을 받아들이지 않았습니다. 이에 따라 법원은 벌금 30만 원을 선고하였습니다.",
+        "originwordCnt": "652",
+        "labelwordCnt": "41"
+    }
+}

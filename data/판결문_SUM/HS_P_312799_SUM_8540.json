@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312799",
+        "caseName": "살인미수",
+        "caseNum": "2024도2278",
+        "sentenceDate": "2024.04.12",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "살인미수 혐의로 기소되었으며, 원심은 공소사실을 유죄로 판단하였습니다. 원심의 판단은 적법하게 채택한 증거와 관련 법리에 비추어 살펴보았을 때, 논리와 경험의 법칙을 위반하지 않았으며, 고의에 관한 법리도 오해하지 않았습니다. 따라서 대법원은 원심 판결을 그대로 유지하며 상고를 기각하였습니다.",
+        "originwordCnt": "114",
+        "labelwordCnt": "35"
+    }
+}

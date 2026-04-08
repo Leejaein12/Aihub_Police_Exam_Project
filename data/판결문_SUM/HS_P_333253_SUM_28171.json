@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333253",
+        "caseName": "사기등",
+        "caseNum": "2022고단334",
+        "sentenceDate": "2023.02.08",
+        "courtName": "춘천지방법원 속초지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "택시비를 지불할 의사나 능력이 없으면서도 이를 지불할 것처럼 속여 피해자로부터 7,800원의 재산상 이익을 취득하였고, 이후 경찰관이 택시비 지급을 요구하자 욕설을 하며 폭행하여 공무집행을 방해하였습니다. 법원은 피고인에게 징역 6개월을 선고하였으나, 2년간 집행을 유예하고 보호관찰 및 40시간의 사회봉사를 명하였습니다.",
+        "originwordCnt": "349",
+        "labelwordCnt": "37"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "172799",
+        "caseName": "배임수재·배임증재·공인중개사의업무및부동산거래신고에관한법률위반",
+        "caseNum": "2010노3386",
+        "sentenceDate": "2011.08.11",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "중개인이 받은 프리미엄이 법정 중개수수료에 포함될 수 있나요?",
+        "output": "중개인이 받은 프리미엄은 법정 중개수수료에 포함되지 않습니다. 프리미엄은 시세에 따른 거래금액으로, 중개수수료와는 별도로 지급된 금원으로 판단되며, 따라서 이 사건 공소사실에 해당하지 않습니다.",
+        "originwordCnt": "806",
+        "labelwordCnt": "22"
+    }
+}

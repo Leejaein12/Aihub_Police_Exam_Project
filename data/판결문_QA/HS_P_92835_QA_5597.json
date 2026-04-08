@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "92835",
+        "caseName": "허위진단서작성·허위진단서작성행사",
+        "caseNum": "74도2481",
+        "sentenceDate": "1975.12.23",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법원이 피고인의 변소를 받아들여 X-ray 필름이 물에 젖은 상태에서 오독하기 쉬운지를 심리하지 않은 경우, 어떤 문제가 발생하나요?",
+        "output": "법원이 피고인의 변소를 받아들여 X-ray 필름이 물에 젖은 상태에서 오독하기 쉬운지에 대해 심리하지 않은 경우, 이는 채증법칙을 위배한 것으로 판단되며, 형사소송법 제397조에 따라 원판결이 파기될 수 있는 이유가 됩니다.",
+        "originwordCnt": "341",
+        "labelwordCnt": "29"
+    }
+}

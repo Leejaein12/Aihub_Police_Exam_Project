@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011620",
+        "promulgDate": "20210817",
+        "effectDate": "20220218",
+        "promulgNum": "18425",
+        "title": "목재의 지속가능한 이용에 관한 법률",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시ㆍ도지사는 지역시행계획의 추진 실적을 누구에게 제출해야 하나요?",
+        "output": "목재의 지속가능한 이용에 관한 법률 제7조 제3항에 따르면 시ㆍ도지사는 농림축산식품부령으로 정하는 바에 따라 지역시행계획의 추진 실적을 산림청장에게 제출하여야 합니다.",
+        "originwordCnt": "81",
+        "labelwordCnt": "19"
+    }
+}

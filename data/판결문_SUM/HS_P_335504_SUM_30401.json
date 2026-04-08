@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335504",
+        "caseName": "사기",
+        "caseNum": "2023고단3316",
+        "sentenceDate": "2023.11.15",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "㈜C의 대표로, D, E, F와 공모하여 허위의 전세 및 월세 임대차계약서를 작성하고, 이를 이용해 부동산 담보대출과 전세자금 대출을 받는 방식으로 금융기관을 기망하여 금전을 편취한 혐의로 기소되었습니다. 피고인은 대출 담당자에게 E가 전세자금 대출을 받지 않았고 월세 세입자인 것처럼 허위 서류를 제출하였습니다. 법원은 피고인에게 징역 10개월을 선고하였습니다.",
+        "originwordCnt": "547",
+        "labelwordCnt": "45"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337209",
+        "caseName": "명예훼손",
+        "caseNum": "2023고단1811",
+        "sentenceDate": "2023.10.11",
+        "courtName": "의정부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "3,000명이 넘는 회원이 가입된 온라인 그룹에 피해자의 성추행 및 욕설과 관련된 사실을 적시하여 명예를 훼손한 혐의로 기소되었습니다. 법원은 형법 제307조 제1항을 적용하여 이러한 행위가 명예훼손에 해당한다고 판단하였습니다. 자신의 잘못을 인정하고 초범임을 고려하여 법원은 벌금 70만 원을 선고하였습니다.",
+        "originwordCnt": "308",
+        "labelwordCnt": "37"
+    }
+}

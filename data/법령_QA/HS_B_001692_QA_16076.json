@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001692",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19582",
+        "title": "형법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제35조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "금고 이상의 형을 선고받아 그 집행이 종료된 후 2년 내에 다시 금고 이상의 범죄를 저지른 경우 누범으로 처벌받게 되나요?",
+        "output": "금고 이상의 형을 선고받아 그 집행이 종료되거나 면제된 후 3년 내에 금고 이상에 해당하는 죄를 지은 사람은 누범으로 처벌합니다. 이는 형법 제35조 제1항에서 규정하고 있습니다.",
+        "originwordCnt": "32",
+        "labelwordCnt": "25"
+    }
+}

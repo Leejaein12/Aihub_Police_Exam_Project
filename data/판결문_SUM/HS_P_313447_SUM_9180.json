@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313447",
+        "caseName": "특수절도",
+        "caseNum": "2023고단2500",
+        "sentenceDate": "2023.10.12",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "야간에 자동라쳇핸들을 사용해 출입문의 유리를 파손하고 매장에 침입하여 금고와 현금을 절취하였습니다. 형법 제331조 제2항 및 제1항을 위반한 특수절도죄로 기소되었으며, 과거에도 동종 범행으로 처벌받은 전력이 있습니다. 법원은 범행을 인정하고 피해자와 합의한 점을 고려하여 징역 6개월을 선고하였습니다.",
+        "originwordCnt": "261",
+        "labelwordCnt": "35"
+    }
+}

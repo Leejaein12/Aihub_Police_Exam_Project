@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001514",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19746",
+        "title": "농약관리법",
+        "ministry": "농림축산식품부,농촌진흥청",
+        "fullText": "N",
+        "smClass": "제23조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "농약안전정보시스템 구축ㆍ운영에 필요한 비용 지원은 어떻게 이루어지나요?",
+        "output": "농약관리법 제23조의3 제3항에 따르면 국가는 제1항에 따른 농약안전정보시스템의 구축ㆍ운영 등에 필요한 비용의 전부 또는 일부를 지원할 수 있습니다.",
+        "originwordCnt": "260",
+        "labelwordCnt": "18"
+    }
+}

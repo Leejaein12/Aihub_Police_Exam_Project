@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001513",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19754",
+        "title": "식물방역법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "식물검역관이 스스로 소독이나 폐기를 할 경우, 그 비용은 누가 부담하나요?",
+        "output": "'식물방역법' 제16조 제5항에 따르면, 식물검역관이 제4항에 따라 식물검역대상물품을 스스로 소독하거나 폐기하는 경우, 그 비용을 소유자나 대리인에게 청구할 수 있습니다.",
+        "originwordCnt": "332",
+        "labelwordCnt": "19"
+    }
+}

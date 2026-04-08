@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332965",
+        "caseName": "조세범처벌법위반",
+        "caseNum": "2023노3410",
+        "sentenceDate": "2024.01.12",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "조세범처벌법 위반 사건에 대해 판결을 내렸습니다. 피고인은 특정경제범죄가중처벌 등에 관한 법률 위반으로 징역 6년을 선고받고 해당 판결이 확정된 사실이 확인되었습니다. 원심의 형량은 피고인의 범행과 전과를 고려할 때 부당한 것으로 판단되었습니다. 따라서 원심판결을 파기하고 벌금 1,000만 원을 선고하였습니다.",
+        "originwordCnt": "368",
+        "labelwordCnt": "37"
+    }
+}

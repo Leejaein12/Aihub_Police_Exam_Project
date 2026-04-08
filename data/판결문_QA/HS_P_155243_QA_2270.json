@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155243",
+        "caseName": "증뢰물전달수뢰",
+        "caseNum": "70도2525",
+        "sentenceDate": "1971.02.09",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공동 피고인의 진술은 피고인의 자백과 독립된 증거로서 사용될 수 있나요?",
+        "output": "공동 피고인의 진술은 피고인의 자백과는 독립된 증거로서 별도의 증거가치를 가집니다. 형사소송법 제310조에 따라, 이러한 공동 피고인의 진술은 피고인의 자백에 대한 보강증거로도 사용할 수 있으며, 이를 증거로 삼는 데에 위법이 없습니다.",
+        "originwordCnt": "27",
+        "labelwordCnt": "30"
+    }
+}

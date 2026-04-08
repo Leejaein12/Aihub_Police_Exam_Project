@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "91955",
+        "caseName": "특정범죄가중처벌등에관한법률위반",
+        "caseNum": "73도279",
+        "sentenceDate": "1973.04.17",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "몰수나 추징 대상이 되는 경우에 엄격한 증명이 필요한가요?",
+        "output": "몰수나 추징 대상이 되는 여부는 범죄된 사실에 관한 것이 아니기 때문에 엄격한 증명이 필요하지 않습니다. 일응 인정될 수 있는 증명이 있으면 충분하며, 이를 기초로 판단한 원심의 추징 선고는 적법하다고 보았습니다.",
+        "originwordCnt": "7",
+        "labelwordCnt": "30"
+    }
+}

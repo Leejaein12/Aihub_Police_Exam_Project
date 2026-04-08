@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "65186",
+        "caseName": "업무방해·사전자기록등위작·위작사전자기록등행사·공직선거법위반·주민등록법위반",
+        "caseNum": "2007노2843",
+        "sentenceDate": "2008.03.14",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인들의 행위가 업무방해죄에 해당하는 이유는 무엇인가요?",
+        "output": "피고인들이 대통합민주신당 홈페이지의 경선선거인단 접수신청서를 위작하여 전송함으로써 경선관리업무를 방해할 위험이 발생했기 때문에 업무방해죄가 성립한다고 보았습니다.",
+        "originwordCnt": "1879",
+        "labelwordCnt": "15"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001805",
+        "promulgDate": "20240213",
+        "effectDate": "20240514",
+        "promulgNum": "20307",
+        "title": "식품위생법",
+        "ministry": "식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제17조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "방송사업자나 기간통신사업자는 식품의약품안전처의 요청에 어떻게 응해야 하나요?",
+        "output": "식품위생법 제17조 제9항에 따르면, 요청을 받은 방송사업자 및 기간통신사업자는 특별한 사유가 없는 한 식품의약품안전처의 요청에 응하여야 합니다.",
+        "originwordCnt": "280",
+        "labelwordCnt": "17"
+    }
+}

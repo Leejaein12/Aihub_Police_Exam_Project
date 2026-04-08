@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009997",
+        "promulgDate": "20210518",
+        "effectDate": "20220519",
+        "promulgNum": "18191",
+        "title": "불법정치자금 등의 몰수에 관한 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제33조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "몰수보전이 실효된 경우 검사에게 요구되는 조치는 무엇인가요?",
+        "output": "몰수보전이 실효된 경우, 검사는 지체없이 몰수보전등기 등에 대한 말소촉탁을 하고, 공시서의 제거 그 밖의 필요한 조치를 하여야 합니다. 이는 불법정치자금 등의 몰수에 관한 특례법 제33조에 명시된 바입니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "27"
+    }
+}

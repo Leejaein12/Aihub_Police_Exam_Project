@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328102",
+        "caseName": "사기등",
+        "caseNum": "2023노1026",
+        "sentenceDate": "2023.12.22.",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "선고된 형량이 너무 가벼워서 부당하다고 항소하였으나, 항소심 법원은 원심이 선고한 징역 1년에 집행유예 2년의 형이 양형 재량의 합리적인 범위를 벗어나지 않았다고 판단하였습니다. 항소심 법원은 원심의 양형을 존중하였으며, 원심판결 이후 양형 조건에 별다른 변화가 없고, 원심이 이미 양형에 충분히 고려한 사유들이라는 이유로 검사의 항소를 기각하였습니다.",
+        "originwordCnt": "220",
+        "labelwordCnt": "44"
+    }
+}

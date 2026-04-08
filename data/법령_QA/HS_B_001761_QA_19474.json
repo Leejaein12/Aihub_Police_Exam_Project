@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001761",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19591",
+        "title": "고용보험법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제64조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "조기재취업 수당을 받은 경우, 구직급여는 어떻게 간주되나요?",
+        "output": "조기재취업 수당을 지급받은 경우, 그 수당의 금액을 구직급여일액으로 나눈 일수분에 해당하는 구직급여를 지급한 것으로 간주합니다. 고용보험법 제64조 제4항에 규정되어 있습니다.",
+        "originwordCnt": "122",
+        "labelwordCnt": "20"
+    }
+}

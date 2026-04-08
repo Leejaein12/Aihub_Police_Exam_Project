@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010000",
+        "promulgDate": "20221115",
+        "effectDate": "20221115",
+        "promulgNum": "19022",
+        "title": "공유재산 및 물품 관리법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제68조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "물품은 어떠한 절차를 거치지 않으면 취득할 수 없습니까?",
+        "output": "지방자치단체의 장 또는 그 위임을 받은 공무원이 지명하는 관계 공무원이나 기술자의 검사와 검수를 받지 아니하고는 취득할 수 없습니다. 이는 공유재산 및 물품 관리법 제68조 제3항애 규정되어 있습니다.",
+        "originwordCnt": "81",
+        "labelwordCnt": "28"
+    }
+}

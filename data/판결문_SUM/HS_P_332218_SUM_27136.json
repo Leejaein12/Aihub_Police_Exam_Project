@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332218",
+        "caseName": "스토킹범죄의처벌등에관한법률위반등",
+        "caseNum": "2023노3888",
+        "sentenceDate": "2024.05.02",
+        "courtName": "서울고등법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "스토킹 범죄 사건에서 피고인은 반복적인 연락과 욕설 섞인 메시지로 상대방에게 정신적 고통을 주었으며, 협박성 메시지도 보냈습니다. 법원은 이러한 사정을 고려해 징역 6개월에 집행유예를 선고하고, 보호관찰과 스토킹 재범 예방 교육을 명령하였습니다. 법률 요건에 따라 보호관찰명령 청구는 기각되었습니다.",
+        "originwordCnt": "611",
+        "labelwordCnt": "36"
+    }
+}

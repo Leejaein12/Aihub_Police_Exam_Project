@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313395",
+        "caseName": "절도",
+        "caseNum": "2023고정1021",
+        "sentenceDate": "2023.12.22",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "허락 없이 남매 소유의 통장을 절취하였습니다. 법원은  통장을 민사소송에서 증거로 제출하여 거래내역 정보를 이용한 점을 근거로, 불법영득의사를 인정하였습니다. 형법 제328조 제1항 친족상도례 주장은 받아들여지지 않았습니다. 이에 따라 법원은 형법 제329조를 적용해 벌금 50만 원을 선고하였습니다.",
+        "originwordCnt": "261",
+        "labelwordCnt": "36"
+    }
+}

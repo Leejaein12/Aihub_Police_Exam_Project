@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001622",
+        "promulgDate": "20240206",
+        "effectDate": "20240507",
+        "promulgNum": "20191",
+        "title": "병역법",
+        "ministry": "국방부,병무청",
+        "fullText": "N",
+        "smClass": "제65조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "병역을 감당할 수 없는 예비역이나 전시근로역은 어떻게 처분되나요?",
+        "output": "병역법 제65조 제4항에 따르면 예비역 또는 전시근로역으로서 제1항 제1호에 따른 사유로 병역을 감당할 수 없는 사람은 원할 경우 신체검사를 거쳐 보충역, 전시근로역에 편입하거나 병역면제의 처분을 할 수 있습니다.",
+        "originwordCnt": "478",
+        "labelwordCnt": "28"
+    }
+}

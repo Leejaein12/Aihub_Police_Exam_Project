@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000385",
+        "promulgDate": "20220111",
+        "effectDate": "20230112",
+        "promulgNum": "18755",
+        "title": "내수면어업법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "내수면어업조정협의회는 어떻게 구성되나요?",
+        "output": "내수면어업법 제10조 제4항에 따르면 내수면어업조정협의회는 내수면어업인의 대표와 내수면어업에 관한 학식과 경험이 풍부한 사람으로 구성하며, 구성과 운영 등에 필요한 사항은 해당 특별자치시ㆍ특별자치도ㆍ시ㆍ군ㆍ구의 조례로 정합니다.",
+        "originwordCnt": "243",
+        "labelwordCnt": "23"
+    }
+}

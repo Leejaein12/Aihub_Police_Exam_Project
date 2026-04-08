@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제51조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "방화지구 안에 설치되는 공작물 중에서 어떤 경우에 불연재료를 사용해야 하나요?",
+        "output": "방화지구 안의 공작물 중 건축물 지붕 위에 설치되는 공작물이나 높이 3미터 이상의 공작물은 주요부를 불연재료로 하여야 합니다. 이는 건축법 제51조 제2항에 근거한 내용입니다.",
+        "originwordCnt": "76",
+        "labelwordCnt": "23"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000128",
+        "promulgDate": "20210413",
+        "effectDate": "20211014",
+        "promulgNum": "18042",
+        "title": "임금채권보장법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보수는 무엇을 뜻하나요?",
+        "output": "보수는 고용보험 및 산업재해보상보험의 보험료징수 등에 관한 법률 제2조제3호에 따른 보수를 말합니다. 이는 근로자가 근로의 대가로 받는 금전을 의미합니다. 이는 임금채권보장법 제2조 제4항에 명시된 바 입니다.",
+        "originwordCnt": "53",
+        "labelwordCnt": "26"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315374",
+        "caseName": "과실치상",
+        "caseNum": "2023고정637",
+        "sentenceDate": "2024.04.23",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "반려견 2마리의 견주가 산책 도중 반려견에게 입마개를 하지 않고 목줄 관리를 소홀히 하여 지나가던 84세 남성의 좌측 무릎을 물게 했습니다. 이로 인해 피해자는 약 2주간의 치료가 필요한 상처를 입었습니다. 법원은 피고인이 과실치상 혐의를 인정하고 반성하는 점, 초범인 점 등을 고려하여 형법 제266조에 따라 벌금 70만 원을 선고하였습니다.",
+        "originwordCnt": "238",
+        "labelwordCnt": "47"
+    }
+}

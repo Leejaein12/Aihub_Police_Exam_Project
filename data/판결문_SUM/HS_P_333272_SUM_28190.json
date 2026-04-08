@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333272",
+        "caseName": "공직선거법위반",
+        "caseNum": "2022고합858",
+        "sentenceDate": "2023.01.12",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2022년 제8회 전국동시지방선거 기간 중 후보자의 선거 현수막을 칼로 훼손한 혐의로 기소된 사건입니다. 법원은 피고인의 범행이 선거의 공정성과 선거인의 알권리를 해치는 중대한 행위라고 판단했으나, 피고인이 범행을 인정하고 반성하고 있으며, 술에 취한 상태에서 우발적으로 저지른 범행임을 고려하여 벌금 700,000원을 선고하였습니다.",
+        "originwordCnt": "340",
+        "labelwordCnt": "39"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335496",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단2756",
+        "sentenceDate": "2023.10.18",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주운전 및 무면허운전으로 처벌받은 전력이 있음에도 불구하고, 혈중알코올농도 0.061% 상태에서 약 400미터 구간을 음주운전한 혐의로 기소되었습니다. 법원은 피고인의 반복적인 음주운전 전력과 범행의 경위를 고려하여 징역 1년에 처하였으나, 형의 집행을 2년간 유예하고, 준법운전강의 40시간 이수를 명령하였습니다.",
+        "originwordCnt": "221",
+        "labelwordCnt": "35"
+    }
+}

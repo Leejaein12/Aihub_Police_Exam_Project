@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000385",
+        "promulgDate": "20220111",
+        "effectDate": "20230112",
+        "promulgNum": "18755",
+        "title": "내수면어업법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제21조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "해양수산부장관은 어떤 경우 내수면 수산자원의 포획 및 채취를 금지할 수 있습니까?",
+        "output": "내수면어업법 제21조의2 제1항에 따라 해양수산부장관은 내수면 수산자원의 번식ㆍ보호를 위하여 필요하다고 인정하면 내수면 수산자원의 포획ㆍ채취 금지 기간ㆍ구역ㆍ체장ㆍ체중 등을 정할 수 있습니다.",
+        "originwordCnt": "36",
+        "labelwordCnt": "20"
+    }
+}

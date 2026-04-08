@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334024",
+        "caseName": "보험사기방지특별법위반",
+        "caseNum": "2023고정100",
+        "sentenceDate": "2023.09.14",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2022년 1월 횡단보도에서 오토바이와의 충돌을 가장해 보험사기를 시도하였습니다. 오토바이가 다가오는 것을 알고 일부러 발을 뻗어 충돌한 후, 사고로 인한 부상이라고 거짓 주장을 하여 약 30만 원의 병원 치료비를 지급받았습니다. 법원은 CCTV와 증인 진술 등을 근거로 고의성이 인정된다고 판단해 벌금을 부과하였습니다.",
+        "originwordCnt": "344",
+        "labelwordCnt": "40"
+    }
+}

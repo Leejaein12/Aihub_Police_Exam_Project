@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010107",
+        "promulgDate": "20240206",
+        "effectDate": "20240507",
+        "promulgNum": "20190",
+        "title": "방위사업법",
+        "ministry": "국방부,방위사업청,산업통상자원부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "방위사업청장은 어떤 경우에 특별히 자격을 갖춘 자를 임명해야 하나요?",
+        "output": "방위사업법 제7조 제1항에 따르면, 방위사업청장은 방위사업 수행의 효율성과 전문성을 향상하기 위해 특별히 전문성이 필요하다고 인정되는 직위에 자격을 갖춘 자를 임명해야 합니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "21"
+    }
+}

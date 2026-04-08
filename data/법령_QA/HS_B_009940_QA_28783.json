@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009940",
+        "promulgDate": "20240213",
+        "effectDate": "20240517",
+        "promulgNum": "20309",
+        "title": "소나무재선충병 방제특별법",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소나무재선충병의 발생을 막기 위해 어떤 조사가 이루어지나요?",
+        "output": "소나무재선충병 방제특별법 제6조 제1항에 따르면, 시장ㆍ군수ㆍ구청장 또는 국유림관리소장은 소나무재선충병 발생지역 및 연접지역에 대해 정기적으로 예비관찰조사를 실시해야 합니다.",
+        "originwordCnt": "38",
+        "labelwordCnt": "17"
+    }
+}

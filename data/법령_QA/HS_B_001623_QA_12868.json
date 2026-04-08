@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제73조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "재판관은 형의 종류를 선택하고 형량을 정할 때 무엇을 존중해야 하나요?",
+        "output": "재판관은 형의 종류를 선택하고 형량을 정함에 있어서 법원조직법 제8편에 따른 양형기준을 존중하여야 합니다. 다만, 양형기준은 법적 구속력을 갖지 아니하며 군사법원법 제73조의2 제1항에 명시하고 있습니다.",
+        "originwordCnt": "45",
+        "labelwordCnt": "24"
+    }
+}

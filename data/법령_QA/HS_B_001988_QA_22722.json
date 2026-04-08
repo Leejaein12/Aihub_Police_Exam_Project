@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001988",
+        "promulgDate": "20230725",
+        "effectDate": "20240126",
+        "promulgNum": "19573",
+        "title": "수상레저안전법",
+        "ministry": "해양경찰청",
+        "fullText": "N",
+        "smClass": "제17조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "조종면허가 취소되거나 효력이 정지된 사람은 어떤 의무가 있나요?",
+        "output": "수상레저안전법 제17조 2항에 따르면 조종면허가 취소되거나 그 효력이 정지된 사람은 취소되거나 정지된 날부터 7일 이내에 해양경찰청장에게 면허증을 반납하여야 합니다.",
+        "originwordCnt": "194",
+        "labelwordCnt": "19"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012521",
+        "promulgDate": "20160329",
+        "effectDate": "20160930",
+        "promulgNum": "14123",
+        "title": "보험사기방지 특별법",
+        "ministry": "금융위원회",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보험회사는 보험사고 조사를 이유로 보험금 지급과 관련하여 어떤 행위를 하지 말아야 하나요?",
+        "output": "보험사기방지 특별법 제5조 제2항에 따르면, 보험회사는 대통령령으로 정하는 사유 없이 보험사고 조사를 이유로 보험금의 지급을 지체 또는 거절하거나 삭감하여 지급하여서는 아니 됩니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "22"
+    }
+}

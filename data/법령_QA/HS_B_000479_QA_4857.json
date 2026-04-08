@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000479",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19877",
+        "title": "농지법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "농지이용계획이 수립된 후, 어떤 절차를 통해 확정되나요?",
+        "output": "농지법 제14조 제3항에 따르면, 시장·군수 또는 자치구구청장이 농지이용계획을 수립한 후에는 시·도지사의 승인을 받아 그 내용을 확정하고 고시해야 하며, 일반인이 열람할 수 있도록 해야 합니다.",
+        "originwordCnt": "154",
+        "labelwordCnt": "24"
+    }
+}

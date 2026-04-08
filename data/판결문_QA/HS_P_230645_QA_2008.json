@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "230645",
+        "caseName": "근로기준법위반",
+        "caseNum": "2005노973",
+        "sentenceDate": "2007.04.06",
+        "courtName": "울산지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "근로기준법 제8조에 따라 타인의 취업에 개입하여 이익을 취득하려면 어떤 조건이 충족되어야 하나요?",
+        "output": "근로기준법 제8조에 따라 타인의 취업에 개입하여 이익을 취득하려면 경제적 이익을 취득할 의사, 즉 영리의 의사가 있어야 하며, 단순히 금품을 수수한 것만으로는 처벌되지 않습니다.",
+        "originwordCnt": "1181",
+        "labelwordCnt": "23"
+    }
+}

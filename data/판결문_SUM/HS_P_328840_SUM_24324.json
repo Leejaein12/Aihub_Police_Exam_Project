@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328840",
+        "caseName": "업무방해등",
+        "caseNum": "2022노1578",
+        "sentenceDate": "2023.07.07.",
+        "courtName": "서울북부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "선고된 벌금 500만 원이 지나치게 경미하다고 주장하며 항소하였습니다. 그러나 법원은 피고인이 경찰관에게 폭력을 행사한 점을 고려하여 범행의 죄질이 좋지 않다고 판단하였고, 피고인이 피해자와 합의한 점을 포함한 양형 조건들을 종합적으로 검토했습니다. 결과적으로 원심의 형이 합리적인 범위 내에서 결정된 것으로 보아 항소를 기각하였습니다.",
+        "originwordCnt": "194",
+        "labelwordCnt": "41"
+    }
+}

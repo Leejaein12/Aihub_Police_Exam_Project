@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001638",
+        "promulgDate": "20230418",
+        "effectDate": "20240101",
+        "promulgNum": "19357",
+        "title": "도로교통법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제100조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "자동차운전학원이 정해진 기간 내 시설과 설비를 갖추지 않으면 어떻게 되나요?",
+        "output": "도로교통법 제100조 제2항에 따르면 시·도경찰청장은 제100조 제1항에 따라 등록을 한 자가 정당한 사유 없이 같은 항에 따른 기간에 시설 및 설비 등을 갖추지 아니하면 그 등록을 취소하여야 합니다.",
+        "originwordCnt": "57",
+        "labelwordCnt": "28"
+    }
+}

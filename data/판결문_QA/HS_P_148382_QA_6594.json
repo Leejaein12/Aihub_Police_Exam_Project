@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "148382",
+        "caseName": "배임",
+        "caseNum": "2008노745",
+        "sentenceDate": "2008.10.22",
+        "courtName": "서울남부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법원은 검사의 항소에 대해 어떤 결정을 내렸나요?",
+        "output": "법원은 검사의 항소를 기각하기로 결정하였습니다. 이는 항소심 법원이 원심판결을 유지하는 것이 적절하다고 판단하여, 검사의 항소를 받아들이지 않고 원심판결을 그대로 확정한 것입니다.",
+        "originwordCnt": "985",
+        "labelwordCnt": "21"
+    }
+}

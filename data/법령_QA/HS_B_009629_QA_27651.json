@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009629",
+        "promulgDate": "20220426",
+        "effectDate": "20230427",
+        "promulgNum": "18849",
+        "title": "주민투표법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "주민투표사무는 어떤 기관이 관리하는가요?",
+        "output": "주민투표사무는 특별한 규정이 있는 경우를 제외하고는 특별시ㆍ광역시ㆍ특별자치시ㆍ도 또는 특별자치도는 시ㆍ도선거관리위원회가, 시ㆍ군 또는 구는 구ㆍ시ㆍ군선거관리위원회가 관리합니다. 이는 주민투표법 제3조 제1항에 명시되어 있습니다.",
+        "originwordCnt": "42",
+        "labelwordCnt": "21"
+    }
+}

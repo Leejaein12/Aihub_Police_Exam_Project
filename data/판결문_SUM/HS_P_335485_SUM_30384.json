@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335485",
+        "caseName": "상해등",
+        "caseNum": "2023고단1712",
+        "sentenceDate": "2023.07.19",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "택시 요금을 지불하지 않고 도주하려다 택시 기사를 폭행하여 상해를 입혔으며, 이후 허위 신고와 공용물건을 손상하는 범죄를 저질렀습니다. 피고인은 상해, 경범죄처벌법 위반 및 공용물건손상의 혐의로 징역 9개월과 벌금 50만 원을 선고받았습니다. 또한, 피해자가 청구한 배상 신청은 배상책임의 범위가 명확하지 않다는 이유로 각하되었습니다.",
+        "originwordCnt": "459",
+        "labelwordCnt": "41"
+    }
+}

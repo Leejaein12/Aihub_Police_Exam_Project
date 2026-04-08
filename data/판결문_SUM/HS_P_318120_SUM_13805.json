@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318120",
+        "caseName": "도로교통법위반등",
+        "caseNum": "2023고단749",
+        "sentenceDate": "2023.08.10",
+        "courtName": "대구지방법원 김천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "면허 없이 번호판 없는 오토바이를 운전하며, 업무상 과실로 다른 차량을 파손시키고 의무보험에 미가입한 사실이 확인되었습니다. 범죄 이력이 있는 피고인은 반복적인 범죄로 인해 죄질이 좋지 않다고 판단받았습니다. 그러나 범행을 인정하고 운행 거리가 짧은 점이 고려되어 징역 4개월 및 벌금이 부과되었습니다.",
+        "originwordCnt": "464",
+        "labelwordCnt": "39"
+    }
+}

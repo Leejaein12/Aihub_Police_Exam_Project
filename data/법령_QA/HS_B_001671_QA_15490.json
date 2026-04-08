@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제174조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "감정인이 감정에 필요한 경우 피고인의 신문에 참여할 수 있나요?",
+        "output": "형사소송법 제174조제1항에 따르면 감정인은 감정에 관하여 필요한 경우에는 재판장의 허가를 얻어 서류와 증거물을 열람 또는 등사하고 피고인 또는 증인의 신문에 참여할 수 있습니다.",
+        "originwordCnt": "36",
+        "labelwordCnt": "23"
+    }
+}

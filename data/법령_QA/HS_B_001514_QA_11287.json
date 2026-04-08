@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001514",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19746",
+        "title": "농약관리법",
+        "ministry": "농림축산식품부,농촌진흥청",
+        "fullText": "N",
+        "smClass": "제31조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "위탁받은 업무에 종사하는 자는 어떤 의무가 있나요?",
+        "output": "농약관리법 제31조 제5항에 따르면 제2항 또는 제4항에 따라 위탁받은 업무에 종사하는 한국농업기술진흥원 또는 농약 관련 단체의 장과 임직원은 직무상 알게 된 비밀을 외부에 누설하거나 다른 목적으로 사용해서는 안 됩니다.",
+        "originwordCnt": "147",
+        "labelwordCnt": "29"
+    }
+}

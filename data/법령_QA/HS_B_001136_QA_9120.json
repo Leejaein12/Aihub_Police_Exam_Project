@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001136",
+        "promulgDate": "20171219",
+        "effectDate": "20180320",
+        "promulgNum": "15256",
+        "title": "특정경제범죄 가중처벌 등에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "특정재산범죄의 가중처벌에 해당하는 경우 이득액 이하에 상당하는 벌금은 병과할 수 있습니까?",
+        "output": "특정경제범죄 가중처벌 등에 관한 법률 제3조 제2항에 규정에 따르면, 제1항의 경우 이득액 이하에 상당하는 벌금을 병과할 수 있습니다.",
+        "originwordCnt": "83",
+        "labelwordCnt": "18"
+    }
+}

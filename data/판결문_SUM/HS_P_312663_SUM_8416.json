@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312663",
+        "caseName": "상해등",
+        "caseNum": "2023노346",
+        "sentenceDate": "2024.01.31",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "특수협박 혐의와 관련하여 원심이 사실을 오인하고 법리를 오해했다고 주장하며 항소하였습니다. 원심은 피해자의 진술에 신빙성이 부족하다고 판단했으며, 항소심은 이 판단이 명백히 잘못되었다고 볼 특별한 사정이 없다고 판단하였습니다. 또한, 검사가 주장한 양형부당에 대해서도 원심의 형량이 재량 범위를 벗어나지 않았으므로 검사의 항소를 기각하였습니다.",
+        "originwordCnt": "674",
+        "labelwordCnt": "40"
+    }
+}

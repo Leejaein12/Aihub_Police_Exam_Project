@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000385",
+        "promulgDate": "20220111",
+        "effectDate": "20230112",
+        "promulgNum": "18755",
+        "title": "내수면어업법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "지방자치단체는 내수면어업 진흥을 위해 매년 어떤 계획을 마련해야 하나요?",
+        "output": "내수면어업법 제5조 제2항에 따르면 지방자치단체는 기본계획에 따라 매년 구체적인 내수면어업 진흥 시행계획을 마련하고 이에 필요한 재원을 확보하기 위하여 노력하여야 합니다.",
+        "originwordCnt": "215",
+        "labelwordCnt": "20"
+    }
+}

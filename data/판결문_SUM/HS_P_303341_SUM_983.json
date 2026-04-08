@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "303341",
+        "caseName": "상표법위반",
+        "caseNum": "2014고단6340",
+        "sentenceDate": "2015. 3. 27.",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "의류매장에서 코오롱, 블랙야크 등 등록상표와 동일하거나 유사한 상표가 부착된 의류를 불상의 자로부터 공급받아 이를 양도하거나 인도하기 위해 소지한 혐의로 기소되었습니다. 법원은 피고인1을 징역 8월에, 피고인2를 징역 6월에, 피고인3을 벌금 4,000,000원에 처하고, 2년간 피고인2에 대한 형의 집행을 유예하였습니다.",
+        "originwordCnt": "1589",
+        "labelwordCnt": "37"
+    }
+}

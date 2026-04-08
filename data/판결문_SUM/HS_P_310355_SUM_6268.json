@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310355",
+        "caseName": "특수감금등",
+        "caseNum": "2024고단90",
+        "sentenceDate": "2024.05.17",
+        "courtName": "대전지방법원 공주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "의무보험에 가입되지 않은 자동차를 도로에서 운행하여서는 안 된다는 규정을 위반하였습니다. 약 3km 구간에 걸쳐 붉은색 오토바이를 의무보험 없이 운행한 사실이 인정되었습니다. 피고인의 법정진술과 관련 증거를 바탕으로, 법원은 자동차손해배상 보장법 제46조 제3항 제2호 및 제8조 본문을 적용하여 벌금 4,000,000원을 부과하였습니다.",
+        "originwordCnt": "135",
+        "labelwordCnt": "39"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "158505",
+        "caseName": "유해 화학물질 관리법 위반(환각물질 흡입)·폭력행위등 처벌에 관한 법률위반(집단·흉기등 협박))",
+        "caseNum": "2011노879",
+        "sentenceDate": "2011.05.20",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 피해자의 소유물인 칼과 수건을 몰수 대상으로 삼지 않은 이유는 무엇인가요?",
+        "output": "피고인이 사용한 칼과 수건은 피해자의 소유물로서 형법 제48조 제1항에 따라 몰수의 대상이 아니며, 따라서 원심의 몰수 판결은 잘못된 것으로 판단되었습니다.",
+        "originwordCnt": "340",
+        "labelwordCnt": "20"
+    }
+}

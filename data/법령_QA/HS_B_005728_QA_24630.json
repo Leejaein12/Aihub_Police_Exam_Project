@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005728",
+        "promulgDate": "20220630",
+        "effectDate": "20220701",
+        "promulgNum": "03056",
+        "title": "군사법원 재판기록 열람ㆍ복사 규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군사법원의 재판서나 조서의 등본 또는 초본을 교부받을 때의 수수료는 얼마인가요?",
+        "output": "재판서나 조서의 등본 또는 초본을 교부받을 경우 1건마다 1,000원의 수수료를 납부해야 합니다. 이는 군사법원 재판기록 열람ㆍ복사 규칙 제4조 제1항 제2호에 명시되어 있습니다.",
+        "originwordCnt": "118",
+        "labelwordCnt": "22"
+    }
+}

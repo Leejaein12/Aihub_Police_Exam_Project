@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335802",
+        "caseName": "사기",
+        "caseNum": "2023노2446",
+        "sentenceDate": "2024.02.13",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "법원은 원심판결이 각기 다른 두 사건의 범죄 사실에 대해 형법 제37조 전단의 경합범 관계가 성립한다고 보고 병합 심리하여 원심을 파기하였습니다. 피고인이 범행을 인정하고 반성하는 점, 일부 피해를 변제한 점은 참작되었으나 피해 금액이 거액이고 피해 회복이 대부분 이루어지지 않은 점 등을 종합적으로 고려하여 징역 1년 2개월의 형이 선고되었습니다.",
+        "originwordCnt": "297",
+        "labelwordCnt": "47"
+    }
+}

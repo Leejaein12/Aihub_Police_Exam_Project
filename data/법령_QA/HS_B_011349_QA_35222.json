@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011349",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19871",
+        "title": "119구조ㆍ구급에 관한 법률",
+        "ministry": "소방청",
+        "fullText": "N",
+        "smClass": "제22조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "구조ㆍ구급활동상황일지의 작성ㆍ보관 및 관리, 그 밖에 필요한 사항은 무엇으로 정합니까?",
+        "output": "119구조ㆍ구급에 관한 법률 제22조 제2항에 명시된 바와 같이, 구조ㆍ구급활동상황일지의 작성ㆍ보관 및 관리, 그 밖에 필요한 사항은 행정안전부령으로 정합니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "18"
+    }
+}

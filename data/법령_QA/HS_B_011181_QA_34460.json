@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011181",
+        "promulgDate": "20210608",
+        "effectDate": "20220101",
+        "promulgNum": "18221",
+        "title": "장애인연금법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "금융회사 등의 장은 보건복지부장관이 장애인연금 수급희망자나 수급권자의 금융정보 제공을 요청하면, 어떻게 해야 합니까?",
+        "output": "금융회사 등의 장은 장애인연금법 제12조 제3항에 따라, 보건복지부장관의 요청에 따라 명의인의 금융정보 등을 제공하여야 합니다.",
+        "originwordCnt": "260",
+        "labelwordCnt": "15"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "003047",
+        "promulgDate": "20220630",
+        "effectDate": "20220701",
+        "promulgNum": "32737",
+        "title": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 시행령",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제97조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군교정시설에서 사형 집행 시 유언은 누가 기록하여야 하나요?",
+        "output": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 시행령 제97조 제2항에 의거하여, 사형 집행 시 군검사는 사형확정자의 유언을 기록하고 날인한 후 친족 또는 친지에게 전달하여야 합니다.",
+        "originwordCnt": "44",
+        "labelwordCnt": "26"
+    }
+}

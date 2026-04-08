@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "308039",
+        "caseName": "특수폭행",
+        "caseNum": "2020고정710",
+        "sentenceDate": "2020. 12. 8.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "층간 소음 문제로 오랫동안 갈등을 겪던 피해자와의 대면에서 폭행을 시도하였습니다. 피해자가 출근하는 길에 피고인은 피해자에게 소음 문제에 대해 따지며 우산대로 위협하고, 피해자의 어깨를 잡아당기는 등의 행동을 하였습니다. 이러한 행위는 피고인이 위험한 물건을 사용하여 피해자를 위협한 것으로, 법원은 피고인에게 70만 원의 벌금을 부과하였습니다.",
+        "originwordCnt": "209",
+        "labelwordCnt": "42"
+    }
+}

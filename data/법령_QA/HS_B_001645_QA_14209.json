@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001645",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19329",
+        "title": "새마을금고법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제28조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "새마을금고의 신용사업 관련 자금의 차입한도는 어떻게 정해지나요?",
+        "output": "새마을금고법 제28조 제3항에 따르면, 제1항 제1호의 신용사업에 관련되는 소요 자금의 차입한도, 여유자금의 운용 및 제1항 제6호의 위탁사업의 범위, 그 밖에 필요한 사항은 대통령령으로 정한다고 합니다.",
+        "originwordCnt": "245",
+        "labelwordCnt": "25"
+    }
+}

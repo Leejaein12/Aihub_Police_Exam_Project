@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "173376",
+        "caseName": "수산업법위반",
+        "caseNum": "2011고정963",
+        "sentenceDate": "2012.11.15",
+        "courtName": "광주지방법원순천지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인 1과 2는 어떤 이유로 벌금형을 선고받았나요?",
+        "output": "피고인 1과 2는 수산업법 제61조 제1항 제2호를 위반하여 정해진 조업구역을 벗어나 키조개를 포획했기 때문에, 수산업법 제98조 제8호에 따라 각각 벌금 200만 원을 선고받았습니다.",
+        "originwordCnt": "338",
+        "labelwordCnt": "23"
+    }
+}

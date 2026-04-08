@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317839",
+        "caseName": "편의시설부정이용등",
+        "caseNum": "2024고단162",
+        "sentenceDate": "2024.04.03",
+        "courtName": "광주지방법원 순천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사용이 중지된 하이패스 카드를 이용하여 유료통행 구간을 부정 통과하고 통행료를 지급하지 않았습니다. 또한, 자동차운전면허 없이 운전한 사실이 인정되었습니다. 법원은 피고인의 범행 횟수와 동종 범죄 전력, 판결이 확정된 사기죄와의 형평성을 고려하여 벌금 700만 원을 선고하였습니다.",
+        "originwordCnt": "360",
+        "labelwordCnt": "34"
+    }
+}

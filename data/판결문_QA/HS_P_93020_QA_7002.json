@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93020",
+        "caseName": "업무상과실치상",
+        "caseNum": "76도144",
+        "sentenceDate": "1976.06.08",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "의사가 태반의 일부를 떼어낸 경우, 이러한 행위가 형법상 정당행위로 인정될 수 있는 근거는 무엇인가요?",
+        "output": "의사가 태반의 일부를 떼어낸 행위는 그 의도와 수단, 절단 부위 및 그 정도에 비추어 볼 때 의사로서의 정상적인 진찰 행위로 판단될 수 있습니다. 이에 따라 이러한 행위는 형법 제20조에 규정된 정당행위로 인정되며, 따라서 위법성이 부정됩니다.",
+        "originwordCnt": "60",
+        "labelwordCnt": "35"
+    }
+}

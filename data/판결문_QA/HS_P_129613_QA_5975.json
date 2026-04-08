@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "129613",
+        "caseName": "공무원자격사칭",
+        "caseNum": "73도884",
+        "sentenceDate": "1973.05.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형법에서 사칭된 공무원의 의미는 무엇인가요?",
+        "output": "형법 제118조에 따르면, 사칭된 공무원의 개념에는 공무원 임용령 제43조에 의한 임시직원도 포함되며, 따라서 임시직원을 사칭한 경우에도 형법상 공무원 사칭죄가 성립할 수 있습니다.",
+        "originwordCnt": "14",
+        "labelwordCnt": "22"
+    }
+}

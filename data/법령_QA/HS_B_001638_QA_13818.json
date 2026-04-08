@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001638",
+        "promulgDate": "20230418",
+        "effectDate": "20240101",
+        "promulgNum": "19357",
+        "title": "도로교통법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제29조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "긴급자동차가 접근할 때 일반 도로에서 다른 운전자는 어떻게 해야 하나요?",
+        "output": "도로교통법 제29조 제5항에 따르면 모든 차와 노면전차의 운전자는 제29조 제4항에 따른 곳 외의 곳에서 긴급자동차가 접근한 경우에는 긴급자동차가 우선통행할 수 있도록 진로를 양보하여야 합니다.",
+        "originwordCnt": "130",
+        "labelwordCnt": "24"
+    }
+}

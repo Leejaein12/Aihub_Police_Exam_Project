@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001669",
+        "promulgDate": "20170726",
+        "effectDate": "20170726",
+        "promulgNum": "14839",
+        "title": "즉결심판에 관한 절차법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "즉결심판절차의 개정에 있어 법정에 열석해야 하는 사람들은 누구입니까?",
+        "output": "즉결심판절차의 개정에 있어 법정에는 판사와 법원서기관, 법원사무관, 법원주사 또는 법원주사보가 열석하여 개정합니다. 이는 즉결심판에 관한 절차법 제7조 제2항에서 규정하고 있습니다.",
+        "originwordCnt": "60",
+        "labelwordCnt": "20"
+    }
+}

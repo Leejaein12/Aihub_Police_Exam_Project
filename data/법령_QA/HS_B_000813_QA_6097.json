@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000813",
+        "promulgDate": "20230808",
+        "effectDate": "20230808",
+        "promulgNum": "19592",
+        "title": "경륜ㆍ경정법",
+        "ministry": "문화체육관광부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소멸된 구매권의 미사용 금액과 환급금, 구매 금액은 어떻게 처리되나요?",
+        "output": "소멸된 구매권의 미사용 금액과 환급금 및 구매 금액은 경주사업자가 진흥공단이면 국민체육진흥기금에, 경주사업자가 지방자치단체이면 사업준비금에 귀속됩니다. 경륜ㆍ경정법 제14조 제3항에 규정되어 있습니다.",
+        "originwordCnt": "66",
+        "labelwordCnt": "20"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78724",
+        "caseName": "병역법위반",
+        "caseNum": "2007노2254",
+        "sentenceDate": "2007.09.05",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "양심의 자유와 국방의 의무가 충돌할 때 어떻게 판단되나요?",
+        "output": "양심의 자유는 헌법 제19조에 따라 보호받지만, 헌법 제39조 제1항에서 규정한 국방의 의무가 국민의 기본적 의무로서 우선시되므로, 헌법 제37조 제2항에 따라 양심의 자유는 제한될 수 있습니다.",
+        "originwordCnt": "1307",
+        "labelwordCnt": "25"
+    }
+}

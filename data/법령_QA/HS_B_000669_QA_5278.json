@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000669",
+        "promulgDate": "20240326",
+        "effectDate": "20240326",
+        "promulgNum": "20409",
+        "title": "물가안정에 관한 법률",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제17조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공무원은 제16조 제1항에 따라 받은 자료를 어떻게 사용해야 하나요?",
+        "output": "물가안정에 관한 법률 제17조에 따르면 이 법에 따른 직무에 종사하는 공무원은 제16조 제1항에 따라 받은 자료의 내용이나 검사하여 알게 된 내용을 이 법의 시행을 위한 목적 외의 용도로 이용하여서는 안 됩니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "31"
+    }
+}

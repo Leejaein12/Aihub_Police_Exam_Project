@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000139",
+        "promulgDate": "20210518",
+        "effectDate": "20220519",
+        "promulgNum": "18179",
+        "title": "노동위원회법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "당사자가 노동위원회 위원에 대해 기피신청을 할 수 있는 경우는 언제인가요?",
+        "output": "노동위원회법 제21조 제3항에 따르면, 당사자는 공정한 심의ㆍ의결 또는 조정 등을 기대하기 어려운 위원이 있는 경우에 그 사유를 적어 위원장에게 기피신청을 할 수 있습니다.",
+        "originwordCnt": "191",
+        "labelwordCnt": "23"
+    }
+}

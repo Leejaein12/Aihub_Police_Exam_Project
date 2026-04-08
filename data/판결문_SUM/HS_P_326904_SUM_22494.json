@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "326904",
+        "caseName": "공직선거법위반",
+        "caseNum": "2022고합157",
+        "sentenceDate": "2023.04.10.",
+        "courtName": "대전지방법원 천안지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "제20대 대통령선거에서 후보자 C의 선거연락소 선거사무원이자 해당 정당의 비례대표 후보로 출마하여 당선된 피고인은 선거사무원으로 신고된 E, F, G에게 수당과 실비를 지급함에도 별도로 음식, 현금, 음료 등을 제공하였습니다. 따라서 법원은 이를 선거운동과 관련한 이익제공행위로 보고 피고인에게 벌금 90만원을 선고하였습니다.",
+        "originwordCnt": "3035",
+        "labelwordCnt": "38"
+    }
+}

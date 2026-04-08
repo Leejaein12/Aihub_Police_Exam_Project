@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000128",
+        "promulgDate": "20210413",
+        "effectDate": "20211014",
+        "promulgNum": "18042",
+        "title": "임금채권보장법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "근로자의 임금채권 대지급금을 받을 계좌는 어떻게 지정되나요?",
+        "output": "임금채권보장법 제11조 제1항에 명시된 바에 의하면, 고용노동부장관은 근로자의 신청이 있는 경우 제7조 또는 제7조의2에 따른 대지급금을 해당 근로자 명의의 지정된 계좌로 입금하여야 합니다.",
+        "originwordCnt": "79",
+        "labelwordCnt": "23"
+    }
+}

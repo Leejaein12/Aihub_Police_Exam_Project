@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011546",
+        "promulgDate": "20161220",
+        "effectDate": "20161220",
+        "promulgNum": "14408",
+        "title": "난민법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "난민위원회는 이의신청을 어떻게 조사할 수 있습니까?",
+        "output": "난민법 제21조 제4항에 따르면 난민위원회는 직접 또는 제27조에 따른 난민조사관을 통하여 사실조사를 할 수 있습니다.",
+        "originwordCnt": "150",
+        "labelwordCnt": "15"
+    }
+}

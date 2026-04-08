@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314552",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023재고정10",
+        "sentenceDate": "2024.03.28",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피고인은 약 100m 구간에서 혈중알코올농도 0.087%의 술에 취한 상태로 승용차를 운전하였습니다. 법원은 피고인의 범죄사실에 대해 도로교통법 제148조의2 제3항 제2호 및 제44조 제1항을 근거로 벌금형을 선택하고, 형법 제70조 제1항 및 제69조 제2항에 따라 노역장 유치도 명령하였습니다.",
+        "originwordCnt": "118",
+        "labelwordCnt": "35"
+    }
+}

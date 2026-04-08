@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001372",
+        "promulgDate": "20201020",
+        "effectDate": "20201020",
+        "promulgNum": "17560",
+        "title": "감사원법",
+        "ministry": "감사원",
+        "fullText": "N",
+        "smClass": "제29조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "감사를 받는 기관 등의 장이 감사원에게 통보하는 절차를 어떻게 정합니까?",
+        "output": "감사원법 제29조 제2항에 의하면 제1항의 통보의 절차 및 범위는 감사원규칙으로 정합니다.",
+        "originwordCnt": "75",
+        "labelwordCnt": "11"
+    }
+}

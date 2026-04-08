@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "97399",
+        "caseName": "양곡관리법위반·식품위생법위반",
+        "caseNum": "81도2761",
+        "sentenceDate": "1983.03.08",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "식품위생법에 따르면, 쌀을 빻아서 미숫가루를 만드는 행위는 식품가공업에 해당하나요?",
+        "output": "식품위생법 제23조 제1항과 제22조에 따르면, 쌀을 포함한 식품을 가공하여 다른 형태의 식품을 만드는 행위는 식품가공업에 해당합니다. 따라서 쌀을 빻아서 미숫가루를 만드는 행위도 식품가공업에 해당합니다.",
+        "originwordCnt": "170",
+        "labelwordCnt": "24"
+    }
+}

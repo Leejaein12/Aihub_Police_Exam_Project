@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "73388",
+        "caseName": "폭력행위등처벌에관한법률위반,상해치사피고사건",
+        "caseNum": "73노613",
+        "sentenceDate": "1973.11.06",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형벌 가중이 이루어지지 않으면 판결에 어떤 영향이 있나요?",
+        "output": "폭력행위등처벌에관한법률 제2조 제2항은 형벌을 가중하기 위한 조항이므로, 해당 조항에 의한 가중을 별도로 행하지 않으면 판결에 영향을 미치는 법률 위반이 됩니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "20"
+    }
+}

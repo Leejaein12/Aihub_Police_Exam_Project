@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010000",
+        "promulgDate": "20221115",
+        "effectDate": "20221115",
+        "promulgNum": "19022",
+        "title": "공유재산 및 물품 관리법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제20조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "지방자치단체의 장은 행정재산에 대한 사용허가를 할 때 어떤 조건을 충족해야 하나요?",
+        "output": "행정재산에 대하여 그 목적 또는 용도에 장애가 되지 아니하는 범위에서 사용허가를 할 수 있습니다. 이는 공유재산 및 물품 관리법 제20조 제1항에 명시되어 있습니다.",
+        "originwordCnt": "175",
+        "labelwordCnt": "24"
+    }
+}

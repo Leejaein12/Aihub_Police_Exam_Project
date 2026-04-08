@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009592",
+        "promulgDate": "20230914",
+        "effectDate": "20240315",
+        "promulgNum": "19718",
+        "title": "건설폐기물의 재활용촉진에 관한 법률",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제47조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공제조합의 운영에 필요한 사항은 어떻게 정해지나요?",
+        "output": "건설폐기물의 재활용촉진에 관한 법률 제47조제4항에 따르면 공제조합의 조합원 자격, 임원, 분담금 납부, 책임준비금 및 융자에 관한 사항과 공제조합의 운영에 필요한 사항은 정관으로 정합니다.",
+        "originwordCnt": "86",
+        "labelwordCnt": "23"
+    }
+}

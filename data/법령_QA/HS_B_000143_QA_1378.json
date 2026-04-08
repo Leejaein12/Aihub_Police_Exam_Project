@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000143",
+        "promulgDate": "20210105",
+        "effectDate": "20210706",
+        "promulgNum": "17864",
+        "title": "노동조합 및 노동관계조정법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제56조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "조정위원회의 위원장은 누구입니까?",
+        "output": "노동조합 및 노동관계조정법 제56조에 따르면, 위원장은 공익을 대표하는 조정위원이 됩니다. 다만, 제55조 제4항의 규정에 따른 조정위원회의 경우에는 조정위원 중에서 호선하여 위원장을 결정합니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "22"
+    }
+}

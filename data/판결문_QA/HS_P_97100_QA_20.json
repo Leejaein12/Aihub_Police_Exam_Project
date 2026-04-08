@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "97100",
+        "caseName": "양곡관리법위반",
+        "caseNum": "81도164",
+        "sentenceDate": "1982.12.14",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "일반가정에서 가져온 불린 쌀로 미수가루를 만드는 행위가 식품위생법상의 식품가공업에 해당하나요?",
+        "output": "식품위생법 제22조 제1항 및 동법시행령 제9조 제36호에 따르면, 일반가정에서 가져온 불린 쌀, 볶은 보리나 콩 등을 분쇄기에 넣어 미수가루를 만드는 행위는 식품가공업에 해당합니다.",
+        "originwordCnt": "588",
+        "labelwordCnt": "23"
+    }
+}

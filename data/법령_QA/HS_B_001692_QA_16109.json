@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001692",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19582",
+        "title": "형법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제56조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "형을 가중할 사유가 경합할 때, 순서는 무엇을 따르나요?",
+        "output": "형법 제56조에 따르면, 형을 가중ㆍ감경할 사유가 경합하는 경우에는 다음 각 호의 순서에 따릅니다.1. 각칙 조문에 따른 가중2. 동법 제34조 제2항에 따른 가중3. 누범 가중4. 법률상 감경5. 경합범 가중6. 정상참작감경",
+        "originwordCnt": "33",
+        "labelwordCnt": "35"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317290",
+        "caseName": "주거침입",
+        "caseNum": "2023고단4030",
+        "sentenceDate": "2024.01.25",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "전여자친구의 거주지였던 빌라의 비밀번호를 알고 있던 점을 이용해 허락 없이 공동현관에 들어간 후 현관문 앞에 메모와 빵을 두고 초인종을 누른 혐의로 기소되었습니다. 법원은 이러한 행위가 공동주택의 주거 평온을 침해한 주거침입으로 판단하고, 형법 제319조 제1항을 적용하여 벌금 70만 원을 선고하였습니다.",
+        "originwordCnt": "804",
+        "labelwordCnt": "39"
+    }
+}

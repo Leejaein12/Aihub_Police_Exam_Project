@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "188979",
+        "caseName": "강도강간",
+        "caseNum": "77도1350",
+        "sentenceDate": "1977.09.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "강도강간죄가 성립하기 위한 요건은 무엇인가요?",
+        "output": "형법 제339조의 강도강간죄는 일종의 신분범과 같아 강도범이 재물을 강취하는 기회에 부녀를 강간하는 것을 요건으로 합니다. 따라서 부녀를 먼저 강간한 후에 강도의 범의를 일으켜 재물을 강취한 경우에는 강도강간죄가 성립하지 않고, 강간죄와 강도죄의 경합범이 성립할 뿐입니다.",
+        "originwordCnt": "25",
+        "labelwordCnt": "34"
+    }
+}

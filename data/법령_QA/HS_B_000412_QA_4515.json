@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000412",
+        "promulgDate": "20230620",
+        "effectDate": "20240427",
+        "promulgNum": "19486",
+        "title": "동물보호법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제41조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "학대받은 동물을 반환받기 위해 소유자는 어떤 서류를 제출해야 하나요?",
+        "output": "동물보호법 제41조 제2항에 따르면, 학대받은 동물을 반환받으려는 소유자는 농림축산식품부령으로 정하는 바에 따라 학대행위의 재발 방지 등 동물을 적절하게 보호ㆍ관리하기 위한 사육계획서를 제출해야 합니다.",
+        "originwordCnt": "131",
+        "labelwordCnt": "23"
+    }
+}

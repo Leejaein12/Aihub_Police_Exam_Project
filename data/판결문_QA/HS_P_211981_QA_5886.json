@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "211981",
+        "caseName": "미성년자보호법위반·장물취득",
+        "caseNum": "82도701",
+        "sentenceDate": "1982.09.14",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "미성년자가 주점에서 종업원으로 일하는 것이 법적으로 허용되나요?",
+        "output": "직업선택의 자유는 헌법 제14조에서 보장된 국민의 기본권이며, 근로기준법 제51조와 아동복지법 제18조 제4호의 규정에 비추어 보더라도 미성년자의 주점에서의 취업이 일반적으로 금지된다고 해석되지는 않습니다.",
+        "originwordCnt": "330",
+        "labelwordCnt": "22"
+    }
+}

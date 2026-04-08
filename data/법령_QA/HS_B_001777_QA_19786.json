@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001777",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "노인복지법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제61조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "노인복지법에 따른 과태료는 누가 부과하고 징수하나요?",
+        "output": "노인복지법 제61조의2에 따르면 제1항부터 제4항까지의 규정에 따른 과태료는 대통령령으로 정하는 바에 따라 보건복지부장관, 시ㆍ도지사, 시장ㆍ군수ㆍ구청장이 부과하고 징수합니다.",
+        "originwordCnt": "169",
+        "labelwordCnt": "17"
+    }
+}

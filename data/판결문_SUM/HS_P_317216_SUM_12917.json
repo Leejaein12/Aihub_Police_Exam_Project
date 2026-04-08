@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317216",
+        "caseName": "모욕",
+        "caseNum": "2024고정268",
+        "sentenceDate": "2024.06.21",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "도로에서 차량 운행과 관련한 말다툼 도중 피해자의 남편과 시비를 벌이다가 화가 나 피해자를 향해 모욕적인 발언을 하였습니다. 해당 발언은 공공장소에서 이루어져 다수의 행인이 이를 목격한 상황이었습니다. 법원은 피고인의 행위가 형법 제311조에서 규정한 모욕죄에 해당한다고 판단하고, 벌금형을 선택하여 피고인에게 벌금 500,000원을 선고하였습니다.",
+        "originwordCnt": "137",
+        "labelwordCnt": "41"
+    }
+}

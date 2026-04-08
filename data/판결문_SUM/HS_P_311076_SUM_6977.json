@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311076",
+        "caseName": "식품위생법위반",
+        "caseNum": "2023고정763",
+        "sentenceDate": "2024.02.15",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "식품위생법에 따라 일반음식점 영업을 위해 관할관청에 신고해야 함에도 불구하고 신고 없이 영업을 한 사실이 인정되었습니다. 피고인은 음식점 영업을 하며 다수의 고객을 상대로 음식 판매를 하였고, 이에 대해 법원은 피고인의 범죄사실을 식품위생법 제97조 제1호 및 제37조 제4항에 의거하여 벌금형을 선고하였습니다.",
+        "originwordCnt": "157",
+        "labelwordCnt": "39"
+    }
+}

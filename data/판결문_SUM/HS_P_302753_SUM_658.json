@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "302753",
+        "caseName": "국민연금법위반",
+        "caseNum": "2019고단1906",
+        "sentenceDate": "2019. 7. 12.",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "노령연금 수급자의 아들로, 사망 사실을 국민연금공단에 통지하지 않고 노령연금 급여를 부정하게 수령한 혐의로 기소되었습니다. 피고인은 2008년부터 2017년까지 총 10,836,190원의 급여를 수령하였으며, 이는 범죄 전력과 결합하여 엄정한 처벌이 필요하다는 판단이 내려졌습니다. 피고인은 징역 2개월의 형을 선고받았습니다.",
+        "originwordCnt": "221",
+        "labelwordCnt": "35"
+    }
+}

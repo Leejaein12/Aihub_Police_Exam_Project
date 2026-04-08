@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002009",
+        "promulgDate": "20161220",
+        "effectDate": "20161220",
+        "promulgNum": "14413",
+        "title": "특정범죄신고자 등 보호법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "범죄신고자등 구조금의 금액은 어떻게 결정되나요?",
+        "output": "구조금의 금액은 보복 위험성, 경제적 손실과 정신적 고통의 정도 등을 고려하여 대통령령으로 정해진 한도 내에서 결정됩니다. 특정범죄신고자 등 보호법 제14조 제2항에 규정되어 있습니다.",
+        "originwordCnt": "127",
+        "labelwordCnt": "23"
+    }
+}

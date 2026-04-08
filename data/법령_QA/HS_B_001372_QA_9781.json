@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001372",
+        "promulgDate": "20201020",
+        "effectDate": "20201020",
+        "promulgNum": "17560",
+        "title": "감사원법",
+        "ministry": "감사원",
+        "fullText": "N",
+        "smClass": "제32조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "감사원이 특정 사건에 대해 조사를 진행 중일 때, 징계 또는 문책 절차는 언제부터 진행하지 못합니까?",
+        "output": "감사원법 제32조의2 제1항에 따르면, 감사원이 조사 중인 특정 사건에 대하여는 제32조의2 제2항에 따른 조사 개시의 통보를 받은 날부터 징계 또는 문책 절차를 진행하지 못합니다.",
+        "originwordCnt": "106",
+        "labelwordCnt": "24"
+    }
+}

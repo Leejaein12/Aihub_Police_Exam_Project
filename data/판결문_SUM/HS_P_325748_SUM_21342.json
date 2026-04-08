@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "325748",
+        "caseName": "업무상배임",
+        "caseNum": "2021노4170",
+        "sentenceDate": "2022.09.14.",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "업무상배임 사건에서 피해자 회사의 주요 자산을 보유하고 있으며, 공소사실에 대한 법리오해 및 사실오인을 주장하였으나, 법원은 이러한 주장이 인정되지 않았음을 밝혔습니다. 자산의 공개성 및 경제적 유용성 문제는 배임죄의 성립과 관계없으며, 법원은 원심 판결의 적법성을 확인하였습니다. 따라서 항소를 기각하며, 판결 결과는 유죄가 확인된 것입니다.",
+        "originwordCnt": "631",
+        "labelwordCnt": "43"
+    }
+}

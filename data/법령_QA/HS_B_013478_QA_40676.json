@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013478",
+        "promulgDate": "20230418",
+        "effectDate": "20230719",
+        "promulgNum": "19367",
+        "title": "건축물관리법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제31조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "건축물관리법에서 해체공사감리자가 교체된 경우 어떤 제한이 있나요?",
+        "output": "건축물관리법 제31조 제4항 규정에 따르면 허가권자는 제2항 각 호의 어느 하나에 해당하는 해체공사감리자에 대해서는 1년 이내의 범위에서 해체공사감리자의 지정을 제한하여야 합니다.",
+        "originwordCnt": "252",
+        "labelwordCnt": "21"
+    }
+}

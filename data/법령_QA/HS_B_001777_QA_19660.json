@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001777",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "노인복지법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제39조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "요양보호사교육기관의 지정절차와 행정처분 기준은 어떻게 정해지나요?",
+        "output": "노인복지법 제39조의3 제4항에 따르면, 요양보호사교육기관의 지정절차와 행정처분의 세부적인 기준 및 절차 등에 관하여 필요한 사항은 보건복지부령으로 정해집니다.",
+        "originwordCnt": "133",
+        "labelwordCnt": "17"
+    }
+}

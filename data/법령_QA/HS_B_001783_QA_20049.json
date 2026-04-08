@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001783",
+        "promulgDate": "20230418",
+        "effectDate": "20240419",
+        "promulgNum": "19359",
+        "title": "약사법",
+        "ministry": "보건복지부,식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제24조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "약사가 의약품을 조제한 후 환자 또는 환자보호자에게 어떤 지도를 해야 하나요?",
+        "output": "약사법 제24조에 따르면, 약사는 의약품을 조제한 후 환자 또는 환자보호자에게 필요한 복약지도를 구두 또는 복약지도서로 하여야 하며, 복약지도서의 양식 등 필요한 사항은 보건복지부령으로 정합니다.",
+        "originwordCnt": "251",
+        "labelwordCnt": "24"
+    }
+}

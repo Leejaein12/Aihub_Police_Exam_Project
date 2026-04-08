@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319957",
+        "caseName": "스토킹범죄의처벌등에관한법률위반",
+        "caseNum": "2023고정846",
+        "sentenceDate": "2024.03.27",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "주거침입과 스토킹 행위에 대한 판결에서, 과거 연인과의 관계로 인해 여러 차례 무단 침입하고 불법적인 접근을 하여 불안감과 공포를 조성한 사실이 밝혀졌습니다. 법원은 해당 행위를 주거침입 및 스토킹으로 판단하였으며, 범행 경위와 처벌 전력 등을 종합적으로 고려하여 벌금을 부과하기로 하였습니다.",
+        "originwordCnt": "355",
+        "labelwordCnt": "38"
+    }
+}

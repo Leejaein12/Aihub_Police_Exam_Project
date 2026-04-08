@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000798",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19597",
+        "title": "저작권법",
+        "ministry": "문화체육관광부",
+        "fullText": "N",
+        "smClass": "제55조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "담당 직원의 실수로 저작권등록부에 잘못 기재되었어요",
+        "output": "저작권법 제55조의2제2항에 따르면 같은 조 제1항의 착오나 누락이 등록 담당 직원의 잘못으로 인한 것인 경우에는 지체 없이 그 등록된 사항을 경정하고 그 내용을 저작권 등록자에게 알려야 합니다.",
+        "originwordCnt": "80",
+        "labelwordCnt": "27"
+    }
+}

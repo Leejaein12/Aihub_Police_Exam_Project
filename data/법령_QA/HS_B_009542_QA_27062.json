@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009542",
+        "promulgDate": "20220610",
+        "effectDate": "20221211",
+        "promulgNum": "18929",
+        "title": "외국인근로자의 고용 등에 관한 법률",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "외국인근로자의 입국 및 체류에 관한 사항은 어떤 법에 따르나요?",
+        "output": "외국인근로자의 고용 등에 관한 법률 제3조 제2항에 따르면, 외국인근로자의 입국, 체류 및 출국 등에 관하여 이 법에서 규정하지 아니한 사항은 출입국관리법에 따릅니다.",
+        "originwordCnt": "56",
+        "labelwordCnt": "22"
+    }
+}

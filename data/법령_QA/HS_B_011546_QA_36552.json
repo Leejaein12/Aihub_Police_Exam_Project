@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011546",
+        "promulgDate": "20161220",
+        "effectDate": "20161220",
+        "promulgNum": "14408",
+        "title": "난민법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "난민인정 신청을 할 때 필요한 서류는 무엇입니까?",
+        "output": "난민법 제5조 제2항에 따르면 난민인정 신청을 하는 때에는 다음 각 호에 해당하는 서류를 제시하여야 합니다.1. 여권 또는 외국인등록증. 다만, 이를 제시할 수 없는 경우에는 그 사유서2. 난민인정 심사에 참고할 문서 등 자료가 있는 경우 그 자료",
+        "originwordCnt": "156",
+        "labelwordCnt": "38"
+    }
+}

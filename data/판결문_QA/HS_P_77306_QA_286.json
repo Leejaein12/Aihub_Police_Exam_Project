@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "77306",
+        "caseName": "상해치사",
+        "caseNum": "2003노1753",
+        "sentenceDate": "2003.10.14",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 미국에서 작성한 자백 진술서는 대한민국 법정에서 증거능력이 인정되나요?",
+        "output": "피고인이 미국에서 작성한 자백 진술서는 대한민국 형사소송법 제312조 제2항에 해당하는 피의자신문조서로, 피고인이 원심 법정에서 그 내용을 부인하였으므로 증거능력이 인정되지 않습니다.",
+        "originwordCnt": "3213",
+        "labelwordCnt": "20"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "239947",
+        "caseName": "통신비밀보호법위반·위치정보의보호및이용등에관한법률위반·자동차수색",
+        "caseNum": "2022노605",
+        "sentenceDate": "2023.06.14",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "검사가 피고인의 자동차 수색 혐의에 대해 항소한 이유는 무엇인가요?",
+        "output": "검사는 피고인이 피해자의 동의 없이 승용차를 수색했으며, 피해자의 승용차에 대한 공동 관리자로서의 지위가 없었다고 주장하며, 원심의 무죄 판결에 사실오인의 위법이 있다고 항소했습니다.",
+        "originwordCnt": "1805",
+        "labelwordCnt": "22"
+    }
+}

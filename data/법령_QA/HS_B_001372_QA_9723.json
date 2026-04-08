@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001372",
+        "promulgDate": "20201020",
+        "effectDate": "20201020",
+        "promulgNum": "17560",
+        "title": "감사원법",
+        "ministry": "감사원",
+        "fullText": "N",
+        "smClass": "제19조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "감사원의 사무총장이 하는 일은 무엇인가요?",
+        "output": "감사원법 제19조 제2항에 의하면 사무총장은 원장의 명을 받아 사무처의 사무를 관장하며 소속 직원을 지휘하고 감독합니다.",
+        "originwordCnt": "53",
+        "labelwordCnt": "15"
+    }
+}

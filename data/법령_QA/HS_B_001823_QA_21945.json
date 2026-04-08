@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제52조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "복합자재를 포함한 특정 건축자재의 품질관리에 대해 어떤 절차가 필요한가요?",
+        "output": "건축법 제52조의4 제1항에 따르면, 복합자재를 포함한 특정 건축자재의 제조업자, 유통업자, 공사시공자 및 공사감리자는 국토교통부령으로 정하는 사항을 기재한 품질관리서를 허가권자에게 제출해야 합니다.",
+        "originwordCnt": "159",
+        "labelwordCnt": "21"
+    }
+}

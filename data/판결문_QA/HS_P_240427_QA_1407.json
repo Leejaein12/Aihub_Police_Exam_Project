@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "240427",
+        "caseName": "권리행사방해",
+        "caseNum": "77도1672",
+        "sentenceDate": "1977.09.13",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "명도의무가 있는 건물점유자가 권리행사방해죄에서 타인의 물건을 점유하는 자로 인정될 수 있나요?",
+        "output": "건물점유자가 적법한 원인에 의해 물건을 점유하고 있다가 이후 명도의무가 발생했음에도 임의로 명도하지 않고 계속 점유하고 있다면, 형법 제323조에 따라 그 점유자는 권리행사방해죄에서 타인의 물건을 점유하는 자로 인정될 수 있습니다.",
+        "originwordCnt": "45",
+        "labelwordCnt": "29"
+    }
+}

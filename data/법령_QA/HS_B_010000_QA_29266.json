@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010000",
+        "promulgDate": "20221115",
+        "effectDate": "20221115",
+        "promulgNum": "19022",
+        "title": "공유재산 및 물품 관리법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제55조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "지방자치단체의 장이 물품관리 사무의 일부를 분장할 수 있는 공무원은 어떤 법령에 따라 둘 수 있나요?",
+        "output": "물품관리 사무의 일부를 분장하는 공무원을 대통령령으로 정하는 바에 따라 둘 수 있으며, 이는 공유재산 및 물품 관리법 제55조 제1항에 근거하고 있습니다.",
+        "originwordCnt": "66",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "316332",
+        "caseName": "실화",
+        "caseNum": "2023고정396",
+        "sentenceDate": "2023.10.12",
+        "courtName": "수원지방법원 안산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "안전조치를 이행하지 않고 그라인더 작업을 수행하여 화재를 유발한 과실이 인정됩니다. 작업 중 주변 인화성 물질을 처리하지 않고 연마 작업을 진행하였고, 이로 인해 공공의 위험이 발생하였습니다. 이러한 주의의무를 이행하지 않은 점이 중요한 쟁점으로 판단되었습니다. 따라서 벌금형을 처하였습니다.",
+        "originwordCnt": "623",
+        "labelwordCnt": "36"
+    }
+}

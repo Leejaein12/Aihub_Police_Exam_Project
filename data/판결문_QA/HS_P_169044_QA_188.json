@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "169044",
+        "caseName": "재물손괴",
+        "caseNum": "2012노1467",
+        "sentenceDate": "2012.10.18",
+        "courtName": "대전지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "광물의 소유권이 법 개정에 따라 변경된 경우, 어떤 법이 적용되나요?",
+        "output": "범죄 후 법률의 변경으로 행위가 범죄를 구성하지 않게 된 경우, 신법이 적용되어 면소 판결이 선고되어야 합니다.",
+        "originwordCnt": "1389",
+        "labelwordCnt": "16"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "152001",
+        "caseName": "절도·공문서위조·동행사·도로교통법위반피고사건",
+        "caseNum": "75노1144",
+        "sentenceDate": "1975.12.09",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "타인명의의 운전면허증 사진을 바꾸는 행위는 어떤 범죄에 해당하나요?",
+        "output": "타인명의의 운전면허증에서 사진을 떼어내고 다른 사진을 붙이는 행위는 공문서위조죄에 해당합니다. 이는 형법 제225조에 명시된 내용으로, 문서의 위조 행위로 간주됩니다.",
+        "originwordCnt": "18",
+        "labelwordCnt": "19"
+    }
+}

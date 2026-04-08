@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001790",
+        "promulgDate": "20240220",
+        "effectDate": "20240521",
+        "promulgNum": "20323",
+        "title": "검역법",
+        "ministry": "질병관리청",
+        "fullText": "N",
+        "smClass": "제23조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "조건부 검역증을 받은 운송수단의 장은 조건을 이행하면 어떻게 되나요?",
+        "output": "검역소장은 조건부 검역증을 받은 운송수단의 장이 해당 조건을 이행하였을 때 검역증을 내주어야 하며, 운송수단의 장은 종전에 발급받은 조건부 검역증을 폐기하여야 합니다. 검역법 제23조 제2항에 규정되어 있습니다.",
+        "originwordCnt": "113",
+        "labelwordCnt": "26"
+    }
+}

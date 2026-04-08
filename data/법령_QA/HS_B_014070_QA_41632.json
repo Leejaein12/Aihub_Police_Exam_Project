@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014070",
+        "promulgDate": "20230711",
+        "effectDate": "20240112",
+        "promulgNum": "19518",
+        "title": "스토킹범죄의 처벌 등에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "잠정조치에 대한 결정이 중대한 사실의 오인이 있는 경우 항고는 언제까지 하여야 하나요?",
+        "output": "스토킹범죄의 처벌 등에 관한 법률 제12조 제2항에 따르면, 제12조제1항에 따른 항고는 그 결정을 고지받은 날부터 7일 이내에 하여야 합니다.",
+        "originwordCnt": "53",
+        "labelwordCnt": "19"
+    }
+}

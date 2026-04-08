@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "95284",
+        "caseName": "양곡관리법위반",
+        "caseNum": "80도47",
+        "sentenceDate": "1980.08.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "양곡관리법 제17조와 농림부장관의 고시는 위임입법의 한계를 넘은 것으로 볼 수 있나요?",
+        "output": "양곡관리법 제17조 및 농림부장관의 1977년 11월 9일자 고시는 위임입법의 한계를 넘은 것이 아니므로 위헌이 아닙니다. 해당 법령과 고시는 적법하게 규정된 법령의 범위 내에서 이루어진 것이며, 헌법에 위배되지 않는 적법한 규정으로 판단됩니다.",
+        "originwordCnt": "737",
+        "labelwordCnt": "31"
+    }
+}

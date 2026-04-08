@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000899",
+        "promulgDate": "20230609",
+        "effectDate": "20230710",
+        "promulgNum": "19430",
+        "title": "고등교육법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공립학교나 사립학교의 설립자, 경영자가 학교를 폐지하거나 변경하려는 경우 누구의 인가를 받아야 합니까?",
+        "output": "고등교육법 제4조 제3항에 의하면 공립학교나 사립학교의 설립자ㆍ경영자가 학교를 폐지하거나 대통령령으로 정하는 중요 사항을 변경하려는 경우에는 교육부장관의 인가를 받아야 합니다.",
+        "originwordCnt": "45",
+        "labelwordCnt": "19"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93050",
+        "caseName": "특정범죄가중처벌등에관한법률위반·금에관한임시조치법위반",
+        "caseNum": "76도582",
+        "sentenceDate": "1976.06.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "외화를 밀수출한 경우에 어떤 법이 적용되며, 관세법과 외국환관리법은 어떤 관계인가요?",
+        "output": "외화를 밀수출한 경우에는 외국환관리법이 적용되며, 관세법은 외국환관리법의 특별법으로 간주됩니다. 따라서 외국환관리법 위반만으로 처벌하고 관세법 위반과의 상상적 경합관계는 배제됩니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "18"
+    }
+}

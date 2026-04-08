@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001624",
+        "promulgDate": "20210924",
+        "effectDate": "20220701",
+        "promulgNum": "18465",
+        "title": "군형법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군형법상 부대란 무엇을 말합니까?",
+        "output": "군형법 제2조 제4호에 따르면 부대란 군대, 군의 기관 및 학교와 전시또는 사변 시에 이에 준하여 특별히 설치하는 기관을 말합니다.",
+        "originwordCnt": "126",
+        "labelwordCnt": "19"
+    }
+}

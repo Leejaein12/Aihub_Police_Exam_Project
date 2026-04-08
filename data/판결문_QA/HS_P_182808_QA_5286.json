@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "182808",
+        "caseName": "성폭력범죄의처벌등에관한특례법위반(통신매체이용음란)",
+        "caseNum": "2014고단142",
+        "sentenceDate": "2015.02.03",
+        "courtName": "대구지방법원상주지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "성범죄로 인해 어떤 의무를 부담하게 되었나요?",
+        "output": "유죄판결이 확정되면, 성폭력범죄의 처벌 등에 관한 특례법 제42조 제1항에 따라 신상정보 등록대상자가 되어, 같은 법 제43조에 따라 관할기관에 신상정보를 제출해야 할 의무가 부과됩니다.",
+        "originwordCnt": "403",
+        "labelwordCnt": "23"
+    }
+}

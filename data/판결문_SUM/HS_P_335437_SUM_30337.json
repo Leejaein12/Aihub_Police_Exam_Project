@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335437",
+        "caseName": "교통사고처리특례법위반(치상)",
+        "caseNum": "2024고단241",
+        "sentenceDate": "2024.06.12",
+        "courtName": "광주지방법원 순천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "교차로에서 정지신호를 위반하여 직진하다가 신호를 지키며 주행하던 피해 차량과 충돌하여, 두 명의 피해자에게 상해를 입혔습니다. 피고인의 업무상 주의 의무를 소홀히 한 과실로 인해 교통사고처리특례법 위반죄가 인정되었습니다. 법원은 금고 3개월을 선고하였으나, 형의 집행을 1년간 유예하였습니다.",
+        "originwordCnt": "341",
+        "labelwordCnt": "34"
+    }
+}

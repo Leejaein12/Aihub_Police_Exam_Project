@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014483",
+        "promulgDate": "20230914",
+        "effectDate": "20240126",
+        "promulgNum": "19725",
+        "title": "해상교통안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "안전진단대행업자가 사업을 휴업하거나 폐업하려면 어떻게 해야 하나요?",
+        "output": "해상교통안전법 제21조에 따르면 안전진단대행업자로 등록한 자는 그 사업을 휴업하거나 폐업하려면 해양수산부령으로 정하는 바에 따라 해양수산부장관에게 신고하여야 합니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "17"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334392",
+        "caseName": "업무방해등",
+        "caseNum": "2023고단2923",
+        "sentenceDate": "2023.08.18",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "택시에 승객이 두고 내린 스마트폰을 발견한 피고인 A는 이를 피해자에게 돌려주지 않고 횡령하였습니다. 이후 A로부터 해당 스마트폰에 대해 들은 피고인 B는 장물임을 알면서도 이를 넘겨받아 장물을 취득하였습니다. 법원은 피고인 A에게 점유이탈물횡령죄로, 피고인 B에게 장물취득죄로 각각 벌금 300만 원과 200만 원을 선고하였습니다.",
+        "originwordCnt": "240",
+        "labelwordCnt": "41"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "237941",
+        "caseName": "명예훼손[‘제국의 위안부’ 명예훼손 사건]",
+        "caseNum": "2017도18697",
+        "sentenceDate": "2023.10.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형사재판에서 학문적 표현이 학문의 자유로 보호받지 않는다는 점을 누가 입증해야 하나요?",
+        "output": "형사소송법 제308조에 따르면, 형사재판에서 공소사실의 증명책임은 검사에게 있습니다. 따라서 학문적 표현이 학문의 자유로 보호되지 않는다는 점 역시 검사가 입증해야 합니다.",
+        "originwordCnt": "2125",
+        "labelwordCnt": "20"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "316378",
+        "caseName": "일반교통방해",
+        "caseNum": "2024고정11",
+        "sentenceDate": "2024.04.30",
+        "courtName": "창원지방법원 거창지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 9월 27일, 어느 건물에서 한 사람이 쇼핑 카트로 자녀를 충격했다고 오해하여 화가 난 상태로 카트를 이용해 상대방의 엉덩이를 밀치는 폭행을 저질렀습니다. 법원은 사건 당시의 CCTV와 진술을 토대로 범죄사실을 인정하고, 형법 제260조 제1항에 따라 벌금 70만 원을 부과하였습니다.",
+        "originwordCnt": "135",
+        "labelwordCnt": "38"
+    }
+}

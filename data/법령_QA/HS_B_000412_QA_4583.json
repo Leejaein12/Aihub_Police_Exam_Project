@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000412",
+        "promulgDate": "20230620",
+        "effectDate": "20240427",
+        "promulgNum": "19486",
+        "title": "동물보호법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제60조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "인증기관의 지정 및 사후관리와 관련된 구체적인 사항은 어떻게 정해지나요?",
+        "output": "동물보호법 제60조 제4항에 따르면, 인증기관의 지정, 인증업무의 범위, 인증심사업무를 수행하는 자에 대한 교육, 인증농장에 대한 사후관리 등에 필요한 구체적인 사항은 농림축산식품부령으로 정합니다.",
+        "originwordCnt": "75",
+        "labelwordCnt": "22"
+    }
+}

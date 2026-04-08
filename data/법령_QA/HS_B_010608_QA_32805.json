@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010608",
+        "promulgDate": "20230609",
+        "effectDate": "20230710",
+        "promulgNum": "19430",
+        "title": "동ㆍ서ㆍ남해안 및 내륙권 발전 특별법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가와 지방자치단체는 해안권 및 내륙권 발전을 어떻게 추진해야 하나요?",
+        "output": "동ㆍ서ㆍ남해안 및 내륙권 발전 특별법 제4조 제3항에 따르면, 국가와 시ㆍ도는 친환경적이고 지속가능한 해안권 및 내륙권 발전을 위해 노력해야 합니다.",
+        "originwordCnt": "56",
+        "labelwordCnt": "19"
+    }
+}

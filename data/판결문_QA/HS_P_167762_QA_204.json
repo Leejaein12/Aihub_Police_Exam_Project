@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "167762",
+        "caseName": "공인회계사법 위반",
+        "caseNum": "2011노1316",
+        "sentenceDate": "2011.06.24",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 공인회계사로서 피감회사 자산에 대한 실사 업무를 수행한 사실이 인정되었나요?",
+        "output": "원심은 피고인이 피감회사인 공소외 1 회사의 자산 등에 대한 실사 업무를 하였다는 사실을 인정하기에 부족하며, 오히려 매수인인 공소외 2의 요청에 따라 실사보고서 초안을 작성한 것이라고 판단하여 공소사실을 무죄로 판단했습니다.",
+        "originwordCnt": "532",
+        "labelwordCnt": "29"
+    }
+}

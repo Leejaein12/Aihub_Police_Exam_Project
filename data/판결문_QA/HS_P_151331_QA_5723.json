@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "151331",
+        "caseName": "절도",
+        "caseNum": "64도209",
+        "sentenceDate": "1964.06.23",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "토지개량조합의 배수로에 설치된 공작물로 인해 저장된 물이 절도죄의 객체가 될 수 있나요?",
+        "output": "형법 제329조에 따르면, 토지개량조합의 배수로에 토지개량조합규칙에 위배되는 공작물을 설치하여 저장된 물은 물을 막은 사람의 사실상이나 법률상의 지배를 받는 것으로 인정되지 않으므로, 그 물은 절도죄의 객체가 될 수 없습니다.",
+        "originwordCnt": "48",
+        "labelwordCnt": "28"
+    }
+}

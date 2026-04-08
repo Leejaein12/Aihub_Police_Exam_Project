@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "327138",
+        "caseName": "미성년자의제강간",
+        "caseNum": "2022고합73",
+        "sentenceDate": "2022.12.01.",
+        "courtName": "대전지방법원 홍성지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "SNS를 통해 중학교 3학년인 피해자를 알게 된 피고인은 주 1~2회 가량 피해자와 만나왔습니다. 13세 이상 16회 미만의 피해자를 2회 간음하였습니다. 법원은 이전에 피고인이 19세 미만의 사람에 대한 성폭력범죄를 2회 범하여 징역과 집행유예를 선고 받은 전력이 있어 재범의 위험성이 있다고 보았습니다. 따라서 피고인에게 징역 3년을 선고하였습니다.",
+        "originwordCnt": "1095",
+        "labelwordCnt": "45"
+    }
+}

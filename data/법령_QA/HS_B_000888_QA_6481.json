@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000888",
+        "promulgDate": "20221213",
+        "effectDate": "20230614",
+        "promulgNum": "19066",
+        "title": "사립학교법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제32조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "특수한 관계에 있는 법인에 적립금을 투자한 경우, 어떤 조치가 필요합니까?",
+        "output": "사립학교법 제32조의2 제5항에 따르면, 적립금 투자 대상이 해당 대학교육기관과 대통령령으로 정하는 특수한 관계에 있는 법인인 경우, 이사장은 그 투자결과를 교육부장관에게 보고하여야 합니다.",
+        "originwordCnt": "258",
+        "labelwordCnt": "22"
+    }
+}

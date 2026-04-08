@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "158120",
+        "caseName": "허위 진단서 작성 교사",
+        "caseNum": "66도1586",
+        "sentenceDate": "1967.01.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "허위진단서 작성의 교사죄가 성립하는 경우는 어떤 경우인가요?",
+        "output": "형법 제31조와 제233조에 따르면, 의사 아닌 자를 교사하여 의사와 공모하여 허위진단서를 작성케 하면 교사죄가 성립합니다. 피고인이 제3자에게 허위진단서를 작성하게 한 경우, 의사와 공모하여 작성된 경우라면 교사죄의 성립에 영향을 미치지 않습니다.",
+        "originwordCnt": "16",
+        "labelwordCnt": "30"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "97396",
+        "caseName": "보호감호",
+        "caseNum": "82감도463",
+        "sentenceDate": "1982.11.09",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 약 2년 6개월이 지난 후 절도행위를 한 것이 상습적 범행으로 볼 수 있나요?",
+        "output": "피고인이 전과사실로부터 약 2년 6개월이 경과한 후 우발적으로 절도행위를 2회 저질렀으나, 이는 사회보호법 제5조 제2항에 따른 절도습벽의 발로에 의한 것이라거나 상습성이 있다고 보기 어렵습니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "24"
+    }
+}

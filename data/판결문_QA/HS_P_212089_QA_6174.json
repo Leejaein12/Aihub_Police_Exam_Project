@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "212089",
+        "caseName": "사기",
+        "caseNum": "81도277",
+        "sentenceDate": "1981.06.09",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "임차기간이 만료된 상태에서 주차장 임차권 및 시설을 양도한 자에게 기망행위가 성립하는 이유는 무엇인가요?",
+        "output": "임차기간이 만료되었고 명도반환이 약정된 상태임에도 불구하고 그 사실을 고지하지 않고 주차장 임차권 및 시설을 양도한 행위는, 상대방에게 중요한 사실을 은폐한 것이므로 형법 제347조의 기망행위가 성립하게 됩니다.",
+        "originwordCnt": "197",
+        "labelwordCnt": "26"
+    }
+}

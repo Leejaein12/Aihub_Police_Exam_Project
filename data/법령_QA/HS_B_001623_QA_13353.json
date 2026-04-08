@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제295조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시효는 언제부터 정지되나요?",
+        "output": "군사법원법 제295조 제1항에 따르면 시효는 공소의 제기로 진행이 정지되며, 관할위반 또는 공소기각의 재판이 확정된 때부터 다시 진행됩니다.",
+        "originwordCnt": "45",
+        "labelwordCnt": "17"
+    }
+}

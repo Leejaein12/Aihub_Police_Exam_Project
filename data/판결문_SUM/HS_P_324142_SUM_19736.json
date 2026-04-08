@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "324142",
+        "caseName": "사기등",
+        "caseNum": "2023노2444",
+        "sentenceDate": "2023.11.28",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "항소심에서 사기와 교통사고처리특례법 위반 혐의로 심리되었습니다. 교통사고처리특례법 위반 혐의는 피해자가 처벌을 원하지 않음을 명확히 밝힌 만큼 공소기각 사유가 되어 기각되었습니다. 또한, 피고인은 사기 혐의로 일부 피해자와 합의하고 일부 피해금을 변제하여 이를 고려한 결과 징역 6월을 선고받았으며, 2년간 집행이 유예되었습니다.",
+        "originwordCnt": "924",
+        "labelwordCnt": "39"
+    }
+}

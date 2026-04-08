@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337157",
+        "caseName": "사기등",
+        "caseNum": "2023노720",
+        "sentenceDate": "2023.11.23",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사기 및 스토킹범죄의처벌등에관한법률 위반 혐의로 항소한 피고인에 대해, 원심의 형이 재량의 합리적인 범위를 벗어나지 않았으며 양형에 반영할 만한 특별한 사정변경이 없음을 이유로 형사소송법 제364조 제4항에 따라 항소를 기각하고 원심판결을 유지하기로 판결하였습니다.",
+        "originwordCnt": "216",
+        "labelwordCnt": "31"
+    }
+}

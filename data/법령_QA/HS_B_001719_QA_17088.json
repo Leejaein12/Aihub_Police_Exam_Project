@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001719",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "국가공무원법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제59조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공무원은 직무를 수행할 때 어떤 태도를 가져야 하나요?",
+        "output": "국가공무원법 제59조에 따르면 공무원은 국민 전체의 봉사자로서 친절하고 공정하게 직무를 수행하여야 합니다.",
+        "originwordCnt": "11",
+        "labelwordCnt": "12"
+    }
+}

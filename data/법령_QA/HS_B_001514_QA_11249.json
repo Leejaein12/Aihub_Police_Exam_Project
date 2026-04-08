@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001514",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19746",
+        "title": "농약관리법",
+        "ministry": "농림축산식품부,농촌진흥청",
+        "fullText": "N",
+        "smClass": "제23조의7",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "조정이 성립된 후 조정위원회는 어떤 절차를 밟아야 하나요?",
+        "output": "농약관리법 제23조의7 제11항에 따르면 조정위원회는 제10항에 따라 조정이 성립된 경우에는 조정조서를 작성하고, 조정위원회의 위원장 및 각 당사자가 기명날인하거나 서명하여야 합니다.",
+        "originwordCnt": "359",
+        "labelwordCnt": "20"
+    }
+}

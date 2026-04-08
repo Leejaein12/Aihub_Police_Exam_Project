@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332929",
+        "caseName": "사기등",
+        "caseNum": "2022노3447",
+        "sentenceDate": "2023.07.11",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심에서 하청업체를 속여 공사 대금을 가로채고, 회사의 신임을 저버려 개인 이익을 취한 점이 인정되었으며, 죄질이 무겁다고 판단되었습니다. 그러나 항소심에서는 피해자들과 합의하고 반성하는 태도, 벌금형 이상의 전력이 없는 점 등이 참작되어, 원심을 파기하고 징역 6개월의 형을 선고하되 집행을 유예하고 사회봉사를 명령하였습니다.",
+        "originwordCnt": "420",
+        "labelwordCnt": "40"
+    }
+}

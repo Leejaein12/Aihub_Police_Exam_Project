@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312251",
+        "caseName": "살인미수",
+        "caseNum": "2023고합151",
+        "sentenceDate": "2023.12.14",
+        "courtName": "광주지방법원 순천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "살해할 목적으로 흉기를 이용해 공격하였으나, 피해자가 이를 피하고 저항하여 살인미수에 그친 사건입니다. 피고인은 피해자의 팔과 등을 찔러 상해를 입혔습니다. 재판부는 사람의 생명에 대한 중대한 침해를 시도한 점과 죄질의 불량함을 고려하여 징역 2년 6월을 선고하였습니다.",
+        "originwordCnt": "640",
+        "labelwordCnt": "34"
+    }
+}

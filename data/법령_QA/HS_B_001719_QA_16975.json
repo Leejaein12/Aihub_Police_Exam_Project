@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001719",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "국가공무원법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제32조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "인사혁신처장의 인사교류계획은 어떻게 실시할 수 있나요?",
+        "output": "국가공무원법 제32조의2에 따르면 인사혁신처장은 행정기관 상호간, 행정기관과 교육ㆍ연구기관 또는 공공기관 간에 인사교류가 필요하다고 인정하면 인사교류계획을 수립하고, 국무총리의 승인을 받아 이를 실시할 수 있습니다.",
+        "originwordCnt": "25",
+        "labelwordCnt": "23"
+    }
+}

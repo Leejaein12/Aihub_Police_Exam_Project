@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010540",
+        "promulgDate": "20190115",
+        "effectDate": "20190716",
+        "promulgNum": "16265",
+        "title": "한센인피해사건의 진상규명 및 피해자 지원 등에 관한 법률",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한센인 피해자와 그 유족은 어떤 처우를 받을 수 없나요?",
+        "output": "한센인피해사건의 진상규명 및 피해자 지원 등에 관한 법률 제5조 제2항에 따르면, 피해자와 유족은 피해자와 유족이라는 이유로 어떠한 불이익이나 부당한 처우를 받지 않습니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "22"
+    }
+}

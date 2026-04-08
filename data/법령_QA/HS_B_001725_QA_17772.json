@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제73조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에서 경력방송을 할 때 비용 부담은 누가 합니까?",
+        "output": "공직선거법 제73조 제3항에 따르면 경력방송을 하는 때에는 그 횟수와 내용이 선거구 단위로 모든 후보자에게 공평하게 하여야 하며, 그 비용은 한국방송공사가 부담합니다.",
+        "originwordCnt": "168",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000815",
+        "promulgDate": "20240326",
+        "effectDate": "20240326",
+        "promulgNum": "20423",
+        "title": "청소년 보호법",
+        "ministry": "여성가족부",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "청소년유해표시를 해야하는 매체물은 청소년유해표시가 되지 않은 상태로 판매 및 전시를 할 수 있습니까?",
+        "output": "청소년 보호법 제16조 제2항에 따르면 제13조에 따라 청소년유해표시를 하여야 할 매체물은 청소년유해표시가 되지 아니한 상태로 판매나 대여를 위하여 전시하거나 진열하여서는 아니 됩니다.",
+        "originwordCnt": "81",
+        "labelwordCnt": "22"
+    }
+}

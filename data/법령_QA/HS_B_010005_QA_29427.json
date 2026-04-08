@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010005",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19882",
+        "title": "산림자원의 조성 및 관리에 관한 법률",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제23조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "등록이 취소된 후 다시 등록할 수 있는 기간은 어떻게 되나요?",
+        "output": "산림자원의 조성 및 관리에 관한 법률 제23조의2에 따르면, 제1호부터 제3호까지의 사유로 등록이 취소된 후 3년이 지나지 않은 자는 다시 등록할 수 없습니다.",
+        "originwordCnt": "223",
+        "labelwordCnt": "22"
+    }
+}

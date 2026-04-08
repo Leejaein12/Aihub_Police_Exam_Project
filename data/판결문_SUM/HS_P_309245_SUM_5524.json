@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "309245",
+        "caseName": "실종아동등의보호및지원에관한법률위반",
+        "caseNum": "2015고정512",
+        "sentenceDate": "2015. 7. 6.",
+        "courtName": "제주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "15세의 미성년자인 피해자가 가출한 사실을 알고 있음에도 불구하고 이를 경찰에 신고하지 않고, 제주도에서 서울로 데려가며 4일간 함께 지낸 사실이 인정되었습니다. 이는 실종아동 등의 보호 및 지원에 관한 법률 제17조와 제7조를 위반한 행위로 판단되었습니다. 법원은 벌금 500만 원을 선고하였습니다.",
+        "originwordCnt": "169",
+        "labelwordCnt": "38"
+    }
+}

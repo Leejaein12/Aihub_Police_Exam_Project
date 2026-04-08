@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78533",
+        "caseName": "재물손괴",
+        "caseNum": "2007노450",
+        "sentenceDate": "2007.06.14",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인의 철거 행위가 긴급피난이나 정당행위로 인정되지 않은 이유는 무엇인가요?",
+        "output": "피고인의 철거 행위는 조합원 전체의 이익을 위해 행해졌더라도, 행정대집행절차를 거치지 않고 법원 판결에 반하여 이루어진 점을 고려할 때, 긴급피난이나 정당행위로 인정될 수 없으므로, 피고인의 주장은 이유가 없습니다.",
+        "originwordCnt": "1499",
+        "labelwordCnt": "27"
+    }
+}

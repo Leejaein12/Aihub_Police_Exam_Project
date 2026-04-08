@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336233",
+        "caseName": "절도",
+        "caseNum": "2023고단1564",
+        "sentenceDate": "2023.11.03",
+        "courtName": "부산지방법원 동부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "절도죄로 여러 차례 처벌받은 전력이 있으며, 특히 누범기간 중에 절도 행위를 재차 저지른 점이 문제가 되었습니다. 피고인은 시정되지 않은 트럭 조수석 문을 열고 침입하여 현금을 절취하였습니다. 법원은 형법 제329조에 의거하여 절도죄를 적용하고, 징역 4개월의 실형을 선고했습니다.",
+        "originwordCnt": "255",
+        "labelwordCnt": "36"
+    }
+}

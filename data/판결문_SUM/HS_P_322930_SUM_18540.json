@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "322930",
+        "caseName": "미성년자의제강간",
+        "caseNum": "2023노24",
+        "sentenceDate": "2023.06.28",
+        "courtName": "광주고등법원 (제주)",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심 판결은 피고인이 C와 공모하여 현금을 교부한 행위를 반영하여 선고한 형이 재량의 합리적인 범위를 벗어나지 않음을 확인하였습니다. 법원은 피고인의 전력과 범행의 죄질을 불리한 정상으로, 기부금액과 범행의 영향 등을 유리한 정상으로 각각 참작하였음을 밝혔습니다. 따라서 검사의 항소는 이유 없어 기각되었습니다.",
+        "originwordCnt": "285",
+        "labelwordCnt": "39"
+    }
+}

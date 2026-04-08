@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제322조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공판기일에서의 심리는 어디에서 이루어지나요?",
+        "output": "군사법원법 제322조 제1항에 따르면 공판기일에서의 심리는 공판정에서 합니다. 모든 심리는 공판정 내에서 진행됩니다.",
+        "originwordCnt": "47",
+        "labelwordCnt": "13"
+    }
+}

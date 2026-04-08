@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "217163",
+        "caseName": "정치자금법위반",
+        "caseNum": "2019고단929",
+        "sentenceDate": "2020.02.13",
+        "courtName": "서울남부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "징역형을 선고하면서 집행유예와 사회봉사를 명한 이유는 무엇인가요?",
+        "output": "징역 6월을 선고하였으나, 별다른 범죄전력이 없고 피고인의 연령, 성행, 범행의 동기 및 범행 후의 정황 등을 고려하여 이 판결 확정일로부터 1년간 징역형의 집행을 유예하고, 120시간의 사회봉사를 명하였습니다.",
+        "originwordCnt": "1434",
+        "labelwordCnt": "27"
+    }
+}

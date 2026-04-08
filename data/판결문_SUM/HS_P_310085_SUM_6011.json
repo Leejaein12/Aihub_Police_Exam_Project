@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310085",
+        "caseName": "공무집행방해",
+        "caseNum": "2024고단642",
+        "sentenceDate": "2024.06.14",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주 상태에서 택시를 발로 찼다는 신고를 받고 출동한 경찰관의 얼굴을 수갑 찬 상태에서 때려 경찰의 정당한 직무집행을 방해하였습니다. 이에 법원은 피고인에게 징역 6월을 선고하였으나, 2년간 집행을 유예하고, 보호관찰, 사회봉사 120시간, 알콜치료강의 수강 40시간을 명령하였습니다.",
+        "originwordCnt": "201",
+        "labelwordCnt": "34"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "154719",
+        "caseName": "병역법위반",
+        "caseNum": "71도2379",
+        "sentenceDate": "1972.01.31",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "병역법 제104조 제3항이 적용되기 위한 조건은 무엇인가요?",
+        "output": "구 병역법 제104조 제3항은 지원에 의한 군 입대의 경우 병적에 편입된 후 정당한 사유 없이 입영명령에 위반한 경우에 처벌이 가능합니다. 따라서 병적에 편입되지 않은 상태에서의 명령 불응은 해당 조항의 처벌 대상이 되지 않습니다.",
+        "originwordCnt": "44",
+        "labelwordCnt": "33"
+    }
+}

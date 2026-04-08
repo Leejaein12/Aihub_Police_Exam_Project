@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318960",
+        "caseName": "준사기",
+        "caseNum": "2024고정41",
+        "sentenceDate": "2024.05.31",
+        "courtName": "수원지방법원 안산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "정보통신망에서 옷 가게를 운영하는 피고인은 피해자 B의 등록 상표를 도용한 옷 10벌과 피해자 E의 등록 상표를 도용한 옷 2벌을 판매하여 총 185만여 원어치의 상표권을 침해한 사실이 인정됩니다. 이에 따라 피고인은 2백만 원의 벌금에 처해졌습니다.",
+        "originwordCnt": "273",
+        "labelwordCnt": "34"
+    }
+}

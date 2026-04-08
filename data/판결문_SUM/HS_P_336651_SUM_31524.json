@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336651",
+        "caseName": "폭행",
+        "caseNum": "2023고정1072",
+        "sentenceDate": "2023.10.19",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "직장 동료인 피해자와 시비가 붙은 후 피해자의 머플러를 잡아당겨 폭행한 혐의로 기소되었습니다. 법원은 피고인이 자신의 잘못을 인정하고 반성한 점, 폭행 정도가 경미하며 초범인 점을 고려하여 벌금 300,000원을 선고하였으며, 1년간 집행을 유예하였습니다.",
+        "originwordCnt": "238",
+        "labelwordCnt": "31"
+    }
+}

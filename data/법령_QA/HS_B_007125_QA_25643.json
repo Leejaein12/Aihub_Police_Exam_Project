@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "007125",
+        "promulgDate": "20220207",
+        "effectDate": "20220207",
+        "promulgNum": "01022",
+        "title": "마약류보상금 지급규칙",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "마약류보상금지급심의위원회가 심의하는 사항은 어떤 것들이 있습니까?",
+        "output": "마약류보상금 지급규칙 제7조 제1호에서 제3호까지 명시된 바와 같이, 마약류보상금지급심의위원회는 다음 사항을 심의합니다.1. 보상금지급신청인의 자격2. 보상금지급액3. 기타 보상금지급에 관한 사항",
+        "originwordCnt": "16",
+        "labelwordCnt": "22"
+    }
+}

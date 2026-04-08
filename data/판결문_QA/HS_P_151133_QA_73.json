@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "151133",
+        "caseName": "특정범죄처벌에관한임시특례법위반",
+        "caseNum": "63도67",
+        "sentenceDate": "1963.04.11",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "구 국방경비법 제107조에 따라 국방부장관이 이미 확정된 판결을 부인할 수 있나요?",
+        "output": "구 국방경비법 제107조에 따르면, 국방부장관이 확인관으로서 이미 확정된 판결을 부인할 수 없습니다. 판결이 확정된 후에는 국방부장관의 확인조치가 아무런 효력이 없으며, 이와 같은 부인조치는 무효로 간주됩니다.",
+        "originwordCnt": "608",
+        "labelwordCnt": "25"
+    }
+}

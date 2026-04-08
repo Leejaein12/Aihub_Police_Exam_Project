@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311264",
+        "caseName": "사기",
+        "caseNum": "2023고정70",
+        "sentenceDate": "2024.01.18",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "유리 공급 계약을 체결한 후 대금을 받은 피고인은 해당 대금을 기존 미수금 변제에 사용할 의도로 피해자에게 유리를 공급하지 않았습니다. 법원은 피고인이 유리 공급 의사 없이 피해자를 기망하여 대금을 받은 점을 인정하고, 형법 제347조 제1항에 따라 사기죄로 벌금 500만 원을 선고하였습니다.",
+        "originwordCnt": "641",
+        "labelwordCnt": "40"
+    }
+}

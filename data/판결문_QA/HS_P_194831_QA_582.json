@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "194831",
+        "caseName": "재물손괴·건조물침입",
+        "caseNum": "2016노2014",
+        "sentenceDate": "2017.06.15",
+        "courtName": "서울동부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인의 아파트 진입이 자력구제에 해당하지 않는 이유는 무엇인가요?",
+        "output": "피고인이 아파트에 진입할 당시 이미 출입문의 잠금 장치가 교체되어 조합의 점유가 확립된 상태였기 때문에, 피고인의 행위는 점유권 침해의 현장성 내지 추적가능성이 없어서 민법이 정한 자력구제에 해당하지 않습니다.",
+        "originwordCnt": "244",
+        "labelwordCnt": "27"
+    }
+}

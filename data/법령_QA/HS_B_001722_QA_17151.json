@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001722",
+        "promulgDate": "20240102",
+        "effectDate": "20240102",
+        "promulgNum": "19922",
+        "title": "정당법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제29조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "정당의 재정을 확인하고 검사하기 위한 중앙당의 기관은 무엇인가요?",
+        "output": "중앙당은 정당의 예산과 결산 및 그 내역에 관한 회계검사 등 정당의 재정에 관한 사항을 확인하고 검사하기 위하여 예산결산위원회를 두어야 합니다. 이는 정당법 제29조 제2항에 규정되어 있습니다.",
+        "originwordCnt": "54",
+        "labelwordCnt": "26"
+    }
+}

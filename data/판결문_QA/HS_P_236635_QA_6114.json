@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "236635",
+        "caseName": "변호사법위반등피고사건",
+        "caseNum": "76노1391",
+        "sentenceDate": "1977.06.10",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "변호사법 제48조는 어떤 상황에서 적용되나요?",
+        "output": "변호사법 제48조는 중재 등을 미끼로 금품이나 이익을 받거나 받기로 약속한 자를 처벌하는 데 그 취지가 있습니다. 그러나 본 사건에서는 피고인이 간통사건의 화해중재가 이미 끝난 후 수고비와 사례비를 받은 것이므로 해당 법조항을 적용하여 처벌할 수 없습니다.",
+        "originwordCnt": "48",
+        "labelwordCnt": "35"
+    }
+}

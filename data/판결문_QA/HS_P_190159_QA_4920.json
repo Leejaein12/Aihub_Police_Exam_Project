@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "190159",
+        "caseName": "강도상해피고사건",
+        "caseNum": "79노114",
+        "sentenceDate": "1979.06.21",
+        "courtName": "광주고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "범행 당시 심신미약 상태에 있었음을 인정할 수 있는 사례는 어떤 경우인가요?",
+        "output": "범행 당시 술에 취해 사물을 변별할 능력이 미약한 상태였다고 인정되는 경우, 이는 형법 제10조에 따른 심신미약으로 간주되며, 이를 간과한 1심 판결은 사실을 오인하여 판결에 영향을 미친 것으로 봐야 합니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "29"
+    }
+}

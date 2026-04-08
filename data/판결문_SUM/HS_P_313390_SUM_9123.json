@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313390",
+        "caseName": "모욕",
+        "caseNum": "2023고단4100",
+        "sentenceDate": "2023.12.20",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "5일간 피해자에 대해 모욕적인 내용을 SNS로 여러 차례 발송한 혐의로 기소되었습니다. 피해자를 지칭하며 성적인 내용을 포함한 모욕적인 메시지를 피해자의 지인들에게 전송하였습니다. 법원은 이러한 행위가 형법 제311조에 따른 모욕죄에 해당한다고 판단하여 벌금 200만 원을 선고하였습니다.",
+        "originwordCnt": "271",
+        "labelwordCnt": "34"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014170",
+        "promulgDate": "20240220",
+        "effectDate": "20240220",
+        "promulgNum": "20314",
+        "title": "고향사랑 기부금에 관한 법률",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "지방자치단체는 고향사랑 기부금을 효율적으로 관리하고 운용하기 위해 무엇을 설치해야 하나요?",
+        "output": "고향사랑 기부금에 관한 법률 제11조 제1항에 따르면, 모금ㆍ접수한 고향사랑 기부금의 효율적인 관리ㆍ운용을 위하여 기금을 설치하여야 합니다.",
+        "originwordCnt": "163",
+        "labelwordCnt": "16"
+    }
+}

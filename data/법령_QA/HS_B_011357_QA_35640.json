@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011357",
+        "promulgDate": "20230314",
+        "effectDate": "20240315",
+        "promulgNum": "19234",
+        "title": "개인정보 보호법",
+        "ministry": "개인정보보호위원회",
+        "fullText": "N",
+        "smClass": "제36조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "개인정보처리자는 정보주체의 요구가 법령에 따라 삭제가 불가능한 경우 어떻게 해야 합니까?",
+        "output": "개인정보처리자는 정보주체의 요구가 법령에 따라 삭제가 불가능한 경우 지체 없이 그 내용을 정보주체에게 알려야 합니다. 개인정보 보호법 제36조 제4항에 규정되어 있습니다.",
+        "originwordCnt": "138",
+        "labelwordCnt": "21"
+    }
+}

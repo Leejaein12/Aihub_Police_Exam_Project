@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155524",
+        "caseName": "외국환관리법위반",
+        "caseNum": "70도883",
+        "sentenceDate": "1970.06.30",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "선고유예를 할 수 있는 형에 주형과 부가형이 포함되는지 궁금합니다.",
+        "output": "형법 제59조에 따르면, 선고유예를 할 수 있는 형에는 주형과 부가형이 포함되며, 이는 형을 병과하는 경우를 제외한 모든 경우에 해당됩니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "19"
+    }
+}

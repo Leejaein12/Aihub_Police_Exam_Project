@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제108조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "병영이나 군사용 청사에 있는 피고인은 어떻게 소환하나요?",
+        "output": "병영이나 그 밖의 군사용 청사 또는 함선에 있는 피고인은 그 병영, 청사 또는 함선의 장이나 그를 대리하는 사람에게 통지하여 소환합니다. 군사법원법 제108조 제4항에 근거하고 있습니다.",
+        "originwordCnt": "90",
+        "labelwordCnt": "25"
+    }
+}

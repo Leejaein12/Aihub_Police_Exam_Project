@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312801",
+        "caseName": "강제추행등",
+        "caseNum": "2024도3054",
+        "sentenceDate": "2024.05.09",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "강제추행 및 절도 혐의로 기소되었으며, 원심은 공소사실을 유죄로 판단하였습니다. 또한, 피고인의 심신미약을 이유로 법률상 감경을 실시하였습니다. 원심의 판단은 논리와 경험의 법칙을 준수하였고, 심신미약에 관한 법리를 오해한 부분이 없음을 확인하였습니다. 따라서 상고는 기각되었습니다.",
+        "originwordCnt": "121",
+        "labelwordCnt": "32"
+    }
+}

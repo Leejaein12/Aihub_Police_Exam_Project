@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000994",
+        "promulgDate": "20221115",
+        "effectDate": "20230516",
+        "promulgNum": "19028",
+        "title": "온천법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "온천법에 따른 굴착허가를 신청할 때 첨부해야 하는 서류는 무엇입니까?",
+        "output": "온천법 제12조 제3항에 따르면, 굴착허가를 신청할 때에는 그 토지에 온천이 부존되어 있을 가능성을 확인할 수 있도록 온천전문검사기관의 조사를 실시하고 그 결과보고서를 첨부하여야 합니다.",
+        "originwordCnt": "290",
+        "labelwordCnt": "23"
+    }
+}

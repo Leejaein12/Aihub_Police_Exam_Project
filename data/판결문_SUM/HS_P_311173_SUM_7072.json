@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311173",
+        "caseName": "사기",
+        "caseNum": "2023노3093",
+        "sentenceDate": "2024.01.24",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "항소심에서 형이 너무 무겁다는 주장과 형이 너무 가볍다는 주장이 있었습니다. 원심에서는 유사한 방식으로 범행이 이루어진 점, 상대방 수가 많고 피해 복구가 전혀 이루어지지 않은 점을 불리한 요소로 고려하였습니다. 반면, 판결이 확정된 다른 사건과의 형평성 등을 유리한 요소로 참작하였습니다. 따라서 항소는 모두 기각하였습니다.",
+        "originwordCnt": "735",
+        "labelwordCnt": "42"
+    }
+}

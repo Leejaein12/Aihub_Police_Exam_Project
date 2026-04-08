@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310089",
+        "caseName": "도로교통법위반(음주측정거부)",
+        "caseNum": "2024고정23",
+        "sentenceDate": "2024.04.18",
+        "courtName": "광주지방법원 순천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "각각 피해자 E에 대한 명예훼손, 주거침입, 모욕죄로 기소되었습니다. 피고인 B는 피해자의 주거지에 침입하고 모욕하였으며, 피고인 A는 공공장소에서 피해자를 모욕하였으며, 피고인 C도 같은 장소에서 피해자를 모욕하였습니다. 법원은 피고인 A에게 벌금 100만 원, 피고인 B에게 300만 원, 피고인 C에게 50만 원을 부과하였습니다.",
+        "originwordCnt": "381",
+        "labelwordCnt": "40"
+    }
+}

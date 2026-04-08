@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "305573",
+        "caseName": "도로교통법위반",
+        "caseNum": "2017고정1603",
+        "sentenceDate": "2017. 10. 30.",
+        "courtName": "서울북부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사거리에서 우회전 하려고 하였는데 직진차량인 앞 차량이 비켜주지 않는다는 이유로 약 35초간 경음기를 연속하여 울렸습니다. 이에 재판부는 피고인이 정당한 사유없이 경음기를 울리는 행위로 다른 사람에게 위협 또는 위해를 가하거나 교통상의 위험을 발생하게 하였다고 보았습니다. 따라서 피고인에게 벌금 30만원을 선고하였습니다.",
+        "originwordCnt": "210",
+        "labelwordCnt": "39"
+    }
+}

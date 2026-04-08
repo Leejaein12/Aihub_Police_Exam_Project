@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "205514",
+        "caseName": "병역법위반",
+        "caseNum": "2013고단845",
+        "sentenceDate": "2014.02.12",
+        "courtName": "창원지방법원통영지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법원이 피고인에게 징역형을 선고하면서 법정 구속을 하지 않은 이유는 무엇인가요?",
+        "output": "법원은 피고인이 불구속 상태에서 재판받기를 원하고, 증거인멸이나 도주의 우려가 없는 점을 고려하여 법정 구속을 하지 않았습니다. 이에 따라 피고인은 징역 1년 6월의 형을 선고받았지만, 법정 구속은 면했습니다.",
+        "originwordCnt": "259",
+        "labelwordCnt": "27"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317709",
+        "caseName": "특정범죄가중처벌등에관한법률위반(도주치상)",
+        "caseNum": "2023고단1343",
+        "sentenceDate": "2023.12.13",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.158% 상태로 약 7km 구간에서 승용차를 운전한 혐의로 기소되었으며, 이전에도 동종 범죄로 처벌받은 전력이 있음에도 불구하고 다시 음주운전을 저질렀습니다. 법원은 피고인의 범행을 인정한 점과 과거 전력을 고려하여 징역 1년의 실형을 선고했습니다.",
+        "originwordCnt": "159",
+        "labelwordCnt": "32"
+    }
+}

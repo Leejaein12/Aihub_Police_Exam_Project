@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001719",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "국가공무원법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제28조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국회, 법원, 행정부 상호 간에 다른 기관 소속 공무원을 전입할 수 있습니까?",
+        "output": "국가공무원법 제28조의2에 따르면 국회, 법원, 헌법재판소, 선거관리위원회 및 행정부 상호 간에 다른 기관 소속 공무원을 전입하려는 때에는 시험을 거쳐 임용하여야 합니다.",
+        "originwordCnt": "41",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001499",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19752",
+        "title": "사료관리법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제20조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사료시험검사기관 지정의 유효기간은 어떻게 되며, 연장하려면 어떻게 해야 하나요?",
+        "output": "사료관리법 제20조의2 제4항에 따르면, 사료시험검사기관 지정의 유효기간은 지정받은 날부터 3년이며, 유효기간이 만료되기 2개월 전까지 다시 지정을 신청해야 합니다.",
+        "originwordCnt": "105",
+        "labelwordCnt": "18"
+    }
+}

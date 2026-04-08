@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314771",
+        "caseName": "사기",
+        "caseNum": "2024노7",
+        "sentenceDate": "2024.03.29",
+        "courtName": "창원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "변제 의사나 능력 없이 금전을 차용하여 사기죄를 범하였으며, 피해자들이 일관되게 피해사실을 진술하고 피고인이 변제한 객관적인 증빙자료도 제출하지 못한 점 등을 종합하여 원심의 유죄 판단이 정당하다고 인정되었습니다. 항소 이유로 주장한 양형 부당도 원심의 양형이 재량의 범위를 벗어나지 않아 받아들여지지 않았습니다. 따라서 항소는 기각되었습니다.",
+        "originwordCnt": "751",
+        "labelwordCnt": "42"
+    }
+}

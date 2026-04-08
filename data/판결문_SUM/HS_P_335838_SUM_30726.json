@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335838",
+        "caseName": "특정범죄가중처벌등에관한법률위반(위험운전치상)등",
+        "caseNum": "2024고단977",
+        "sentenceDate": "2024.06.27",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주운전 중 교통사고를 일으켜 피해자에게 상해를 입힌 혐의로 기소되었으며, 법원은 징역 1년에 집행유예 2년을 선고하였습니다. 피고인은 혈중알코올농도 0.125% 상태에서 적색 신호를 위반하여 피해 차량과 충돌하였고, 이로 인해 피해자는 약 2주간의 치료를 요하는 상해를 입었습니다.",
+        "originwordCnt": "572",
+        "labelwordCnt": "34"
+    }
+}

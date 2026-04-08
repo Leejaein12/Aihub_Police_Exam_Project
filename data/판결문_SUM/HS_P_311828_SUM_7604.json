@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311828",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고정521",
+        "sentenceDate": "2024.08.14",
+        "courtName": "수원지방법원 안산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2024년 4월 8일에 혈중알코올농도 0.189%로 음주운전을 하여 도로교통법을 위반한 사실이 확인되었습니다. 이전에 2018년에도 같은 범죄로 벌금형이 확정된 이력이 있습니다. 이에 따라 법원은 벌금을 부과하고, 해당 벌금에 상당한 금액의 가납을 명하는 결정을 내렸습니다.",
+        "originwordCnt": "180",
+        "labelwordCnt": "32"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311958",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단3401",
+        "sentenceDate": "2023.08.10",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.255%의 만취 상태에서 약 7km 구간을 음주운전한 사실이 인정되었습니다. 법원은 도로교통법을 적용하여 피고인에게 벌금 1,500만 원을 선고하였으며, 피고인이 벌금을 납부하지 않을 경우 1일당 10만 원씩 노역장에 유치할 것을 명령하였습니다.",
+        "originwordCnt": "132",
+        "labelwordCnt": "30"
+    }
+}

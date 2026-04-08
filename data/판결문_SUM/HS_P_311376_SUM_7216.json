@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311376",
+        "caseName": "폭행치상",
+        "caseNum": "2024고단381",
+        "sentenceDate": "2024.06.20",
+        "courtName": "대전지방법원 서산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "말다툼 도중 피고인은 피해자의 목을 졸라 차량을 향해 밀치고 주먹으로 얼굴을 가격하며 머리채를 잡아 넘어뜨리는 등 폭행하여 피해자에게 늑골 골절 등 상해를 입혔습니다. 이에 대해 법원은 피고인에게 징역 6개월을 선고하였으나, 2년간의 집행유예를 허가하고 80시간의 사회봉사 및 40시간의 폭력치료강의 수강을 명하였습니다",
+        "originwordCnt": "253",
+        "labelwordCnt": "40"
+    }
+}

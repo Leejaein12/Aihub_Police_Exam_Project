@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "308052",
+        "caseName": "상해",
+        "caseNum": "2020고정87",
+        "sentenceDate": "2020. 7. 17.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피고인 A와 B는 공모하여 피해자를 협박하고 2,500만 원의 지불각서를 강제로 작성하게 한 혐의로 기소되었습니다. A는 추가로 피해자의 뺨을 때려 상해를 입힌 혐의도 있습니다. 피해자와 A의 배우자가 간통한 사실을 알게 된 A가 B와 함께 피해자를 협박하여 발생한 것입니다. 법원은 A에게 벌금 300만 원, B에게 벌금 60만 원을 각각 선고하였습니다.",
+        "originwordCnt": "372",
+        "labelwordCnt": "48"
+    }
+}

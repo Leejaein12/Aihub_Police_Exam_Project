@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "94192",
+        "caseName": "문화재보호법위반",
+        "caseNum": "77도3062",
+        "sentenceDate": "1979.02.13",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "일부가 땅속에 묻힌 장군석을 발굴한 경우 매장문화재 발굴죄가 성립할 수 있나요?",
+        "output": "문화재보호법 제61조에 따른 매장문화재는 땅속에 묻혀 감추어진 문화재를 의미합니다. 장군석이 일부만 묻힌 채 쓰러져 있었다면 매장된 것으로 볼 수 없으므로 매장문화재 발굴죄의 대상이 되지 않습니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "25"
+    }
+}

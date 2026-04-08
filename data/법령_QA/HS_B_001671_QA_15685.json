@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제248조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "범죄사실의 일부에 대한 공소의 효력은 어떻게 적용됩니까?",
+        "output": "형사소송법 제248조제2항에 따르면 범죄 사실의 일부에 대한 공소의 효력은 범죄사실 전부에 미칩니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "12"
+    }
+}

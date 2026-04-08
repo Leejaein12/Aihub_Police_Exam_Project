@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제238조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "체포된 피의자에 대하여 구속영장을 청구받은 경우 언제까지 심문하여야 하나요?",
+        "output": "군사법원법 제238조의2 제1항에 따르면, 군사법원 군판사는 체포된 피의자에 대하여 구속영장을 청구받은 경우 특별한 사정이 없으면 구속영장이 청구된 날의 다음 날까지 심문하여야 합니다.",
+        "originwordCnt": "256",
+        "labelwordCnt": "22"
+    }
+}

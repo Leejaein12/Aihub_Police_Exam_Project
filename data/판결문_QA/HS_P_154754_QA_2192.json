@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "154754",
+        "caseName": "병역법위반",
+        "caseNum": "71도1891",
+        "sentenceDate": "1972.01.31",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "군무이탈자가 병적이 말소된 경우, 해당자는 군법의 적용을 받지 않게 되나요?",
+        "output": "군무이탈자가 국방부령 제5조에 따라 병적이 말소된 경우, 해당자는 군법의 적용을 받지 않으며, 이로 인해 징병검사 대상자로 책정될 수 있습니다",
+        "originwordCnt": "40",
+        "labelwordCnt": "19"
+    }
+}

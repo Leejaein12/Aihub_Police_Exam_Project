@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001739",
+        "promulgDate": "20230725",
+        "effectDate": "20240126",
+        "promulgNum": "19573",
+        "title": "선박직원법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "선박소유자는 선박직원의 승무기준에 맞춰 어떤 조치를 해야 합니까?",
+        "output": "선박직원법 제11조 제1항에 따르면, 선박소유자는 선박의 항행구역, 크기, 용도 및 추진기관의 출력과 그 밖에 선박 항행의 안전에 관한 사항을 고려하여 대통령령으로 정하는 승무기준에 맞는 해기사를 승무시켜야 합니다.",
+        "originwordCnt": "173",
+        "labelwordCnt": "27"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010965",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "수산자원관리법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "해양수산부장관이 기본계획을 세우거나 변경한 후 해야 할 조치는 무엇인가요?",
+        "output": "수산자원관리법 제7조 제4항에 따르면, 해양수산부장관은 기본계획을 세우거나 변경하면 시ㆍ도지사에게 통보하고, 그 내용을 공고하여야 하며 이를 지체 없이 국회 소관 상임위원회에 제출하여야 합니다.",
+        "originwordCnt": "165",
+        "labelwordCnt": "22"
+    }
+}

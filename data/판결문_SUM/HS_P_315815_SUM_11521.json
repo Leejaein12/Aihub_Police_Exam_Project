@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315815",
+        "caseName": "사기등",
+        "caseNum": "2022고단2710",
+        "sentenceDate": "2023.08.17",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "택배기사로 일하던 중 배송 중이던 아이폰을 절취하고, 길에서 습득한 다른 아이폰을 반환하지 않고 횡령한 혐의로 기소되었습니다. 법원은 절도 및 점유이탈물횡령의 범죄를 저질렀으며, 피해 회복이 이루어지지 않고 불법체류자로서 도주 중인 점 등을 고려해, 형법 제329조 및 제360조 제1항에 따라 징역 1년을 선고하였습니다.",
+        "originwordCnt": "275",
+        "labelwordCnt": "41"
+    }
+}

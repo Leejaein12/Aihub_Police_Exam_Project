@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "218661",
+        "caseName": "여객자동차운수사업법위반",
+        "caseNum": "2011고단106",
+        "sentenceDate": "2011.09.29",
+        "courtName": "제주지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인들이 신고된 대여약관을 이행하지 않고 낮은 요금으로 자동차 대여계약을 체결한 행위는 어떤 법조항에 해당하나요?",
+        "output": "피고인들이 신고된 대여약관을 이행하지 않고 낮은 요금으로 자동차 대여계약을 체결한 행위는 여객자동차 운수사업법 제92조 제9호, 제31조 제1항에 해당하는 위반행위로 처벌받습니다.",
+        "originwordCnt": "1966",
+        "labelwordCnt": "20"
+    }
+}

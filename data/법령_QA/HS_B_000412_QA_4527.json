@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000412",
+        "promulgDate": "20230620",
+        "effectDate": "20240427",
+        "promulgNum": "19486",
+        "title": "동물보호법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제45조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "등록대상동물의 기증이나 분양 전에 확인해야 할 사항은 무엇인가요?",
+        "output": "동물보호법 제45조 제2항에 따르면, 시ㆍ도지사와 시장ㆍ군수ㆍ구청장은 기증하거나 분양하는 동물이 등록대상동물인 경우, 등록 여부를 확인하고, 등록이 되어 있지 않다면 등록한 후에 기증하거나 분양해야 합니다.",
+        "originwordCnt": "96",
+        "labelwordCnt": "23"
+    }
+}

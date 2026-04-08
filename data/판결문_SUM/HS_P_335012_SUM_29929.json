@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335012",
+        "caseName": "업무방해등",
+        "caseNum": "2023고정113",
+        "sentenceDate": "2023.06.15",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사실혼 관계에서 헤어진 후에도 지속적으로 피해자에게 문자메시지를 전송하여 불안감 또는 공포심을 유발하였습니다. 그러나 피해자가 공소 제기 후 처벌을 원하지 않겠다는 의사를 철회하였기에, 스토킹범죄의 처벌 등에 관한 법률 제18조에 따라 공소를 기각하였습니다.",
+        "originwordCnt": "175",
+        "labelwordCnt": "31"
+    }
+}

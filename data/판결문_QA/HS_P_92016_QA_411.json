@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "92016",
+        "caseName": "위증",
+        "caseNum": "73도1639",
+        "sentenceDate": "1973.11.27",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "위증죄를 범한 자가 자백을 한 경우, 자백의 절차에 제한이 있나요?",
+        "output": "형법 제153조에 따르면 위증죄를 범한 자가 재판 확정 전에 자백을 한 경우, 자백의 절차에 제한이 없습니다. 공술한 사건을 다루는 기관에 대한 자발적인 고백은 물론, 법원이나 수사기관에서의 심문에 의한 고백도 자백의 개념에 포함되어 형의 감면 사유로 인정됩니다.",
+        "originwordCnt": "55",
+        "labelwordCnt": "36"
+    }
+}

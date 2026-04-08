@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001113",
+        "promulgDate": "20210105",
+        "effectDate": "20210105",
+        "promulgNum": "17825",
+        "title": "국제형사사법 공조법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제26조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공조요청서를 받은 법원이 해당 사항이 자신의 관할이 아닌 경우에 어떤 조치를 취하나요?",
+        "output": "국제형사사법 공조법 제 26조에 따르면, 공조요청서를 받은 법원이 해당 사항이 자신의 관할이 아닌 경우, 결정으로 공조요청서를 관할 법원에 이송하고, 그 사실을 법원행정처장에게 통지하여야 합니다",
+        "originwordCnt": "21",
+        "labelwordCnt": "24"
+    }
+}

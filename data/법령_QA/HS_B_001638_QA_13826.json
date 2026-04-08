@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001638",
+        "promulgDate": "20230418",
+        "effectDate": "20240101",
+        "promulgNum": "19357",
+        "title": "도로교통법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제34조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "노상주차장에 차량을 주차할 때 지켜야 할 사항은 무엇인가요?",
+        "output": "도로교통법 제34조에 따르면 도로 또는 노상주차장에 정차하거나 주차하려고 하는 차의 운전자는 차를 차도의 우측 가장자리에 정차하는 등 대통령령으로 정하는 정차 또는 주차의 방법ㆍ시간과 금지사항 등을 지켜야 합니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "27"
+    }
+}

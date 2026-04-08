@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001872",
+        "promulgDate": "20210518",
+        "effectDate": "20211119",
+        "promulgNum": "18176",
+        "title": "근로기준법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제65조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "임산부가 아닌 18세 여성을 임신 또는 출산에 관한 기능에 유해한 사업에 근로자로 사용할 수 있나요?",
+        "output": "근로기준법 제65조 제2항에 따르면, 사용자는 임산부가 아닌 18세 이상의 여성을 제1항에 따른 보건상 유해ㆍ위험한 사업 중 임신 또는 출산에 관한 기능에 유해ㆍ위험한 사업에 사용하지 못합니다.",
+        "originwordCnt": "53",
+        "labelwordCnt": "25"
+    }
+}

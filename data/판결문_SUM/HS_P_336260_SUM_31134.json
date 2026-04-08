@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336260",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단1460",
+        "sentenceDate": "2023.08.25",
+        "courtName": "부산지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.12% 상태로 약 1km 구간을 화물차로 운전하여 도로교통법을 위반한 혐의로 기소되었습니다. 피고인은 과거에도 음주운전으로 처벌받은 전력이 있으나, 자백과 가족관계 등 유리한 정상 사유가 참작되었습니다. 법원은 피고인에게 징역 1년에 집행유예 2년, 준법 운전 강의 80시간 수강을 명했습니다.",
+        "originwordCnt": "223",
+        "labelwordCnt": "37"
+    }
+}

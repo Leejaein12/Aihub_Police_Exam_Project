@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001677",
+        "promulgDate": "20160106",
+        "effectDate": "20170707",
+        "promulgNum": "13722",
+        "title": "국가보안법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "반국가단체의 지배하에 있는 지역으로 잠입하려고 예비하거나 음모를 하는 경우 어떤 형벌을 받게 되나요?",
+        "output": "국가보안법 제6조 제5항에 따르면, 반국가단체의 지배하에 있는 지역으로 잠입하려는 목적을 가지고 예비하거나 음모한 자는 7년 이하의 징역에 처해집니다.",
+        "originwordCnt": "83",
+        "labelwordCnt": "18"
+    }
+}

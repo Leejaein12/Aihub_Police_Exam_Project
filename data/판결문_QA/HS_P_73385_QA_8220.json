@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "73385",
+        "caseName": "강도상해,강도살인,사기피고사건",
+        "caseNum": "73노689",
+        "sentenceDate": "1973.09.27",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공무집행방해죄와 공무집행을 방해당한 경찰관에 대한 상해죄는 어떤 관계인가요?",
+        "output": "형법 제40조, 제136조, 제257조에 따르면, 공무집행방해죄와 그 공무집행을 방해당한 경찰관에 대한 상해죄는 상상적 경합 관계에 있습니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "16"
+    }
+}

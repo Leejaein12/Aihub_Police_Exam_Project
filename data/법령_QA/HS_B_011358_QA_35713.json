@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011358",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19590",
+        "title": "공익신고자 보호법",
+        "ministry": "국민권익위원회",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "위원회는 공익신고자의 신고 사항에 대한 진위여부를 확인하는데 추가자료가 필요하다면 요청할 수 있습니까?",
+        "output": "공익신고자 보호법 제9조 제2항에 따르면 위원회는 동조 제1항의 사항에 대한 진위여부를 확인하는 데 필요한 범위에서 공익신고자에게 필요한 자료의 제출을 요구할 수 있습니다.",
+        "originwordCnt": "276",
+        "labelwordCnt": "22"
+    }
+}

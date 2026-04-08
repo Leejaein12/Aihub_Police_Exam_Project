@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011584",
+        "promulgDate": "20230111",
+        "effectDate": "20230111",
+        "promulgNum": "01108",
+        "title": "군검찰 압수물 사무규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제39조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군검사는 국가보안법 위반사건의 몰수물에 대해 어떻게 해야 하나요?",
+        "output": "군검사는 국가보안법 위반사건의 몰수물에 관하여는 몰수금품 등 처리에 관한 임시특례법 시행령 별지 제1호서식에 따라 국가정보원장에게 통보해야 합니다. 근거 조문은 군검찰 압수물 사무규칙 제39조 제1항입니다.",
+        "originwordCnt": "55",
+        "labelwordCnt": "24"
+    }
+}

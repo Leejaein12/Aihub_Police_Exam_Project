@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001514",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19746",
+        "title": "농약관리법",
+        "ministry": "농림축산식품부,농촌진흥청",
+        "fullText": "N",
+        "smClass": "제25조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "농약이나 원제의 관리에 관해 보고할 수 있는 권한은 누구에게 있나요?",
+        "output": "농약관리법 제25조 제1항에 따르면 농림축산식품부장관, 농촌진흥청장 또는 시장ㆍ군수ㆍ구청장은 제조업자등 또는 수출입식물방제업자등에게 농약등 또는 원제의 관리에 관한 사항을 보고하게 할 수 있습니다.",
+        "originwordCnt": "52",
+        "labelwordCnt": "21"
+    }
+}

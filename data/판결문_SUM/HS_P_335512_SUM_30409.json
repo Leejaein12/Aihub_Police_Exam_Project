@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335512",
+        "caseName": "절도",
+        "caseNum": "2023고단4518",
+        "sentenceDate": "2023.11.23",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "절도죄로 여러 차례 처벌받은 전력이 있으며, 출소 후 다시 절도 범행을 저질렀습니다. 피고인은 피해자 B와 D의 오토바이를 절취하였습니다. 법원은 피고인이 동종 누범 기간 중 재범한 점, 반성하고 있으나 피해자와 형사 합의를 이루지 못한 점, 경제적 어려움에서 범행을 저지른 점 등을 고려하여 피고인에게 징역 1년 2월을 선고했습니다.",
+        "originwordCnt": "406",
+        "labelwordCnt": "46"
+    }
+}

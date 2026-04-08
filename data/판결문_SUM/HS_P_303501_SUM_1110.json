@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "303501",
+        "caseName": "위계공무집행방해",
+        "caseNum": "2020고단2756",
+        "sentenceDate": "2020. 8. 25.",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "한국어능력시험에서 대리응시를 계획하여 공모하였고, 피고인 C는 피고인 A의 신분증을 제시하여 시험을 응시하였습니다. 이로 인해 공무원의 직무집행을 방해하고 공문서를 부정행사한 것으로 판단되었습니다. 범행의 죄질이 나쁘지만, 피고인들은 반성하고 있으며, 피고인 C는 초범인 점이 고려되어 각 징역 4월에 처하되, 형의 집행은 1년간 유예되었습니다.",
+        "originwordCnt": "828",
+        "labelwordCnt": "40"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001777",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "노인복지법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제39조의17",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "점검ㆍ확인을 위해 관할행정기관의 장이 필요한 경우 어떤 요구를 할 수 있나요?",
+        "output": "노인복지법 제39조의17 제7항에 따르면, 관할행정기관의 장은 제6항에 따른 점검ㆍ확인을 위해 필요한 경우 노인관련기관의 장에게 관련 자료의 제출을 요구할 수 있습니다.",
+        "originwordCnt": "504",
+        "labelwordCnt": "20"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93136",
+        "caseName": "이의신청각하결정에대한즉시항고",
+        "caseNum": "76모51",
+        "sentenceDate": "1976.09.18",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "항소기각판결에 의한 형의 집행지휘처분에 대한 이의신청은 어느 법원에 해야 하나요?",
+        "output": "항소기각판결에 의해 형의 집행이 지휘된 경우, 형의 집행지휘처분에 대한 이의신청은 해당 판결을 선고한 제1심 법원에 해야 합니다. 따라서 항소심 판결의 미결구금일수 통산에 대한 이의신청은 대전지방법원 강경지원에 해야 합니다.",
+        "originwordCnt": "37",
+        "labelwordCnt": "28"
+    }
+}

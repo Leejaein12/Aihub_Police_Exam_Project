@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312830",
+        "caseName": "특수감금등",
+        "caseNum": "2024고단90",
+        "sentenceDate": "2024.05.17",
+        "courtName": "대전지방법원 공주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "연인 관계에 있었으나, 피해자가 거짓말을 했다는 이유로 피해자를 모텔에 특수감금하고 협박한 후 강요하였습니다. 피고인은 피해자를 방에 감금하고 위험한 물건을 이용해 위협하며, 이후에도 협박하는 행위를 반복했습니다. 법원은 이러한 범죄의 중대성을 고려하여 피고인에게 징역 1년에 집행유예 2년과 2년간 보호관찰을 명했습니다.",
+        "originwordCnt": "579",
+        "labelwordCnt": "38"
+    }
+}

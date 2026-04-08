@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311850",
+        "caseName": "강제추행",
+        "caseNum": "2023고단228",
+        "sentenceDate": "2024.03.28",
+        "courtName": "청주지방법원 영동지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "14세 청소년에게 편의점을 안내해 달라고 요청한 후, 팔과 손목을 잡고 오른손에 깍지를 끼는 등 강제추행을 저질렀습니다. 이에 대해 법원은 과거 동종 범죄로 실형을 받은 전력이 있으나, 범행을 인정하고 반성하는 점, 14세 청소년의 부친이 처벌을 원하지 않는 점, 범행 정도가 비교적 경미한 점 등을 고려하여 벌금형을 선고하였습니다.",
+        "originwordCnt": "383",
+        "labelwordCnt": "46"
+    }
+}

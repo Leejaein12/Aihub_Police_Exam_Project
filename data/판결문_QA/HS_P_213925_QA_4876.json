@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "213925",
+        "caseName": "업무상과실치상",
+        "caseNum": "77도403",
+        "sentenceDate": "1977.06.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "고속도로에서 운전자는 도로상에 보행자가 있을 것을 예상하고 감속할 의무가 있나요?",
+        "output": "형법 제268조, 도로교통법 제47조의2, 고속국도법 제9조에 따르면, 고속국도에서는 보행자의 통행과 출입이 금지되므로, 고속도로를 주행하는 차량의 운전자는 도로상에 보행자가 있을 것을 예상하여 감속할 주의의무가 없습니다.",
+        "originwordCnt": "33",
+        "labelwordCnt": "24"
+    }
+}

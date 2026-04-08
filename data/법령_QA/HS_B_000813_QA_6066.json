@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000813",
+        "promulgDate": "20230808",
+        "effectDate": "20230808",
+        "promulgNum": "19592",
+        "title": "경륜ㆍ경정법",
+        "ministry": "문화체육관광부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "경주에 사용하는 자전거와 모터보트의 종류, 규격, 검사 등은 어떻게 정해지나요?",
+        "output": "경주에 사용하는 자전거 및 모터보트의 종류, 규격, 용구, 검사 및 등록 등에 필요한 사항은 문화체육관광부령으로 정합니다. 경륜ㆍ경정법 제7조 제4항에 규정되어 있습니다.",
+        "originwordCnt": "135",
+        "labelwordCnt": "21"
+    }
+}

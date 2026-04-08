@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011187",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19743",
+        "title": "성폭력범죄의 처벌 등에 관한 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제40조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법원은 19세미만 성폭력범죄 피해자는 변호사가 출석하도록 할 수 있나요?",
+        "output": "성폭력범죄의 처벌 등에 관한 특례법 제40조의2 제4항에 따라, 법원은 제2항에 따라 지정된 공판준비기일에 19세미만 피해자의 변호사가 출석할 수 있도록 합니다.",
+        "originwordCnt": "120",
+        "labelwordCnt": "20"
+    }
+}

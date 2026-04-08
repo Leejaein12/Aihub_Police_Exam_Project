@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "213605",
+        "caseName": "보건범죄단속에관한특별조치법위반(부정의약품제조등)",
+        "caseNum": "2019고합16",
+        "sentenceDate": "2019.06.04",
+        "courtName": "의정부지방법원고양지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인의 행위가 공범과의 공모로 인정된 이유는 무엇인가요?",
+        "output": "피고인이 '다이어트한약' 제조와 판매에 대해 공범과 긴밀히 협력하며, 상담원 채용, 차명계좌 개설, 한약 재료 구매 등에서 적극적으로 관여하였기 때문에 공범과의 공모가 인정되었습니다.",
+        "originwordCnt": "1748",
+        "labelwordCnt": "22"
+    }
+}

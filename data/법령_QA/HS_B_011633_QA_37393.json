@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011633",
+        "promulgDate": "20191210",
+        "effectDate": "20200611",
+        "promulgNum": "16785",
+        "title": "식물신품종 보호법",
+        "ministry": "농림축산식품부,해양수산부",
+        "fullText": "N",
+        "smClass": "제86조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "타인의 품종보호권이나 전용실시권을 침해한 경우 과실은 어떻게 다루어집니까?",
+        "output": "식물신품종 보호법 제86조에 따르면 타인의 품종보호권이나 전용실시권을 침해한 자는 그 침해행위에 대하여 과실이 있는 것으로 추정합니다.",
+        "originwordCnt": "14",
+        "labelwordCnt": "16"
+    }
+}

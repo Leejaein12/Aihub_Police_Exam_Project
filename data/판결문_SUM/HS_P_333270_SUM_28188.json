@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333270",
+        "caseName": "횡령",
+        "caseNum": "2022고정1207",
+        "sentenceDate": "2023.07.13",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A는 금전을 보관해 달라는 부탁을 받고 1,100만 원을 수령한 후, 허락된 400만 원을 제외한 700만 원을 임의로 사용하여 횡령하였습니다. 법원은 A가 사용 승낙을 받았다는 주장을 인정하지 않고, 피해자의 진술과 증거를 바탕으로 횡령 범의를 인정했습니다. 이에 따라 A에게 벌금 200만 원을 선고하였습니다.",
+        "originwordCnt": "472",
+        "labelwordCnt": "41"
+    }
+}

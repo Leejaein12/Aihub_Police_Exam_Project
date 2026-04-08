@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002033",
+        "promulgDate": "20221227",
+        "effectDate": "20231228",
+        "promulgNum": "19138",
+        "title": "어장관리법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "해양수산부장관은 어장환경을 어떻게 조사하나요?",
+        "output": "어장관리법 제6조 제1항에 따르면, 해양수산부장관은 어장의 효율적인 이용과 보전, 어장환경 상태 및 오염원의 측정·조사를 위해 해양수산부령으로 정하는 바에 따라 어장환경조사망을 구성·운영하고 정기적으로 어장환경을 조사하여야 합니다.",
+        "originwordCnt": "66",
+        "labelwordCnt": "25"
+    }
+}

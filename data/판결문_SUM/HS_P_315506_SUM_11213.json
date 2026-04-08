@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315506",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고정838",
+        "sentenceDate": "2023.09.22",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.157% 상태에서 약 19km를 운전한 행위로 기소된 사건입니다. 법원은 피고인의 음주운전 사실이 증거로 확인되었고, 범행을 인정하며 반성하고 있는 점, 동종 전과가 없고 벌금형 이상의 처벌을 받은 적이 없는 점 등을 참작하여 도로교통법 제148조의2 제3항에 따라 벌금 500만 원을 선고하였습니다.",
+        "originwordCnt": "133",
+        "labelwordCnt": "40"
+    }
+}

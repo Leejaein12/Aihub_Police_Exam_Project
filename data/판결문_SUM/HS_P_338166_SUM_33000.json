@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "338166",
+        "caseName": "사기등",
+        "caseNum": "2022고단3090",
+        "sentenceDate": "2022.09.07.",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "해외 콜센터에서 운영되는 보이스피싱 조직의 일원으로서, 피고인은 애플 아이폰에 유심을 장착하고 VPN 기능을 작동시켜 통신을 중계하며 사기에 가담하였습니다. 이 과정에서 피해자로부터 5천만 원을 편취한 사실이 확인되었습니다. 피고인은 범행의 전체 구조를 완전히 알지 못했으나, 이 사건에 가담한 것으로 판단되어 징역 2년과 압수된 증거의 몰수가 결정되었습니다.",
+        "originwordCnt": "973",
+        "labelwordCnt": "44"
+    }
+}

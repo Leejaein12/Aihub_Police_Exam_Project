@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013478",
+        "promulgDate": "20230418",
+        "effectDate": "20230719",
+        "promulgNum": "19367",
+        "title": "건축물관리법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제51조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "건축물관리법에서 건축물관리점검을 실시하지 아니하거나 성실하게 실시하지 아니함으로써 건축물에 중대한 파손을 발생시켜 사람을 사상에 이르게 한 자는 어떤 처벌을 받나요?",
+        "output": "건축물관리법 제51조 제2항 규정에 따르면 무기 또는 1년 이상의 징역에 처합니다.",
+        "originwordCnt": "430",
+        "labelwordCnt": "11"
+    }
+}

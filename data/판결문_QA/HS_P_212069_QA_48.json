@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "212069",
+        "caseName": "살인·절도미수",
+        "caseNum": "80도3278",
+        "sentenceDate": "1981.02.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "자백의 보강증거로 간접증거도 인정될 수 있나요?",
+        "output": "형사소송법 제310조에 따르면, 자백의 보강증거는 자백사실이 진실하다고 인정할 수 있는 정도의 증거이면 되며, 직접증거뿐만 아니라 정황증거나 간접증거도 자백의 보강증거로 인정될 수 있습니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "22"
+    }
+}

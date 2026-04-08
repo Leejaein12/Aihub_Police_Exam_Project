@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001624",
+        "promulgDate": "20210924",
+        "effectDate": "20220701",
+        "promulgNum": "18465",
+        "title": "군형법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제88조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "포로를 도주시킬 목적으로 포로에게 기구를 제공하거나 그 밖에 그 도주를 용이하게 하는 행위를 한 사람에게 어떤 처벌이 부과되나요?",
+        "output": "군형법 제88조 제2항에 따르면 포로를 도주시킬 목적으로 포로에게 기구를 제공하거나 그 밖에 그 도주를 용이하게 하는 행위를 한 사람은 7년 이하의 징역에 처합니다.",
+        "originwordCnt": "32",
+        "labelwordCnt": "23"
+    }
+}

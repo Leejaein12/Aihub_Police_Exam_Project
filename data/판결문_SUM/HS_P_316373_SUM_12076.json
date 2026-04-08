@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "316373",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고정308",
+        "sentenceDate": "2024.03.20",
+        "courtName": "수원지방법원 여주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 8월 31일 혈중알코올농도 0.061%의 상태로 약 2.5km 구간을 운전하여 도로교통법을 위반한 사건입니다. 이와 관련하여 법정진술과 주취운전자 정황진술보고서가 증거로 제출되었습니다. 재판부는 도로교통법 제148조의2 제3항 제3호와 제44조 제1항을 적용하여 벌금형을 선고하였습니다.",
+        "originwordCnt": "129",
+        "labelwordCnt": "30"
+    }
+}

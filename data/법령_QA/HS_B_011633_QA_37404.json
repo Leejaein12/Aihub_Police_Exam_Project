@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011633",
+        "promulgDate": "20191210",
+        "effectDate": "20200611",
+        "promulgNum": "16785",
+        "title": "식물신품종 보호법",
+        "ministry": "농림축산식품부,해양수산부",
+        "fullText": "N",
+        "smClass": "제92조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "심판청구를 받은 심판장은 어떤 절차를 따라야 하나요?",
+        "output": "식물신품종 보호법 제92조 제4항에 따르면 심판장은 제1항의 심판청구를 받았을 때 그 취지를 해당 품종의 품종보호권자, 전용실시권자, 그 밖에 품종보호에 관하여 등록한 권리를 가진 자에게 알려야 합니다.",
+        "originwordCnt": "147",
+        "labelwordCnt": "26"
+    }
+}

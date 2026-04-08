@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000319",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "소금산업 진흥법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가나 지방자치단체는 소금의 해외 홍보와 수출을 위해 어떤 지원을 할 수 있나요?",
+        "output": "소금산업 진흥법 제12조 제4항에 따르면, 국가 또는 지방자치단체는 우리나라 소금을 해외에 홍보·수출하거나 해외시장을 개척하는 자 또는 단체 등에게 필요한 지원을 할 수 있습니다.",
+        "originwordCnt": "124",
+        "labelwordCnt": "23"
+    }
+}

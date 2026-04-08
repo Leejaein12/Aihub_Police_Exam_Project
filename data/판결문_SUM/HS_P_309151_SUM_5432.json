@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "309151",
+        "caseName": "사기",
+        "caseNum": "2014고단1582",
+        "sentenceDate": "2015. 4. 9.",
+        "courtName": "제주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사기 사건에 대한 판결에서 여러 차례 거짓말을 통해 피해자로부터 총 198,600,000원을 편취한 사실이 확인되었습니다. 재정상황이 어려운 상태에서 여러 가지 이유를 들어 돈을 빌려달라고 기망하였으며, 그로 인해 상당한 금전적 손해를 입혔습니다. 법원은 범죄 사실에 대해 각 형법 제347조 제1항을 적용하여 징역 2년에 처하였습니다.",
+        "originwordCnt": "438",
+        "labelwordCnt": "42"
+    }
+}

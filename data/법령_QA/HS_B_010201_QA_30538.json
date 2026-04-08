@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010201",
+        "promulgDate": "20240611",
+        "effectDate": "20240611",
+        "promulgNum": "34560",
+        "title": "범죄피해자 보호법 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "범죄피해자 보호위원회 위원장의 직무는 무엇이 있습니까?",
+        "output": "범죄피해자 보호법 시행령 제14조 제1항에 따라 보호위원회 위원장은 보호위원회를 대표하고 보호위원회의 업무를 총괄하며, 보호위원회의 회의를 소집하고 그 의장이 됩니다.",
+        "originwordCnt": "77",
+        "labelwordCnt": "19"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001645",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19329",
+        "title": "새마을금고법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "새마을금고 회원들은 어떻게 임시총회의 소집을 이사장에게 요구할 수 있습니까?",
+        "output": "새마을금고법 제14조 제1항에 따르면 회원은 회원 3분의 1 이상의 동의를 받아 회의의 목적과 이유를 적고 서명날인한 서면을 제출하여 임시총회의 소집을 이사장에게 요구할 수 있습니다.",
+        "originwordCnt": "151",
+        "labelwordCnt": "24"
+    }
+}

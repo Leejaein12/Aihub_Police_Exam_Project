@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335723",
+        "caseName": "모욕",
+        "caseNum": "2024고정78",
+        "sentenceDate": "2024.07.10",
+        "courtName": "대구지방법원 포항지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "건물 관리비 규약과 관련된 회의에서 피해자가 소음 문제를 제기하자 이에 반발하여 피해자에게 욕설을 하여 공연히 모욕한 혐의로 기소되었습니다. 법원은 피고인의 이러한 행위가 형법 제311조의 모욕죄에 해당한다고 판단하고 피고인에게 벌금 300,000원을 선고하였습니다.",
+        "originwordCnt": "206",
+        "labelwordCnt": "31"
+    }
+}

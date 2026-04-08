@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "92546",
+        "caseName": "허위공문서작성",
+        "caseNum": "74도2855",
+        "sentenceDate": "1975.03.25",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "허위공문서작성죄에서 직무권한은 어떤 의미로 해석되나요?",
+        "output": "형법 제227조에 따르면, 허위공문서작성죄에서의 직무권한은 공무원이 그 직무 권한 내에서 작성하는 문서를 의미합니다. 이 직무권한은 법률상 근거가 있는 경우뿐만 아니라 명령, 내규, 관례에 의한 직무집행 권한으로 작성하는 경우도 포함됩니다.",
+        "originwordCnt": "44",
+        "labelwordCnt": "29"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "73620",
+        "caseName": "강도상해피고사건",
+        "caseNum": "74노933",
+        "sentenceDate": "1974.11.15",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "준강도가 피해자에게 상해를 가한 경우 강도상해죄가 성립할 수 있나요?",
+        "output": "절도가 체포를 면탈하기 위하여 항거불능의 정도로 폭행이나 협박을 가하여 피해자에게 상해를 입힌 경우, 이는 형법 제337조에 따라 강도상해죄를 구성하게 됩니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "20"
+    }
+}

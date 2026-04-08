@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "320498",
+        "caseName": "미성년자의제강간등",
+        "caseNum": "2023고합566",
+        "sentenceDate": "2023.10.13",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "미성년자의 제강간, 아동·청소년의 성 보호에 관한 법률 위반을 한 피고인에게 징역 2년 2개월 형이 처해졌습니다. 그는 20만 원을 주고 간음한 후 배를 10회 가량 때리고 서게 하였으며, 피해자의 팔에 담뱃불을 가져다 대어 상해를 입혔습니다. 따라서 법원은 징역형을 선고하였고, 40시간의 성폭력 치료 프로그램 이수도 함께 명하였습니다.",
+        "originwordCnt": "1021",
+        "labelwordCnt": "45"
+    }
+}

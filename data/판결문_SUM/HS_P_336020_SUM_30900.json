@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336020",
+        "caseName": "사기",
+        "caseNum": "2023고단3655",
+        "sentenceDate": "2024.03.15",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "보이스피싱 조직원의 지시에 따라 피해자 B에게 접근하여 현금을 수거하는 역할을 담당하였으며, 이는 보이스피싱 범행에 해당한다고 인정되었습니다. 재판부는 피고인이 보이스피싱 범죄에 가담하였으나 미필적 고의로 범행에 이른 점과 초범으로 반성하는 태도 등을 참작하여 벌금 800만 원을 선고하였습니다.",
+        "originwordCnt": "461",
+        "labelwordCnt": "35"
+    }
+}

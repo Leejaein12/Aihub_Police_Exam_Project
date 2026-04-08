@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "186691",
+        "caseName": "강제집행면탈",
+        "caseNum": "2009노1155",
+        "sentenceDate": "2010.04.22",
+        "courtName": "서울서부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "강제집행면탈죄에서 보호되는 법익은 무엇이며, 국세징수법에 따른 체납처분이 강제집행에 포함되나요?",
+        "output": "강제집행면탈죄에서 보호되는 법익은 국가적 법익이 아닌 개인적 법익인 채권자의 채권이며, 국세징수법에 따른 체납처분은 강제집행면탈죄의 강제집행에 포함되지 않습니다.",
+        "originwordCnt": "550",
+        "labelwordCnt": "17"
+    }
+}

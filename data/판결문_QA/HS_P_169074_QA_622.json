@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "169074",
+        "caseName": "공직선거법 위반",
+        "caseNum": "2012노197",
+        "sentenceDate": "2012.11.30",
+        "courtName": "부산고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "선거운동과 관련하여 금품의 제공을 받는 행위는 어떤 법적 평가를 받나요?",
+        "output": "선거운동과 관련하여 금품을 제공받는 행위는 공직선거법 제230조 제1항 제5호 및 제4호에 따라 금지되어 있으며, 이는 민주정치의 근간인 공정하고 깨끗한 선거제도를 위반한 행위로 평가됩니다.",
+        "originwordCnt": "8834",
+        "labelwordCnt": "23"
+    }
+}

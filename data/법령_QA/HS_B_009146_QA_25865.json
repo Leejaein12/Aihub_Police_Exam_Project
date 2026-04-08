@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009146",
+        "promulgDate": "20220426",
+        "effectDate": "20230427",
+        "promulgNum": "18846",
+        "title": "국가인권위원회법",
+        "ministry": "국가인권위원회",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가인권위원회의 의사는 항상 공개되나요?",
+        "output": "국가인권위원회의 의사는 원칙적으로 공개되지만, 위원회, 상임위원회 또는 소위원회가 필요하다고 인정하면 공개하지 않을 수 있습니다. 이는 국가인권위원회법 제14조에 명시된 내용입니다.",
+        "originwordCnt": "16",
+        "labelwordCnt": "19"
+    }
+}

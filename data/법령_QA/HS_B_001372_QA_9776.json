@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001372",
+        "promulgDate": "20201020",
+        "effectDate": "20201020",
+        "promulgNum": "17560",
+        "title": "감사원법",
+        "ministry": "감사원",
+        "fullText": "N",
+        "smClass": "제32조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "감사원법상 징계위원회의 징계 의결이나 소청심사위원회의 소청 결정의 집행이 정지되는 기간은 언제인가요?",
+        "output": "감사원법 제32조 제7항에 명시된 바에 따르면, 제32조 제2항부터 제6항까지의 규정에 따른 기간 동안 징계 의결이나 소청 결정은 집행이 정지됩니다.",
+        "originwordCnt": "358",
+        "labelwordCnt": "19"
+    }
+}

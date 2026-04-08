@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337108",
+        "caseName": "강제추행",
+        "caseNum": "2022고단4496",
+        "sentenceDate": "2023.08.25",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "지하주차장에서 보행중이던 여성의 가슴을 만져 강제추행한 혐의로 기소되었습니다. 해당 여성은 수사 과정과 법정에서 일관되게 진술하였으며, 해당 진술과 112 신고 기록, CCTV 영상 등 객관적 증거가 부합하여 혐의가 인정되었습니다. 법원은 형법 제298조에 따라 징역 6개월을 선고하였으며, 집행유예 2년과 성폭력치료강의 40시간 수강을 명령하였습니다.",
+        "originwordCnt": "555",
+        "labelwordCnt": "41"
+    }
+}

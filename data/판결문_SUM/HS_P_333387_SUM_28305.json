@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333387",
+        "caseName": "강제추행",
+        "caseNum": "2023고단2952",
+        "sentenceDate": "2023.12.14",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "노상에서 회식을 마친 뒤, 피해자의 의사에 반해 두 차례 팔짱을 끼고 피해자를 강제로 안는 등 강제추행을 저지른 사건입니다. 법원은 피고인의 자백과 벌금형을 초과하는 전과가 없으며, 피해자에게 1천만 원을 공탁한 점 등을 참작하여 벌금 500만 원을 선고하고, 성폭력 치료프로그램 40시간 이수를 명령했습니다.",
+        "originwordCnt": "380",
+        "labelwordCnt": "41"
+    }
+}

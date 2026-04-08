@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "190113",
+        "caseName": "존속상해·강제추행등피고사건",
+        "caseNum": "78노127",
+        "sentenceDate": "1978.06.08",
+        "courtName": "광주고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "존속상해죄와 강제추행죄로 기소된 경우, 경합범가중은 어느 죄에 적용해야 하나요?",
+        "output": "존속상해죄와 강제추행죄로 기소된 경우, 형법 제38조 제1항 제2호 및 제50조에 따라 형이 더 중한 존속상해죄에 경합범가중을 해야 합니다. 강제추행죄에 경합범가중을 적용하는 것은 법률 적용을 잘못한 것입니다.",
+        "originwordCnt": "32",
+        "labelwordCnt": "26"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337263",
+        "caseName": "보험사기방지특별법위반",
+        "caseNum": "2024고단286",
+        "sentenceDate": "2024.05.14",
+        "courtName": "의정부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "보험사기방지 특별법 제8조 위반으로 기소된 피고인은 차량 수리 없이 반복적으로 보험금을 청구하여 편취한 사실이 인정되어 벌금 500만 원이 선고되었습니다. 공판 중 편취한 금액의 전부 또는 일부를 배상하고 피해자들과 합의하였으며, 범행을 인정하고 반성하는 점 등을 참작하여 형이 결정되었습니다.",
+        "originwordCnt": "739",
+        "labelwordCnt": "37"
+    }
+}

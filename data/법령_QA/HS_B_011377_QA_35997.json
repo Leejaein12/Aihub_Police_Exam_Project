@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011377",
+        "promulgDate": "20240123",
+        "effectDate": "20240125",
+        "promulgNum": "34158",
+        "title": "성폭력범죄의 처벌 등에 관한 특례법 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "성폭력범죄에 관한 기본신상정보 및 변경정보는 어디에 제출해야 합니까?",
+        "output": "성폭력범죄의 처벌 등에 관한 특례법 시행령 제3조 제2항에 따라, 기본신상정보 및 변경정보는 등록대상자가 자신의 주소지 또는 거주지를 관할하는 경찰관서의 장에게 직접 방문하여 제출하여야 합니다.",
+        "originwordCnt": "515",
+        "labelwordCnt": "24"
+    }
+}

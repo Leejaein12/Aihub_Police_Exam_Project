@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013099",
+        "promulgDate": "20240319",
+        "effectDate": "20240620",
+        "promulgNum": "20399",
+        "title": "공무원 재해보상법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제56조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "기관장은 공무원 재해보상 관련 급여사유 발생에 필요한 이력사항 및 신분에 관한 사항을 확인하나요?",
+        "output": "공무원 재해보상법 제56조 제1항에 따르면, 기관장은 이 법에 따른 급여사유의 발생에 필요한 이력사항과 공무원 또는 공무원이었던 사람의 신분에 관한 사항을 확인하여야 합니다.",
+        "originwordCnt": "43",
+        "labelwordCnt": "22"
+    }
+}

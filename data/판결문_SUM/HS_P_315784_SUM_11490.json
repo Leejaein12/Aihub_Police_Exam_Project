@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315784",
+        "caseName": "사기",
+        "caseNum": "2023고정569",
+        "sentenceDate": "2024.05.01",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "마트 농산물 코너에서 시가 29,900원 상당의 잣을 절취한 혐의로 기소되었습니다. 법원은 고령으로 무거운 전과가 없는 점, 절취품이 곧바로 회수된 점 등을 유리한 양형요소로 고려하였으나, 이전에도 같은 장소에서 절도행위를 저질렀던 점은 불리한 요소로 판단하였습니다. 이에 형법 제329조에 따라 절도죄를 인정하고 벌금 30만 원을 선고하였습니다.",
+        "originwordCnt": "317",
+        "labelwordCnt": "43"
+    }
+}

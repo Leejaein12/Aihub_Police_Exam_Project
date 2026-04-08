@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336075",
+        "caseName": "개인정보보호법위반",
+        "caseNum": "2024고정229",
+        "sentenceDate": "2024.06.07",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "상가의 관리업무를 담당하는 대표로서, 법원으로부터 상가 임차인 D의 개인정보가 포함된 지급명령 정본을 송달받았으나, 해당 개인정보를 약 107명이 참여하는 카카오톡 단체 채팅방에 게시하여 이를 제공받은 목적 외 용도로 이용한 혐의로 기소되었습니다. 법원은 피고인이 개인정보 보호법을 위반했다고 판단하여 벌금 50만 원을 선고하였습니다.",
+        "originwordCnt": "173",
+        "labelwordCnt": "40"
+    }
+}

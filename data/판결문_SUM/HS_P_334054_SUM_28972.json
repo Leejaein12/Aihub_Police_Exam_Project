@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334054",
+        "caseName": "강제추행",
+        "caseNum": "2022고정509",
+        "sentenceDate": "2023.02.09",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "특정한 사실혼 관계에서 발생한 횡령 사건에 대해 피고인은 사실혼 관계가 해소됨에 따라 반환하기로 합의된 물품을 정당한 이유 없이 반환하지 않아 횡령한 것으로 판단되었습니다. 관련 증거로는 법정에서의 피고인의 진술과 증인의 증언, 대화 내용 등이 제시되었습니다. 형법 제355조 제1항에 따라 벌금형이 선택되었습니다.",
+        "originwordCnt": "287",
+        "labelwordCnt": "40"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314072",
+        "caseName": "업무방해등",
+        "caseNum": "2023고정361",
+        "sentenceDate": "2023.08.24",
+        "courtName": "수원지방법원 안산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "특정 장소에서 대리점 운영 중 사은품 지급을 거절당하자 욕설을 하고 행사 물품을 파손하여 대리점 업무를 방해하였습니다. 또한, 업주를 폭행하고 협박하여 계약 해지를 요구하는 행위를 하였습니다. 이로 인해 벌금형에 처해졌으며, 벌금에 상당한 금액의 가납을 명하였습니다.",
+        "originwordCnt": "276",
+        "labelwordCnt": "34"
+    }
+}

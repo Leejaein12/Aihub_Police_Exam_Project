@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "003655",
+        "promulgDate": "20221227",
+        "effectDate": "20221227",
+        "promulgNum": "33157",
+        "title": "보호관찰 등에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제30조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보호관찰소의 장은 그 소재지를 관할하는 지방검찰청 또는 지청의 검사에게 어떤 신청을 해야합니까?",
+        "output": "보호관찰 등에 관한 법률 시행령 제30조에 따라 보호관찰소의 장은 그 소재지를 관할하는 지방검찰청 또는 지청의 검사에게 구인ㆍ긴급구인승인 및 유치허가의 신청을 합니다.",
+        "originwordCnt": "18",
+        "labelwordCnt": "21"
+    }
+}

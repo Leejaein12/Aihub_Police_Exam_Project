@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000360",
+        "promulgDate": "20230103",
+        "effectDate": "20230704",
+        "promulgNum": "19180",
+        "title": "소상공인 보호 및 지원에 관한 법률",
+        "ministry": "중소벤처기업부",
+        "fullText": "N",
+        "smClass": "제25조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "정부와 지방자치단체는 소상공인연합회의 사업을 위해 어떤 지원을 할 수 있나요?",
+        "output": "소상공인 보호 및 지원에 관한 법률 제25조 제2항에 따르면, 정부와 지방자치단체는 연합회가 제1항에 따른 사업을 수행하는 데 필요한 비용을 지원할 수 있습니다.",
+        "originwordCnt": "95",
+        "labelwordCnt": "22"
+    }
+}

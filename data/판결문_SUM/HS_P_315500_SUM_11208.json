@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315500",
+        "caseName": "도로법위반",
+        "caseNum": "2023고정1039",
+        "sentenceDate": "2024.04.18",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "운전자가 고속도로 요금소에서 적재량 측정 의무를 위반하고 일반 하이패스 차로를 통과한 행위에 대해 피고인은 사용자로서 책임을 지게 되었습니다. 운전자는 A영업소에서 적재량 측정이 없는 차로를 이용하여 두 차례 적재량 측정을 방해하였고, 이는 도로법 위반에 해당합니다. 이에 재판부는 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "269",
+        "labelwordCnt": "40"
+    }
+}

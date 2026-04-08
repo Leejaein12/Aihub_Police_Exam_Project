@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010004",
+        "promulgDate": "20240206",
+        "effectDate": "20240517",
+        "promulgNum": "20194",
+        "title": "산림문화ㆍ휴양에 관한 법률",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "산림문화와 휴양 계획을 위한 기초조사 업무를 위탁할 수 있나요?",
+        "output": "산림문화ㆍ휴양에 관한 법률 제5조 제2항에 따르면, 산림청장 또는 시ㆍ도지사는 효율적인 조사를 위해 필요할 경우, 기초조사 업무를 산림조합 등 대통령령으로 정하는 법인이나 단체에 위탁할 수 있습니다.",
+        "originwordCnt": "51",
+        "labelwordCnt": "25"
+    }
+}

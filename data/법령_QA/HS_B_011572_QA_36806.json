@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011572",
+        "promulgDate": "20240403",
+        "effectDate": "20240403",
+        "promulgNum": "01075",
+        "title": "검사의 국선변호사 선정 등에 관한 규칙",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국선변호사 변경 신청을 할 때 피해자 또는 그 법정대리인은 무엇을 해야 하나요?",
+        "output": "검사의 국선변호사 선정 등에 관한 규칙 제14조 제2항에 의거하여, 피해자 또는 그 법정대리인은 동규칙 동조 제1항에 따른 변경 신청을 할 때에는 그 사유를 소명하여야 합니다.",
+        "originwordCnt": "51",
+        "labelwordCnt": "25"
+    }
+}

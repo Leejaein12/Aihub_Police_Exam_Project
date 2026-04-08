@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000794",
+        "promulgDate": "20230406",
+        "effectDate": "20230406",
+        "promulgNum": "19326",
+        "title": "방송법",
+        "ministry": "과학기술정보통신부,방송통신위원회",
+        "fullText": "N",
+        "smClass": "제77조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "이용약관은 어떤 요건을 갖추어야 하나요?",
+        "output": "방송법 제77조 제2항에 따르면, 이용약관은 다음 각 호의 요건을 모두 갖추어야 합니다.1. 이용요금을 명확하게 규정할 것2. 제85조의2 제1항 제3호 및 제4호를 위반하는 내용이 없을 것",
+        "originwordCnt": "251",
+        "labelwordCnt": "27"
+    }
+}

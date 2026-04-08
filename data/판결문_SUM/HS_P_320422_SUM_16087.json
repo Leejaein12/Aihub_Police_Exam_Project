@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "320422",
+        "caseName": "도로교통법위반(음주측정거부)등",
+        "caseNum": "2023고단3894",
+        "sentenceDate": "2023.12.07",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.261% 상태에서 약 20m 구간을 운전한 혐의로 기소되었습니다. 재판부는 피고인이 동종 전과가 없는 점과 범행 후의 정황을 고려하여 징역 1년을 선고하였으나, 피고인의 연령과 성행 등을 참작해 2년간 집행유예를 허가하였습니다. 또한 피고인에게 40시간의 준법운전강의 수강을 명령하였습니다.",
+        "originwordCnt": "143",
+        "labelwordCnt": "36"
+    }
+}

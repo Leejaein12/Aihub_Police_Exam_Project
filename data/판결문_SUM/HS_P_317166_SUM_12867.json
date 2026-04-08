@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317166",
+        "caseName": "건설산업기본법위반",
+        "caseNum": "2023고정649",
+        "sentenceDate": "2024.02.15",
+        "courtName": "의정부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A는 B의 이모로서, 2023년 8월 22일 법원에서 휴대전화나 전자적 방식으로 연락하지 말라는 잠정조치를 받은 뒤에도, 2023년 9월 1일 카카오톡을 이용해 피해자 B에게 7차례 메시지를 전송한 행위가 인정되었습니다. 이에 따라 벌금 200만 원과 스토킹 치료프로그램 40시간 이수 명령이 선고되었습니다.",
+        "originwordCnt": "198",
+        "labelwordCnt": "38"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "98477",
+        "caseName": "절도,특정범죄가중처벌등에관한법률위반,강도상해",
+        "caseNum": "83도2130",
+        "sentenceDate": "1983.11.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법정형이 7년 이상의 유기징역인 경우, 감경 절차를 거치지 않고 4년을 선고한 것이 판결에 영향을 미칠 수 있는지 궁금합니다.",
+        "output": "법정형이 7년 이상의 유기징역인 경우, 형법 제55조에 따른 감경 절차를 거치지 않고 징역 4년을 선고한 것은 법률 적용의 착오로서 판결에 영향을 미쳤다고 할 수 있습니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "25"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001674",
+        "promulgDate": "20171024",
+        "effectDate": "20171024",
+        "promulgNum": "14908",
+        "title": "경범죄 처벌법",
+        "ministry": "경찰청,해양경찰청",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "관공서에서 주취소란을 피운 사람은 경범죄로 처벌할 수 있습니까?",
+        "output": "경범죄 처벌법 제3조 제3항 제1호에 의하면 술에 취한 채로 관공서에서 몹시 거친 말과 행동으로 주정하거나 시끄럽게 한 사람은 60만원 이하의 벌금, 구류 또는 과료의 형으로 처벌합니다.",
+        "originwordCnt": "1207",
+        "labelwordCnt": "26"
+    }
+}

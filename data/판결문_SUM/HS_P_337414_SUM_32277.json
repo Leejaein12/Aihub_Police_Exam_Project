@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337414",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고정640",
+        "sentenceDate": "2023.07.18",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2022년 10월 7일 23시 24분경 피고인은 혈중알콜농도 0.233%의 상태로 본인 소유의 화물차를 운전한 혐의가 있습니다. 피고인은 약 8.7km를 주행하였으며, 이 과정에서 음주운전 사실이 확인되었습니다. 법원은 도로교통법 제148조의2 제3항 제1호, 제44조 제1항에 따라 벌금 800만 원을 선고하였습니다.",
+        "originwordCnt": "119",
+        "labelwordCnt": "36"
+    }
+}

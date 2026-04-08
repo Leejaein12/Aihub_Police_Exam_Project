@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002033",
+        "promulgDate": "20221227",
+        "effectDate": "20231228",
+        "promulgNum": "19138",
+        "title": "어장관리법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제24조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "손실보상에 관한 협의는 누구와 이루어지나요?",
+        "output": "어장관리법 제24조 제2항에 따르면, 제1항에 따른 손실에 관해서는 해양수산부장관과 손실을 입은 자가 협의하여야 합니다.",
+        "originwordCnt": "53",
+        "labelwordCnt": "14"
+    }
+}

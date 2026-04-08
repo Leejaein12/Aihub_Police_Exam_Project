@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001669",
+        "promulgDate": "20170726",
+        "effectDate": "20170726",
+        "promulgNum": "14839",
+        "title": "즉결심판에 관한 절차법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "판사가 즉결심판의 청구를 기각할 수 있는 경우는 무엇인가요?",
+        "output": "즉결심판에 관한 절차법 제5조 제1항에 따르면, 판사는 사건이 즉결심판을 할 수 없거나 즉결심판절차에 의하여 심판함이 적당하지 아니하다고 인정할 때에는 결정으로 즉결심판의 청구를 기각하여야 합니다.",
+        "originwordCnt": "33",
+        "labelwordCnt": "24"
+    }
+}

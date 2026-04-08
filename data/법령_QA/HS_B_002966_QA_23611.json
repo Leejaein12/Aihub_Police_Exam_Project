@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002966",
+        "promulgDate": "20220630",
+        "effectDate": "20220701",
+        "promulgNum": "32737",
+        "title": "군검찰사무 운영규정",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제19조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군사법경찰관이 군검사의 긴급체포 승인을 받으려는 경우 제출해야 하는 자료는 무엇입니까?",
+        "output": "군검찰사무 운영규정 제19조 제2항에 따르면, 군사법경찰관이 군검사의 긴급체포 승인을 받으려는 경우에는 긴급체포서와 긴급체포의 필요를 인정할 수 있는 자료를 제출해야 합니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "20"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333371",
+        "caseName": "강제추행",
+        "caseNum": "2024고단97",
+        "sentenceDate": "2024.05.29",
+        "courtName": "수원지방법원 안양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "부동산을 방문한 피해자의 상의와 속옷 안으로 손을 넣어 가슴을 만져 강제추행죄를 저질렀습니다. 이에 법원은 피고인에게 징역 6개월을 선고하되, 1년간 집행유예를 명하였고, 성폭력 치료강의 40시간 이수를 명령했습니다. 또한, 성폭력범죄의 처벌 등에 관한 특례법에 따라 신상정보 등록 의무가 부과되었습니다.",
+        "originwordCnt": "389",
+        "labelwordCnt": "37"
+    }
+}

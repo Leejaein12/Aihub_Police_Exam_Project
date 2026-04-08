@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93338",
+        "caseName": "미성년자의제강제추행치상",
+        "caseNum": "76도3719",
+        "sentenceDate": "1977.04.12",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "13세 미만의 부녀자를 추행하여 상해를 입힌 경우, 고소 없이 처벌할 수 있는지요?",
+        "output": "형법 제305조에 따르면, 13세 미만의 부녀자를 추행하여 상해를 입힌 행위에 대해서는 형법 제301조가 적용되므로 고소가 없어도 처벌이 가능합니다.",
+        "originwordCnt": "49",
+        "labelwordCnt": "18"
+    }
+}

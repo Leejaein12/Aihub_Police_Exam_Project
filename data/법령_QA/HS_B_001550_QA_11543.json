@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001550",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "한국은행법",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국은행의 통화신용정책은 정부의 경제정책과 어떠한 관계가 있습니까?",
+        "output": "한국은행의 통화신용정책은 물가안정을 해치지 아니하는 범위에서 정부의 경제정책과 조화를 이룰 수 있도록 하여야 합니다. 이는 한국은행법 제4조 제1항에 명시되어 있습니다.",
+        "originwordCnt": "27",
+        "labelwordCnt": "20"
+    }
+}

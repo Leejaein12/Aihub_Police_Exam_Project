@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001616",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "교육공무원법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "교육공무원법에서 공개전형에 필요한 사항은 어떻게 정해지나요?",
+        "output": "교육공무원법 제11조 제4항 규정에 따르면 제1항 및 제2항에 따른 공개전형을 하는 경우 담당할 직무 수행에 필요한 자격요건, 공개전형의 절차ㆍ방법 및 평가요소 등 공개전형에 필요한 사항은 대통령령으로 정합니다.",
+        "originwordCnt": "127",
+        "labelwordCnt": "27"
+    }
+}

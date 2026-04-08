@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314033",
+        "caseName": "특정범죄가중처벌등에관한법률위반(도주차량)",
+        "caseNum": "2024노1735",
+        "sentenceDate": "2024.07.19",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "판단에 따르면 경찰 진술조서는 신빙성이 인정되며, CCTV 영상과 함께 종합적으로 분석할 때 도주의 고의가 있는 것으로 보입니다. 원심은 진술의 증거능력을 부인하였으나, 적법한 증거에 기반한 원심의 판단은 타당하며, 사실 오인 및 법리 오해가 없음을 확인하였습니다. 따라서 검사의 항소는 이유가 없으므로 기각되었습니다.",
+        "originwordCnt": "171",
+        "labelwordCnt": "40"
+    }
+}

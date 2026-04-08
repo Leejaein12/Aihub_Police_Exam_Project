@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317758",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고단1013",
+        "sentenceDate": "2024.07.12",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "컴퓨터 그림판을 이용하여 세무서장 명의의 납세증명서를 위조하였고, 이를 육군 부대 직원에게 이메일로 제출하여 행사하였습니다. 법원은 피고인의 범죄사실에 대해 공문서위조와 위조공문서행사죄를 인정하여 형법 제225조 및 제229조 등을 적용하였습니다. 법원은 피고인에게 징역 6월에 집행유예 2년을 선고하였습니다.",
+        "originwordCnt": "212",
+        "labelwordCnt": "34"
+    }
+}

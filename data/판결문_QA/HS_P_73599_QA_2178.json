@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "73599",
+        "caseName": "강도상해피고사건",
+        "caseNum": "73노975",
+        "sentenceDate": "1974.09.26",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "3년을 초과하는 징역형에 대해 집행유예를 선고한 것이 위법한 이유는 무엇인가요?",
+        "output": "형법 제62조 제1항에 따르면, 형의 집행을 유예할 수 있는 경우는 3년 이하의 징역 또는 금고형에 한정되므로, 원심이 피고인에게 징역 3년 6월의 형을 선고하고 집행유예를 부여한 것은 법률 위반에 해당하여 판결에 영향을 미친 위법이 발생한 것입니다.",
+        "originwordCnt": "43",
+        "labelwordCnt": "35"
+    }
+}

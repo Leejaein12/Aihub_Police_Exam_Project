@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317119",
+        "caseName": "절도",
+        "caseNum": "2023고단442",
+        "sentenceDate": "2023.10.26",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A는 장모관계에 있는 B 명의의 휴대전화를 사용하여 B의 개인정보를 이용해 C은행과 D은행의 계좌개설 신청서를 위조하고 이를 행사한 혐의로 기소되었습니다. 법원은 피고인이 전자기록을 위조하고 행사한 죄질이 나쁘다고 판단했으나, 피고인이 범행을 인정하고 반성하는 점, B가 처벌을 원하지 않는 점, 동종 범죄 전력이 없는 점을 고려하여 징역 4개월을 선고하되 1년간 집행을 유예하기로 하였습니다.",
+        "originwordCnt": "345",
+        "labelwordCnt": "50"
+    }
+}

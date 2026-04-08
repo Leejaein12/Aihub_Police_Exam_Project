@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "190149",
+        "caseName": "특정범죄가중처벌등에관한법률위반피고사건",
+        "caseNum": "77노1023",
+        "sentenceDate": "1979.03.29",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "누범전과가 있는 사람에게 벌금형의 선고유예가 가능한가요?",
+        "output": "형법 제59조 제1항 단서에 따르면 자격정지 이상의 형을 받은 전과가 있는 사람에게는 선고유예를 할 수 없습니다. 따라서, 누범전과가 있는 경우에 벌금형이라도 선고유예를 하는 것은 위법에 해당합니다.",
+        "originwordCnt": "37",
+        "labelwordCnt": "26"
+    }
+}

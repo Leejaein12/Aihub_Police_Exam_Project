@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "94950",
+        "caseName": "절도",
+        "caseNum": "79도2874",
+        "sentenceDate": "1980.03.25",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인과 피해자 사이에 친족관계가 있는지를 판단하는 것이 판결에 중요한 이유는 무엇인가요?",
+        "output": "피고인과 피해자 사이에 형법 제328조 제2항에 따른 친족관계가 존재할 수 있음에도 불구하고, 원심이 이를 심리하지 않은 것은 심리가 미진하여 판결 결과에 영향을 미쳤다고 할 수 있습니다.",
+        "originwordCnt": "347",
+        "labelwordCnt": "26"
+    }
+}

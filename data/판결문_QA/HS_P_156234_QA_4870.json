@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "156234",
+        "caseName": "명령위반",
+        "caseNum": "68도1834",
+        "sentenceDate": "1969.10.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "군무이탈자가 일정 기간 내에 헌병대에 자진 복귀하라는 육군참모총장의 명령은 정당한 명령에 해당하나요?",
+        "output": "군무이탈자에게 정해진 기간 내에 헌병대에 자진 복귀하라는 육군참모총장의 명령은 군형법 제47조에 규정된 정당한 명령에 해당합니다.",
+        "originwordCnt": "47",
+        "labelwordCnt": "15"
+    }
+}

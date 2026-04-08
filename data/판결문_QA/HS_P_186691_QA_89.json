@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "186691",
+        "caseName": "강제집행면탈",
+        "caseNum": "2009노1155",
+        "sentenceDate": "2010.04.22",
+        "courtName": "서울서부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "보조금의 예산 및 관리에 관한 법률 제33조에 따라 보조금 반환 절차는 어떤 방식으로 이루어지나요?",
+        "output": "보조금의 예산 및 관리에 관한 법률에 따르면, 보조금 반환 절차는 국세징수의 예에 따라 징수할 수 있으며, 이는 보다 수월하게 보조금 반환을 확보하기 위한 절차로, 민사소송법상의 강제집행 절차를 선택할 수는 없습니다.",
+        "originwordCnt": "550",
+        "labelwordCnt": "30"
+    }
+}

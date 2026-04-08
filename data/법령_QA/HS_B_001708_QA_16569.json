@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001708",
+        "promulgDate": "20210105",
+        "effectDate": "20210105",
+        "promulgNum": "17828",
+        "title": "변호사법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제58조의25",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "담당변호사를 지휘·감독한 구성원도 손해배상책임을 지게 되나요?",
+        "output": "변호사법 제58조의25 제2항에 따르면 담당변호사를 직접 지휘·감독한 구성원도 손해배상책임을 지게 되며, 다만 지휘·감독 시 주의를 다하였음을 증명한 경우에는 책임이 면제됩니다.",
+        "originwordCnt": "92",
+        "labelwordCnt": "20"
+    }
+}

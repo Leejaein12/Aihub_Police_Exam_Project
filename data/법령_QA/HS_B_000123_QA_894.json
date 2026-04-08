@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000123",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19965",
+        "title": "고용정책 기본법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제23조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "직업안정기관의 장은 구인자가 적합한 근로자를 채용할 수 있도록 어떤 지원을 해야 하나요?",
+        "output": "고용정책 기본법 제23조제2항에 따르면 직업안정기관의 장은 구인자가 적합한 근로자를 신속히 채용할 수 있도록 구직자 정보의 제공, 상담ㆍ조언, 그 밖에 구인에 필요한 지원을 하여야 합니다.",
+        "originwordCnt": "48",
+        "labelwordCnt": "24"
+    }
+}

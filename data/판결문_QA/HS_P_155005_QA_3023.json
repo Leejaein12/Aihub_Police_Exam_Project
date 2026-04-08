@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155005",
+        "caseName": "실용신안법위반",
+        "caseNum": "71도978",
+        "sentenceDate": "1971.07.27",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "무효심판이 확정된 실용신안등록 물건과 동일한 물건을 제조·판매한 경우 처벌할 수 있나요?",
+        "output": "어떤 실용신안등록이 공지공용의 것이라 하여 무효심판이 확정된 경우, 그 등록된 실용신안과 동일한 물건을 허락 없이 제조하거나 판매하더라도 실용신안법 제29조를 적용하여 처벌할 수 없습니다.",
+        "originwordCnt": "95",
+        "labelwordCnt": "23"
+    }
+}

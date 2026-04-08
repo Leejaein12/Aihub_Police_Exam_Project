@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000128",
+        "promulgDate": "20210413",
+        "effectDate": "20211014",
+        "promulgNum": "18042",
+        "title": "임금채권보장법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "근로자의 임금채권 대지급금수급계좌는 어떤 용도로 관리되나요?",
+        "output": "대지급금수급계좌의 해당 금융기관은 이 법에 따른 대지급금만이 대지급금수급계좌에 입금되도록 관리하여야 합니다. 이는 임금채권보장법 제11조 제2항에 명시되어 있습니다.",
+        "originwordCnt": "79",
+        "labelwordCnt": "17"
+    }
+}

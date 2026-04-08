@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "224905",
+        "caseName": "저작권법위반(피고인1·피고인2에대한예비적죄명저작권법위반방조)",
+        "caseNum": "2017고정824",
+        "sentenceDate": "2018.10.12",
+        "courtName": "서울동부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인 3 주식회사는 왜 벌금형을 선고받았나요?",
+        "output": "피고인 3 주식회사는 종업원들이 무단 복제한 프로그램을 업무에 사용함으로써 프로그램 저작권자들의 저작권을 침해하였기 때문에 벌금형이 선고되었습니다.",
+        "originwordCnt": "1327",
+        "labelwordCnt": "16"
+    }
+}

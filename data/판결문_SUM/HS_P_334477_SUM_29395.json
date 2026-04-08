@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334477",
+        "caseName": "사기등",
+        "caseNum": "2023노113",
+        "sentenceDate": "2023.05.10",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "전자금융거래법 위반으로 기소된 사건에서 피고인이 항소하였으나, 법원은 제1심과 비교하여 양형의 조건에 변화가 없고, 제1심의 형이 재량의 합리적인 범위를 벗어나지 않았다고 판단하였습니다. 범행의 경위, 반성 여부, 추가 피해 방지 조치 등을 종합적으로 고려했을 때, 원심의 형이 지나치게 무겁다고 보기는 어렵다고 보아 피고인의 항소를 기각하였습니다.",
+        "originwordCnt": "219",
+        "labelwordCnt": "43"
+    }
+}

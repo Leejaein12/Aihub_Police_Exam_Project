@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제3조의5",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "대법원의 재정서 정본과 해당 사건의 기록은 언제까지 법원 또는 군사법원에 보내야 하나요?",
+        "output": "군사법원법 제3조의5 제1항에 따르면, 제3조의2에 따른 재판권 쟁의에 대한 대법원의 재정서의 정본과 해당 사건의 기록은 결정일부터 2일 이내에 해당 사건이 계속된 법원 또는 군사법원에 보내야 합니다.",
+        "originwordCnt": "58",
+        "labelwordCnt": "26"
+    }
+}

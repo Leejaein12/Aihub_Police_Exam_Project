@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310248",
+        "caseName": "스토킹범죄의처벌등에관한법률위반",
+        "caseNum": "2024고정290",
+        "sentenceDate": "2024.08.14",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "약 6개월 동안 상대방의 의사에 반해 지속적으로 연락을 하며 스토킹 행위를 반복한 사례입니다. 피고인은 총 18회에 걸쳐 문자 메시지를 전송하여 피해자에게 불안을 야기하였으며, 법원은 이를 스토킹범죄로 판단하여 벌금 90만 원을 선고하였습니다.",
+        "originwordCnt": "286",
+        "labelwordCnt": "31"
+    }
+}

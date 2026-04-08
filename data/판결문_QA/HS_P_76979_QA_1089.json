@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "76979",
+        "caseName": "국가보안법위반등피고사건",
+        "caseNum": "87노1995-1",
+        "sentenceDate": "1987.09.05",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "국가단체를 구성하면서 해당 단체의 활동을 찬양한 행위는 다른 범죄와 어떤 관계가 있나요?",
+        "output": "반국가단체를 구성하기 위한 수반행위로서 그 활동을 찬양한 경우, 이는 형법 제37조와 국가보안법 제7조에 따라 주된 범죄인 이적단체구성죄에 흡수되어 별도로 범죄를 구성하지 않는다고 할 수 있습니다.",
+        "originwordCnt": "2249",
+        "labelwordCnt": "25"
+    }
+}

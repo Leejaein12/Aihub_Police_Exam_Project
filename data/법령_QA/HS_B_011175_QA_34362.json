@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011175",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19886",
+        "title": "국민영양관리법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "질병관리청장은 누구와 협의하여 조사를 매년 실시하고, 그 결과는 어떻게 해야 하나요?",
+        "output": "국민영양관리법 제13조 제2항 규정에 따르면 질병관리청장은 보건복지부장관과 협의하여 국민의 식품섭취 및 식생활 등에 관한 국민 영양 및 식생활 조사를 매년 실시하고 그 결과를 공표하여야 합니다.",
+        "originwordCnt": "114",
+        "labelwordCnt": "25"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011572",
+        "promulgDate": "20240403",
+        "effectDate": "20240403",
+        "promulgNum": "01075",
+        "title": "검사의 국선변호사 선정 등에 관한 규칙",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국선변호사 선정 신청을 받은 사법경찰관은 언제까지 검사에게 그 사실을 보고하여야 하나요?",
+        "output": "검사의 국선변호사 선정 등에 관한 규칙 제10조 제4항에 따르면, 사법경찰관이 선정신청을 받았을 때에는 지체 없이 그 사실을 검사에게 보고하여야 합니다.",
+        "originwordCnt": "99",
+        "labelwordCnt": "20"
+    }
+}

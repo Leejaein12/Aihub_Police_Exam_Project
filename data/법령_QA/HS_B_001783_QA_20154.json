@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001783",
+        "promulgDate": "20230418",
+        "effectDate": "20240419",
+        "promulgNum": "19359",
+        "title": "약사법",
+        "ministry": "보건복지부,식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제37조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "제조관리자는 제조 관리 업무를 시작한 후 언제까지 교육을 받아야 하나요?",
+        "output": "약사법 제37조의2 제3항에 따르면, 제조관리자는 제조 관리 업무를 시작하는 날부터 6개월 이내에 교육을 받아야 하며, 다만, 2년 이내에 해당 교육을 받은 자는 예외로 적용됩니다.",
+        "originwordCnt": "148",
+        "labelwordCnt": "24"
+    }
+}

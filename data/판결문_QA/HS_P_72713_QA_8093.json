@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72713",
+        "caseName": "아편흡식마약법위반피고사건",
+        "caseNum": "70노63",
+        "sentenceDate": "1970.04.30",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "아편을 여러 번 흡식한 경우 각각의 행위가 별개의 범죄로 성립하나요?",
+        "output": "아편을 여러 번 흡식한 경우, 각 아편 1회의 흡식마다 별개의 죄가 성립하는 것이 아니라 일정한 기간 동안의 모든 흡식 행위를 하나의 포괄적인 일죄로 봅니다. 따라서 아편흡식죄는 여러 번 흡식하더라도 형법 제201조에 의해 포괄일죄로 성립할 뿐입니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "35"
+    }
+}

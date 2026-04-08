@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001624",
+        "promulgDate": "20210924",
+        "effectDate": "20220701",
+        "promulgNum": "18465",
+        "title": "군형법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제39조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "전시나 사변 시 군사 명령을 거짓으로 전달하거나 전달하지 않으면 어떻게 되나요?",
+        "output": "군형법 제39조에 따르면 전시, 사변 시 또는 계엄지역에서 군사에 관한 명령, 통보 또는 보고를 전달하는 사람이 거짓으로 전달하거나 전달하지 아니한 경우에는 제38조의 예에 따릅니다.",
+        "originwordCnt": "25",
+        "labelwordCnt": "24"
+    }
+}

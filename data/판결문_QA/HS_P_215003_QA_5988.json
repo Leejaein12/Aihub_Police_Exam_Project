@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "215003",
+        "caseName": "업무상배임등",
+        "caseNum": "67도1666",
+        "sentenceDate": "1968.10.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "배임수증재죄에서 부정한 청탁이란 어떤 내용을 의미하나요?",
+        "output": "형법 제357조에 따르면, 배임수증재죄에서 부정한 청탁이란 반드시 배임이 되는 내용을 포함해야 하는 것은 아니며, 사회상규나 신의성실의 원칙에 반하는 것을 내용으로 하는 청탁이면 충분합니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "23"
+    }
+}

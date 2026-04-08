@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335656",
+        "caseName": "도로교통법위반(음주측정거부)",
+        "caseNum": "2023고단812",
+        "sentenceDate": "2023.12.14",
+        "courtName": "대구지방법원 김천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주 측정 요구를 거부하여 도로교통법 위반으로 징역 1년 6개월에 처해지며, 3년간 집행이 유예됩니다. 또한, 피고인은 40시간의 준법운전 강의를 수강해야 합니다. 피고인은 두 차례 음주운전으로 벌금형을 선고받았고, 마지막 형이 확정된 날로부터 10년 내에 다시 음주 측정 거부 범행을 저질렀습니다.",
+        "originwordCnt": "332",
+        "labelwordCnt": "38"
+    }
+}

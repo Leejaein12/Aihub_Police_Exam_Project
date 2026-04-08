@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001486",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "수산업법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제30조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "어업권을 취득한 자는 언제까지 어업을 시작해야 하나요?",
+        "output": "「수산업법」 제30조 제1항에 따르면, 어업권을 취득한 자는 그 어업권을 취득한 날부터 1년 이내에 어업을 시작해야 합니다. 다만, 대통령령으로 정하는 경우 시장, 군수, 구청장이 2년의 범위에서 그 기간을 조정할 수 있습니다.",
+        "originwordCnt": "77",
+        "labelwordCnt": "30"
+    }
+}

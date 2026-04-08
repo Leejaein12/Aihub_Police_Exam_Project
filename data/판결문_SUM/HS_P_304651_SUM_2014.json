@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "304651",
+        "caseName": "과실치상",
+        "caseNum": "2013고정1400",
+        "sentenceDate": "2013. 6. 5.",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "대학 호신술 수업에서 과실로 인해 피해자에게 상해를 입힌 혐의로 기소되었습니다. 피고인은 호신술 동작을 시연하는 과정에서 피해자의 고환 부위를 무릎으로 가격하여 피해자에게 우측음낭혈종 및 우측고환의 완전파열이라는 중상을 입혔습니다. 이에 따라 법원은 피고인에게 벌금 3,000,000원을 선고하였습니다.",
+        "originwordCnt": "160",
+        "labelwordCnt": "34"
+    }
+}

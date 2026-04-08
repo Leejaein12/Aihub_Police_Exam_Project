@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012140",
+        "promulgDate": "20240125",
+        "effectDate": "20240131",
+        "promulgNum": "03126",
+        "title": "아동보호심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제32조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "유치시설의 장은 아동학대 행위자를 유치한 때와 그 집행을 종료한 때 어떻게 해야 합니까?",
+        "output": "아동보호심판규칙 제32조 제4항에 따라 유치시설의 장은 행위자를 유치한 때와 그 집행을 종료한 때에는 수용통보서 또는 석방통보서에 의하여 지체 없이 법원에 그 사실을 통보하여야 합니다.",
+        "originwordCnt": "83",
+        "labelwordCnt": "24"
+    }
+}

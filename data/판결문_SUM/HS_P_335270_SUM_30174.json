@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335270",
+        "caseName": "병역법위반",
+        "caseNum": "2023고단1371",
+        "sentenceDate": "2023.09.14",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "병역법에 따라 현역입영 통지서를 수령하고 입영일부터 3일 이내에 입영할 의무가 있었으나, 정당한 사유 없이 이를 이행하지 않았습니다. 피고인이 범행을 인정하고 반성하는 점, 벌금형을 초과하는 범죄전력이 없는 점, 나이와 가족관계 등 여러 양형조건을 종합적으로 고려하여 징역 6개월에 집행유예 2년을 선고하였습니다.",
+        "originwordCnt": "171",
+        "labelwordCnt": "39"
+    }
+}

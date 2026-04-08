@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000794",
+        "promulgDate": "20230406",
+        "effectDate": "20230406",
+        "promulgNum": "19326",
+        "title": "방송법",
+        "ministry": "과학기술정보통신부,방송통신위원회",
+        "fullText": "N",
+        "smClass": "제66조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "체납된 수신료와 가산금 또는 추징금은 어떻게 징수되나요?",
+        "output": "방송법 제66조 제3항에 따라, 공사는 제65조의 수신료와 제1항 및 제2항의 가산금 또는 추징금을 징수할 때 체납이 있는 경우에는 방송통신위원회의 승인을 얻어 국세체납처분의 예에 따라 징수할 수 있습니다.",
+        "originwordCnt": "77",
+        "labelwordCnt": "27"
+    }
+}

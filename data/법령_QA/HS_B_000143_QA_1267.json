@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000143",
+        "promulgDate": "20210105",
+        "effectDate": "20210706",
+        "promulgNum": "17864",
+        "title": "노동조합 및 노동관계조정법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시정명령을 받은 노동조합은 얼마나 빨리 이를 이행해야 하나요?",
+        "output": "노동조합 및 노동관계조정법 제21조 제3항에 따르면, 시정명령을 받은 노동조합은 30일 이내에 이를 이행하여야 하며, 정당한 사유가 있는 경우에는 그 기간을 연장할 수 있습니다.",
+        "originwordCnt": "72",
+        "labelwordCnt": "23"
+    }
+}

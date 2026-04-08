@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001805",
+        "promulgDate": "20240213",
+        "effectDate": "20240514",
+        "promulgNum": "20307",
+        "title": "식품위생법",
+        "ministry": "식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제53조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "조리사가 되려면 어떤 절차를 거쳐야 하나요?",
+        "output": "식품위생법 제53조 제1항에 따르면, 조리사가 되려는 자는 「국가기술자격법」에 따라 해당 기능분야의 자격을 얻은 후 특별자치시장, 특별자치도지사, 시장, 군수, 구청장의 면허를 받아야 합니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "22"
+    }
+}

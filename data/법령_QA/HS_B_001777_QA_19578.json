@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001777",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "노인복지법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가 또는 지방자치단체는 노인의 주거를 위해 어떤 역할을 해야 하나요?",
+        "output": "국가 또는 지방자치단체는 노인의 주거에 적합한 기능 및 설비를 갖춘 주거용시설의 공급을 조장하여야 하며, 그 주거용시설의 공급자에 대하여 적절한 지원을 할 수 있습니다. 이는 노인복지법 제8조에서 규정하고 있습니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "28"
+    }
+}

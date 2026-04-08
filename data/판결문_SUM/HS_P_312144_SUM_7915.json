@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312144",
+        "caseName": "일반교통방해",
+        "caseNum": "2024고정11",
+        "sentenceDate": "2024.04.30",
+        "courtName": "창원지방법원 거창지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "마을 이장으로, 사찰에 방문하는 사람들로 인한 쓰레기 및 교통문제로 인해 화가 나 사찰 방문객들의 통행을 방해하기 위해 트랙터로 볏짚 6개를 진입로에 세워 놓았습니다. 이로 인해 방문객들의 통행이 심각하게 곤란해졌습니다. 법원은 피고인을 벌금 100만 원에 처하고, 1년간 집행을 유예하였습니다.",
+        "originwordCnt": "251",
+        "labelwordCnt": "38"
+    }
+}

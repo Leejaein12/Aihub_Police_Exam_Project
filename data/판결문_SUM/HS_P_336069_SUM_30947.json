@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336069",
+        "caseName": "건조물침입등",
+        "caseNum": "2024고단1849",
+        "sentenceDate": "2024.07.25",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "식당에 침입하여, 피해자의 휴대전화와 현금, 신용카드를 절취한 혐의를 받고 있습니다. 또한, 같은 날 편의점에서 절취한 신용카드를 사용하여 담배를 편취한 혐의도 있습니다. 법원은 피고인이 반성을 하고 있으며, 범행 당시 생활고를 겪었던 점을 고려하여 징역 6개월의 형을 선고하였으나, 집행유예를 결정하였습니다.",
+        "originwordCnt": "252",
+        "labelwordCnt": "38"
+    }
+}

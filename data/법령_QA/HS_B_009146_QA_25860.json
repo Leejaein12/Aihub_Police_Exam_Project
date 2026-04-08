@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009146",
+        "promulgDate": "20220426",
+        "effectDate": "20230427",
+        "promulgNum": "18846",
+        "title": "국가인권위원회법",
+        "ministry": "국가인권위원회",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가인권위원회의 상임위원회와 소위원회는 어떻게 구성되나요?",
+        "output": "국가인권위원회의 상임위원회는 위원장과 상임위원으로 구성하고, 소위원회는 3명 이상 5명 이하의 위원으로 구성됩니다. 이는 국가인권위원회법 제12조 제2항에 근거합니다.",
+        "originwordCnt": "67",
+        "labelwordCnt": "17"
+    }
+}

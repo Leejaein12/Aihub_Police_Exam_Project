@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "99173",
+        "caseName": "증거보전청구기각에관한재항고",
+        "caseNum": "84모15",
+        "sentenceDate": "1984.03.29",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "재심청구사건에서 증거보전절차를 이용할 수 있나요?",
+        "output": "재심청구사건에서는 증거보전절차가 허용되지 않으며, 이는 증거보전이 제1심 제1회 공판기일 전에만 허용되는 절차이기 때문입니다. 형사소송법 제184조에 따르면, 재심청구사건에는 증거보전절차가 적용되지 않습니다.",
+        "originwordCnt": "55",
+        "labelwordCnt": "20"
+    }
+}

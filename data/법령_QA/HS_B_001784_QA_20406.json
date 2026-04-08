@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001784",
+        "promulgDate": "20211221",
+        "effectDate": "20230622",
+        "promulgNum": "18626",
+        "title": "혈액관리법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "대가적 급부를 받거나 받기로 하고 혈액을 매매하는 행위가 가능한가요?",
+        "output": "'혈액관리법' 제3조제1항에 따르면, 누구든지 금전, 재산상의 이익 또는 그 밖의 대가적 급부를 받거나 받기로 하고 자신의 혈액을 제공하거나 제공할 것을 약속해서는 안 됩니다.",
+        "originwordCnt": "83",
+        "labelwordCnt": "23"
+    }
+}

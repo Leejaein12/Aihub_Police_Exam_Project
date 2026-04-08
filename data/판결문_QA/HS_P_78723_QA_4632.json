@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78723",
+        "caseName": "업무방해·사기미수",
+        "caseNum": "2006노790",
+        "sentenceDate": "2007.06.01",
+        "courtName": "의정부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "자동무효약정이 포함된 계약에서 잔금 지급 기일을 넘긴 경우, 매매계약의 효력은 어떻게 되나요?",
+        "output": "자동무효약정이 포함된 계약에서 매수인이 잔금 지급 기일을 넘기면, 매매계약은 별도의 해제 절차 없이 자동으로 실효됩니다. 이는 형법 제30조에 따른 것입니다.",
+        "originwordCnt": "2682",
+        "labelwordCnt": "20"
+    }
+}

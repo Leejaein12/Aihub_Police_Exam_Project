@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010052",
+        "promulgDate": "20210406",
+        "effectDate": "20210421",
+        "promulgNum": "31595",
+        "title": "치료감호 등에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "위원회는 치료감호사안을 심사할 때 어떤 자료의 송부를 요청할 수 있나요?",
+        "output": "치료감호 등에 관한 법률 시행령 제16조에 따르면 검사, 치료감호시설의 장 또는 보호관찰관에게 치료감호사안 조사기록, 형 및 치료감호 집행기록 또는 보호관찰부 등 심사 자료의 송부를 요청할 수 있습니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "27"
+    }
+}

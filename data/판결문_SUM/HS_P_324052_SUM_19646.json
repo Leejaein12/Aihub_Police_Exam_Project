@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "324052",
+        "caseName": "사기등",
+        "caseNum": "2023노1124",
+        "sentenceDate": "2024.05.23",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사기 및 범죄수익은닉 관련 사건에서 원심 판결은 너무 가벼워 부당하다고 판단되었습니다. 검사는 항소를 통해 기존 판결을 병합하여 심리할 것을 요청하였고, 이 법원은 원심의 형이 경합범 관계에 있어 하나의 형으로 선고되어야 함을 인정하였습니다. 따라서 모든 원심 판결을 파기하고, 징역 2년을 선고하되, 이 판결 확정일부터 3년간 집행을 유예하기로 하였습니다.",
+        "originwordCnt": "389",
+        "labelwordCnt": "47"
+    }
+}

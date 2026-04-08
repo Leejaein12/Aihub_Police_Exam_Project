@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005988",
+        "promulgDate": "20211231",
+        "effectDate": "20220101",
+        "promulgNum": "03016",
+        "title": "형사소송규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제62조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "압수수색조서에는 어떠한 내용이 기재되어야 하나요?",
+        "output": "형사소송규칙 제62조에 따르면 압수수색에 있어서 형사소송규칙 제61조의 규정에 의한 증명서 또는 목록을 교부하거나 형사소송법 제130조의 규정에 의한 처분을 한 경우에는 압수수색의 조서에 그 취지를 기재하여야 합니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "26"
+    }
+}

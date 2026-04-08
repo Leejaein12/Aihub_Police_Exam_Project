@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313461",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고정1133",
+        "sentenceDate": "2024.01.17",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.080% 상태로 전기삼륜차를 약 300m 구간 운전하여 도로교통법 제148조의2 제3항 제2호 및 제44조 제1항을 위반하였습니다. 죄질이 가볍지 않으나, 반성하고 초범인 점, 경제적 어려움을 겪고 있는 점 등을 고려하여 법원은 벌금 400만원을 선고하였습니다.",
+        "originwordCnt": "166",
+        "labelwordCnt": "33"
+    }
+}

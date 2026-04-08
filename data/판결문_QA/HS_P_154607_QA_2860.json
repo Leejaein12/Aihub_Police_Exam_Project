@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "154607",
+        "caseName": "반공법위반",
+        "caseNum": "72도1543",
+        "sentenceDate": "1972.08.29",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "북괴지역으로 탈출하려다 검거된 경우, 탈출죄의 실행 착수가 인정될 수 있나요?",
+        "output": "북괴지역으로 탈출할 목적으로 일반인의 출입이 통제된 지역에 들어가 휴전선을 향해 북상하다가 검거된 경우, 이는 반공법 제6조 소정의 탈출죄의 실행 착수가 있었다고 인정됩니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "22"
+    }
+}

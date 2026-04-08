@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010168",
+        "promulgDate": "20240213",
+        "effectDate": "20240514",
+        "promulgNum": "20275",
+        "title": "풍수해ㆍ지진재해보험법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제32조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "풍수해ㆍ지진재해보험사업자는 보험가입자에게 무엇을 알려야 합니까?",
+        "output": "풍수해ㆍ지진재해보험법 제32조에 제1항에 명시된 바와 같이, 보험사업자는 행정안전부령으로 정하는 바에 따라 보험가입자에게 보험료와 납부기한 등을 알려야 합니다.",
+        "originwordCnt": "46",
+        "labelwordCnt": "17"
+    }
+}

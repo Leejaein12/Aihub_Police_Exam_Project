@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000319",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "소금산업 진흥법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제64조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "과실로 기름을 배출한 경우 어떤 처벌을 받습니까?",
+        "output": "소금산업 진흥법 제64조에 따르면 과실로 제31조 제1항 제1호 또는 제2호를 위반하여 오염물질 중 「해양환경관리법」 제2조 제5호에 따른 기름을 배출한 자는 3년 이하의 징역 또는 3천만원 이하의 벌금에 처합니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "28"
+    }
+}

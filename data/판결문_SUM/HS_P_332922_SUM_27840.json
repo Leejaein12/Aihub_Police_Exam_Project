@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332922",
+        "caseName": "강제추행",
+        "caseNum": "2022노2249",
+        "sentenceDate": "2023.09.08",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "강제추행 사건에 대한 항소가 기각되었습니다. 항소인은 피해자와의 대화 중 경미한 신체 접촉을 주장하였으나, 원심은 피해자의 진술이 일관되며 신빙성이 높다고 판단하였습니다. 또한, 원심의 형량이 합리적이고 과도하지 않다고 여겨지며, 항소인은 새로운 양형 자료를 제출하지 않았습니다. 이로 인해 항소는 이유가 없어 기각되었습니다.",
+        "originwordCnt": "462",
+        "labelwordCnt": "39"
+    }
+}

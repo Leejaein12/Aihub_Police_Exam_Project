@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319505",
+        "caseName": "절도",
+        "caseNum": "2023고정1389",
+        "sentenceDate": "2023.12.06",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "과거 상해죄로 징역형을 확정받은 전력이 있는 상태에서, 2022년 4월 피해자가 쌓아둔 알루미늄 약 50kg을 리어카에 싣고 절취한 사실이 인정되었습니다. 피고인의 절도 행위에 대해 형법 제329조를 적용하여 벌금 백만원을 선고하였으며, 경합범 관계로 형법 제37조 후단 및 제39조 제1항을 준용하였습니다.",
+        "originwordCnt": "185",
+        "labelwordCnt": "38"
+    }
+}

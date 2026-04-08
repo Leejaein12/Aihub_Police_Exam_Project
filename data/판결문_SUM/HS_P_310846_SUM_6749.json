@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310846",
+        "caseName": "경범죄처벌법위반",
+        "caseNum": "2023고단3905",
+        "sentenceDate": "2024.07.04",
+        "courtName": "인천지방법원 부천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공공장소인 경찰 지구대 앞 노상에서 함부로 대소변을 본 혐의로 재판을 받았습니다. 법원은 피고인의 행위가 경범죄처벌법을 위반한 것으로 판단하여 벌금 10만 원을 선고했습니다. 피고인이 벌금을 납부하지 않을 경우 5만 원을 1일로 환산하여 노역장에 유치하도록 명령했으며, 또한 벌금에 해당하는 금액을 미리 납부할 것을 명했습니다.",
+        "originwordCnt": "98",
+        "labelwordCnt": "42"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013976",
+        "promulgDate": "20240524",
+        "effectDate": "20240524",
+        "promulgNum": "00483",
+        "title": "경찰수사규칙",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제68조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사법경찰관이 압수물을 폐기하는 경우 작성해야 하는 서류와 추가적으로 해야 할 일은 무엇인가요?",
+        "output": "경찰수사규칙 제68조제2항에 따르면, 사법경찰관은 압수물을 폐기하는 경우, 별지 제78호서식의 압수물 폐기 조서를 작성하고 사진을 촬영하여 사건기록에 편철해야 합니다.",
+        "originwordCnt": "70",
+        "labelwordCnt": "18"
+    }
+}

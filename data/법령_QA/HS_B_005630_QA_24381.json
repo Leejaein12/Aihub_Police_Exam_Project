@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005630",
+        "promulgDate": "20200805",
+        "effectDate": "20200805",
+        "promulgNum": "30909",
+        "title": "형의 집행 및 수용자의 처우에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제124조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소속 교정시설의 보호장비 사용 실태는 점검하지 않아도 되나요?",
+        "output": "형의 집행 및 수용자의 처우에 관한 법률 시행령 제124조 제2항에 따르면 지방교정청장은 소속 교정시설의 보호장비 사용 실태를 정기적으로 점검하여야 합니다.",
+        "originwordCnt": "25",
+        "labelwordCnt": "20"
+    }
+}

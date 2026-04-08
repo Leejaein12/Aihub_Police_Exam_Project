@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제77조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "둘 이상의 토지를 소유한 자가 건축협정을 체결할 수 있는 경우는 무엇입니까?",
+        "output": "둘 이상의 토지를 소유한 자가 1인인 경우에도 해당 토지의 구역을 건축협정 대상 지역으로 할 수 있으며, 이 경우 해당 토지 소유자 1인을 건축협정 체결자로 봅니다. 이는 건축법 제77조의4 제2항에 규정되어 있습니다.",
+        "originwordCnt": "331",
+        "labelwordCnt": "31"
+    }
+}

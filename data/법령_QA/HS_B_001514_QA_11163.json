@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001514",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19746",
+        "title": "농약관리법",
+        "ministry": "농림축산식품부,농촌진흥청",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "품목등록 취소나 제한처분이 이루어진 경우, 농촌진흥청장은 어떻게 공지하나요?",
+        "output": "농약관리법 제14조 제9항에 따르면, 농촌진흥청장은 제1항이나 제2항에 따라 품목등록을 취소하거나 제한처분을 하였을 때, 그 품목과 등록취소 또는 제한 내용을 고시하여야 합니다.",
+        "originwordCnt": "343",
+        "labelwordCnt": "21"
+    }
+}

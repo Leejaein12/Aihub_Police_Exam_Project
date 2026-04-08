@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010000",
+        "promulgDate": "20221115",
+        "effectDate": "20221115",
+        "promulgNum": "19022",
+        "title": "공유재산 및 물품 관리법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "지방자치단체의 장은 소속 공무원에게 공유재산의 관리 및 처분을 위임할 수 있습니까?",
+        "output": "공유재산 및 물품 관리법 제14조 제1항에 따르면, 지방자치단체의 장은 소관 공유재산을 관리·처분할 수 있으며, 이를 소속 공무원에게 위임할 수 있다고 명시되어 있습니다.",
+        "originwordCnt": "80",
+        "labelwordCnt": "22"
+    }
+}

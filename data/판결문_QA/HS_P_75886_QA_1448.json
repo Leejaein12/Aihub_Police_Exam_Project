@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "75886",
+        "caseName": "교통사고처리특례법위반등피고사건",
+        "caseNum": "84고단2914",
+        "sentenceDate": "1984.07.05",
+        "courtName": "서울형사지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "경운기가 구 도로교통법 제2조 제10호 소정의 자동차에 포함되나요?",
+        "output": "경운기는 농업기계화촉진법 제2조에서 규정한 농업기계의 일종으로, 도로운송차량법시행규칙 별표1에 기재된 자동차의 어느 것에도 해당하지 않기 때문에 구 도로교통법 제2조 제10호에서 말하는 자동차에는 포함되지 않습니다.",
+        "originwordCnt": "87",
+        "labelwordCnt": "23"
+    }
+}

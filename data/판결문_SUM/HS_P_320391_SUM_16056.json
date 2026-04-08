@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "320391",
+        "caseName": "사기",
+        "caseNum": "2022노3744",
+        "sentenceDate": "2023.09.08",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "1억 2,774만 3천 원을 편취한 혐의로 기소되어 1심에서 징역 1년이 선고되었으나, 항소심에서 양형 부당을 이유로 항소했습니다. 법원은 피고인이 피해금액의 일부를 변제하였고, 피해자가 처벌을 원하지 않는 점, 피고인이 범행을 인정하고 반성하는 점 등을 참작하여 원심 판결을 파기하고, 징역 1년에 집행유예 2년과 80시간의 사회봉사를 명했습니다.",
+        "originwordCnt": "1219",
+        "labelwordCnt": "43"
+    }
+}

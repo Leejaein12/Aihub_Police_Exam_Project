@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337084",
+        "caseName": "모욕",
+        "caseNum": "2023고정125",
+        "sentenceDate": "2023.10.12",
+        "courtName": "수원지방법원 여주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "다수의 사람들이 있는 상황에서 상대방에게 잘났다. 서방까지 죄다 잡아 처먹은 년이라고 말하여 공연히 모욕한 혐의로 기소되었습니다. 법원은 이러한 발언이 상대방의 명예를 저하할 수 있는 경멸적 표현임을 인정하고, 형법 제311조에 따라 벌금 50만 원을 선고했습니다.",
+        "originwordCnt": "304",
+        "labelwordCnt": "34"
+    }
+}

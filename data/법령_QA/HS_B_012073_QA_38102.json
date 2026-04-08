@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012073",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19623",
+        "title": "공공단체등 위탁선거에 관한 법률",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공공단체등 위탁선거에 관한 법률상 위탁단체란 무엇을 의미하나요?",
+        "output": "공공단체등 위탁선거에 관한 법률 제3조 제2호에 따르면, 위탁단체란 임원 등의 선출을 위한 선거의 관리를 선거관리위원회에 위탁하는 공공단체등을 의미합니다.",
+        "originwordCnt": "268",
+        "labelwordCnt": "18"
+    }
+}

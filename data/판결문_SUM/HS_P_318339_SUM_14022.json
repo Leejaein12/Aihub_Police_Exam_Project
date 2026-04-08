@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318339",
+        "caseName": "업무방해",
+        "caseNum": "2024고정45",
+        "sentenceDate": "2024.01.31",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "약식명령으로 벌금 700만 원을 선고받았으나, 이를 송달받은 후 7일 이내에 정식재판을 청구하지 않았습니다. 이후 2023년 11월 15일에 정식재판청구권 회복을 신청했지만 기각되었고, 다시 정식재판을 청구했으나 이미 청구권이 소멸된 후였습니다. 법원은 피고인의 정식재판 청구가 적법하지 않다고 판단하여 이를 기각하였습니다.",
+        "originwordCnt": "232",
+        "labelwordCnt": "37"
+    }
+}

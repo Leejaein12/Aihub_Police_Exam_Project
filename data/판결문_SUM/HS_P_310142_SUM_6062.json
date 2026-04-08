@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310142",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고단686",
+        "sentenceDate": "2024.07.04",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주운전으로 형사처벌을 받은 전력이 있습니다. 피고인은 혈중알코올농도 0.147%의 술에 취한 상태에서 차량을 운전하여 도로교통법을 위반하였습니다. 이로 인해 피고인은 징역 1년에 처해지지만, 판결 확정일로부터 2년간 집행이 유예되며 보호관찰과 준법운전강의 수강이 명령되었습니다.",
+        "originwordCnt": "229",
+        "labelwordCnt": "30"
+    }
+}

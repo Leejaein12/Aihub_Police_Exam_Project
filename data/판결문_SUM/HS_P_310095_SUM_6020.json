@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310095",
+        "caseName": "근로기준법위반",
+        "caseNum": "2024고정604",
+        "sentenceDate": "2024.08.14",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "소매업체의 사용자로서 근로자들에게 임금 및 금품을 지급해야 할 의무가 있음에도 불구하고, 퇴직한 근로자 5명에게 지급해야 할 임금을 정해진 기간 내에 지급하지 않았습니다. 피고인의 이러한 행위는 근로기준법 제36조 및 제109조 제1항에 위반되는 것으로 판단되어 벌금 100만 원이 선고되었습니다.",
+        "originwordCnt": "193",
+        "labelwordCnt": "37"
+    }
+}

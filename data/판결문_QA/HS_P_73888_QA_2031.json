@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "73888",
+        "caseName": "마약법위반피고사건",
+        "caseNum": "75노347",
+        "sentenceDate": "1975.12.30",
+        "courtName": "광주고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공동정범으로 공소가 제기된 경우, 법원이 종범의 성립을 인정할 수 있나요?",
+        "output": "공동정범으로 공소가 제기된 경우에도 법원이 형사소송법 제298조에 따라 피고인의 행위를 종범으로 인정하더라도, 이는 심판의 범위를 벗어나는 위법을 범한 것이 아니므로 적법합니다.",
+        "originwordCnt": "29",
+        "labelwordCnt": "21"
+    }
+}

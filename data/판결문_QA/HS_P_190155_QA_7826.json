@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "190155",
+        "caseName": "강간등피고사건",
+        "caseNum": "79노27",
+        "sentenceDate": "1979.05.04",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법정대리인의 고소권에 따른 고소기간은 언제부터 시작되나요?",
+        "output": "법정대리인의 고소기간은 피해자가 범인을 알게 된 날이 아니라, 법정대리인이 범인을 알게 된 날로부터 기산합니다. 따라서 고소기간은 법정대리인의 인식을 기준으로 형사소송법 제230조에 따라 정해집니다.",
+        "originwordCnt": "665",
+        "labelwordCnt": "23"
+    }
+}

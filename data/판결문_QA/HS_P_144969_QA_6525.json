@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "144969",
+        "caseName": "사기·절도",
+        "caseNum": "2009고단382",
+        "sentenceDate": "2010.02.04",
+        "courtName": "대구지방법원안동지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인 1과 피고인 2에게 각각 어떤 형벌이 선고되었나요?",
+        "output": "법원은 피고인 1에게 징역 8월의 형을 선고하였고, 피고인 2에게는 징역 1년 6월의 형을 선고하였습니다. 이러한 형벌은 각 피고인의 범죄 사실과 법률에 근거하여 결정된 것입니다.",
+        "originwordCnt": "1940",
+        "labelwordCnt": "24"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001780",
+        "promulgDate": "20240213",
+        "effectDate": "20240517",
+        "promulgNum": "20309",
+        "title": "의료급여법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제34조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "특별시장이나 도지사에게 징수, 지급 또는 반환하지 않는 경우는 언제인가요?",
+        "output": "의료급여법 제34조 제2항 규정에 따르면 특별시장ㆍ광역시장ㆍ도지사 및 시장ㆍ군수ㆍ구청장은 징수ㆍ지급 또는 반환하여야 할 금액이 건당 2천원 미만인 경우에는 이를 징수ㆍ지급 또는 반환하지 아니합니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "22"
+    }
+}

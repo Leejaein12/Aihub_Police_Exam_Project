@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000583",
+        "promulgDate": "20200331",
+        "effectDate": "20200701",
+        "promulgNum": "17142",
+        "title": "담배사업법",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제11조의5",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "화재방지성능인증을 위한 절차와 기준은 어떻게 정해지나요?",
+        "output": "담배사업법 제11조의5 제4항에 따르면 화재방지성능인증을 위한 시험항목, 성능기준 및 수수료 등에 관한 사항과 화재방지성능인증 신청 및 성능인증서 발급절차 등에 관하여 필요한 사항은 대통령령으로 정합니다.",
+        "originwordCnt": "105",
+        "labelwordCnt": "24"
+    }
+}

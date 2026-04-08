@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001855",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19117",
+        "title": "한국가스공사법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국가스공사의 사장은 대리인을 어떻게 선임할 수 있나요?",
+        "output": "'한국가스공사법' 제9조에 따르면, 한국가스공사 사장은 정관으로 정하는 바에 따라 직원 중에서 공사의 업무에 관한 재판상 또는 재판 외의 모든 행위를 할 수 있는 권한을 가진 대리인을 선임할 수 있습니다.",
+        "originwordCnt": "27",
+        "labelwordCnt": "29"
+    }
+}

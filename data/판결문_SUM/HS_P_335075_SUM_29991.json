@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335075",
+        "caseName": "근로자퇴직급여보장법위반",
+        "caseNum": "2024고단1387",
+        "sentenceDate": "2024.06.17",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "주식회사 D의 대표로서 근로자 E에게 퇴직금을 법정 기한 내에 지급하지 않아 근로자퇴직급여보장법 위반 혐의로 기소되었습니다. 그러나 피해자인 E가 피고인과 원만히 합의하였고, 처벌을 원하지 않는다는 처벌불원서를 제출하였으므로, 피해자의 명시적인 의사에 반하여 공소를 제기할 수 없다는 법리에 따라 공소가 기각되었습니다.",
+        "originwordCnt": "192",
+        "labelwordCnt": "38"
+    }
+}

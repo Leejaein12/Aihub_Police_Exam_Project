@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "003047",
+        "promulgDate": "20220630",
+        "effectDate": "20220701",
+        "promulgNum": "32737",
+        "title": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 시행령",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제18조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군교도관의 수용기록부 열람은 어떤 경우에 제한되나요?",
+        "output": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 시행령 제18조 제2항에 의하면, 소장은 업무상 필요한 경우가 아니면 군교도관이 수용기록부를 열람하지 못하도록 하여야 합니다.",
+        "originwordCnt": "68",
+        "labelwordCnt": "23"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155017",
+        "caseName": "군무이탈",
+        "caseNum": "71도1279",
+        "sentenceDate": "1971.08.31",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "징역형 또는 금고형의 집행일수가 병역법에 따른 복무기간에 포함되나요?",
+        "output": "징역형 또는 금고형의 집행일수는 병역법 제37조 제1항 및 제44조에 따라 복무기간에 포함되지 않습니다. 따라서 복무기간 계산 시 해당 일수는 산입되지 않습니다.",
+        "originwordCnt": "18",
+        "labelwordCnt": "21"
+    }
+}

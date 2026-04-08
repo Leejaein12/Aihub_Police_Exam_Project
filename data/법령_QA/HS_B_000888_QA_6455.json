@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000888",
+        "promulgDate": "20221213",
+        "effectDate": "20230614",
+        "promulgNum": "19066",
+        "title": "사립학교법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제28조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "수업료와 학교운영지원비에 대한 예금채권은 압류될 수 있나요?",
+        "output": "사립학교법 제28조 제3항에 따르면, 수업료와 학교운영지원비에 대한 예금채권은 압류할 수 없습니다.",
+        "originwordCnt": "112",
+        "labelwordCnt": "11"
+    }
+}

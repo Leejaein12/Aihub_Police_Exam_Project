@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328061",
+        "caseName": "스토킹범죄의처벌등에관한법률위반등",
+        "caseNum": "2023고정294",
+        "sentenceDate": "2023.05.11.",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피해자에게 지속적으로 스토킹을 하였고, 특정 피고인은 폭행을 가하였습니다. 그러나 피해자는 공소 제기 후 처벌을 원하지 않는 의사를 표시하였으므로, 스토킹 범죄의 처벌 등에 관한 법률 제18조 제1항과 형법 제260조 제1항에 의거하여 공소를 제기할 수 없는 사건으로 판단되어 공소를 모두 기각하였습니다.",
+        "originwordCnt": "300",
+        "labelwordCnt": "39"
+    }
+}

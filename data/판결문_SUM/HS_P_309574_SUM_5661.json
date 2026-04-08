@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "309574",
+        "caseName": "경범죄처벌법위반",
+        "caseNum": "2021고정493",
+        "sentenceDate": "2022. 4. 20.",
+        "courtName": "창원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "여러 차례 공개된 장소에서 신체의 주요 부위인 엉덩이를 노출하여 타인에게 부끄러운 느낌과 불쾌감을 준 혐의로 기소되었습니다. 법원은 실내 카페와 거리 등에서 공공연하게 노출을 하여 경범죄처벌법 제3조 제1항 제33호에 해당한다고 판단하고, 벌금 15만 원을 선고하였습니다.",
+        "originwordCnt": "510",
+        "labelwordCnt": "34"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001777",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "노인복지법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제37조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "전기판매사업자나 전기통신사업자는 경로당에 대해 어떤 요금을 감면할 수 있습니까?",
+        "output": "노인복지법 제37조의3 제1항에 따르면 「전기사업법」에 따른 전기판매사업자와 「전기통신사업법」에 따른 전기통신사업자는 경로당에 대해 각각 전기요금과 전기통신요금을 감면할 수 있습니다.",
+        "originwordCnt": "40",
+        "labelwordCnt": "18"
+    }
+}

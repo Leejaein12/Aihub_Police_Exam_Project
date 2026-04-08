@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315086",
+        "caseName": "사기",
+        "caseNum": "2023고단2725",
+        "sentenceDate": "2023.09.12",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "중고차 대출을 통해 피해 회사로부터 3천만 원을 편취하고, 전세대출 사기 조직과 공모하여 청년전세대출금 1억 원을 편취한 혐의로 기소되었습니다. 피고인은 범행에 대한 죄책이 무겁고, 경제적으로 어렵다는 이유로 범죄에 가담하였으며, 피해 회사에 재산적 피해를 주었습니다. 이러한 이유로 법원은 피고인에게 징역 8개월을 선고하였습니다.",
+        "originwordCnt": "768",
+        "labelwordCnt": "40"
+    }
+}

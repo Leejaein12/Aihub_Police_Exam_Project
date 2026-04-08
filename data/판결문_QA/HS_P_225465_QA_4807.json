@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "225465",
+        "caseName": "특정범죄가중처벌등에관한법률위반(절도)·주거침입",
+        "caseNum": "2019고단2688",
+        "sentenceDate": "2019.08.29",
+        "courtName": "의정부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "동종 절도범죄로 여러 차례 처벌받았음에도 다시 절도범행을 저지른 경우 어떻게 판단되었나요?",
+        "output": "동종 절도범죄로 여러 차례 처벌을 받은 상황에서 다시 절도범행을 저지른 점을 불리한 정상으로 고려하여, 징역 2년의 실형을 선고하고 압수된 증 제9호를 몰수하였습니다.",
+        "originwordCnt": "497",
+        "labelwordCnt": "22"
+    }
+}

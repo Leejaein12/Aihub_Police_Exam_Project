@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011168",
+        "promulgDate": "20220610",
+        "effectDate": "20220610",
+        "promulgNum": "18913",
+        "title": "석면피해구제법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제47조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "환경부장관은 평가를 실시할 때 어떤 절차를 따라야 하나요?",
+        "output": "환경부장관은 평가를 실시할 때, 대통령령으로 정하는 바에 따라 평가의 기준, 시기 등을 평가 대상 석면환경보건센터의 장에게 미리 알려주어야 합니다. 이는 「석면피해구제법」 제47조의3 제2항에 명시되어 있습니다.",
+        "originwordCnt": "105",
+        "labelwordCnt": "25"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "99509",
+        "caseName": "변호사법위반",
+        "caseNum": "84도1083",
+        "sentenceDate": "1984.07.10",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "소송을 돕는 과정에서 사례금을 받을 수 있다고 생각한 것만으로 변호사법 위반이 되나요?",
+        "output": "변호사가 아닌 자가 소송을 돕는 과정에서 내심으로 금품을 받을 수 있다고 생각하였더라도, 당사자 간에 금품수수의 구체적인 약정이 없었다면 변호사법 제78조 제2호 위반이 성립되지 않습니다.",
+        "originwordCnt": "301",
+        "labelwordCnt": "24"
+    }
+}

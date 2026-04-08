@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001805",
+        "promulgDate": "20240213",
+        "effectDate": "20240514",
+        "promulgNum": "20307",
+        "title": "식품위생법",
+        "ministry": "식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제49조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "식품이력추적관리 등록 신청은 얼마나 걸리나요?",
+        "output": "식품위생법 제49조 제8항에 따르면, 식품의약품안전처장은 제1항에 따른 등록 신청을 받은 날부터 40일 이내에 등록 여부를 통지하여야 하며, 제3항에 따른 변경신고는 15일 이내에 신고수리 여부를 통지하여야 합니다.",
+        "originwordCnt": "282",
+        "labelwordCnt": "26"
+    }
+}

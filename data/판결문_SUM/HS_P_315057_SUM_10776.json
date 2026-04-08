@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315057",
+        "caseName": "특수절도",
+        "caseNum": "2023고단227",
+        "sentenceDate": "2023.11.02",
+        "courtName": "수원지방법원 여주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "도로교통법 위반으로 벌금형 처벌을 받은 전력이 있으며, 혈중알코올농도 0.068%의 술에 취한 상태로 차량을 운전한 사실이 확인되었습니다. 이로 인해 피고인은 도로교통법 위반으로 징역 6개월을 선고받았으나, 형의 집행은 2년간 유예되었고, 준법운전 강의 수강을 명령받았습니다.",
+        "originwordCnt": "224",
+        "labelwordCnt": "32"
+    }
+}

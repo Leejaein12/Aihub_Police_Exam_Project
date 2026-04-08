@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000202",
+        "promulgDate": "20240123",
+        "effectDate": "20240424",
+        "promulgNum": "20098",
+        "title": "사회복지사업법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제6조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사회복지법인의 대표이사와 사회복지시설의 장은 사회복지업무의 전자화 시책에 대해 어떤 의무를 가지나요?",
+        "output": "사회복지사업법 제6조의2 제4항에 따르면, 사회복지법인의 대표이사와 사회복지시설의 장은 국가와 지방자치단체가 실시하는 사회복지업무의 전자화 시책에 협력하여야 합니다.",
+        "originwordCnt": "111",
+        "labelwordCnt": "16"
+    }
+}

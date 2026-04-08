@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001643",
+        "promulgDate": "20230816",
+        "effectDate": "20230816",
+        "promulgNum": "19626",
+        "title": "경찰공무원법",
+        "ministry": "경찰청,해양경찰청",
+        "fullText": "N",
+        "smClass": "제30조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "경찰공무원의 정년 규정은 어떻게 되나요?",
+        "output": "경찰공무원의 정년은 연령정년과 계급정년으로 나뉩니다. 연령정년은 60세이며, 계급정년은 각각 치안감은 4년, 경무관은 6년, 총경은 11년, 경정은 14년입니다. 이는 경찰공무원법 제30조에 근거합니다.",
+        "originwordCnt": "235",
+        "labelwordCnt": "21"
+    }
+}

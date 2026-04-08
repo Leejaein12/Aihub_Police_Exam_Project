@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317773",
+        "caseName": "특수폭행등",
+        "caseNum": "2024고단719",
+        "sentenceDate": "2024.07.09",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "특수폭행 및 상해를 가한 혐의로 기소되었습니다. 피고인 B는 우산으로 피해자 A를 여러 차례 폭행하고 상해를 입혔으며, 피고인 A는 같은 날 우산과 주먹으로 피해자 B를 폭행하고 상해를 입혔습니다. 법원은 피고인들이 범행을 인정하고, 피해자들이 처벌을 원하지 않는 점 등을 참작하여 피고인들에게 각 징역 6개월을 선고하였으나, 1년간 집행을 유예했습니다.",
+        "originwordCnt": "549",
+        "labelwordCnt": "46"
+    }
+}

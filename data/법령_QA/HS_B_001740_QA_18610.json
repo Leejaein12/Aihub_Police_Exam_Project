@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001740",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19772",
+        "title": "선원법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제112조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "해양수산부장관이 점검 결과 위반 사항을 발견한 경우 취할 수 있는 조치는 무엇인가요?",
+        "output": "선원법 제112조 제11항에 따르면, 해양수산부장관은 제10항에 따른 점검 결과 선원관리사업자가 제9항 제1호의 사항을 위반한 때에는 시정명령을 할 수 있습니다.",
+        "originwordCnt": "246",
+        "labelwordCnt": "19"
+    }
+}

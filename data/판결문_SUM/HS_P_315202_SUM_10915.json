@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315202",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고정36",
+        "sentenceDate": "2023.10.17",
+        "courtName": "전주지방법원 남원지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.100% 상태에서 약 7km 구간을 오토바이로 음주 운전한 혐의로 재판에 회부되었습니다. 법원은 도로교통법 제148조의2 제3항 제2호 및 제44조 제1항을 적용하여 피고인에게 벌금 500만 원을 선고하였으며, 형법 제62조 제1항에 따라 1년간 형의 집행을 유예하였습니다.",
+        "originwordCnt": "182",
+        "labelwordCnt": "34"
+    }
+}

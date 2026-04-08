@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "214945",
+        "caseName": "특수절도",
+        "caseNum": "68도1672",
+        "sentenceDate": "1969.01.21",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "장물을 처분하여 그 대가로 취득한 압수물은 어떻게 처리해야 하나요?",
+        "output": "장물을 처분하여 그 대가로 취득한 압수물은 몰수할 것이 아니라, 형사소송법 제333조 제2항에 따라 피해자에게 교부하여야 합니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "16"
+    }
+}

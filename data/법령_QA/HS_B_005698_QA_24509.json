@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005698",
+        "promulgDate": "20240125",
+        "effectDate": "20240131",
+        "promulgNum": "03125",
+        "title": "가정보호심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제30조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "수탁기관의 장은 가정보호사건에 대한 위탁종료 시 어떤 서류를 법원에 제출해야 하나요?",
+        "output": "가정보호심판규칙 제31조 제1항에 의거하여, 수탁기관의 장은 위탁종료 시 법원에 구체적인 산출근거를 상세히 기재한 비용산정서 및 청구서를 제출하여야 합니다.",
+        "originwordCnt": "99",
+        "labelwordCnt": "18"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86163",
+        "caseName": "상해치사",
+        "caseNum": "4288형상128",
+        "sentenceDate": "1955.07.15",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "어떤 사실을 인정하기 위해 필요한 전제 사실이 있는 경우, 그 전제 사실은 어떻게 확인해야 하나요?",
+        "output": "형사소송법 제307조에 따르면, 어떤 사실을 인정하기 위해 필요한 전제 사실이 있는 경우, 그 전제 사실은 반드시 증거에 의해 확정되어야 합니다. 이를 통해 해당 사실이 증거에 의해 뒷받침되는지를 판단해야 합니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "29"
+    }
+}

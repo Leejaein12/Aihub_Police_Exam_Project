@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155904",
+        "caseName": "특수절도",
+        "caseNum": "69도269",
+        "sentenceDate": "1969.04.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "미결구금일수를 본형에 산입하는 것은 법원의 재량에 속하나요?",
+        "output": "형법 제57조에 따르면, 법률상 미결구금일수를 당연히 통산해야 할 경우가 아닌 경우에는 미결구금일수를 본형에 산입할지 여부는 법원의 재량에 속합니다. 법원은 미결구금일수 중 전부 또는 일부를 본형에 산입할지 여부를 판단할 수 있으며, 이는 법원의 판단에 따라 결정됩니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "35"
+    }
+}

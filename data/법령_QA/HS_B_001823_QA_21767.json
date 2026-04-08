@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "건축물의 건축을 위해 지하를 굴착할 때, 어떤 제한사항이 있나요?",
+        "output": "건축물의 건축 등을 위하여 지하를 굴착하는 경우에는 민법 제244조제1항을 적용하지 않습니다. 그러나, 안전을 위해 필요한 조치를 하여 위해를 방지하여야 합니다. 이는 건축법 제9조제1항에 명시되어 있습니다.",
+        "originwordCnt": "32",
+        "labelwordCnt": "25"
+    }
+}

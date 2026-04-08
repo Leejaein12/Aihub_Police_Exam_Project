@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000123",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19965",
+        "title": "고용정책 기본법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제9조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "고용노동부장관은 일자리 창출대책의 효과를 높이기 위해 어떤 의견을 제시할 수 있습니까?",
+        "output": "고용정책 기본법 제9조의2제5항에 따르면 고용노동부장관은 일자리 창출대책의 효과를 높이기 위하여 관련 의견을 해당 지방자치단체의 장에게 제시할 수 있습니다.",
+        "originwordCnt": "133",
+        "labelwordCnt": "18"
+    }
+}

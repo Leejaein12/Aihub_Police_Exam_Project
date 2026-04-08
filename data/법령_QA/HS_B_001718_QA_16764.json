@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001718",
+        "promulgDate": "20231226",
+        "effectDate": "20240627",
+        "promulgNum": "19854",
+        "title": "공직자윤리법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제14조의16",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "기관의 장이 소속 공직자의 부동산 취득을 제한하려는 경우, 어떤 절차를 따라야 합니까?",
+        "output": "공직자윤리법 제14조의16 제2항에 근거하여, 각 기관의 장은 제1항에 따라 소속 공직자의 부동산 취득을 제한하려는 경우에는 그 제한방안을 관할 공직자윤리위원회에 보고하여야 합니다.",
+        "originwordCnt": "127",
+        "labelwordCnt": "21"
+    }
+}

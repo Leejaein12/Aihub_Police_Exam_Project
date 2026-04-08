@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011868",
+        "promulgDate": "20221115",
+        "effectDate": "20221115",
+        "promulgNum": "19046",
+        "title": "건축서비스산업 진흥법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가와 지방자치단체는 건축서비스산업의 진흥을 위해 어떤 역할을 해야 하나요?",
+        "output": "건축서비스산업 진흥법 제3조 제1항에 따르면, 국가 및 지방자치단체는 건축서비스산업의 진흥을 위한 시책을 수립하고, 그 추진에 필요한 행정적·재정적 지원방안 등을 마련하여야 합니다.",
+        "originwordCnt": "36",
+        "labelwordCnt": "21"
+    }
+}

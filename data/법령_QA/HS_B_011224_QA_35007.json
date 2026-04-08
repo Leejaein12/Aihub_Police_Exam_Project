@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011224",
+        "promulgDate": "20220630",
+        "effectDate": "20220701",
+        "promulgNum": "03055",
+        "title": "군사법원 법정 등의 질서유지를 위한 재판에 관한 규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제25조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "과태료를 부과하는 군사재판의 집행 절차는 어떤 규정에 따르나요?",
+        "output": "과태료를 부과하는 재판은 비송사건절차법 제249조에 규정된 절차에 따라 집행합니다. 이 내용은 군사법원 법정 등의 질서유지를 위한 재판에 관한 규칙 제25조의2에 명시되어 있습니다.",
+        "originwordCnt": "13",
+        "labelwordCnt": "22"
+    }
+}

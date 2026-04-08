@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86186",
+        "caseName": "수회증회",
+        "caseNum": "4288형상97",
+        "sentenceDate": "1955.07.11",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공무원이 금품을 받은 경우 사회적 의례를 넘어 뇌물성이 인정되는 기준은 무엇인가요?",
+        "output": "공무원이 금품을 받은 경우, 그 금품 수수가 사회적 의례의 범위를 벗어나면 뇌물성이 인정됩니다. 이 사건에서 60만 원의 금품이 수수된 사실은 단순한 친교의 범위를 넘어선 것으로, 공무원의 직무와 관련된 뇌물로 판단되었습니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "30"
+    }
+}

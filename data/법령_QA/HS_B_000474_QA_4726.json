@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000474",
+        "promulgDate": "20211130",
+        "effectDate": "20220101",
+        "promulgNum": "18525",
+        "title": "양곡관리법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "선금과 약정이자에 관한 사항은 어떻게 정해지나요?",
+        "output": "양곡관리법 제4조 제4항에 따라 선금, 약정이자, 그 밖에 매입약정에 필요한 사항은 대통령령으로 정합니다.",
+        "originwordCnt": "87",
+        "labelwordCnt": "13"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310734",
+        "caseName": "절도등",
+        "caseNum": "2024노370",
+        "sentenceDate": "2024.05.28",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "형량이 지나치게 무겁다고 주장하였으나, 특별한 양형조건의 변화가 없음을 확인하였습니다. 자백하였고, 범행의 죄질이 불량하며, 유사 범죄로 인한 전과가 두 차례 있었으며, 누범기간 중 다시 범행을 저질렀습니다. 이러한 여러 사정을 종합적으로 고려할 때, 원심의 형량이 지나치게 무겁다고 보기 어려워 항소는 이유가 없어 기각하였습니다.",
+        "originwordCnt": "150",
+        "labelwordCnt": "41"
+    }
+}

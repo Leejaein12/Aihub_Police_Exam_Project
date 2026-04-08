@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312502",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고정114",
+        "sentenceDate": "2023.07.20",
+        "courtName": "대구지방법원 김천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 3월 피고인은 혈중알코올농도 0.089% 상태로 약 1.5km 구간에서 음주운전을 하였습니다. 이에 법원은 피고인이 범행을 인정하고 초범인 점, 음주수치와 운행거리가 비교적 짧았던 점 등을 고려하여, 형사소송법 제334조 제1항에 따라 벌금 400만 원을 선고하였습니다.",
+        "originwordCnt": "177",
+        "labelwordCnt": "33"
+    }
+}

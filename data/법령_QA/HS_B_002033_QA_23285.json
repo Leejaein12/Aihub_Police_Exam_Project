@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002033",
+        "promulgDate": "20221227",
+        "effectDate": "20231228",
+        "promulgNum": "19138",
+        "title": "어장관리법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "어장청소를 하지 않을 경우 어떤 조치가 취해질 수 있나요?",
+        "output": "어장관리법 제12조 제4항에 따르면, 시장·군수·구청장은 어업면허, 어업허가 또는 양식업면허를 받은 자가 어장청소를 하지 않는 경우 대통령령으로 정하는 바에 따라 기간을 정하여 어장청소를 명할 수 있습니다.",
+        "originwordCnt": "116",
+        "labelwordCnt": "25"
+    }
+}

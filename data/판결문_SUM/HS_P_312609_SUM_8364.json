@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312609",
+        "caseName": "강제추행",
+        "caseNum": "2023고단3793",
+        "sentenceDate": "2024.03.14",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "게임기 등을 이용해 게임물의 이용 결과물을 환전하는 불법 영업을 운영한 혐의로 기소되었습니다. 피고인 A는 두 차례에 걸쳐 불특정 다수에게 환전 서비스를 제공하며 수익을 나누었습니다. 피고인 B는 피고인 A와 함께 이 같은 영업을 공동으로 운영하였습니다. 법원은 피고인 A에게 징역 1년, 피고인 B에게 징역 10개월 및 집행유예 2년과 사회봉사를 선고하고 각 추징금을 명하였습니다.",
+        "originwordCnt": "741",
+        "labelwordCnt": "51"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72878",
+        "caseName": "폭행치사피고사건",
+        "caseNum": "70노670",
+        "sentenceDate": "1971.10.04",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "폭행치사죄로 공소가 제기되었으나, 심리 결과 폭행 사실만 인정될 경우 법원이 폭행죄로 단죄할 수 있나요?",
+        "output": "폭행치사죄로 공소가 제기되었으나 심리 결과 폭행 사실만이 인정되는 경우, 형사소송법 제298조에 따라 검사의 공소장 변경절차 없이 법원이 폭행죄로 단죄할 수는 없습니다.",
+        "originwordCnt": "23",
+        "labelwordCnt": "21"
+    }
+}

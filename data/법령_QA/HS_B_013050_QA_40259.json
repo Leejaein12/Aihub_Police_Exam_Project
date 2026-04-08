@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013050",
+        "promulgDate": "20221115",
+        "effectDate": "20230516",
+        "promulgNum": "19027",
+        "title": "소방장비관리법",
+        "ministry": "소방청",
+        "fullText": "N",
+        "smClass": "제34조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소방기관의 장이 소방장비 사고를 보고받은 경우, 어떤 절차를 따라야 하나요?",
+        "output": "소방기관의 장은 소방장비관리법 제34조 제2항에 따라 소방장비 사고를 보고받은 경우, 행정안전부령으로 정하는 바에 따라 소방청장에게 보고하여야 합니다. 이는 소방장비관리법 제34조 제3항에 근거합니다.",
+        "originwordCnt": "98",
+        "labelwordCnt": "22"
+    }
+}

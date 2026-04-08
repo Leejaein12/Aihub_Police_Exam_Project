@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000128",
+        "promulgDate": "20210413",
+        "effectDate": "20211014",
+        "promulgNum": "18042",
+        "title": "임금채권보장법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제23조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "고용노동부장관이 임금채권보장에 관한 자료를 이용할 때 개인정보 보호를 위해 어떤 조치를 해야 하나요?",
+        "output": "고용노동부장관은 보안교육 등을 통해 사업주 또는 근로자 등의 개인정보에 대한 보호대책을 마련하여야 합니다. 이는 임금채권보장법 제23조의2 제2항에 따라 규정된 내용입니다.",
+        "originwordCnt": "171",
+        "labelwordCnt": "20"
+    }
+}

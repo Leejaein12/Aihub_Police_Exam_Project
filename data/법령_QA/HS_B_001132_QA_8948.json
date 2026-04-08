@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001132",
+        "promulgDate": "20221213",
+        "effectDate": "20230614",
+        "promulgNum": "19068",
+        "title": "가정폭력범죄의 처벌 등에 관한 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제29조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "가정폭력행위자에게 임시조치의 내용과 불복방법을 고지해야 하는 사람은 누구인가요?",
+        "output": "가정폭력범죄의 처벌 등에 관한 특례법 제29조 제9항에 따라 임시조치 결정을 집행하는 사람은 가정폭력행위자에게 임시조치의 내용, 불복방법 등을 고지하여야 합니다.",
+        "originwordCnt": "41",
+        "labelwordCnt": "19"
+    }
+}

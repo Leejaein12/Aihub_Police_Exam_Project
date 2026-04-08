@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001215",
+        "promulgDate": "20240116",
+        "effectDate": "20240417",
+        "promulgNum": "20006",
+        "title": "소송촉진 등에 관한 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제31조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "배상명령을 하였을 때에는 무엇을 피고인과 피해자에게 지체 없이 송달하여야 합니까?",
+        "output": "소송촉진 등에 관한 특례법 제31조 제5항에 명시된 바와 같이, 배상명령을 하였을 때에는 유죄판결서의 정본을 피고인과 피해자에게 지체 없이 송달하여야 합니다.",
+        "originwordCnt": "65",
+        "labelwordCnt": "20"
+    }
+}

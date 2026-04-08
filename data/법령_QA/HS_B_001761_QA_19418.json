@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001761",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19591",
+        "title": "고용보험법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제47조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "실업인정대상기간 중에 취업한 경우, 수급자격자는 어떤 조치를 해야 하나요?",
+        "output": "수급자격자는 실업인정대상기간 중에 고용노동부령으로 정하는 기준에 해당하는 취업을 한 경우, 그 사실을 직업안정기관의 장에게 신고해야 합니다. 고용보험법 제47조 제1항에 규정되어 있습니다.",
+        "originwordCnt": "46",
+        "labelwordCnt": "21"
+    }
+}

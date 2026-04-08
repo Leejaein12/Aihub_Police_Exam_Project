@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315102",
+        "caseName": "마약류관리에관한법률위반(향정)",
+        "caseNum": "2023고단4844",
+        "sentenceDate": "2023.12.21",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "필로폰을 소지하고 투약한 혐의로 기소되었습니다. 법원은 피고인이 이전에 특수폭행죄로 유죄판결을 받은 사실을 고려하고 마약류 관리에 관한 법률을 적용하였으며, 징역 4월과 40시간의 약물중독 재활교육 이수를 명하고, 10만 원의 추징금을 부과하였습니다. 피고인의 정신질환 및 범행 경위를 참작하여 형이 결정되었습니다.",
+        "originwordCnt": "327",
+        "labelwordCnt": "37"
+    }
+}

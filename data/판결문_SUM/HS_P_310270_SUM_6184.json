@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310270",
+        "caseName": "농수산물의원산지표시등에관한법률위반",
+        "caseNum": "2024고정71",
+        "sentenceDate": "2024.07.11",
+        "courtName": "대전지방법원 서산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음식점을 운영하는 피고인은 중국산 배추김치를 사용하면서 원산지를 배추: 국산, 중국산, 고춧가루: 국산, 중국산으로 혼동을 유발할 수 있는 방식으로 표시하였습니다. 이러한 행위는 농수산물의 원산지 표시 규정을 위반한 것으로, 법원은 이를 고려하여 피고인에게 벌금 200만 원을 선고하였습니다.",
+        "originwordCnt": "207",
+        "labelwordCnt": "35"
+    }
+}

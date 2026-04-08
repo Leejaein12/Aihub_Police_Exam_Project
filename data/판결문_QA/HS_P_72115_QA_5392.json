@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72115",
+        "caseName": "도박,폭력행위등처벌에관한법률위반",
+        "caseNum": "66노80",
+        "sentenceDate": "1966.06.16",
+        "courtName": "광주고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "필요적 변호사건에서 변호인 없이 진행된 공판절차의 효력은 어떻게 되나요?",
+        "output": "필요적 변호사건에서 변호인 없이 공판절차가 진행된 경우, 형사소송법 제282조에 따라 그 공판절차는 무효로 간주되며, 이로 인해 피고인의 진술을 증거로 채택하는 것은 위법합니다.",
+        "originwordCnt": "33",
+        "labelwordCnt": "22"
+    }
+}

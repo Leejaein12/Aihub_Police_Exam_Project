@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013979",
+        "promulgDate": "20210101",
+        "effectDate": "20210101",
+        "promulgNum": "00996",
+        "title": "영장심의위원회 규칙",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제24조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "영장심의위원회의 회의록에 심의사항도 기록되나요?",
+        "output": "간사는 회의록에 심의사항을 작성합니다. 이 사항은 영장심의위원회 규칙 제24조 제1항 제3호에 근거합니다.",
+        "originwordCnt": "43",
+        "labelwordCnt": "12"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "147119",
+        "caseName": "배임·배상명령신청",
+        "caseNum": "2008고단7573",
+        "sentenceDate": "2009.11.27",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "배상신청인의 배상신청이 각하된 이유는 무엇인가요?",
+        "output": "배상신청인의 배상신청은 소송촉진등에관한특례법 제32조 제1항, 제2항, 제25조 제3항 제3호에 따라 각하되었습니다. 이는 피고인의 배상책임 범위가 명확하지 않아 배상명령을 내리는 것이 적절하지 않다고 판단되었기 때문입니다.",
+        "originwordCnt": "631",
+        "labelwordCnt": "24"
+    }
+}

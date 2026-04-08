@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011358",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19590",
+        "title": "공익신고자 보호법",
+        "ministry": "국민권익위원회",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공익신고를 대리한 변호사가 제출한 자료는 타인이 열람할 수 있습니까?",
+        "output": "공익신고자 보호법 제8조의2 제3항에 따르면 위원회는 동조 제2항에 따라 제출된 자료를 봉인하여 보관해야 하며, 공익신고자 본인의 동의 없이 이를 열람해서는 안됩니다.",
+        "originwordCnt": "91",
+        "labelwordCnt": "21"
+    }
+}

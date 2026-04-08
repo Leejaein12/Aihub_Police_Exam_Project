@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제103조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "기간이 끝나는 날이 공휴일 또는 토요일일 때 어떻게 계산하나요?",
+        "output": "기간이 끝나는 날이 공휴일 또는 토요일에 해당할 때에는 그 날은 기간에 산입하지 않습니다. 다만, 시효와 구속기간을 계산할 때에는 기간에 산입합니다. 군사법원법 제103조 제3항에 명시하고 있습니다.",
+        "originwordCnt": "62",
+        "labelwordCnt": "25"
+    }
+}

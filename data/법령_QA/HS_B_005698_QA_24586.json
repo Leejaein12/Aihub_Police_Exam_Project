@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005698",
+        "promulgDate": "20240125",
+        "effectDate": "20240131",
+        "promulgNum": "03125",
+        "title": "가정보호심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제62조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "가정보호사건과 관련하여 수탁·유치기관의 장이 취소환송·이송 결정 통지를 받은 경우, 언제까지 조치를 취해야 하나요?",
+        "output": "가정보호심판규칙 제63조 제2항에 의하면, 수탁ㆍ유치기관의 장이 취소환송ㆍ이송 결정 통지를 받은 때에는 즉시 행위자를 환송 또는 이송받을 법원으로 인도하여야 합니다.",
+        "originwordCnt": "58",
+        "labelwordCnt": "19"
+    }
+}

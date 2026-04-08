@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311300",
+        "caseName": "특수공갈",
+        "caseNum": "2023도13185",
+        "sentenceDate": "2023.11.10",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공갈 혐의로 기소된 사건에서 원심은 피고인에게 유죄를 선고하였으며, 대법원은 상고를 기각하였습니다. 상고 이유로 제기된 원심의 사실인정 및 양형 판단에 대한 주장은 형사소송법 제380조 제2항에 따라 적법한 상고 이유가 되지 않는다고 보았습니다.",
+        "originwordCnt": "165",
+        "labelwordCnt": "31"
+    }
+}

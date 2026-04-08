@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93156",
+        "caseName": "특수절도등",
+        "caseNum": "76도2569",
+        "sentenceDate": "1976.09.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "자백에 대한 보강증거는 어느 정도의 증거가 필요한가요?",
+        "output": "형사소송법 제310조에 따라 자백에 대한 보강증거는 피고인의 자백이 가공적인 것이 아니고 진실한 것임을 인정할 수 있는 정도의 증거이면 충분합니다. 이 보강증거는 반드시 직접적인 증거일 필요는 없고, 정황증거나 간접증거로도 인정될 수 있습니다.",
+        "originwordCnt": "30",
+        "labelwordCnt": "31"
+    }
+}

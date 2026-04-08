@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "154753",
+        "caseName": "관세법위반",
+        "caseNum": "71도2188",
+        "sentenceDate": "1972.01.31",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "화주가 관광협회를 통해 면세 수입한 물건을 처분할 때, 수입신고자가 관광협회장이라도 관세 납부 의무가 있나요?",
+        "output": "화주가 관광협회를 통해 면세 수입한 물건을 처분하고자 하는 경우, 비록 수입신고자가 관광협회장이라고 하더라도, 구 관세법 제33조 제2항에 따라 소관세관장의 승인을 받아 면세된 관세를 납부할 의무가 있습니다.",
+        "originwordCnt": "52",
+        "labelwordCnt": "26"
+    }
+}

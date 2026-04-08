@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93370",
+        "caseName": "무고",
+        "caseNum": "75도2885",
+        "sentenceDate": "1977.04.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "시청의 시민과장이 부당하게 도시계획을 변경하였다는 내용의 허위진정이 문제된 사건에서, 도시계획변경은 건설부장관의 권한에 속하지만, 시청에서 도시계획을 수립하는 이상 시민과장의 행위가 징계권자의 징계권 발동을 유발할 수 있다는 점에서 무고죄 성립이 가능하다고 판시하였습니다. 원심판결은 이러한 취지에서 정당하므로 상고를 기각하였습니다.",
+        "originwordCnt": "41",
+        "labelwordCnt": "36"
+    }
+}

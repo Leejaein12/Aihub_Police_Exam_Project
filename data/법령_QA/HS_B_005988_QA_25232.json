@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005988",
+        "promulgDate": "20211231",
+        "effectDate": "20220101",
+        "promulgNum": "03016",
+        "title": "형사소송규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제126조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "형사소송법 제276조의2제1항에 따른 동석 신청 시에는 어떤 사유를 밝혀야 하나요?",
+        "output": "형사소송규칙 제126조의2제2항에 따르면 형사소송법 제276조의2제1항에 따른 동석 신청에는 동석하고자 하는 자와 피고인 사이의 관계, 동석이 필요한 사유 등을 밝혀야 합니다.",
+        "originwordCnt": "78",
+        "labelwordCnt": "20"
+    }
+}

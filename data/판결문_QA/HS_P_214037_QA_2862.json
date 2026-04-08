@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "214037",
+        "caseName": "저작권법위반",
+        "caseNum": "79도1482",
+        "sentenceDate": "1979.12.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "저작물은 어떤 의미를 가지나요?",
+        "output": "저작물은 표현의 방법이나 형식에 상관없이 사람의 정신적 노력에 의해 얻어진 사상 또는 감정에 관한 창작적 표현물을 의미합니다. 저작권법 제2조에 따라 학문과 예술에 관한 일체의 물건으로 인정됩니다.",
+        "originwordCnt": "152",
+        "labelwordCnt": "26"
+    }
+}

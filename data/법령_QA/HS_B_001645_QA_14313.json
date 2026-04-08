@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001645",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19329",
+        "title": "새마을금고법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제65조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "새마을금고 중앙회의 회장이 직무를 수행할 수 없을 때 누가 그 직무를 대행합니까?",
+        "output": "새마을금고법 제65조 제3항에 따라, 회장이 부득이한 사유로 직무를 수행할 수 없을 때에는 임원 중에서 정관으로 정하는 순서에 따라 그 직무를 대행합니다.",
+        "originwordCnt": "75",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001655",
+        "promulgDate": "20231226",
+        "effectDate": "20240627",
+        "promulgNum": "19841",
+        "title": "주민등록법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "주민등록에 관한 사무의 지도와 감독은 누가 합니까?",
+        "output": "주민등록에 관한 사무의 지도와 감독은 행정안전부장관이 합니다. 이는 주민등록법 제3조 제1항에 명시되어 있습니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "13"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제3조의6",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "재판권이 없다는 재정결정이 내려지기 전에 이루어진 소송행위는 어떻게 처리되나요?",
+        "output": "군사법원법 제3조의6에 따르면, 재판권이 없다는 재정결정은 해당 사건이 계속된 법원 또는 군사법원에서 제3조의2 제1항의 재정이 신청되기 전에 행하여진 모든 소송행위의 효력을 상실시키지 아니합니다.",
+        "originwordCnt": "23",
+        "labelwordCnt": "23"
+    }
+}

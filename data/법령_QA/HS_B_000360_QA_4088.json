@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000360",
+        "promulgDate": "20230103",
+        "effectDate": "20230704",
+        "promulgNum": "19180",
+        "title": "소상공인 보호 및 지원에 관한 법률",
+        "ministry": "중소벤처기업부",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "중소벤처기업부장관은 상권정보시스템의 구축과 운영을 위해 어떤 조사를 할 수 있나요?",
+        "output": "소상공인 보호 및 지원에 관한 법률 제13조 제4항에 따르면, 중소벤처기업부장관은 상권정보시스템의 구축 및 운영에 필요한 조사를 실시할 수 있습니다.",
+        "originwordCnt": "194",
+        "labelwordCnt": "19"
+    }
+}

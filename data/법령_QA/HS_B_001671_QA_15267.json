@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제61조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "서류를 우체에 부친 경우 송달된 것으로 간주되는 시점은 언제인가요?",
+        "output": "형사소송법 제61조제2항에 따르면 서류를 우체에 부친 경우에는 도달된 때에 송달된 것으로 간주합니다.",
+        "originwordCnt": "38",
+        "labelwordCnt": "12"
+    }
+}

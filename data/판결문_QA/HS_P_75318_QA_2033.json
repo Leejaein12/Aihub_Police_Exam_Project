@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "75318",
+        "caseName": "문화재보호법위반피고사건",
+        "caseNum": "82노283",
+        "sentenceDate": "1982.04.01",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "매장문화재를 불법으로 발굴한 후 타인에게 양도하면 문화재양도죄가 따로 성립하나요?",
+        "output": "매장문화재를 불법으로 발굴한 자가 이를 타인에게 양도하거나 운반 또는 보관하는 행위는 불가벌적 사후행위로 보아, 문화재도굴죄 외에 별도로 문화재양도죄가 성립하지 않습니다. 이는 구 문화재보호법 제61조의 해석에 따른 것입니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "27"
+    }
+}

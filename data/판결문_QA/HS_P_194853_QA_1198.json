@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "194853",
+        "caseName": "업무상배임·컴퓨터프로그램보호법위반",
+        "caseNum": "2014노1071",
+        "sentenceDate": "2015.01.09",
+        "courtName": "서울남부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "업무상 배임 혐의에 대한 원심의 판단은 어땠나요?",
+        "output": "원심은 피고인들이 피해자 회사의 ERP 프로그램 및 관련 자료를 퇴사 후 반환하거나 폐기하지 않고 공소외 2 회사에서 사용한 점을 업무상 배임으로 판단했습니다. 원심은 피고인들이 회사의 영업비밀을 유출하거나 무단으로 이용한 것으로 간주했습니다.",
+        "originwordCnt": "4159",
+        "labelwordCnt": "31"
+    }
+}

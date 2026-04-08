@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000170",
+        "promulgDate": "20210401",
+        "effectDate": "20210401",
+        "promulgNum": "17985",
+        "title": "환경분쟁 조정법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제33조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "환경분쟁에 있어 조정의 성립은 어떻게 확인합니까?",
+        "output": "환경분쟁 조정법 제33조 제1항에 따르면 조정은 당사자 간에 합의된 사항을 조서에 적음으로써 성립합니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "13"
+    }
+}

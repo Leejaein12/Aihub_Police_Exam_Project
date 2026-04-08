@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000888",
+        "promulgDate": "20221213",
+        "effectDate": "20230614",
+        "promulgNum": "19066",
+        "title": "사립학교법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제54조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "기간제교원의 임용에 관하여 준용되는 규정은 무엇인가요?",
+        "output": "사립학교법 제54조의4 제4항에 따라 기간제교원의 임용에 관하여는 제54조의3 제5항 및 제6항이 준용됩니다.",
+        "originwordCnt": "157",
+        "labelwordCnt": "12"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "321061",
+        "caseName": "절도등",
+        "caseNum": "2024고단376",
+        "sentenceDate": "2024.05.29",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 12월 신고를 받고 출동한 경찰관의 직무집행을 술에 취해 방해한 사건입니다. 식당에 들어와 큰 소리로 소란을 피우며 경찰관의 가슴을 팔꿈치로 두 차례 가격하였습니다. 법원은 공무집행 방해의 중대성을 고려하여 엄한 처벌이 필요하다고 보았으나, 범행을 인정하고 반성한 점, 형사처벌 전력이 없는 점 등을 참작하여 벌금을 부과하였습니다.",
+        "originwordCnt": "257",
+        "labelwordCnt": "44"
+    }
+}

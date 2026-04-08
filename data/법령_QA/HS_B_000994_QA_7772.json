@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000994",
+        "promulgDate": "20221115",
+        "effectDate": "20230516",
+        "promulgNum": "19028",
+        "title": "온천법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제27조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "온천협회를 설립하기 위해서는 누구에게 인가를 받아야 할까요?",
+        "output": "협회를 설립할 때에는 온천종사자 20명 이상을 발기인으로 하여 정관을 작성한 후 창립총회의 의결을 거쳐 행정안전부장관의 인가를 받아야 합니다. 정관을 변경할 때에도 또한 같습니다. 이는 온천법 제27조 제3항에 명시되어 있습니다.",
+        "originwordCnt": "74",
+        "labelwordCnt": "29"
+    }
+}

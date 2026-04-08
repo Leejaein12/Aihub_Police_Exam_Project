@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "94569",
+        "caseName": "살인",
+        "caseNum": "79도1698",
+        "sentenceDate": "1979.09.25",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "미필적 고의에 의한 살인죄의 성립 요건은 무엇인가요?",
+        "output": "피해자에게 가해할 것을 사전에 합의하고 식칼과 각목을 준비하여 범행에 사용하였다면 살해에 대한 미필적 고의가 있었다고 인정됩니다. 또한, 이러한 범행 과정에서 가해 의사가 서로 묵시적으로 전달되었다고 판단되므로 형법 제30조에 따라 공동정범이 성립됩니다.",
+        "originwordCnt": "36",
+        "labelwordCnt": "31"
+    }
+}

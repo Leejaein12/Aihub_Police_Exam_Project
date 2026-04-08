@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335095",
+        "caseName": "병역법위반",
+        "caseNum": "2023고단192",
+        "sentenceDate": "2023.04.21",
+        "courtName": "서울북부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "이전에 도로교통법위반으로 징역형의 집행유예를 선고받고, 그 집행유예 기간 중 병역법상 현역병 입영 통지서를 받고도 정당한 사유 없이 입영하지 않았습니다. 법원은 피고인이 병역법 제88조 제1항 제1호를 위반한 사실을 인정하였고, 혼외자를 양육하고 있는 사정을 참작하여 피고인을 법정구속하지 않았으나 징역 1년 6월을 선고하였습니다.",
+        "originwordCnt": "139",
+        "labelwordCnt": "40"
+    }
+}

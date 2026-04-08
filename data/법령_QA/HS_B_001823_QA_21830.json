@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제20조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "가설건축물의 허가나 신고 후 관리 절차는 어떻게 되나요?",
+        "output": "가설건축물의 건축을 허가하거나 축조신고를 받은 경우, 특별자치시장ㆍ특별자치도지사 또는 시장ㆍ군수ㆍ구청장은 이를 가설건축물대장에 기재하여 관리하여야 합니다. 이는 건축법 제20조 제6항에 명시되어 있습니다.",
+        "originwordCnt": "261",
+        "labelwordCnt": "20"
+    }
+}

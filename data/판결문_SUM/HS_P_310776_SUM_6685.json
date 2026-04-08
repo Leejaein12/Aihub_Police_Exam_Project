@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310776",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고정51",
+        "sentenceDate": "2024.07.03",
+        "courtName": "수원지방법원 여주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2022년 11월 25일 새벽 3시 55분경 한 펜션 앞 도로에서부터 어느 특정 장소 앞 도로까지 혈중알코올농도 0.155%의 음주 상태로 차량을 운전한 혐의로 기소된 사건입니다. 이에 대해 법원은 도로교통법 제148조의2 제3항 제2호와 제44조 제1항에 따라 음주운전의 책임을 물어 벌금형을 선고하였습니다.",
+        "originwordCnt": "119",
+        "labelwordCnt": "39"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002033",
+        "promulgDate": "20221227",
+        "effectDate": "20231228",
+        "promulgNum": "19138",
+        "title": "어장관리법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제11조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "어장환경평가는 언제 실시되나요?",
+        "output": "어장관리법 제11조의2 제1항에 따르면, 해양수산부장관은 어장을 효율적으로 이용하고 어장환경을 보전·개선하기 위하여 어업면허, 어업허가 또는 양식업면허의 유효기간이 끝나는 날의 1년 전까지 어장환경에 관한 평가를 하여야 합니다.",
+        "originwordCnt": "44",
+        "labelwordCnt": "25"
+    }
+}

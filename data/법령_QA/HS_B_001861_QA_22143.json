@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001861",
+        "promulgDate": "20211221",
+        "effectDate": "20220622",
+        "promulgNum": "18601",
+        "title": "석탄산업법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제39조의8",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "탄광지역진흥사업 추진대상지역의 지정 여부와 범위는 어떻게 결정되나요?",
+        "output": "석탄산업법 제39조의8 제2항에 따르면, 산업통상자원부장관은 제1항에 따라 신청을 받은 후 관계 중앙행정기관의 장과 협의하여 대상지역의 지정 여부 및 범위를 결정합니다. 이를 변경할 때에도 또한 같습니다.",
+        "originwordCnt": "60",
+        "labelwordCnt": "25"
+    }
+}

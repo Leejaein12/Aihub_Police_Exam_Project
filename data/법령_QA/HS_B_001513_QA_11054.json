@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001513",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19754",
+        "title": "식물방역법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제32조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시ㆍ도지사는 방제기본지침을 통보받으면 어떻게 해야 하나요?",
+        "output": "식물방역법 제32조 제2항에 따르면, 시ㆍ도지사는 농림축산식품부장관으로부터 방제기본지침을 통보받으면 지체 없이 해당 지역에 알맞은 방제계획을 수립ㆍ시행하여야 합니다.",
+        "originwordCnt": "170",
+        "labelwordCnt": "16"
+    }
+}

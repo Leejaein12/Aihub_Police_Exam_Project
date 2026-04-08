@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311160",
+        "caseName": "사기등",
+        "caseNum": "2023노2026",
+        "sentenceDate": "2023.11.16",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "재테크 투자사기 범행에 가담하여 공범에게 계좌를 제공하고 피해금을 편취한 혐의를 받고 있습니다. 원심 판결에서 징역 1년 6개월을 선고받았으나, 항소심에서는 형이 가볍다는 검사의 주장에 따라 징역 2년 6개월로 증량되었습니다. 원심의 배상신청 각하 결정은 불복이 불가능하여 확정되었습니다.",
+        "originwordCnt": "525",
+        "labelwordCnt": "35"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제40조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "건축물을 건축하는 경우, 대지에 빗물과 오수를 배출하거나 처리하기 위해 필요한 시설은 무엇인가요?",
+        "output": "대지에는 빗물과 오수를 배출하거나 처리하기 위하여 필요한 하수관, 하수구, 저수탱크 등과 같은 시설을 설치하여야 합니다. 이는 건축법 제40조 제3항에 규정된 내용입니다.",
+        "originwordCnt": "93",
+        "labelwordCnt": "21"
+    }
+}

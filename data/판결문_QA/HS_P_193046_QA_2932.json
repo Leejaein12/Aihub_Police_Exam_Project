@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "193046",
+        "caseName": "사기·배상명령신청",
+        "caseNum": "2016고단5",
+        "sentenceDate": "2016.04.07",
+        "courtName": "수원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인들에게 징역형이 선고된 이유는 무엇인가요?",
+        "output": "피고인들이 사칭과 조직적 사기 범죄를 통해 피해자들로부터 금원을 편취한 보이스피싱 범행을 저질렀으며, 그 사회적 폐해가 심각하고 피해 회복도 전혀 이루어지지 않았기 때문에 책임을 엄중히 물어 징역형을 선고하였습니다.",
+        "originwordCnt": "1259",
+        "labelwordCnt": "27"
+    }
+}

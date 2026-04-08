@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009642",
+        "promulgDate": "20200331",
+        "effectDate": "20201001",
+        "promulgNum": "17159",
+        "title": "남극활동 및 환경보호에 관한 법률",
+        "ministry": "외교부,해양수산부,환경부",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "정부는 기본계획에 따라 무엇을 수립ㆍ시행하여야 합니까?",
+        "output": "남극활동 및 환경보호에 관한 법률 제21조 제3항에 따르면 정부는 기본계획에 따라 대통령령으로 정하는 바에 의하여 남극연구활동의 진흥을 위한 연도별 시행계획을 수립ㆍ시행하여야 합니다.",
+        "originwordCnt": "124",
+        "labelwordCnt": "22"
+    }
+}

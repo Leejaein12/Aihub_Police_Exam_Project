@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제264조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "변사자 또는 변사한 것으로 의심되는 사체가 군사법원법 제2조에 해당하는 사람의 사체일 때 누가 검시를 해야 하나요?",
+        "output": "변사자 또는 변사한 것으로 의심되는 사체가 군사법원법 제2조에 해당하는 사람의 사체일 때에는 군검사가 검시하여야 합니다. 군사법원법 제264조 제1항에 명시하고 있습니다.",
+        "originwordCnt": "76",
+        "labelwordCnt": "20"
+    }
+}

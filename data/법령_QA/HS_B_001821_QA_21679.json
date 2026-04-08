@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001821",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19587",
+        "title": "도로법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제71조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "이의신청이 각하 또는 기각된 경우 도로관리청은 무엇을 통보해야 하나요?",
+        "output": "도로법 제71조 제3항에 따르면, 도로관리청은 이의신청을 각하 또는 기각하는 결정을 한 때에는 이의신청인에게 행정심판 또는 행정소송을 제기할 수 있다는 취지를 제2항에 따른 결과 통보와 함께 통보하여야 합니다.",
+        "originwordCnt": "88",
+        "labelwordCnt": "27"
+    }
+}

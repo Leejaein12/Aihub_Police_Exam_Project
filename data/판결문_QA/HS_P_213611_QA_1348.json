@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "213611",
+        "caseName": "특수상해미수, 폭행",
+        "caseNum": "2017노3162",
+        "sentenceDate": "2018.03.27",
+        "courtName": "의정부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인의 항소가 기각된 이유는 무엇인가요?",
+        "output": "피고인의 범행 중 특수상해미수는 칼을 이용한 위험한 수법이었고, 피고인은 과거 폭력 전과가 4회에 이르며 일부는 집행유예를 받은 적이 있는 점, 재차 동종 범죄를 저지른 점 등을 고려할 때, 원심의 형이 부당하게 무겁다고 할 수 없어 항소는 기각되었습니다.",
+        "originwordCnt": "221",
+        "labelwordCnt": "37"
+    }
+}

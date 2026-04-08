@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311105",
+        "caseName": "성폭력범죄의처벌등에관한특례법위반(13세미만미성년자강제추행)",
+        "caseNum": "2023고합16",
+        "sentenceDate": "2024.07.09",
+        "courtName": "광주지방법원 장흥지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "13세 미만 미성년자인 피해자를 강제로 끌어안아 성폭력범죄의 처벌 등에 관한 특례법 위반 혐의로 기소되었으며, 법원은 이를 추행으로 인정하여 징역 2년 6개월의 형을 선고하였습니다. 다만, 피고인의 고령과 치매 진단을 고려하여 형 집행을 4년간 유예하였습니다.",
+        "originwordCnt": "1016",
+        "labelwordCnt": "33"
+    }
+}

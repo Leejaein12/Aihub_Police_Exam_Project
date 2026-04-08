@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001645",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19329",
+        "title": "새마을금고법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "새마을금고법에 따라 한 금고의 회원 수는 최소 몇 명이어야 합니까?",
+        "output": "새마을금고법 제9조 제2항에 따르면 한 금고의 회원 수는 최소 100명 이상이어야 합니다.",
+        "originwordCnt": "199",
+        "labelwordCnt": "12"
+    }
+}

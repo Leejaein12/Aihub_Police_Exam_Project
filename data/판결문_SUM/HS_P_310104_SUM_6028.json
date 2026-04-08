@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310104",
+        "caseName": "특수폭행등",
+        "caseNum": "2024고정114",
+        "sentenceDate": "2024.05.14",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.085% 상태로 약 500m 구간을 음주운전하였습니다. 양형에 있어 음주 수치, 단속 경위, 피고인의 연령과 성행, 범행 후 정황 등을 종합적으로 고려한 결과, 약식명령에서 부과된 벌금액이 과다하지 않다고 판단되어 벌금 5,000,000원을 유지하는 것으로 판결이 내려졌습니다.",
+        "originwordCnt": "158",
+        "labelwordCnt": "35"
+    }
+}

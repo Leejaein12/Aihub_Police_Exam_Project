@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334807",
+        "caseName": "업무상횡령",
+        "caseNum": "2023고정429",
+        "sentenceDate": "2024.07.17",
+        "courtName": "제주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "배달 기사로 근무하던 중 피해자로부터 휴대전화를 받아 업무상 보관하였으나, 배달업무를 그만둔 후에도 휴대전화를 반환하지 않고 거부하여 업무상 횡령죄로 기소되었습니다. 법원은 피고인이 군에 입대하면서 조사에 협조하고 휴대전화를 임의 제출한 점, 경찰 조사 중 피해자에게 휴대전화가 환부된 점 등을 고려하여 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "248",
+        "labelwordCnt": "42"
+    }
+}

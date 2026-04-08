@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001504",
+        "promulgDate": "20230914",
+        "effectDate": "20240315",
+        "promulgNum": "19706",
+        "title": "가축전염병 예방법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "가축방역관이 질병예방을 위한 검사 및 예찰을 할 때에는 거부나 방해를 받을 수 있습니까?",
+        "output": "가축전염병 예방법 제7조 제4항에 명시된 바와 같이, 가축방역관이 제3항에 따라 질병예방을 위한 검사 및 예찰을 할 때에는 누구든지 정당한 사유 없이 거부ㆍ방해 또는 회피하여서는 아니 됩니다.",
+        "originwordCnt": "157",
+        "labelwordCnt": "26"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "94291",
+        "caseName": "특정범죄가중처벌등에관한법률위반",
+        "caseNum": "77도2752",
+        "sentenceDate": "1979.04.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "특정범죄가중처벌등에관한법률 제8조 위반죄의 공소시효 기간은 어떻게 정해지나요?",
+        "output": "특정범죄가중처벌등에관한법률 제8조 위반죄의 공소시효 기간은 해당 법률 조항의 법정형에 따라 정해지며, 조세범처벌법 제17조 규정에 따를 수 없습니다. 이는 형사소송법 제249조에 따른 공소시효의 법리와 관련이 있습니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "25"
+    }
+}

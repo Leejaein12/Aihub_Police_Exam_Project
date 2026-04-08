@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93119",
+        "caseName": "특정범죄가중처벌등에관한법률위반·뇌물수수",
+        "caseNum": "76도2012",
+        "sentenceDate": "1976.09.14",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "징역형과 벌금형을 병과해야 하는 경우, 징역형에만 작량감경을 하고 벌금형에는 작량감경을 하지 않는 것이 법리에 맞나요?",
+        "output": "징역형과 벌금형을 병과해야 할 경우, 특별한 규정이 없는 한 징역형에만 작량감경을 하고 벌금형에는 작량감경을 하지 않는 것은 형법 제55조 제1항에 따른 작량감경의 법리에 어긋납니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "24"
+    }
+}

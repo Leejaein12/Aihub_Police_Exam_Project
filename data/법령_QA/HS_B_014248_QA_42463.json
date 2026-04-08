@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014248",
+        "promulgDate": "20220308",
+        "effectDate": "20220701",
+        "promulgNum": "32520",
+        "title": "법원이 재판권을 가지는 군인 등의 범죄에 대한 수사절차 등에 관한 규정",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "협조가 어려운 경우 부대장은 어떻게 해야 하나요?",
+        "output": "법원이 재판권을 가지는 군인 등의 범죄에 대한 수사절차 등에 관한 규정 제4조 제2항에 따르면 협조가 어려운 경우, 출입 일정 조정, 보안조치 등을 검사나 사법경찰관과 신속히 협의해야 합니다.",
+        "originwordCnt": "159",
+        "labelwordCnt": "27"
+    }
+}

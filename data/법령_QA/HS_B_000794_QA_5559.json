@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000794",
+        "promulgDate": "20230406",
+        "effectDate": "20230406",
+        "promulgNum": "19326",
+        "title": "방송법",
+        "ministry": "과학기술정보통신부,방송통신위원회",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "외국자본의 출자 및 출연에 있어서 주식 또는 지분의 합산은 어떻게 이루어지나요?",
+        "output": "방송법 제14조 제4항에 따르면, 제2항 및 제3항을 적용할 때 제1항 각 호에 해당하는 자가 소유하고 있는 주식 또는 지분을 합산하여 계산합니다.",
+        "originwordCnt": "303",
+        "labelwordCnt": "21"
+    }
+}

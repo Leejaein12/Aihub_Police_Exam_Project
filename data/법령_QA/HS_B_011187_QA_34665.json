@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011187",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19743",
+        "title": "성폭력범죄의 처벌 등에 관한 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "성적 욕망 또는 수치심을 유발할 수 있는 촬영범죄를 상습적으로 저지른 경우 어떤 처벌이 있나요?",
+        "output": "성폭력범죄의 처벌 등에 관한 특례법 제14조 제5항에 따르면, 상습적으로 범죄를 저지른 경우에는 그 죄에 정한 형의 2분의 1까지 가중될 수 있습니다.",
+        "originwordCnt": "161",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011564",
+        "promulgDate": "20201229",
+        "effectDate": "20211230",
+        "promulgNum": "17799",
+        "title": "방송광고판매대행 등에 관한 법률",
+        "ministry": "방송통신위원회",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "광고판매대행자가 변경 시 신고해야 하는 사항은 무엇인가요?",
+        "output": "민원 처리에 관한 법률 제9조에 따르면, 광고판매대행자가 다음 각 호의 사항을 변경한 경우에는 지체 없이 방송통신위원회에 신고하여야 합니다.1.대표자2.법인명 또는 상호3.주된 사무소의 소재지",
+        "originwordCnt": "24",
+        "labelwordCnt": "25"
+    }
+}

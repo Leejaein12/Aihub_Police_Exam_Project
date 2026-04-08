@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "151311",
+        "caseName": "군무이탈,절도",
+        "caseNum": "62도236",
+        "sentenceDate": "1963.01.17",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "군무이탈죄는 언제 완성되는 범죄인가요?",
+        "output": "군무이탈죄는 소위 즉시범으로, 군무를 이탈한 행위를 함으로써 범죄가 즉시 완성됩니다. 이탈 행위가 발생한 시점에 이미 범죄가 성립하는 것으로 판단됩니다.",
+        "originwordCnt": "265",
+        "labelwordCnt": "19"
+    }
+}

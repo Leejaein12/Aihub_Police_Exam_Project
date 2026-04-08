@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335576",
+        "caseName": "상해",
+        "caseNum": "2024노580",
+        "sentenceDate": "2024.06.13",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "동종 범죄로 여러 차례 처벌받은 전력이 있으며, 상해 사건으로 재판 중임에도 추가 범행을 저질렀습니다. 피해자는 상당한 상해를 입었고, 피고인은 아직 손해배상을 하지 않았으며 피해자는 엄벌을 요청하고 있습니다. 검사의 공소장 변경 신청에 따라 원심판결이 파기되었으며, 새로운 심판 대상에 대한 판단을 통해 피고인에게 징역 4개월이 선고되었습니다.",
+        "originwordCnt": "326",
+        "labelwordCnt": "44"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78246",
+        "caseName": "사기",
+        "caseNum": "2006노867",
+        "sentenceDate": "2006.10.19",
+        "courtName": "창원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 대출을 받을 당시 변제 의사와 능력이 있었더라도 편취죄가 성립할 수 있나요?",
+        "output": "피고인이 대출을 받을 당시 변제 의사와 능력이 있었다 하더라도, 임야 매수금액을 실제와 다르게 부풀려 고지하여 피해자를 착오에 빠뜨렸다면, 이는 편취 범의를 인정할 수 있는 행위로서 편취죄가 성립할 수 있습니다.",
+        "originwordCnt": "186",
+        "labelwordCnt": "29"
+    }
+}

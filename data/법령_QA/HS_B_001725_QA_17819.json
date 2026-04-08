@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제83조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에서 대통령선거 후보자에게 발급되는 무료승차권의 수는 몇 매입니까?",
+        "output": "공직선거법 제83조 제1항에 따르면, 대통령선거에 있어서 한국철도공사사장은 선거운동기간 중에 선거운동용으로 계속 사용할 수 있는 전국용 무료승차권 50매를 각 후보자에게 발급하여야 합니다.",
+        "originwordCnt": "48",
+        "labelwordCnt": "21"
+    }
+}

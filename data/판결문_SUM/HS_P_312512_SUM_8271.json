@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312512",
+        "caseName": "폭행",
+        "caseNum": "2024고단513",
+        "sentenceDate": "2024.07.10",
+        "courtName": "대구지방법원 김천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A와 B는 서로 폭행 혐의로 기소되었습니다. A는 피해자 B가 대화를 피하려 하자 팔을 잡아당겨 폭행하였고, B는 이에 대응하여 A의 가슴을 밀쳐 폭행하였습니다. 그러나 공소제기 후 피해자들이 서로 처벌을 원하지 않는다는 의사를 표시하였으므로, 법원은 형법 제260조 제3항에 따라 공소를 기각하였습니다.",
+        "originwordCnt": "125",
+        "labelwordCnt": "39"
+    }
+}

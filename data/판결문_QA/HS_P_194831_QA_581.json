@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "194831",
+        "caseName": "재물손괴·건조물침입",
+        "caseNum": "2016노2014",
+        "sentenceDate": "2017.06.15",
+        "courtName": "서울동부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "점유자의 자력구제는 어떤 경우에 허용되나요?",
+        "output": "점유자의 자력구제는 점유의 침해가 현장성 내지 추적가능성을 아직 보유하고 있는 경우에만 실력에 의한 점유의 방위 또는 탈환을 할 수 있는 권리로, 민법 제209조에 명시되어 있습니다.",
+        "originwordCnt": "244",
+        "labelwordCnt": "25"
+    }
+}

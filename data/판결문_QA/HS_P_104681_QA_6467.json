@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "104681",
+        "caseName": "부정수표단속법위반",
+        "caseNum": "88도1406",
+        "sentenceDate": "1988.12.06",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "수표가 부도난 후 발행인이 수표금액을 변제한 경우에도 형사책임을 면할 수 없나요?",
+        "output": "수표가 부도난 후 발행인이 수표금액을 변제하였다 하더라도, 부정수표단속법 제2조에 의하면 발행인에게 이미 발생한 형사책임은 변제 여부와 관계없이 계속 유지됩니다. 따라서 수표금액을 변제하였더라도 형사책임을 면할 수 없습니다.",
+        "originwordCnt": "127",
+        "labelwordCnt": "26"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "325488",
+        "caseName": "업무상횡령",
+        "caseNum": "2022고정65",
+        "sentenceDate": "2023.02.03.",
+        "courtName": "대전지방법원 공주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "편의점에서 종업원으로 근무하던 중 피해자의 물품과 기프트카드를 무단으로 가져간 행위가 업무상횡령으로 인정되었습니다. 법원은 이전 형사처벌을 받은 전력이 있음에도 불구하고 재차 범행을 저질렀고, 사건 이후 피해자와의 연락을 회피하여 피해 회복이 이루어지지 않은 점 등을 고려하여 벌금형을 선고하였습니다.",
+        "originwordCnt": "330",
+        "labelwordCnt": "36"
+    }
+}

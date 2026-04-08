@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310098",
+        "caseName": "명예훼손",
+        "caseNum": "2023고정133",
+        "sentenceDate": "2023.10.25",
+        "courtName": "대구지방법원 김천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "말다툼 중 화가 나 피해자의 가슴을 발로 차고, 머리카락을 잡아 흔들며, 주먹으로 피해자의 어깨를 수차례 때려 상해를 입혔습니다. 피해자는 경추 염좌 등으로 약 15일간의 치료가 필요하다고 인정되었습니다. 법원은 피고인의 범죄사실을 인정하고, 형법 제257조 제1항에 따라 벌금 200만 원을 선고하였습니다.",
+        "originwordCnt": "166",
+        "labelwordCnt": "39"
+    }
+}

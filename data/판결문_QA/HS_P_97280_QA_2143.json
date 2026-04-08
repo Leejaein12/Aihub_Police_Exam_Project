@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "97280",
+        "caseName": "국가보안법위반·반공법위반·계엄법위반",
+        "caseNum": "82도2672",
+        "sentenceDate": "1983.02.08",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "환송 후 새로운 사실과 증거로 인해 사실관계가 변동된 경우 환송판결의 기속력이 유지되나요?",
+        "output": "법원조직법 제7조에 따르면, 환송 후 새로운 사실과 증거로 인해 기속적 판단의 기초가 된 사실관계에 변동이 있다면, 환송판결의 기속력은 그 변동된 사실관계에는 미치지 않습니다.",
+        "originwordCnt": "1743",
+        "labelwordCnt": "23"
+    }
+}

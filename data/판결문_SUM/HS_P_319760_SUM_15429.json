@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319760",
+        "caseName": "한국마사회법위반(도박등)",
+        "caseNum": "2023고단7200",
+        "sentenceDate": "2024.05.22",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A는 한국마사회법에 따라 금지된 불법 경마 도박사이트에서 다수의 베팅을 진행하며 도박 행위를 했고, B는 A에게 불법 도박사이트 정보를 제공하여 도박을 방조한 혐의가 인정되었습니다. 법원은 A에게 징역 3개월, B에게 벌금 50만 원을 선고하고, 양형 결정에 있어 범행 인정과 재범 방지 다짐, A의 동종 전과 여부, B의 전과 유무를 고려하여 각 1년간 형 집행을 유예했습니다.",
+        "originwordCnt": "380",
+        "labelwordCnt": "53"
+    }
+}

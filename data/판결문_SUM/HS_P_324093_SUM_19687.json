@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "324093",
+        "caseName": "사기등",
+        "caseNum": "2023노1833",
+        "sentenceDate": "2023.09.27",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "보이스피싱 범행에 사용될 휴대전화와 번호를 관리한 혐의로 기소된 피고인에게 원심은 징역 2년을 선고했으나, 항소심에서는 피고인의 반성 태도와 피해 회복 등을 고려하여 형량이 과중하다고 판단, 이를 파기하고 징역 1년 8월로 형을 정하였습습니다. 피고인으로부터 압수된 물품은 몰수하며, 배상 신청인의 배상 신청은 각하되었습니다.",
+        "originwordCnt": "444",
+        "labelwordCnt": "40"
+    }
+}

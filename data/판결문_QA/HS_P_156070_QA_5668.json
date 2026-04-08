@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "156070",
+        "caseName": "특정범죄가중처벌에관한법률위반등",
+        "caseNum": "69도1888",
+        "sentenceDate": "1969.12.23",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "금의 밀수와 관련된 법적 처리는 어떤 법률에 따라 이루어져야 하나요?",
+        "output": "금의 밀수에 대해서는 관세법이 아닌 금에 관한 임시조치법에 따라 처단해야 합니다. 금에 관한 임시조치법 제5조 제1항과 제6조에 의거하여, 금 밀수의 경우 해당 법률이 우선 적용된다는 대법원의 판례에 따른 것입니다.",
+        "originwordCnt": "18",
+        "labelwordCnt": "29"
+    }
+}

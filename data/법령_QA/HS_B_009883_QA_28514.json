@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009883",
+        "promulgDate": "20220111",
+        "effectDate": "20220712",
+        "promulgNum": "18752",
+        "title": "근로자퇴직급여 보장법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사전지정운용제도란 어떤 제도를 말합니까?",
+        "output": "근로자퇴직급여 보장법 제2조 제15호에서 말하는 사전지정운용제도란 가입자가 적립금의 운용방법을 스스로 선정하지 아니한 경우 사전에 지정한 운용방법으로 적립금을 운용하는 제도를 말합니다.",
+        "originwordCnt": "224",
+        "labelwordCnt": "20"
+    }
+}

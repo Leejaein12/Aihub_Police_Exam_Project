@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011357",
+        "promulgDate": "20230314",
+        "effectDate": "20240315",
+        "promulgNum": "19234",
+        "title": "개인정보 보호법",
+        "ministry": "개인정보보호위원회",
+        "fullText": "N",
+        "smClass": "제37조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "개인정보처리자가 처리정지 요구를 거절한 경우 그 사유를 알려야 합니까?",
+        "output": "개인정보처리자는 처리정지 요구를 거절하거나 동의 철회에 따른 조치를 하지 않았을 때 지체 없이 그 사유를 정보주체에게 알려야 합니다. 개인정보 보호법 제37조 제4항에 규정되어 있습니다.",
+        "originwordCnt": "256",
+        "labelwordCnt": "24"
+    }
+}

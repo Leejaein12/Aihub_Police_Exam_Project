@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "306353",
+        "caseName": "업무상과실치상",
+        "caseNum": "2018노1366",
+        "sentenceDate": "2018. 7. 13.",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "오른쪽 슬관절에 심각한 복합 손상이 있어 수술이 필요한 상황에서, 동의 없이 시행된 수술 후 관절 기능이 정상적으로 회복되었습니다. 검사 측은 동의 없는 수술이 상해에 해당한다고 주장했으나, 법원은 수술이 적절하게 이루어졌고 손상이 악화되지 않았다는 점을 근거로 과실을 인정하지 않았습니다. 이에 따라 항소는 기각되었습니다.",
+        "originwordCnt": "282",
+        "labelwordCnt": "42"
+    }
+}

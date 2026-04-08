@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009883",
+        "promulgDate": "20220111",
+        "effectDate": "20220712",
+        "promulgNum": "18752",
+        "title": "근로자퇴직급여 보장법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제23조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "위원장은 중소기업퇴직연금기금 운용과 운영위원회를 지원하기 위해 무엇을 구성할 수 있습니까?",
+        "output": "근로자퇴직급여 보장법 제23조의2 제7항에 따라 위원장은 중소기업퇴직연금기금 운용 등과 관련하여 운영위원회를 지원하기 위한 자문위원회를 구성할 수 있습니다.",
+        "originwordCnt": "182",
+        "labelwordCnt": "17"
+    }
+}

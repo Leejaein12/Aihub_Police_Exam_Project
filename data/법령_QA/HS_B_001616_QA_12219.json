@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001616",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "교육공무원법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제42조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "교육행정기관 및 교육연구기관의 장은 재교육 및 연수실적을 인사관리에 반영하나요?",
+        "output": "교육공무원법 제42조 제1항 규정에 따르면 교육기관, 교육행정기관 및 교육연구기관의 장은 소속 교육공무원의 재교육 및 연수 실적과 근무성적을 정기적으로 또는 수시로 평정하여 인사관리에 반영하여야 합니다.",
+        "originwordCnt": "38",
+        "labelwordCnt": "24"
+    }
+}

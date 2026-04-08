@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001351",
+        "promulgDate": "20211019",
+        "effectDate": "20220420",
+        "promulgNum": "18520",
+        "title": "국가정보원직원법",
+        "ministry": "국가정보원",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "직위가 없어지거나 정원이 초과된 경우 직원을 면직시킬 때 고려해야 하는 요소는 무엇인가요?",
+        "output": "국가정보원직원법 제21조 제3항 규정에 따르면 제1항 제3호에 따라 직원을 면직시킬 때에는 임용형태, 업무실적, 직무수행 능력, 징계처분 사실 등을 고려하여 면직기준을 정하여야 합니다.",
+        "originwordCnt": "170",
+        "labelwordCnt": "22"
+    }
+}

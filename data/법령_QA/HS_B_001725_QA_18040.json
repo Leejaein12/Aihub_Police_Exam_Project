@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제161조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에서 어떤 경우 투표참관인이 될 수 없는 사람은 누구입니까?",
+        "output": "공직선거법 제161조 제7항에 따르면, 대한민국 국민이 아닌 자, 미성년자, 선거권이 없는 자, 공무원의 입후보 제한 규정에 해당하는 자, 후보자 또는 후보자의 배우자는 투표참관인이 될 수 없습니다.",
+        "originwordCnt": "288",
+        "labelwordCnt": "26"
+    }
+}

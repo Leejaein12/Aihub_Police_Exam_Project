@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "165277",
+        "caseName": "관세법 위반",
+        "caseNum": "62도25",
+        "sentenceDate": "1962.05.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "선박의 사무장이 선원의 물품을 점유한 경우에도 납세 신고 의무가 생기나요?",
+        "output": "관세법 제4조에 따르면 납세의무자는 수입신고인뿐만 아니라 물품의 소유자나 점유자도 신고 의무를 지게 됩니다. 따라서 선박의 사무장이 선원의 물품을 점유한 경우, 해당 물품에 대한 점유자로서 납세 신고 의무가 있다고 할 수 있습니다.",
+        "originwordCnt": "85",
+        "labelwordCnt": "31"
+    }
+}

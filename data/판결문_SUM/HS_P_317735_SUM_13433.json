@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317735",
+        "caseName": "강제추행",
+        "caseNum": "2023고단3018",
+        "sentenceDate": "2024.04.04",
+        "courtName": "의정부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "다른 사람이 호출한 택시이니 택시에서 내려달라고 요청하자 화가 나 피해자의 얼굴과 명치를 때리는 등의 폭행을 가하였으며, 이후 경찰서에서 피해자와 경찰관에게 욕설을 하고 경찰관의 정당한 직무집행을 방해한 혐의로 기소되었습니다. 법원은 피고인에게 벌금 700만 원을 선고하였습니다.",
+        "originwordCnt": "385",
+        "labelwordCnt": "34"
+    }
+}

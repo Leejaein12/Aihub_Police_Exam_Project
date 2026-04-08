@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000117",
+        "promulgDate": "20230103",
+        "effectDate": "20230704",
+        "promulgNum": "19174",
+        "title": "국민 평생 직업능력 개발법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제25조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "고용노동부장관으로부터 자료의 제공이나 관계 전산망의 이용을 요청받은 자는 이를 따라야 합니까?",
+        "output": "국민 평생 직업능력 개발법 제25조 제5항에 명시된 바와 같이, 제4항에 따른 자료의 제공이나 관계 전산망의 이용을 요청받은 자는 정당한 사유가 없으면 그 요청에 따라야 합니다.",
+        "originwordCnt": "158",
+        "labelwordCnt": "25"
+    }
+}

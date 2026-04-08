@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78048",
+        "caseName": "공직선거법위반",
+        "caseNum": "2006노1568",
+        "sentenceDate": "2006.09.28",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "항소심 법원은 피고인의 양형 부당 주장에 대해 어떻게 판단했나요?",
+        "output": "항소심 법원은 피고인이 선거에 임박한 시점에 직접 돈을 건넨 행위가 공직선거법에서 금지하는 전형적인 기부행위로 비난 가능성이 크며, 이를 엄벌할 필요가 있다고 보아 원심의 양형이 부당하지 않다고 판단하여 피고인의 항소를 기각했습니다.",
+        "originwordCnt": "241",
+        "labelwordCnt": "30"
+    }
+}

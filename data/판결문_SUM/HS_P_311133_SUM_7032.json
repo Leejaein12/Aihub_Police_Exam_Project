@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311133",
+        "caseName": "특수절도",
+        "caseNum": "2023고단3976",
+        "sentenceDate": "2023.11.23",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "후배 및 친동생과 공모하여 피해자의 지갑에서 현금을 절취한 혐의로 기소되었습니다. 법원은 피고인이 과거 소년보호처분 전력이 있지만, 성인이 된 후 동종 범행으로 처벌받은 전력이 없고 피해자가 처벌을 원하지 않는 점을 고려하여 징역 8월의 실형을 선고하면서도 2년간 집행을 유예하고 보호관찰 및 사회봉사 명령을 내렸습니다.",
+        "originwordCnt": "210",
+        "labelwordCnt": "42"
+    }
+}

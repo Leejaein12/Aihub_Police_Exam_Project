@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002966",
+        "promulgDate": "20220630",
+        "effectDate": "20220701",
+        "promulgNum": "32737",
+        "title": "군검찰사무 운영규정",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군법무관시보가 군검사의 직무를 대행할 때 어떤 방식으로 권한을 행사하나요?",
+        "output": "군검찰사무 운영규정 제3조 제2항에 따르면 군사법원법 제42조에 따라 군검사의 직무를 대행하는 군법무관시보는 군검사의 직무대행임을 표시하여 군검사의 권한을 행사합니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "18"
+    }
+}

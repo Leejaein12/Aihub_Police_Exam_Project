@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "152840",
+        "caseName": "상관살해",
+        "caseNum": "65도445",
+        "sentenceDate": "1965.07.20",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법률상 형의 가중감면의 이유가 되는 사실은 무엇을 의미하나요?",
+        "output": "법률상 형의 가중감면의 이유가 되는 사실은 법률에 규정된 형의 필요적 가중감면의 이유가 되는 사실을 의미합니다. 형의 감면이 법원의 재량에 맡겨진 경우는 이에 해당하지 않으며, 이는 군법회의법 제368조 제2항과 형사소송법 제323조 제2항에 규정된 내용입니다.",
+        "originwordCnt": "140",
+        "labelwordCnt": "33"
+    }
+}

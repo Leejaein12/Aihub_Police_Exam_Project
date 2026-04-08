@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318082",
+        "caseName": "사기등",
+        "caseNum": "2023고단67",
+        "sentenceDate": "2023.08.08",
+        "courtName": "전주지방법원 남원지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사기방조 혐의로 기소된 피고인은 전화금융사기 조직의 지시에 따라 피해자로부터 현금을 수거한 사실이 인정되었습니다. 피고인은 금융기관 직원인 것처럼 행세하며 피해자로부터 금원을 교부받아 사기범행을 방조하였습니다. 재판부는 초범인 점과 범행을 시인한 점을 고려하여 징역 8개월에 집행을 유예하고, 사회봉사 명령을 부과하였습니다.",
+        "originwordCnt": "1124",
+        "labelwordCnt": "37"
+    }
+}

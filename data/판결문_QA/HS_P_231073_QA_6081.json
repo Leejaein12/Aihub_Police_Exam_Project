@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "231073",
+        "caseName": "모욕",
+        "caseNum": "2018노6585",
+        "sentenceDate": "2019.05.03",
+        "courtName": "수원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인의 양형부당 주장은 받아들여질 수 있나요?",
+        "output": "피고인의 나이, 직업, 성행, 범죄전력 등 여러 양형조건을 종합적으로 고려한 결과, 원심의 형은 합리적인 범위를 벗어나지 않았고 너무 무겁다고 볼 수 없습니다. 따라서 피고인의 양형부당 주장은 이유가 없으며, 피고인의 항소는 주문과 같이 기각되었습니다.",
+        "originwordCnt": "399",
+        "labelwordCnt": "33"
+    }
+}

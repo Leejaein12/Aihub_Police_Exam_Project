@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000579",
+        "promulgDate": "20230620",
+        "effectDate": "20231221",
+        "promulgNum": "19490",
+        "title": "인삼산업법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "인삼 경작자에 대한 지도 권한이 있는 기관은 어디인가요?",
+        "output": "인삼산업법 제8조 제2항에 따르면, 농촌진흥청장, 특별자치시장ㆍ특별자치도지사ㆍ시장ㆍ군수ㆍ구청장 및 조합은 인삼경작자에게 표준인삼경작방법에 따라 경작하도록 지도할 수 있습니다.",
+        "originwordCnt": "70",
+        "labelwordCnt": "15"
+    }
+}

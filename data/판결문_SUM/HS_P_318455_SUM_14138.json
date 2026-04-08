@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318455",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고단424",
+        "sentenceDate": "2024.06.27",
+        "courtName": "대전지방법원 서산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2024년 1월 혈중알코올농도 0.205% 상태로 약 300m 구간을 운전한 혐의로 기소되었습니다. 피고인은 음주운전으로 교통사고를 발생시켜 죄질이 좋지 않으나, 범행을 인정하고 재범 방지를 다짐한 점, 초범이라는 점을 참작하여 벌금형이 선택되었습니다. 법원은 피고인에게 벌금을 선고하였습니다.",
+        "originwordCnt": "198",
+        "labelwordCnt": "33"
+    }
+}

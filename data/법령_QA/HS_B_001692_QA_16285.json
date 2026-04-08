@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001692",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19582",
+        "title": "형법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제185조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "형법상 육로, 수로 또는 교량을 손괴하거나 불통하게 하여 교통을 방해한 자는 어떤 처벌을 받나요?",
+        "output": "형법 제185조에 의거하여, 육로, 수로 또는 교량을 손괴 또는 불통하게 하거나 기타 방법으로 교통을 방해한 자는 10년 이하의 징역 또는 1천500만원 이하의 벌금에 처합니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "24"
+    }
+}

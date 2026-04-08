@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "236907",
+        "caseName": "야간건조물침입절도",
+        "caseNum": "2022노354",
+        "sentenceDate": "2023.02.09",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 자신이 운영하는 회사에서 피해물품을 다른 장소로 옮겼다면, 이 행위가 절도죄에 해당할 수 있나요?",
+        "output": "피고인이 피해회사의 실질적인 1인 주주라고 주장하더라도, 회사의 재산은 주주의 소유가 아니므로, 피해회사의 물품을 몰래 다른 장소로 옮긴 행위는 절도죄에 해당합니다.",
+        "originwordCnt": "786",
+        "labelwordCnt": "20"
+    }
+}

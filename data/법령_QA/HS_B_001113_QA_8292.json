@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001113",
+        "promulgDate": "20210105",
+        "effectDate": "20210105",
+        "promulgNum": "17825",
+        "title": "국제형사사법 공조법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제36조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "외국의 공조요청에 드는 비용은 기본적으로 누가 부담합니까?",
+        "output": "외국의 공조요청에 드는 비용은 요청국과 특별한 약정이 없는 한 국제형사사법 공조법 제36조 제1항에 따라, 요청국이 부담합니다. 다만, 대한민국의 영역에서 발생하는 비용은 대한민국이 부담할 수 있습니다.",
+        "originwordCnt": "43",
+        "labelwordCnt": "25"
+    }
+}

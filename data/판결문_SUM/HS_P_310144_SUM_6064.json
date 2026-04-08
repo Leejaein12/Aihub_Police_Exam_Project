@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310144",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고단861",
+        "sentenceDate": "2024.06.12",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.118%의 술에 취한 상태로 차량을 운전하여 도로교통법을 위반하였습니다. 이는 음주운전으로 벌금형을 받은 후 10년 내의 재범으로, 더욱 엄격한 처벌이 요구되는 범죄입니다. 이에 따라 법원은 피고인에게 징역 1년에 집행유예 2년, 120시간의 사회봉사 및 40시간의 준법운전강의 수강을 명하였습니다.",
+        "originwordCnt": "340",
+        "labelwordCnt": "37"
+    }
+}

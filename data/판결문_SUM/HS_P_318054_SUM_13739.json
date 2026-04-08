@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318054",
+        "caseName": "사기등",
+        "caseNum": "2023고단1360",
+        "sentenceDate": "2023.08.22",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "과거 음주운전 전력이 있음에도 혈중알코올농도가 높은 상태에서 약 200m를 운전하다 주차된 차량을 충격하고, 인적 사항을 제공하지 않았습니다. 법원은 반복된 음주운전의 위험성을 고려하여 징역 2년과 벌금을 선고하되, 집행을 유예하고, 사회봉사 및 준법운전 강의 수강을 명하였습니다.",
+        "originwordCnt": "289",
+        "labelwordCnt": "34"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010097",
+        "promulgDate": "20231231",
+        "effectDate": "20240301",
+        "promulgNum": "19935",
+        "title": "자유무역협정의 이행을 위한 관세법의 특례에 관한 법률",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "협정관세에 대해 「관세법」의 어떤 규정이 적용되나요?",
+        "output": "자유무역협정의 이행을 위한 관세법의 특례에 관한 법률 제4조 제2항에 따르면, 협정관세에 관하여는 「관세법」 제83조 및 제84조를 준용합니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "17"
+    }
+}

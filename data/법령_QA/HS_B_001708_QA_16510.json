@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001708",
+        "promulgDate": "20210105",
+        "effectDate": "20210105",
+        "promulgNum": "17828",
+        "title": "변호사법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제54조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "법무법인은 어떤 사유가 있을 때 해산하나요?",
+        "output": "변호사법 제54조 제1항에 따르면 법무법인은 다음 각 호의 어느 하나에 해당하는 사유가 있을 때 해산합니다.1. 정관에 정한 해산 사유가 발생했을 때2. 구성원 전원의 동의가 있을 때3. 합병했을 때4. 파산했을 때5. 설립인가가 취소되었을 때",
+        "originwordCnt": "52",
+        "labelwordCnt": "38"
+    }
+}

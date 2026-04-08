@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014215",
+        "promulgDate": "20220104",
+        "effectDate": "20230105",
+        "promulgNum": "18685",
+        "title": "재난안전산업 진흥법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "인증 또는 인증의 유효기간 연장을 받으려는 자는 무엇을 해야 합니까?",
+        "output": "재난안전산업 진흥법 제16조 제3항에 따르면 인증 또는 인증의 유효기간 연장을 받으려는 자는 행정안전부령으로 정하는 바에 따라 행정안전부장관에게 신청서 및 관련 서류를 제출하여야 합니다.",
+        "originwordCnt": "144",
+        "labelwordCnt": "23"
+    }
+}

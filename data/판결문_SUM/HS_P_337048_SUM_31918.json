@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337048",
+        "caseName": "업무방해등",
+        "caseNum": "2023고단1450",
+        "sentenceDate": "2023.10.18",
+        "courtName": "수원지방법원 안양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "식당에서 소란을 피우고 욕설을 하여 피해자의 영업을 방해한 업무방해죄와 경찰관의 출동 후 무단횡단을 한 도로교통법위반죄로 기소되었습니다. 법원은 형법 제314조 제1항 및 도로교통법 제157조 제1호를 근거로, 징역 4월 및 벌금 100,000원을 선고하였으나, 징역형에 대해서는 2년간의 집행유예와 보호관찰을 명령하였습니다.",
+        "originwordCnt": "335",
+        "labelwordCnt": "37"
+    }
+}

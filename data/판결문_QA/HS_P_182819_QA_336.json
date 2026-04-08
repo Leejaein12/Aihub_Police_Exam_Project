@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "182819",
+        "caseName": "사기·특수절도",
+        "caseNum": "2015노1180",
+        "sentenceDate": "2015.10.16",
+        "courtName": "인천지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "재물편취를 내용으로 하는 사기죄에서 피해자에게 금원을 교부받은 즉시 사기죄가 성립하나요?",
+        "output": "사기죄는 기망으로 인해 피해자가 재물을 교부한 시점에서 성립하며, 이후에 발생한 행위는 사기죄의 불가벌적 사후행위로 간주될 수 없습니다. 따라서 피해자에게 금원을 교부받은 즉시 사기죄가 성립합니다.",
+        "originwordCnt": "555",
+        "labelwordCnt": "24"
+    }
+}

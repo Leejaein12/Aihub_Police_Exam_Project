@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314021",
+        "caseName": "자동차수색",
+        "caseNum": "2024고단1847",
+        "sentenceDate": "2024.06.13",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "법률상 부부인 상대방과 이혼 소송 중 외도를 의심하여 2023년 7월 어느 아파트 지하주차장에서 상대방이 관리하는 차량을 보조키로 개방하고 내부를 수색한 사실이 확인되었습니다. 이에 검찰은 형법 제321조를 적용하여 징역 2개월의 형을 선고할 것을 요구하였으나, 초범인 점과 사건 경위를 참작하여 선고유예를 결정하였습니다.",
+        "originwordCnt": "126",
+        "labelwordCnt": "40"
+    }
+}

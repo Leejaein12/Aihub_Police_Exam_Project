@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010052",
+        "promulgDate": "20210406",
+        "effectDate": "20210421",
+        "promulgNum": "31595",
+        "title": "치료감호 등에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제32조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가가 부담하는 치료비용의 구체적인 지급절차는 누가 정하나요?",
+        "output": "치료감호 등에 관한 법률 시행령 제32조 제8항에 따르면 제1항부터 제7항까지에서 규정한 사항 외에 국가가 부담하는 치료비용의 구체적인 지급절차는 법무부장관이 정합니다.",
+        "originwordCnt": "301",
+        "labelwordCnt": "20"
+    }
+}

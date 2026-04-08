@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001460",
+        "promulgDate": "20220610",
+        "effectDate": "20230611",
+        "promulgNum": "18958",
+        "title": "산업표준화법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제5조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "산업통상자원부장관은 산업표준 개발에 필요한 경비를 어떻게 지원할 수 있나요?",
+        "output": "산업표준화법 제5조의2 제1항에 따르면 산업통상자원부장관은 산업표준 개발에 필요한 경비에 충당하게 하기 위하여 제5조 제3항에 따라 협력기관으로 지정된 자에게 출연금을 지급할 수 있습니다.",
+        "originwordCnt": "29",
+        "labelwordCnt": "22"
+    }
+}

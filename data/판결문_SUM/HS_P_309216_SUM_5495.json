@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "309216",
+        "caseName": "특수절도",
+        "caseNum": "2015고단466",
+        "sentenceDate": "2015. 6. 5.",
+        "courtName": "제주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "귀금속 절취를 위해 사전 모의한 일행이 각자 역할을 분담하여 고가의 시계를 훔친 사건입니다. 이들은 관광객 신분으로 입국한 후, 매장 직원의 주의를 끌고 진열장 열쇠를 훔쳐 시계를 탈취하였습니다. 이로 인해 형법 제331조에 따라 각 징역 1년에 처하였으나, 이 판결 확정일부터 각 2년간 형의 집행을 유예하였습니다. 절취한 시계는 몰수하였습니다.",
+        "originwordCnt": "415",
+        "labelwordCnt": "47"
+    }
+}

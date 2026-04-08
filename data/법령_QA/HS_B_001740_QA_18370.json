@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001740",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19772",
+        "title": "선원법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제42조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "송환조치에 든 비용이 변제될 때까지 해양수산부장관은 어떤 조치를 할 수 있습니까?",
+        "output": "선원법 제42조 제4항에 따르면, 해양수산부장관은 제1항 또는 제2항에 따른 송환조치에 든 비용이 변제될 때까지 해당 선박의 출항정지를 명하거나 출항을 정지시킬 수 있습니다.",
+        "originwordCnt": "102",
+        "labelwordCnt": "22"
+    }
+}

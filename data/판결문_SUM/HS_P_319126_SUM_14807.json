@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319126",
+        "caseName": "교통사고처리특례법위반(치상)",
+        "caseNum": "2024고단80",
+        "sentenceDate": "2024.05.23",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "보도를 횡단할 때 일시정지하지 않고 전방을 주시하지 않은 채 진행하여, 보행 중이던 차량의 사이드미러로 충격해 약 12주간의 치료를 요하는 상해를 입혔습니다. 법원은 교통사고처리특례법 제3조 제2항 제9호 및 형법 제268조 위반을 인정하여 벌금 700만 원을 선고하였습니다.",
+        "originwordCnt": "321",
+        "labelwordCnt": "35"
+    }
+}

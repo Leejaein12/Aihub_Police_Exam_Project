@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "338052",
+        "caseName": "업무상횡령",
+        "caseNum": "2021노2273",
+        "sentenceDate": "2022.10.21.",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "F설립을 위한 자금을 맡아 관리하던 중 이를 개인 용도로 사용하였으며, 피해자들과 자금의 자유로운 사용에 대한 합의나 재량권 부여가 없었습니다. 피고인은 일부 자금을 투자에 사용했다고 주장했으나 대부분은 개인 생활비 등으로 소비된 것으로 밝혀졌습니다. 항소심은 원심의 형량이 합리적 범위를 벗어나지 않았다고 판단하여 피고인의 항소를 기각하였습니다",
+        "originwordCnt": "662",
+        "labelwordCnt": "43"
+    }
+}

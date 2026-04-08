@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002033",
+        "promulgDate": "20221227",
+        "effectDate": "20231228",
+        "promulgNum": "19138",
+        "title": "어장관리법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "해양수산부장관은 기본계획 수립 시 어떤 자료를 요구할 수 있나요?",
+        "output": "어장관리법 제3조 제5항에 따르면, 해양수산부장관은 기본계획을 수립할 때 관계 행정기관의 장에게 필요한 자료 제출을 요구할 수 있으며, 요구받은 행정기관의 장은 특별한 사유가 없으면 자료를 제출해야 합니다.",
+        "originwordCnt": "171",
+        "labelwordCnt": "26"
+    }
+}

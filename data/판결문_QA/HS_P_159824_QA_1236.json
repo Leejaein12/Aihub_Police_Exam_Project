@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "159824",
+        "caseName": "강도상해",
+        "caseNum": "2008고합166",
+        "sentenceDate": "2008.07.17",
+        "courtName": "서울남부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인들이 공모하여 편의점에서 강도행위를 저지른 사실이 인정되었나요?",
+        "output": "피고인들은 공소외 1과 공모하여 편의점에서 강도행위를 저질렀으며, 피고인 3이 편의점 종업원을 폭행하여 반항을 억압한 후, 공소외 1이 현금을 강취한 사실이 인정되었습니다. 이에 따라 피고인들은 각 징역형을 선고받았습니다.",
+        "originwordCnt": "1262",
+        "labelwordCnt": "27"
+    }
+}

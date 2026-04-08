@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "173316",
+        "caseName": "배임수재·배임증재",
+        "caseNum": "2012고단527",
+        "sentenceDate": "2013.04.30",
+        "courtName": "춘천지방법원영월지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인 1이 배임수재로 처벌받은 이유는 무엇인가요?",
+        "output": "피고인 1은 공소외 1 법인의 이사장으로서 교직원 채용 및 교장 임명과 관련하여 부정한 청탁을 받고 총 9,000만 원을 수수하였으며, 이러한 행위는 형법에 따라 배임수재죄로 처벌받았습니다.",
+        "originwordCnt": "3594",
+        "labelwordCnt": "25"
+    }
+}

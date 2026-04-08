@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013233",
+        "promulgDate": "20181231",
+        "effectDate": "20190701",
+        "promulgNum": "16160",
+        "title": "한국해양교통안전공단법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "자문기구의 구성원은 어떻게 위촉되나요?",
+        "output": "한국해양교통안전공단법 제6조 제2항에 따르면 자문기구의 구성원은 이사회의 의결을 거쳐 이사장이 위촉합니다.",
+        "originwordCnt": "36",
+        "labelwordCnt": "11"
+    }
+}

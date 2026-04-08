@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012522",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "공항시설법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제33조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공항시설의 휴지ㆍ폐지시 또는 재개에 관한 사항을 누가 고시하나요?",
+        "output": "공항시설법 제33조 제4항 규정에 따르면 국토교통부장관은 제1항부터 제3항까지에 따른 공항시설 또는 비행장시설의 휴지ㆍ폐지 또는 재개에 관한 사항을 고시하여야 합니다.",
+        "originwordCnt": "112",
+        "labelwordCnt": "19"
+    }
+}

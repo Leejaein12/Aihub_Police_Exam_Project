@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000966",
+        "promulgDate": "20201222",
+        "effectDate": "20210101",
+        "promulgNum": "17689",
+        "title": "사행행위 등 규제 및 처벌 특례법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사행행위의 뜻은 무엇인가요?",
+        "output": "사행행위 등 규제 및 처벌 특례법 제2조 제1항 제1호에 따르면 사행행위란 여러 사람으로부터 재물이나 재산상의 이익을 모아 우연적 방법으로 득실을 결정하여 재산상의 이익이나 손실을 주는 행위를 말합니다.",
+        "originwordCnt": "205",
+        "labelwordCnt": "27"
+    }
+}

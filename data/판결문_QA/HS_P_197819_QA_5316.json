@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "197819",
+        "caseName": "건축법위반",
+        "caseNum": "2016노8537",
+        "sentenceDate": "2017.08.14",
+        "courtName": "수원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 주장한 법리오해가 받아들여지지 않은 이유는 무엇인가요?",
+        "output": "피고인이 옥상에 설치한 창고시설은 가설건축물의 신축이 아니라 기존 건축물의 증축에 해당하므로, 피고인의 주장은 이유 없습니다.",
+        "originwordCnt": "710",
+        "labelwordCnt": "15"
+    }
+}

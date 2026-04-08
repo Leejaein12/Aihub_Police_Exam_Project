@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93336",
+        "caseName": "업무방해",
+        "caseNum": "76도2918",
+        "sentenceDate": "1977.03.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "업무방해죄에서 말하는 '업무'의 의미는 무엇인가요?",
+        "output": "업무방해죄에서 말하는 ‘업무’란 직업 또는 계속적으로 종사하는 사무나 사업을 의미합니다. 따라서 건물의 점유관리자가 개인적으로 점유 관리하는 건물에 출입하는 행위는 형법 제314조에서 말하는 ‘업무’에 해당한다고 볼 수 없습니다.",
+        "originwordCnt": "46",
+        "labelwordCnt": "27"
+    }
+}

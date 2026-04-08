@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제233조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "피의자를 신문할 때 어떤 정보를 먼저 물어야 하나요?",
+        "output": "군검사나 군사법경찰관은 피의자를 신문할 때 먼저 그 성명, 연령, 등록기준지, 소속, 계급, 군번, 주민등록번호, 주거 및 직업을 물어 피의자임이 틀림없는지 확인하여야 합니다. 군사법원법 제233조에 근거하고 있습니다.",
+        "originwordCnt": "25",
+        "labelwordCnt": "26"
+    }
+}

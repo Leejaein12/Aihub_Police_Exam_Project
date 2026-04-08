@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "205476",
+        "caseName": "담배사업법위반·관세법위반·조세범처벌법위반",
+        "caseNum": "2018노26",
+        "sentenceDate": "2018.06.01",
+        "courtName": "서울북부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인 2의 행위가 담배사업법 위반으로 인정된 이유는 무엇인가요?",
+        "output": "피고인 2는 전자담배 제조에 깊숙이 관여하였으며, 피고인 1과 함께 니코틴 포함 용액을 제조한 것으로 보아 담배사업법 위반으로 인정되었습니다.",
+        "originwordCnt": "2108",
+        "labelwordCnt": "18"
+    }
+}

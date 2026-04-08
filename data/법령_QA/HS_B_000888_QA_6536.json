@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000888",
+        "promulgDate": "20221213",
+        "effectDate": "20230614",
+        "promulgNum": "19066",
+        "title": "사립학교법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제52조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사립학교 교원의 자격은 어떤 규정에 따르나요?",
+        "output": "사립학교법 제52조에 따라 사립학교 교원의 자격에 관하여는 국립학교ㆍ공립학교의 교원의 자격에 관한 규정에 따릅니다.",
+        "originwordCnt": "11",
+        "labelwordCnt": "13"
+    }
+}

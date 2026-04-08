@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336279",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고정500",
+        "sentenceDate": "2023.11.23",
+        "courtName": "부산지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "약 400m 구간에서 혈중알코올농도 0.125%의 술에 취한 상태로 운전하여 음주운전 혐의로 기소되었습니다. 법원은 피고인이 범행 당시 술에 취한 정도, 운전 거리, 과거 동종 범죄 전력을 고려하여 벌금 700만 원을 선고하였습니다.",
+        "originwordCnt": "153",
+        "labelwordCnt": "30"
+    }
+}

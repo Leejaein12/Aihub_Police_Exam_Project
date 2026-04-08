@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013928",
+        "promulgDate": "20230725",
+        "effectDate": "20240126",
+        "promulgNum": "19573",
+        "title": "군사경찰의 직무수행에 관한 법률",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군사경찰은 호흡조사 결과에 불복하는 사람은 어떤 방법으로 다시 측정할 수 있나요?",
+        "output": "호흡조사 결과에 불복하는 사람에 대해서는 본인의 동의를 받아 혈액 채취 등의 방법으로 다시 측정할 수 있습니다. 군사경찰의 직무수행에 관한 법률 제10조 제3항에 근거한 조치입니다.",
+        "originwordCnt": "90",
+        "labelwordCnt": "24"
+    }
+}

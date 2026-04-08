@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "153342",
+        "caseName": "상습특수절도·특수절도미수",
+        "caseNum": "66도693",
+        "sentenceDate": "1966.06.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "상습범에 있어 여러 개의 범행이 반복되었을 때, 법적으로 어떻게 처리되나요?",
+        "output": "상습범에 있어서 수개의 행위가 상습적으로 반복되었을 경우, 그 수개의 행위를 포괄하여 한 죄로 보는 것이며, 형법 제332조에 의거하여 하나의 죄로 처벌됩니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001777",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "노인복지법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제55조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "노인복지법에 따르면 제39조의9 제1호에 해당하는 상해 행위를 한 자에게는 어떤 처벌이 내려지나요?",
+        "output": "노인복지법 제55조의2에 따르면, 제39조의9 제1호에 해당하는 상해 행위를 한 자는 7년 이하의 징역 또는 7천만 원 이하의 벌금에 처해집니다.",
+        "originwordCnt": "16",
+        "labelwordCnt": "19"
+    }
+}

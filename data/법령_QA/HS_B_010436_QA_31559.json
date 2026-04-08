@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010436",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19888",
+        "title": "노인장기요양보험법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제35조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보건복지부장관이 장기요양기관 재무ㆍ회계기준을 정할 때 고려해야 할 사항은 무엇인가요?",
+        "output": "노인복지법 제35조의2 제2항에 따르면, 보건복지부장관은 장기요양기관 재무ㆍ회계기준을 정할 때 장기요양기관의 특성과 시행시기 등을 고려하여야 합니다.",
+        "originwordCnt": "50",
+        "labelwordCnt": "15"
+    }
+}

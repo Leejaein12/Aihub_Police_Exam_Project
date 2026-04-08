@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제138조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에 의하면 정강ㆍ정책홍보물을 배부할 수 있는 수량은 어떻게 제한됩니까?",
+        "output": "공직선거법 제138조 제2항에 따르면, 정강ㆍ정책홍보물을 배부할 수 있는 수량은 후보자를 추천한 선거구의 소속당원에 상당하는 수를 넘지 못하도록 제한됩니다.",
+        "originwordCnt": "112",
+        "labelwordCnt": "18"
+    }
+}

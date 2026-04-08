@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86767",
+        "caseName": "국가보안법위반",
+        "caseNum": "4294형상246",
+        "sentenceDate": "1961.09.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "지도적 임무에 종사한 죄와 포괄일죄는 어떤 관계인가요?",
+        "output": "피고인이 평안남도 평원군 조국보위후원회 위원장으로 승진한 사실과 남파되어 활동한 사실은 하나의 연속된 행위로서, 괴뢰집단의 구성원이 되어 지도적 임무에 종사한 포괄일죄를 구성합니다. 이는 국가보안법 제1호와 제2호, 형법 제50조에 따른 법리적 판단입니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "30"
+    }
+}

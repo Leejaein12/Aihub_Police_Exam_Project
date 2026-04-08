@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "186735",
+        "caseName": "살인미수·현존건조물방화·부착명령",
+        "caseNum": "2011고합83",
+        "sentenceDate": "2011.10.14",
+        "courtName": "의정부지방법원고양지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 우울증 등으로 인해 사물을 변별할 능력이 미약한 상태였음에도 불구하고, 심신미약 감경이 적용된 이유는 무엇인가요?",
+        "output": "피고인은 우울증으로 인해 판단력이 저하된 상태에서 범행을 저질렀으며, 이러한 상태는 심신미약으로 인정되어 감경 사유로 고려되었습니다.",
+        "originwordCnt": "1045",
+        "labelwordCnt": "15"
+    }
+}

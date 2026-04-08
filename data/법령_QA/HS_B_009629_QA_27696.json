@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009629",
+        "promulgDate": "20220426",
+        "effectDate": "20230427",
+        "promulgNum": "18849",
+        "title": "주민투표법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제17조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "관할선거관리위원회는 주민투표안의 내용과 관련하여 어떤 의무를 가지는가?",
+        "output": "관할선거관리위원회는 주민투표안의 내용, 주민투표에 부쳐진 사항에 관한 의견 및 그 이유, 투표절차 그 밖의 필요한 사항을 게재한 주민투표공보를 1회 이상 발행하여야 한다. 근거 조문은 주민투표법 제17조 제1항이다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "27"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제164조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "관공서나 병영 등에서 압수ㆍ수색영장을 집행할 때는 누구에게 통지해야 하나요?",
+        "output": "군사법원법 제164조 제1항에 따르면 관공서나 병영, 그 밖의 군사용 청사, 항공기 또는 함선에서 압수ㆍ수색영장을 집행할 때에는 그 장 또는 그를 대리하는 사람에게 참여할 것을 통지하여야 합니다.",
+        "originwordCnt": "67",
+        "labelwordCnt": "26"
+    }
+}

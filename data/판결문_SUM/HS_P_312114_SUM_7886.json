@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312114",
+        "caseName": "공무집행방해",
+        "caseNum": "2023고단1882",
+        "sentenceDate": "2024.03.26",
+        "courtName": "수원지방법원 평택지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 7월, 한 엘리베이터에서 술에 취해 잠을 자고 있던 중 신고를 받고 출동한 경찰관의 정당한 직무집행을 방해하였습니다. 경찰관이 잠을 깨우고 신분 확인을 하려 하자, 화가 나 경찰관의 목을 밀치고 두 손으로 목을 졸랐습니다. 정당한 공무집행 방해에 해당하며, 형법 제136조 제1항에 따라 벌금 4,000,000원에 처해졌습니다.",
+        "originwordCnt": "225",
+        "labelwordCnt": "44"
+    }
+}

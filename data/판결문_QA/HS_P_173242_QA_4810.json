@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "173242",
+        "caseName": "식품위생법 위반",
+        "caseNum": "2013노1467",
+        "sentenceDate": "2013.09.26",
+        "courtName": "의정부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "식품제조업을 영위하기 위해서는 영업소별로 별도의 신고가 필요한가요?",
+        "output": "항에 따라 식품제조업자는 해당 영업소의 소재지와 영업의 종류를 모두 신고해야 하며, 이를 위반할 경우 처벌받을 수 있습니다. 원심에서도 이러한 해석에 따라 영업소별 신고가 필요하다고 판단하였고, 이에 따라 항소가 기각되었습니다.",
+        "originwordCnt": "658",
+        "labelwordCnt": "29"
+    }
+}

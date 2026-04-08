@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009322",
+        "promulgDate": "20200211",
+        "effectDate": "20200211",
+        "promulgNum": "16990",
+        "title": "축산자조금의 조성 및 운용에 관한 법률",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "하나의 축산물에 자조금을 설치할 때 제한사항이 있나요?",
+        "output": "축산자조금의 조성 및 운용에 관한 법률 제3조 제2항에 따르면, 하나의 축산물에는 하나의 자조금을 설치해야 합니다. 다만, 쇠고기의 경우 한우와 육우를 구분하여 설치할 수 있습니다.",
+        "originwordCnt": "60",
+        "labelwordCnt": "24"
+    }
+}

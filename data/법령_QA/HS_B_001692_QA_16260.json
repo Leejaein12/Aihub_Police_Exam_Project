@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001692",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19582",
+        "title": "형법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제167조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "일반물건에 불을 놓아 공공의 위험을 발생하게 한 자는 어떤 처벌을 받나요?",
+        "output": "형법 제167조 제1항에 따르면, 불을 놓아 동법 제164조부터 제166조까지에 기재한 외의 물건인 일반물건을 불태워 공공의 위험을 발생하게 한 자는 1년 이상 10년 이하의 징역에 처합니다.",
+        "originwordCnt": "36",
+        "labelwordCnt": "25"
+    }
+}

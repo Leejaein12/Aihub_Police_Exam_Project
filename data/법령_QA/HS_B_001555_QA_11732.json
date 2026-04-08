@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001555",
+        "promulgDate": "20200609",
+        "effectDate": "20200609",
+        "promulgNum": "17339",
+        "title": "엽연초생산협동조합법",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "엽연초생산협동조합과 중앙회는 공직선거에 관여할 수 있나요?",
+        "output": "'엽연초생산협동조합법' 제5조제1항에 따르면, 조합 및 중앙회는 공직선거에서 특정 정당을 지지하거나 특정인을 당선되도록 하거나 당선되지 아니하도록 하는 행위를 하여서는 아니 됩니다.",
+        "originwordCnt": "32",
+        "labelwordCnt": "20"
+    }
+}

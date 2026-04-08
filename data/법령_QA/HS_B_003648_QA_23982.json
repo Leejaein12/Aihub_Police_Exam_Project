@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "003648",
+        "promulgDate": "20210105",
+        "effectDate": "20210105",
+        "promulgNum": "31380",
+        "title": "보안관찰법 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제17조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보안관찰처분심의위원회 서기는 보안관찰처분심의위원회의 회의록을 어떻게 관리하여야 합니까?",
+        "output": "보안관찰법 시행령 제17조 제1항에 명시된 바와 같이, 서기는 위원장의 명을 받아 보안관찰처분심의위원회의 회의록을 작성ㆍ비치하여야 합니다.",
+        "originwordCnt": "16",
+        "labelwordCnt": "15"
+    }
+}

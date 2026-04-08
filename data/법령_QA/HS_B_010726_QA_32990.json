@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010726",
+        "promulgDate": "20210615",
+        "effectDate": "20220616",
+        "promulgNum": "18284",
+        "title": "지진ㆍ화산재해대책법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "행정안전부장관은 내진보강대책에 따른 추진결과를 공시할 의무가 있습니까?",
+        "output": "행정안전부장관은 내진보강대책에 따른 추진결과를 대통령령으로 정하는 바에 따라 공시하여야 합니다. 이는 지진ㆍ화산재해대책법 제16조 제6항에 명시되어 있습니다.",
+        "originwordCnt": "116",
+        "labelwordCnt": "16"
+    }
+}

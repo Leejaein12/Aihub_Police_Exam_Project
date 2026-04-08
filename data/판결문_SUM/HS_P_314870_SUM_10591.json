@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314870",
+        "caseName": "도로교통법위반(무면허운전)등",
+        "caseNum": "2024고정135",
+        "sentenceDate": "2024.05.29",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "가건물에서 가스 스토브를 사용하면서 화재 방지를 위한 주의 의무를 소홀히 한 채 잠을 자는 바람에 불이 텐트와 인접한 가건물로 옮겨붙어 피해를 발생시켰습니다. 이는 형법 제170조 제1항에 해당하는 실화죄로, 법원은 벌금 150만 원을 선고하였으며, 벌금을 납입하지 않을 경우 노역장에 유치하도록 명령하였습니다.",
+        "originwordCnt": "199",
+        "labelwordCnt": "40"
+    }
+}

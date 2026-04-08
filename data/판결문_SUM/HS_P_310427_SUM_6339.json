@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310427",
+        "caseName": "특수폭행",
+        "caseNum": "2024고정89",
+        "sentenceDate": "2024.06.18",
+        "courtName": "부산지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "말다툼 도중 화가 나, 목을 1회 밀치고 손에 들고 있던 휴대전화를 피해자 쪽으로 던져 폭행하였습니다. 법원은 이러한 행위가 형법 제261조에 따른 특수폭행죄에서 말하는 위험한 물건을 이용한 폭행으로 인정되었습니다. 또한 전과와 범행 정황을 고려하여, 벌금 300만 원을 선고하였습니다.",
+        "originwordCnt": "326",
+        "labelwordCnt": "37"
+    }
+}

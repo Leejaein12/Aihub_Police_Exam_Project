@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001818",
+        "promulgDate": "20240130",
+        "effectDate": "20240130",
+        "promulgNum": "20172",
+        "title": "수도법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "상수원보호구역이 둘 이상의 시ㆍ군ㆍ구에 걸치는 경우 관리 주체는 누구인가요?",
+        "output": "상수원보호구역이 둘 이상의 시ㆍ군ㆍ구의 관할 구역에 걸치거나 그 밖에 특별한 이유가 있으면 대통령령으로 정하는 시ㆍ도지사 또는 시장ㆍ군수ㆍ구청장이 관리합니다. 이는 수도법 제8조 제2항에 명시되어 있습니다.",
+        "originwordCnt": "50",
+        "labelwordCnt": "24"
+    }
+}

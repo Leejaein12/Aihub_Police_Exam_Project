@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317419",
+        "caseName": "특정범죄가중처벌등에관한법률위반(도주치상)등",
+        "caseNum": "2022노7180",
+        "sentenceDate": "2024.03.28",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "도로교통법 위반 등의 혐의로 기소되었고, 1심에서 벌금형을 선고받았습니다. 검사는 이 형이 가볍다며 항소했으나, 피고인 A에 대한 항소는 기각되었습니다. 한편, 피고인 B에 대한 1심 판결은 법정형의 상한을 초과한 위법이 있어 파기되었습니다. 이에 따라 피고인 B에게 벌금 150만 원이 선고되었습니다.",
+        "originwordCnt": "422",
+        "labelwordCnt": "38"
+    }
+}

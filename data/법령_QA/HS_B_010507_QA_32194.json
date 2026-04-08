@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010507",
+        "promulgDate": "20200218",
+        "effectDate": "20210101",
+        "promulgNum": "17007",
+        "title": "산림조합의 구조개선에 관한 법률",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제31조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "조합이 보험료를 납부기한까지 내지 않을 경우 어떤 조치를 취해야 하나요?",
+        "output": "산림조합의 구조개선에 관한 법률 제31조 제2항에 따르면, 조합이 보험료를 납부기한까지 내지 아니하면 대통령령으로 정하는 연체료를 가산하여 관리기관에 납부해야 합니다.",
+        "originwordCnt": "64",
+        "labelwordCnt": "19"
+    }
+}

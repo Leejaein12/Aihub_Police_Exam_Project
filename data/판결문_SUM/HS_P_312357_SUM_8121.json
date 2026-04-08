@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312357",
+        "caseName": "재물손괴",
+        "caseNum": "2023고정734",
+        "sentenceDate": "2024.04.12",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 5월 피고인은 친형과 말다툼 후 화가 난다는 이유로 길가에 있던 돌멩이를 집어 피해자의 K7 차량 쿼터글래스를 파손하여 수리비 약 70만 원 상당의 재물을 손괴하였습니다. 피고인은 범행을 부인했으나, 증인의 법정 진술에 비추어 범행이 인정되었습니다. 이에 법원은 형법 제366조에 따라 피고인에게 벌금 70만 원을 선고하였습니다.",
+        "originwordCnt": "246",
+        "labelwordCnt": "44"
+    }
+}

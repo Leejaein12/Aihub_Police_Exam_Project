@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317795",
+        "caseName": "폭행",
+        "caseNum": "2023고정128",
+        "sentenceDate": "2023.09.20",
+        "courtName": "창원지방법원 진주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "카페에서 피해자에게 4년 전 코인 투자 관련 상황을 물었으나 답변에 화가 나 공개된 장소에서 모욕적인 발언을 하여 형법 제311조에 따른 모욕죄로 기소되었습니다. 법원은 벌금 30만 원을 선고하면서, 1년간 집행유예를 함께 선고하였습니다.",
+        "originwordCnt": "207",
+        "labelwordCnt": "31"
+    }
+}

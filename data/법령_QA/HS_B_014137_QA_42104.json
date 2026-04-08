@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014137",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19117",
+        "title": "2023 순천만국제정원박람회 지원 및 사후활용에 관한 특별법",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "조직위원회는 다음 연도의 사업계획서와 예산서를 언제까지 제출해야 하나요?",
+        "output": "사업계획서와 예산서를 작성하여 다음 회계연도 개시 1개월 전까지 산림청장의 승인을 받아야 합니다.  순천만정원박람회법 제16조에 규정하고 있습니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "17"
+    }
+}

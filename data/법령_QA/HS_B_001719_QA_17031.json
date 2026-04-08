@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001719",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "국가공무원법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제41조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "승진시험의 응시 대상자 및 합격자 결정 방법 등은 어떤 법령에서 정하나요?",
+        "output": "국가공무원법 제41조 제4항에 따르면 제2항과 제3항에 따른 승진시험의 응시 대상자, 응시 방법, 합격자 결정 방법, 합격의 효력, 그 밖에 승진시험에 필요한 사항은 대통령령 등으로 정해집니다.",
+        "originwordCnt": "115",
+        "labelwordCnt": "25"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "230645",
+        "caseName": "근로기준법위반",
+        "caseNum": "2005노973",
+        "sentenceDate": "2007.04.06",
+        "courtName": "울산지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 친인척의 취업을 도와준 대가로 돈을 받은 경우, 영리성 판단은 어떻게 이루어지나요?",
+        "output": "피고인이 친인척의 취업을 도와준 대가로 돈을 받은 경우, 영리성 판단은 피고인의 사회적 지위, 행위의 동기와 경위, 친인척 관계 등 다양한 요소를 종합적으로 고려하여 합리적으로 판단해야 합니다.",
+        "originwordCnt": "1181",
+        "labelwordCnt": "26"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337225",
+        "caseName": "절도",
+        "caseNum": "2023고정276",
+        "sentenceDate": "2024.01.11",
+        "courtName": "의정부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "상점에서 시가 24,000원 상당의 빵을 계산하지 않고 절취하였습니다. 법원은 이러한 행위가 형법 제329조에 따른 절도죄에 해당한다고 판단하였으며, 범행을 인정하고 반성하고 있는 점을 참작하여 벌금 50만 원을 선고하였습니다. 벌금을 납부하지 않을 경우 하루 10만 원씩 노역장에 유치되며, 벌금에 상당한 금액의 가납을 명령하였습니다.",
+        "originwordCnt": "152",
+        "labelwordCnt": "41"
+    }
+}

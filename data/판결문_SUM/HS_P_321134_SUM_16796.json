@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "321134",
+        "caseName": "성폭력범죄의처벌등에관한특례법위반(13세미만미성년자강제추행)등",
+        "caseNum": "2022고합163",
+        "sentenceDate": "2023.01.19.",
+        "courtName": "광주지방법원 순천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "11세 여성피해자를 피고인은 유인하여 6회에 걸쳐 강제추행하고, 2회에 걸쳐 성적 수치심을 주는 성희롱 등 성적 학대행위를 하였습니다. 피고인은 피해자와 원만히 합의하였으므로 법원은 양형조건을 종합적으로 고려하여 피고인을 징역 3년에 5년간 집행을 유예하였습니다.",
+        "originwordCnt": "1051",
+        "labelwordCnt": "31"
+    }
+}

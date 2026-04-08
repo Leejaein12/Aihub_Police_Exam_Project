@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "303502",
+        "caseName": "공문서위조",
+        "caseNum": "2020고단2812",
+        "sentenceDate": "2020. 9. 23.",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "성명불상의 외국인등록증 위조업자로부터 제안받아 외국인등록증을 위조하기로 결심하였습니다. 피고인들은 각각 D와 E의 정보를 사용하여 외국인등록증을 위조한 후, 이를 택배로 전달하였습니다. 이로 인해 피고인들은 형법 제225조에 따라 공문서 위조의 죄를 범하였으며, 범행의 죄책이 매우 무겁고 영업적으로 이루어진 점이 고려되어 각 징역 2년에 처해졌습니다.",
+        "originwordCnt": "588",
+        "labelwordCnt": "41"
+    }
+}

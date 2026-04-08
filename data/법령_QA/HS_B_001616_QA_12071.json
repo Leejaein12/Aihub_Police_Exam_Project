@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001616",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "교육공무원법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "교육공무원법에서 교육공무원 임용에 있어 균등한 기회는 어떻게 보장되나요?",
+        "output": "교육공무원법 제10조 제2항 규정에 따르면 교육공무원의 임용은 교원으로서의 자격을 갖추고 임용을 원하는 모든 사람에게 능력에 따른 균등한 임용의 기회가 보장되어야 합니다.",
+        "originwordCnt": "33",
+        "labelwordCnt": "21"
+    }
+}

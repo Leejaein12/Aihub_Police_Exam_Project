@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "220125",
+        "caseName": "국민체육진흥법위반·정보통신망이용촉진및정보보호등에관한법률위반(음란물유포)",
+        "caseNum": "2020노2946",
+        "sentenceDate": "2021.05.20",
+        "courtName": "창원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "공범이 범행으로 얻은 수익을 나누어 가졌을 때, 추징금은 어떻게 산정되나요?",
+        "output": "공범이 공동으로 범행을 통해 얻은 수익은 각자가 실질적으로 분배받은 금액만을 추징해야 하며, 분배된 금액을 확정할 수 없을 때에는 이를 평등하게 분할한 금액을 추징해야 합니다.",
+        "originwordCnt": "711",
+        "labelwordCnt": "24"
+    }
+}

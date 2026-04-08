@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001638",
+        "promulgDate": "20230418",
+        "effectDate": "20240101",
+        "promulgNum": "19357",
+        "title": "도로교통법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제69조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "도로공사시행자는 공사기간 중 어떤 경우에 안전요원 또는 안전유도 장비를 배치해야 하나요?",
+        "output": "도로교통법 제69조 제4항에 따르면 공사시행자는 공사기간 중 공사의 규모, 주변 교통환경 등을 고려하여 필요한 경우 관할 경찰서장의 지시에 따라 안전요원 또는 안전유도 장비를 배치하여야 합니다.",
+        "originwordCnt": "181",
+        "labelwordCnt": "25"
+    }
+}

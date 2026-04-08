@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "308048",
+        "caseName": "일반교통방해",
+        "caseNum": "2020고정836",
+        "sentenceDate": "2021. 3. 25.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "울산 남구의 교차로에서 차량을 운전하던 중, 마주 오던 차량과 대치하게 되자 승용차를 도로 위에 방치한 채 현장을 이탈하여 약 15분간 교통을 방해하였습니다. 피고인은 자신의 범행을 인정하고 있으며, 범행이 우발적이고 교통 방해의 정도가 심각하지 않은 점을 고려하여 법원은 피고인에게 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "176",
+        "labelwordCnt": "42"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001550",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "한국은행법",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제103조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국은행은 부동산을 매입하거나 소유할 수 있습니까?",
+        "output": "한국은행은 직접ㆍ간접에 상관없이 영리행위를 하거나 영리기업의 소유 또는 운영에 참여할 수 없으며, 업무수행상 필요한 경우 외에는 부동산을 매입하거나 소유할 수 없습니다. 이는 한국은행법 제103조에 명시되어 있습니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "26"
+    }
+}

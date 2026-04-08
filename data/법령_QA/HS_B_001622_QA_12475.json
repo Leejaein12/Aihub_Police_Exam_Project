@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001622",
+        "promulgDate": "20240206",
+        "effectDate": "20240507",
+        "promulgNum": "20191",
+        "title": "병역법",
+        "ministry": "국방부,병무청",
+        "fullText": "N",
+        "smClass": "제29조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사회복무요원 소집이 연기된 사람은 어떻게 소집되나요?",
+        "output": "병역법 제29조 제2항에 따르면 병무청장은 사회복무요원 소집이 연기된 사람으로서 그 사유가 없어진 사람 등 대통령령으로 정하는 사람에 대하여는 제1항에도 불구하고 지방병무청장으로 하여금 따로 사회복무요원 소집을 하게 할 수 있습니다.",
+        "originwordCnt": "172",
+        "labelwordCnt": "29"
+    }
+}

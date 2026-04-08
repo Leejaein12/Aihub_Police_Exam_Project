@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336269",
+        "caseName": "준강제추행",
+        "caseNum": "2023고단2585",
+        "sentenceDate": "2024.03.21",
+        "courtName": "부산지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "주거지에 들어가 피해자가 잠든 사이 무릎을 만지는 방식으로 추행하였습니다. 이로써 피고인은 피해자의 항거불능 상태를 이용하여 준강제추행죄에 해당하는 행위를 한 것으로 판단되었습니다. 이에 따라 법원은 벌금 500만 원을 선고하고, 성폭력 치료프로그램 40시간 이수를 명령하였으며, 신상정보 등록 의무를 부과하였습니다.",
+        "originwordCnt": "378",
+        "labelwordCnt": "37"
+    }
+}

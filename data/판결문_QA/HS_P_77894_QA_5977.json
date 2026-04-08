@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "77894",
+        "caseName": "사행행위등규제및처벌특례법위반·음반·비디오물및게임물에관한법률위반",
+        "caseNum": "2005고단2714",
+        "sentenceDate": "2005.12.28",
+        "courtName": "광주지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "몰수 대상은 무엇이며, 누구로부터 몰수되었나요?",
+        "output": "주문에 따르면, 압수된 오락기 기판(본체) 75개와 상품권 및 현금은 피고인 1과 피고인 2로부터 각각 몰수되었습니다. 이는 범죄수익에 해당하여 형법 제48조에 따라 몰수된 것입니다.",
+        "originwordCnt": "1128",
+        "labelwordCnt": "23"
+    }
+}

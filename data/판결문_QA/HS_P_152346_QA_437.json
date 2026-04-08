@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "152346",
+        "caseName": "도시및주거환경정비법위반",
+        "caseNum": "2010노1325",
+        "sentenceDate": "2010.11.23",
+        "courtName": "서울북부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "청산인이 재개발조합의 해산 후에도 자료 공개의무를 가지나요?",
+        "output": "재개발조합이 해산한 후에도 청산인은 도시 및 주거환경정비법 제81조 제1항에 따라 자료를 공개할 의무가 있습니다. 이는 청산법인이 본래의 법인과 동일한 인격체로 간주되며, 재개발조합의 재산관계 정리가 정비사업의 일환으로 보이기 때문입니다.",
+        "originwordCnt": "366",
+        "labelwordCnt": "28"
+    }
+}

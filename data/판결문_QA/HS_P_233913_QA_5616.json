@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "233913",
+        "caseName": "살인·협박·부착명령·보호관찰명령",
+        "caseNum": "2022노31",
+        "sentenceDate": "2022.08.17",
+        "courtName": "광주고등법원제주재판부",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인의 살인범죄에 대한 재범의 위험성이 있다고 판단된 이유는 무엇인가요?",
+        "output": "피고인은 이전에 폭력 범죄로 실형을 포함하여 3회 처벌받은 전력이 있고, 살인범죄를 저지른 후에도 자신의 행동에 대한 반성이나 개전의 정이 없는 것으로 보이며, 심리 평가 결과 재범의 위험성이 높다고 판단되었습니다.",
+        "originwordCnt": "6394",
+        "labelwordCnt": "29"
+    }
+}

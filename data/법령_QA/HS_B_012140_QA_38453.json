@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012140",
+        "promulgDate": "20240125",
+        "effectDate": "20240131",
+        "promulgNum": "03126",
+        "title": "아동보호심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제81조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법원사무관등이 피해아동의 심리조서의 일부 기재사항을 생략할 수 있는 경우는 어떤 경우인가요?",
+        "output": "아동보호심판규칙 제81조 제3항에 따르면 심리에 참여한 법원사무관등은 판사의 허가가 있을 때에는 제2항의 기재사항 중 일부를 생략할 수 있습니다.",
+        "originwordCnt": "126",
+        "labelwordCnt": "18"
+    }
+}

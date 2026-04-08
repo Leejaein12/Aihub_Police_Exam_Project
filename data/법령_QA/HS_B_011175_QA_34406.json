@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011175",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19886",
+        "title": "국민영양관리법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제26조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "영양관리사업에 드는 경비 중 일부에 대하여 수수료 징수 시 누구의 수수료를 감면하나요?",
+        "output": "국민영양관리법 제26조 제2항 규정에 따르면 지방자치단체의 장은 수수료를 징수하는 경우 노인, 장애인, 「국민기초생활 보장법」에 따른 수급권자 등의 수수료를 감면하여야 합니다.",
+        "originwordCnt": "80",
+        "labelwordCnt": "20"
+    }
+}

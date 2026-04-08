@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "92421",
+        "caseName": "법률사무취급단속법위반",
+        "caseNum": "72도1731",
+        "sentenceDate": "1974.11.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 공무원 사무에 관한 청탁을 위한 경비조로 받은 금품을 그대로 전달한 경우, 해당 금품이 몰수 또는 추징 대상이 되나요?",
+        "output": "피고인이 공무원 사무에 관한 청탁을 위해 받은 금품을 전액 그대로 상피고인에게 전달한 경우, 그 금품은 구 법률사무취급단속법 제5조에 따라 몰수 또는 추징할 금품이나 이익에 해당하지 않습니다.",
+        "originwordCnt": "64",
+        "labelwordCnt": "26"
+    }
+}

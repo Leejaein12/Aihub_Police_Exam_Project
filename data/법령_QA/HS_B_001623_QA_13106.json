@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제193조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "감치시설의 장은 증인이 유치된 경우 어떻게 해야 하나요?",
+        "output": "군사법원법 제193조 제5항에 따르면  증인이 유치된 경우 즉시 그 사실을 군사법원에 통보하여야 합니다.",
+        "originwordCnt": "161",
+        "labelwordCnt": "14"
+    }
+}

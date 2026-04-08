@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000928",
+        "promulgDate": "20221213",
+        "effectDate": "20221213",
+        "promulgNum": "19076",
+        "title": "군사기밀 보호법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제20조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군사기밀 보호법에 따른 죄를 범한 자가 받은 재산이나 이익은 어떻게 처리되나요?",
+        "output": "군사기밀 보호법 제20조의2 제1항에 따르면 이 법에 따른 죄를 범한 자 또는 그 정을 아는 제3자가 받은 해당 재산이나 이익은 몰수합니다. 다만, 몰수가 불가능한 경우에는 그 가액을 추징합니다.",
+        "originwordCnt": "57",
+        "labelwordCnt": "28"
+    }
+}

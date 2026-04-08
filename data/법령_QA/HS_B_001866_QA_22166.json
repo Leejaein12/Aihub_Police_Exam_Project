@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001866",
+        "promulgDate": "20230613",
+        "effectDate": "20231214",
+        "promulgNum": "19440",
+        "title": "집단에너지사업법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "집단에너지공급기본계획은 몇 년마다 수립해야 하나요?",
+        "output": "'집단에너지사업법' 제3조제1항에 따르면, 산업통상자원부장관은 5년마다 집단에너지공급기본계획을 수립하고 공고해야 합니다. 기본계획을 변경한 경우에도 공고해야 합니다.",
+        "originwordCnt": "78",
+        "labelwordCnt": "14"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314014",
+        "caseName": "절도",
+        "caseNum": "2023노7744",
+        "sentenceDate": "2024.02.07",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "할인매장에서 물품을 절취한 혐의로 기소된 사건에서 원심은 제출된 증거만으로 절취 사실을 인정하기 어렵다고 판단하였습니다. 검사는 이에 대해 사실 오인 주장을 하며 항소하였으나, 항소심 재판부는 기록을 검토한 결과 원심의 판단이 타당하며 사실 오인으로 판결에 영향을 미친 위법이 없다고 보았습니다. 이에 따라 항소심 재판부는 검사의 항소를 기각하였습니다.",
+        "originwordCnt": "109",
+        "labelwordCnt": "45"
+    }
+}

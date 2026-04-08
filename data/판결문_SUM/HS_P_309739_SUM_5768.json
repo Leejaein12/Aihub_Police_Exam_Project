@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "309739",
+        "caseName": "병역법위반",
+        "caseNum": "2013고정523",
+        "sentenceDate": "2013. 9. 12.",
+        "courtName": "청주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "향토예비군 대원으로서 동원훈련 소집통지서를 받고도 종교적 신념을 이유로 훈련에 불참하였습니다. 법원은 이런 행위가 병역법 제90조 제1항에 해당한다고 판단하였습니다. 종교적 신념을 이유로 한 훈련 불참이 개인의 신념에 기반한 것이라 하더라도, 병역법상 정당한 사유로 인정되지 않는다는 점을 들어 벌금 50만 원을 선고하였습니다.",
+        "originwordCnt": "127",
+        "labelwordCnt": "40"
+    }
+}

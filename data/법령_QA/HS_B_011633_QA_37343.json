@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011633",
+        "promulgDate": "20191210",
+        "effectDate": "20200611",
+        "promulgNum": "16785",
+        "title": "식물신품종 보호법",
+        "ministry": "농림축산식품부,해양수산부",
+        "fullText": "N",
+        "smClass": "제61조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "전용실시권자는 질권을 설정할 때 동의가 필요한가요?",
+        "output": "식물신품종 보호법 제61조 제4항에 따르면, 전용실시권자는 품종보호권자의 동의를 받지 않으면 그 전용실시권을 목적으로 하는 질권을 설정하거나 통상실시권을 허락할 수 없습니다.",
+        "originwordCnt": "80",
+        "labelwordCnt": "20"
+    }
+}

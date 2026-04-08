@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "96274",
+        "caseName": "의료법위반",
+        "caseNum": "80도2974",
+        "sentenceDate": "1981.12.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "환자의 손목 맥을 짚고 어깨와 허리를 눌러본 후 병명을 판단하고 한약을 처방한 행위는 무면허 의료행위에 해당하나요?",
+        "output": "환자의 손목 맥을 짚고 어깨와 허리를 눌러본 후 병명을 신경성 심장병으로 판단하고 한약을 처방한 행위는 의료법 제25조에 따른 무면허 의료행위에 해당합니다.",
+        "originwordCnt": "46",
+        "labelwordCnt": "21"
+    }
+}

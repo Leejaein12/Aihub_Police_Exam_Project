@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "182801",
+        "caseName": "개인정보보호법위반",
+        "caseNum": "2015노166",
+        "sentenceDate": "2015.05.21",
+        "courtName": "서울북부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "검사의 항소가 기각된 이유는 무엇인가요?",
+        "output": "검사의 항소는 서울북부지방법원의 2015년 1월 13일자 판결에 따라 기각되었습니다. 이는 원심에서 선고된 판결이 유지되며, 항소를 인용할 사유가 없다고 판단하여 주문에서 항소를 모두 기각한 결정입니다.",
+        "originwordCnt": "350",
+        "labelwordCnt": "24"
+    }
+}

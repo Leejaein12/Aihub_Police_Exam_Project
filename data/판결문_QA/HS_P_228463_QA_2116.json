@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "228463",
+        "caseName": "준항고",
+        "caseNum": "2018보6",
+        "sentenceDate": "2019.08.16",
+        "courtName": "서울남부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "압수목록 작성과 교부 과정에서 문제가 있었나요?",
+        "output": "검찰이 압수수색을 진행한 후 작성한 압수목록에 압수한 물건의 일부를 누락하고, 이를 준항고인에게 교부하지 않은 것은 형사소송법에서 요구하는 절차를 위반한 위법한 행위로 판단되었습니다. 이로 인해 압수처분은 취소되었습니다.",
+        "originwordCnt": "1030",
+        "labelwordCnt": "26"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011357",
+        "promulgDate": "20230314",
+        "effectDate": "20240315",
+        "promulgNum": "19234",
+        "title": "개인정보 보호법",
+        "ministry": "개인정보보호위원회",
+        "fullText": "N",
+        "smClass": "제7조의13",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보호위원회의 조직에 관한 사항은 무엇으로 규정하나요?",
+        "output": "개인정보 보호법 제7조의13에 따르면 보호위원회의 사무를 처리하기 위하여 보호위원회에 사무처를 두며, 이 법에 규정된 것 외에 보호위원회의 조직에 관한 사항은 대통령령으로 정합니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "22"
+    }
+}

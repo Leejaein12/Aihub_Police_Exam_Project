@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "75677",
+        "caseName": "특정범죄가중처벌등에관한법률위반등피고사건",
+        "caseNum": "82노1232",
+        "sentenceDate": "1984.02.28",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법인이 청산종결등기를 마쳤음에도 사건이 진행 중인 경우 법인의 당사자 능력은 유지되나요?",
+        "output": "법인이 청산종결등기를 마쳤더라도 사건이 계속 중인 경우에는 청산사무가 모두 종료된 것으로 볼 수 없으므로 형사소송법 제27조에 따라 법인의 당사자 능력은 유지됩니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "21"
+    }
+}

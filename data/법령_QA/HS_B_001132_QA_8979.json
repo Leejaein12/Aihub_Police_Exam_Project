@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001132",
+        "promulgDate": "20221213",
+        "effectDate": "20230614",
+        "promulgNum": "19068",
+        "title": "가정폭력범죄의 처벌 등에 관한 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제41조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "가정폭력범죄의 보호처분 결정시 사회봉사ㆍ수강명령 시간은 몇 시간까지 가능합니까?",
+        "output": "가정폭력범죄의 처벌 등에 관한 특례법 제41조에 따르면, 제40조제1항제4호의 사회봉사ㆍ수강명령의 시간은 200시간을 각각 초과할 수 없습니다.",
+        "originwordCnt": "23",
+        "labelwordCnt": "15"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "320037",
+        "caseName": "도로교통법위반(무면허운전)",
+        "caseNum": "2023고정418",
+        "sentenceDate": "2024.04.17",
+        "courtName": "수원지방법원 여주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "무면허 상태에서 약 100km 구간을 운전한 사실이 인정되었습니다. 사건 당시 이미 음주운전과 교통사고처리특례법 위반으로 각각 징역형과 집행유예 처분을 받은 전력이 있는 상황이었습니다. 이러한 전과를 고려하여 형법 규정에 의거하여 경합범 처리 하였고, 재판부는 도로교통법에 따라 벌금형을 선고하였습니다.",
+        "originwordCnt": "205",
+        "labelwordCnt": "36"
+    }
+}

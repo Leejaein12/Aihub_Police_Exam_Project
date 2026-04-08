@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010052",
+        "promulgDate": "20210406",
+        "effectDate": "20210421",
+        "promulgNum": "31595",
+        "title": "치료감호 등에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "피치료감호자의 처우개선 청원은 누구에게 문서로 제출해야 하나요?",
+        "output": "피치료감호자등이나 법정대리인등이 피치료감호자의 처우개선에 관하여 청원할 경우 법무부장관에게 문서로 제출하여야 합니다. 치료감호 등에 관한 법률 시행령 제8조 제1항에 명시하고 있습니다.",
+        "originwordCnt": "88",
+        "labelwordCnt": "20"
+    }
+}

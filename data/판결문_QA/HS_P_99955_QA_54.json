@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "99955",
+        "caseName": "향토예비군설치법위반",
+        "caseNum": "84도2011",
+        "sentenceDate": "1984.12.11",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 교육훈련을 이수했음에도 불구하고 보충교육소집영장을 받고 불참한 경우, 죄책이 성립하나요?",
+        "output": "향토예비군설치법 제15조에 따르면, 피고인이 제1차 교육훈련을 이수했음에도 사무착오로 보충교육소집영장을 받았다면, 소집에 응하지 않은 것은 정당한 사유가 있다고 보아 죄책이 성립하지 않습니다.",
+        "originwordCnt": "41",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001550",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "한국은행법",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제59조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "각 금융기관이 보유할 최저지급준비금은 금융통화위원회가 정하는 바에 따라 어떻게 계산합니까?",
+        "output": "각 금융기관이 보유할 최저지급준비금은 금융통화위원회가 정하는 바에 따라 월별로 계산합니다. 이는 한국은행법 제59조 제1항에 명시되어 있습니다.",
+        "originwordCnt": "25",
+        "labelwordCnt": "16"
+    }
+}

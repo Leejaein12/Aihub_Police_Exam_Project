@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337866",
+        "caseName": "컴퓨터등사용사기등",
+        "caseNum": "2023노335",
+        "sentenceDate": "2023.06.08.",
+        "courtName": "서울서부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "지방법원은 피고인 A에 대한 원심의 형량이 부당하다는 검사의 항소를 기각했습니다. 원심에서 정한 징역 1년 6개월의 형량은 재량의 합리적인 범위 내에서 이루어진 것으로 판단되며, 검사가 주장한 양형부당 사유는 이미 원심에서 충분히 고려된 사항입니다. 따라서 항소는 이유가 없다고 결론지었습니다.",
+        "originwordCnt": "192",
+        "labelwordCnt": "37"
+    }
+}

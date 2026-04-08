@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "92364",
+        "caseName": "상관집단특수폭행치사ㆍ상관집단폭행치상",
+        "caseNum": "74도2292",
+        "sentenceDate": "1974.10.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "군법무관이 장기복무기간을 마치지 않았을 경우, 변호인이 될 수 있나요?",
+        "output": "군법무관임용법 제3조 제3호에 의한 군법무관이 군인사법에 규정된 장기복무기간 10년을 마치지 않았다면 변호사의 자격이 없으므로 형사소송에서 변호인이 될 수 없습니다.",
+        "originwordCnt": "62",
+        "labelwordCnt": "19"
+    }
+}

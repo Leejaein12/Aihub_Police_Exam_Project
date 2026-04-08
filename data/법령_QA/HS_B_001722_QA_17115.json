@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001722",
+        "promulgDate": "20240102",
+        "effectDate": "20240102",
+        "promulgNum": "19922",
+        "title": "정당법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시ㆍ도당의 등록신청사항에는 어떤 내용이 포함되어야 하나요?",
+        "output": "시ㆍ도당의 등록신청사항에는 정당의 명칭, 사무소의 소재지, 대표자 및 간부의 성명ㆍ주소, 당원의 수, 당인 및 그 대표자 직인의 인영이 포함되어야 합니다. 이는 정당법 제13조 제1항에 명시된 사항입니다.",
+        "originwordCnt": "67",
+        "labelwordCnt": "26"
+    }
+}

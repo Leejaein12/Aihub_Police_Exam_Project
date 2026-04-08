@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001550",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "한국은행법",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "금융통화위원회 위원에 결원이 생겼을 때에는 어떻게 합니까?",
+        "output": "한국은행법 제16조에 명시된 바와 같이, 제13조제1항제3호부터 제7호까지의 위원에 결원이 생겼을 때에는 새로 임명하며, 새로 임명된 위원의 임기는 전임자 임기의 남은 기간으로 합니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "22"
+    }
+}

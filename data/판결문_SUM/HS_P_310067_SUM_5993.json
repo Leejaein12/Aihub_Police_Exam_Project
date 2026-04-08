@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310067",
+        "caseName": "사기등",
+        "caseNum": "2023고단1045",
+        "sentenceDate": "2023.07.06",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "면허 없이 음주 상태로 자동차를 운전하여 도로교통법을 위반하였습니다. 피고인은 이전에도 음주운전과 무면허운전으로 벌금형을 받은 전력이 있었으며, 이번 범행은 1년 만에 재차 발생한 것으로 그 죄책이 무겁다고 판단되었습니다. 법원은 피고인에게 징역 1년에 집행유예 2년을 선고하고 준법운전강의 40시간 이수를 명령하였습니다.",
+        "originwordCnt": "275",
+        "labelwordCnt": "38"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005698",
+        "promulgDate": "20240125",
+        "effectDate": "20240131",
+        "promulgNum": "03125",
+        "title": "가정보호심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "가정폭력범죄와 관련하여 임시조치 결정을 하였을 경우 누구에게 그 결정을 통지해야 하나요?",
+        "output": "가정보호심판규칙 제5조 제1항에 의거하여, 가정폭력범죄의 처벌 등에 관한 특례법 제29조 제1항 제4호ㆍ제5호의 임시조치 결정을 하였을 때에는 수탁ㆍ유치기관의 장에게 그 결정을 통지하여야 합니다.",
+        "originwordCnt": "73",
+        "labelwordCnt": "22"
+    }
+}

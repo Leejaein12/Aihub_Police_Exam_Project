@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012523",
+        "promulgDate": "20230816",
+        "effectDate": "20240217",
+        "promulgNum": "19688",
+        "title": "항공사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제61조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "이동지역 내에서의 지연금지 및 관계 기관의 장 등에 대한 협조 요청의 절차와 내용 등에 관한 사항은 무엇으로 정합니까?",
+        "output": "항공사업법 제61조의2 제5항에 의하면 그 밖에 이동지역 내에서의 지연 금지 및 관계 기관의 장 등에 대한 협조 요청의 절차와 내용에 관한 사항은 대통령령으로 정합니다.",
+        "originwordCnt": "184",
+        "labelwordCnt": "24"
+    }
+}

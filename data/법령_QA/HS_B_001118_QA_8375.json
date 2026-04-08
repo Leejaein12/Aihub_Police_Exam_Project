@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001118",
+        "promulgDate": "20231229",
+        "effectDate": "20231229",
+        "promulgNum": "19857",
+        "title": "형사보상 및 명예회복에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제33조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "무죄재판서를 법무부 인터넷 홈페이지에 게재한 후 통지가 필요합니까?",
+        "output": "형사보상 및 명예회복에 관한 법률 제33조 제1항에 따르면, 제32조 제1항에 따라 무죄재판서를 법무부 인터넷 홈페이지에 게재한 경우에는 지체 없이 그 사실을 청구인에게 서면으로 통지하여야 합니다.",
+        "originwordCnt": "32",
+        "labelwordCnt": "25"
+    }
+}

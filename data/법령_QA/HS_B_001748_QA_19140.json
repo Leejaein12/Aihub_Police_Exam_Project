@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001748",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "화물자동차 운수사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제46조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "인·허가 등의 의제 기준과 효과에 대해 추가로 적용되는 법령은 무엇인가요?",
+        "output": "화물자동차 운수사업법 제46조의4 제3항에 따르면 제1항 및 제2항에서 규정한 사항 외에 인·허가 등의 의제 기준 및 효과 등에 관해서는 행정기본법 제24조부터 제26조까지의 규정을 준용합니다.",
+        "originwordCnt": "547",
+        "labelwordCnt": "24"
+    }
+}

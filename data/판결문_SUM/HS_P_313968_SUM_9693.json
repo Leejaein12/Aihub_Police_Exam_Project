@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313968",
+        "caseName": "업무방해등",
+        "caseNum": "2023노2985",
+        "sentenceDate": "2023.08.11",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심은 징역 1년 6월 및 벌금 100,000원의 형을 부과하였으며, 이는 피고인의 양형에 관한 제반 사정을 충분히 고려한 결과입니다. 제1심과 비교할 때 양형의 조건이 변하지 않았고, 원심의 형이 재량의 합리적인 범위를 벗어나지 않았으므로 이를 존중할 필요가 있습니다. 따라서 피고인의 항소는 이유가 없어 기각되었습니다.",
+        "originwordCnt": "148",
+        "labelwordCnt": "42"
+    }
+}

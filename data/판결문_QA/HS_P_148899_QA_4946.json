@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "148899",
+        "caseName": "사문서위조·위조사문서행사",
+        "caseNum": "2008노50",
+        "sentenceDate": "2008.05.08",
+        "courtName": "대전지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "법원이 원심의 형량이 가볍다고 판단한 이유는 무엇인가요?",
+        "output": "법원은 피고인이 공무원으로서 고도의 공정성과 청렴성이 요구되는 직무를 저버리고 불법을 저지른 점에서 죄질과 범정이 매우 중하다고 판단하여, 원심의 형량이 너무 가볍다고 보고 원심판결을 파기하고 징역 6월에 집행유예 2년을 선고했습니다.",
+        "originwordCnt": "543",
+        "labelwordCnt": "29"
+    }
+}

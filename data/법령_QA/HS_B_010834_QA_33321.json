@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010834",
+        "promulgDate": "20240109",
+        "effectDate": "20240112",
+        "promulgNum": "34109",
+        "title": "전자장치 부착 등에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제18조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "전자장치 부착명령 임시해제 취소결정 후 보호관찰관의 역할은 무엇입니까?",
+        "output": "보호관찰관은 부착명령의 임시해제 취소결정이 있으면 피부착명령자에게 결정서를 제시한 후 전자장치를 부착해야 합니다. 이는 전자장치 부착 등에 관한 법률 시행령 제18조 제3항에 명시되어 있습니다.",
+        "originwordCnt": "70",
+        "labelwordCnt": "23"
+    }
+}

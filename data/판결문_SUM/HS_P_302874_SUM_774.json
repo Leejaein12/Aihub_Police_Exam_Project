@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "302874",
+        "caseName": "사기, 강도상해",
+        "caseNum": "2022고합86",
+        "sentenceDate": "2022. 6. 3.",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "즉석만남 어플을 통해 피해자와 성관계를 약속한 후, 성매매 대금 명목으로 30만 원을 기망하여 편취하였으며, 이어서 커터칼로 피해자를 협박하여 돈을 요구하다 미수에 그쳤고, 피해자에게 상해를 가하였습니다. 법원은 피고인의 범행 수법이 대담하고 위험하다고 판단하여 징역 4년을 선고하였습니다.",
+        "originwordCnt": "559",
+        "labelwordCnt": "35"
+    }
+}

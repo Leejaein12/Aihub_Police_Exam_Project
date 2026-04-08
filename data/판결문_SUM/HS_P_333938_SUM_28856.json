@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333938",
+        "caseName": "업무상횡령",
+        "caseNum": "2023고정108",
+        "sentenceDate": "2023.11.08",
+        "courtName": "대구지방법원 경주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2016년부터 충남 B 어촌계의 계장으로 자금을 보관, 관리하였으나, 2020년 고소당한 후 500만 원을 임의로 사용하여 횡령한 것으로 인정됩니다. 법원은 변호사 선임료가 단체의 비용으로 지출될 수 있는 경우를 제한적으로 인정하며, 피고인의 경우 특별한 필요성이 없었다고 판단하여 벌금 1,000,000원에 처해졌습니다.",
+        "originwordCnt": "370",
+        "labelwordCnt": "38"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310177",
+        "caseName": "상해",
+        "caseNum": "2024고정56",
+        "sentenceDate": "2024.07.17",
+        "courtName": "대구지방법원 상주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 피고인은 서민금융진흥원의 직원을 사칭한 사람으로부터 신용등급을 올려주겠다는 제안을 받고, 자신의 체크카드와 비밀번호를 성명불상자에게 제공하였습니다. 해당 행위는 전자금융거래법에 따른 접근 매체 대여 금지 규정을 위반한 것입니다. 법원은 이러한 범행에 대해 피고인에게 벌금 300만 원을 선고하였습니다.",
+        "originwordCnt": "162",
+        "labelwordCnt": "35"
+    }
+}

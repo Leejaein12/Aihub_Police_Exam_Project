@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318254",
+        "caseName": "업무방해",
+        "caseNum": "2023고정318",
+        "sentenceDate": "2024.03.29",
+        "courtName": "광주지방법원 목포지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "위치추적 전자장치 부착 중 전자장치의 기능을 고의로 훼손한 혐의로 기소되었습니다. 피고인은 재택감독장치의 전원을 차단하고 이를 떼어내 차량에 싣고 약 22시간 동안 이동하면서 전자장치의 효용을 해쳤습니다. 법원은 피고인이 전자장치의 관리 의무를 위반한 사실을 인정하고, 벌금 500만 원을 선고하였습니다.",
+        "originwordCnt": "253",
+        "labelwordCnt": "37"
+    }
+}

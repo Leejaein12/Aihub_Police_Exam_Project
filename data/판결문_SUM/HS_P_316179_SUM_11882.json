@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "316179",
+        "caseName": "근로기준법위반등",
+        "caseNum": "2023고단3158",
+        "sentenceDate": "2023.10.26",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "C 주식회사의 대표인 피고인은 퇴직한 근로자 D와 F의 임금과 퇴직금을 퇴직일로부터 14일 이내에 지급하지 않아 근로기준법 및 근로자퇴직급여보장법을 위반한 혐의로 기소되었습니다. 법원은 피고인에 대해 반의사불벌죄 조항이 적용되는 점과 처벌불원의 의사표시가 접수된 점을 고려하여 공소를 기각하였습니다.",
+        "originwordCnt": "202",
+        "labelwordCnt": "35"
+    }
+}

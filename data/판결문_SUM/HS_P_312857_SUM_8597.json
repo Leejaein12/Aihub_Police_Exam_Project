@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312857",
+        "caseName": "중감금등",
+        "caseNum": "2024고단135",
+        "sentenceDate": "2024.05.22",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "이전에 음주운전으로 처벌받은 전력이 있음에도 다시 음주운전을 하여 도로교통법을 위반하였습니다. 피고인은 혈중알코올농도 0.095% 상태에서 약 41km를 운전하였으며, 운전 중 도로 위에서 잠들어 사고를 유발할 위험이 있었습니다. 법원은 피고인에게 징역 8개월에 집행유예 2년을 선고하고, 사회봉사 80시간 및 수강명령을 부과하였습니다.",
+        "originwordCnt": "261",
+        "labelwordCnt": "38"
+    }
+}

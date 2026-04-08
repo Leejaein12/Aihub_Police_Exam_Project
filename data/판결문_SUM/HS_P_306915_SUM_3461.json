@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "306915",
+        "caseName": "출입국관리법위반",
+        "caseNum": "2015고단2780",
+        "sentenceDate": "2015. 11. 10.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "중국 국적의 피고인은 단기상용비자로 대한민국에 입국하여 체류기간 90일이 만료된 후에도 불법체류한 혐의로 기소되었습니다. 출입국관리법에 따르면 외국인은 체류자격과 체류기간을 초과하여 체류할 수 없으나, 피고인은 이를 위반하였습니다. 이에 징역 6개월을 선고하되, 2년간 집행유예가 결정되었습니다.",
+        "originwordCnt": "167",
+        "labelwordCnt": "32"
+    }
+}

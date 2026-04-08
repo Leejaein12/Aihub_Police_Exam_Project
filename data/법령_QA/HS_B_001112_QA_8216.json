@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001112",
+        "promulgDate": "20210105",
+        "effectDate": "20210105",
+        "promulgNum": "17827",
+        "title": "범죄인 인도법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제32조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "범죄인 인도법에 따르면, 법무부장관은 범죄인이 석방되었을 때에 어떤 조치를 해야 합니까?",
+        "output": "범죄인 인도법 제32조 제2항 규정에 의하면 법무부장관은 범죄인 인도법 제32조 제1항에 따라 범죄인이 석방되었을 때에는 외교부장관에게 그 사실을 통지하여야 합니다.",
+        "originwordCnt": "56",
+        "labelwordCnt": "20"
+    }
+}

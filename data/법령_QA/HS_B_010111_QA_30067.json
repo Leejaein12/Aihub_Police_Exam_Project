@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010111",
+        "promulgDate": "20230613",
+        "effectDate": "20231214",
+        "promulgNum": "19448",
+        "title": "긴급복지지원법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "지원 후에도 위기상황이 해소되지 않은 경우 국가 및 지방자치단체는 어떻게 해야 하나요?",
+        "output": "긴급복지지원법 제4조 제2항에 따르면, 국가 및 지방자치단체는 지원 후에도 위기상황이 해소되지 않아 계속 지원이 필요한 사람에게는 다른 법률에 따른 구호·보호 또는 지원을 받을 수 있도록 노력해야 합니다.",
+        "originwordCnt": "93",
+        "labelwordCnt": "27"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "302859",
+        "caseName": "변호사법위반, 모해위증",
+        "caseNum": "2021노2045",
+        "sentenceDate": "2021. 11. 18.",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공사 취업 청탁 명목의 3,000만 원을 수수한 혐의로 유죄 판결을 받았습니다. 원심은 적법하게 채택된 증거를 토대로 피고인이 사실을 왜곡하여 위증하였음을 인정하였습니다. 또한 피고인이 수수한 금원이 청탁과 관련이 없다는 주장은 신빙성이 없다고 보았습니다. 이에 따라 피고인의 항소는 기각되었습니다.",
+        "originwordCnt": "1131",
+        "labelwordCnt": "37"
+    }
+}

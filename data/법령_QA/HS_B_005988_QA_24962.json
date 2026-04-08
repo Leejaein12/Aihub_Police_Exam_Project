@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005988",
+        "promulgDate": "20211231",
+        "effectDate": "20220101",
+        "promulgNum": "03016",
+        "title": "형사소송규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제25조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "재판서에 잘못된 계산이나 기재가 있을 경우, 법원은 어떤 결정을 할 수 있습니까?",
+        "output": "형사소송규칙 제25조제1항에 따르면 재판서에 잘못된 계산이나 기재, 그 밖에 이와 비슷한 잘못이 있음이 분명한 때에는 법원은 직권으로 또는 당사자의 신청에 따라 경정결정을 할 수 있습니다.",
+        "originwordCnt": "68",
+        "labelwordCnt": "25"
+    }
+}

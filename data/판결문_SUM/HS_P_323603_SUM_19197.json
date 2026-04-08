@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "323603",
+        "caseName": "사기등",
+        "caseNum": "2022노1150",
+        "sentenceDate": "2023.02.07",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공동으로 범행을 저지르며 피해자들에게 약 6억 원을 편취한 사실이 인정되었습니다. 특히, 피해자들을 안심시키기 위해 위조된 인장을 사용한 점이 죄질을 더욱 무겁게 하였습니다. 또한, 피해자들과 합의에 이르지 못한 점도 고려하여, 피고인 B의 항소는 이유가 없어 기각되었습니다. 이에 따라 피고인 A에게는 징역 3년 10월의 형이 선고되었습니다.",
+        "originwordCnt": "991",
+        "labelwordCnt": "44"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001638",
+        "promulgDate": "20230418",
+        "effectDate": "20240101",
+        "promulgNum": "19357",
+        "title": "도로교통법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제28조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보행자우선도로에서 차량의 통행속도는 어떻게 제한될 수 있나요?",
+        "output": "도로교통법 제28조의2에 따르면 시ㆍ도경찰청장이나 경찰서장은 보행자우선도로에서 보행자를 보호하기 위하여 필요하다고 인정하는 경우에는 차마의 통행속도를 시속 20킬로미터 이내로 제한할 수 있습니다.",
+        "originwordCnt": "18",
+        "labelwordCnt": "20"
+    }
+}

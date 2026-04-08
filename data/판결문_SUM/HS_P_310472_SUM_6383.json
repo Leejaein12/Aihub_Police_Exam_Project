@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310472",
+        "caseName": "모욕",
+        "caseNum": "2024고정525",
+        "sentenceDate": "2024.07.10",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "지하철에서 교통약자석에 앉아있다는 이유로 다수의 승객들이 듣는 가운데 큰소리로 욕을 하며 모욕적인 발언을 한 혐의로 기소되었습니다. 법원은 형법 제311조에 따라 피고인의 발언 내용과 범행 경위, 태도 등을 고려하여 벌금 50만 원을 선고하였습니다.",
+        "originwordCnt": "245",
+        "labelwordCnt": "32"
+    }
+}

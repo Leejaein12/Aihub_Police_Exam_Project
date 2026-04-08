@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "96039",
+        "caseName": "위계공무집행방해등",
+        "caseNum": "80도2688",
+        "sentenceDate": "1981.07.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인들이 공판정에서 허위자백을 한 경우, 그 자백의 신빙성은 어떻게 평가되나요?",
+        "output": "피고인들이 공판정에서 허위자백을 한 경우, 그 자백은 신빙성이 없다고 평가되며, 이를 근거로 한 유죄 판단은 인정될 수 없습니다. 이는 형사소송법 제309조, 제312조, 제317조에 근거합니다.",
+        "originwordCnt": "1252",
+        "labelwordCnt": "24"
+    }
+}

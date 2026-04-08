@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "121403",
+        "caseName": "사기",
+        "caseNum": "91도1796",
+        "sentenceDate": "1991.12.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "검사만이 양형부당을 이유로 항소한 경우, 피고인은 사실오인이나 법령위반을 이유로 상고할 수 있나요?",
+        "output": "검사만이 양형부당을 이유로 항소하고 피고인이 항소하지 않은 경우, 피고인은 사실오인이나 법령위반을 이유로 상고할 수 없습니다. 이는 형사소송법 제383조와 제384조에 따라 항소한 자의 권한 범위 내에서만 상고할 수 있기 때문입니다.",
+        "originwordCnt": "36",
+        "labelwordCnt": "29"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311198",
+        "caseName": "강제추행",
+        "caseNum": "2023고단887",
+        "sentenceDate": "2023.09.13",
+        "courtName": "전주지방법원 군산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "교도소에서 피해자의 허벅지와 종아리 부위를 만지는 방식으로 3일에 걸쳐 강제추행을 저질렀습니다. 피고인은 과거 상습존속폭행죄로 형을 선고받고 그 집행이 종료된 지 얼마 지나지 않아 범행을 저질렀으며, 누범 가중이 적용되었습니다. 법원은 피고인에게 징역 4개월을 선고하고, 성폭력 치료프로그램 이수와 2년간 취업제한 명령을 내렸습니다.",
+        "originwordCnt": "552",
+        "labelwordCnt": "40"
+    }
+}

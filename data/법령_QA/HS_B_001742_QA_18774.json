@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001742",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19134",
+        "title": "선박안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제36조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "화물을 외국으로 운송할 때 화주는 어떤 정보를 추가로 제공해야 하나요?",
+        "output": "선박안전법 제36조에 따르면, 화물을 외국으로 운송하려는 화주는 화물에 관한 정보를 제공할 때, 해양수산부령으로 정하는 방법에 따라 화물의 총중량에 관한 검증된 정보도 함께 제공하여야 합니다.",
+        "originwordCnt": "105",
+        "labelwordCnt": "24"
+    }
+}

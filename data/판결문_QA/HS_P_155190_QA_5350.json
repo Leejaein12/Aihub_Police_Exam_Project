@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155190",
+        "caseName": "상법위반등",
+        "caseNum": "71도326",
+        "sentenceDate": "1971.04.13",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "독직죄가 성립하려면 회사에 손해가 발생해야 하나요?",
+        "output": "상법 제630조의 독직죄는 부정한 청탁의 대가로 재산상 이익의 수수 등이 있으면 성립하며, 회사에 손해가 발생하는 것은 그 구성요건이 아닙니다.",
+        "originwordCnt": "126",
+        "labelwordCnt": "19"
+    }
+}

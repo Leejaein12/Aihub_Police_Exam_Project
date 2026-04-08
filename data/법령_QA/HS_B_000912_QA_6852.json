@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000912",
+        "promulgDate": "20200204",
+        "effectDate": "20200204",
+        "promulgNum": "16927",
+        "title": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제40조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군교정시설에는 군수용자의 진료를 위한 의료 인력이 필요합니까?",
+        "output": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 제40조 제1항에 따르면 군교정시설에는 군수용자의 진료를 위해 필요한 의료 인력과 설비를 갖추어야 합니다.",
+        "originwordCnt": "38",
+        "labelwordCnt": "21"
+    }
+}

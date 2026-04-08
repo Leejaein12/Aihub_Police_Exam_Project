@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "236445",
+        "caseName": "특정경제범죄가중처벌등에관한법률위반(사기)·의료법위반",
+        "caseNum": "2015고합81",
+        "sentenceDate": "2016.07.15",
+        "courtName": "대구지방법원경주지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "의료법인이 설립될 때 주무관청의 허가를 받는 과정에서 중요한 고려사항은 무엇인가요?",
+        "output": "의료법인이 설립될 때 주무관청은 해당 법인이 의료기관을 운영할 수 있는 충분한 능력과 재정적 기초가 확립되어 있는지를 심사하여 설립허가 여부를 결정합니다.",
+        "originwordCnt": "2706",
+        "labelwordCnt": "20"
+    }
+}

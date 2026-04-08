@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012523",
+        "promulgDate": "20230816",
+        "effectDate": "20240217",
+        "promulgNum": "19688",
+        "title": "항공사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제37조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "항공기사용사업자가 휴업하려는 경우 그 휴업기간은 최대 몇 개월입니까?",
+        "output": "항공사업법 제37조 제2항에 의하면 제37조 제1항에 따른 휴업기간은 6개월을 초과할 수 없습니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "12"
+    }
+}

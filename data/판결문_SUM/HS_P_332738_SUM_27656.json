@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332738",
+        "caseName": "전자금융거래법위반",
+        "caseNum": "2022고단897",
+        "sentenceDate": "2023.01.18",
+        "courtName": "대구지방법원 포항지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "접근매체인 체크카드를 대가를 약속받고 타인에게 대여한 피고인 A는 전자금융거래법을 위반한 혐의로 징역 4월을 선고받았습니다. 피고인 B는 타인 명의의 체크카드를 다수 대여하고 대가를 받은 행위로 전자금융거래법 위반 혐의가 인정되었으며, 과거 유사 범죄로 형을 복역한 전력이 있어 징역 1년이 선고되었습니다.",
+        "originwordCnt": "499",
+        "labelwordCnt": "38"
+    }
+}

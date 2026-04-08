@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335374",
+        "caseName": "공무집행방해",
+        "caseNum": "2023고단1738",
+        "sentenceDate": "2023.09.26",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술을 마신 후 소란을 피우던 중, 112 신고를 받고 출동한 경찰관들의 정당한 공무집행을 방해한 것으로, 피고인들은 각각 경찰관을 폭행하거나 저지하였습니다. 법원은 피고인들이 범행을 인정하고 피해 공무원을 위해 형사공탁을 한 점을 고려하였으며, 피고인 A와 B에게는 집행유예와 사회봉사를, 피고인 C와 D에게는 벌금형을 선고하였습니다.",
+        "originwordCnt": "704",
+        "labelwordCnt": "41"
+    }
+}

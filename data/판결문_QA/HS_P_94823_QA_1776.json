@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "94823",
+        "caseName": "도로교통법위반(변경죄명:건축법위반)",
+        "caseNum": "79도2957",
+        "sentenceDate": "1980.01.29",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "천막을 이용한 간이 노점상이 건축법상 공작물로 인정되지 않는 이유는 무엇인가요?",
+        "output": "건축법 제2조에 따르면, 공작물은 일정한 고정성을 가진 구조물이어야 합니다. 간이 노점상은 수도 파이프 위에 천막을 덮어 비를 피하는 정도로 설치되며 쉽게 제거할 수 있으므로, 고정성이 부족해 공작물로 인정되지 않습니다.",
+        "originwordCnt": "156",
+        "labelwordCnt": "29"
+    }
+}

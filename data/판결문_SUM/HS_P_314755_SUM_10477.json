@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314755",
+        "caseName": "사기",
+        "caseNum": "2023노3349",
+        "sentenceDate": "2024.04.09",
+        "courtName": "창원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사기 혐의로 원심에서 징역 1년 2개월을 선고받고 항소하였으나, 항소심은 피고인의 주장이 이미 원심에서 충분히 고려되었다고 판단했습니다. 양형에 반영할 만한 새로운 사정도 없으며, 나이, 성행, 범행의 동기 및 경위 등 여러 양형 조건을 종합해도 원심의 형이 부당하지 않다고 보아, 항소를 기각하였습니다.",
+        "originwordCnt": "186",
+        "labelwordCnt": "40"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "205550",
+        "caseName": "모욕",
+        "caseNum": "2015고정740",
+        "sentenceDate": "2016.07.22",
+        "courtName": "대전지방법원천안지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "모욕죄가 성립하려면 어떤 요소가 필요한가요?",
+        "output": "모욕죄가 성립하려면 상대방의 인격적 가치에 대한 사회적 평가를 저하시킬 만한 추상적 판단이나 경멸적 감정을 표현하는 언어가 포함되어야 합니다. 단순히 무례하거나 저속한 표현만으로는 모욕죄가 성립하지 않습니다.",
+        "originwordCnt": "1175",
+        "labelwordCnt": "25"
+    }
+}

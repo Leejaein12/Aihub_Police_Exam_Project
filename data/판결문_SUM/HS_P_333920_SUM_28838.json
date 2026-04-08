@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333920",
+        "caseName": "강제추행",
+        "caseNum": "2023고단2083",
+        "sentenceDate": "2024.07.12",
+        "courtName": "대전지방법원 천안지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "병원에서 근무하는 간호사 D를 강제로 추행한 혐의로 기소되었습니다. 피고인은 병원 엘리베이터 앞에서 피해자의 엉덩이를 위아래로 쓰다듬으며 신체적 접촉을 시도하였습니다. 이로 인해 피해자는 심리적 고통을 경험한 것으로 보입니다. 법원은 피고인에게 징역 6개월을 선고하되, 2년간 집행을 유예하였습니다.",
+        "originwordCnt": "310",
+        "labelwordCnt": "35"
+    }
+}

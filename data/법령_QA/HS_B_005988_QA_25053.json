@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005988",
+        "promulgDate": "20211231",
+        "effectDate": "20220101",
+        "promulgNum": "03016",
+        "title": "형사소송규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제74조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "재판장은 증인신문에서 증명할 사항에 관하여 가능한 한 어떤 내용을 진술하게 하여야 하나요?",
+        "output": "형사소송규칙 제74조제1항에 따르면 재판장은 증인신문을 행함에 있어서 증명할 사항에 관하여 가능한 한 증인으로 하여금 개별적이고 구체적인 내용을 진술하게 하여야 합니다.",
+        "originwordCnt": "63",
+        "labelwordCnt": "20"
+    }
+}

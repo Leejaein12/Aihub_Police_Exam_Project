@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312199",
+        "caseName": "사기",
+        "caseNum": "2023고단1048",
+        "sentenceDate": "2023.07.20",
+        "courtName": "수원지방법원 안산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술을 마시던 중 피해자가 술에 취해 잠든 상태를 이용하여 피해자의 신체 일부를 만지며 추행한 혐의로 기소되었습니다. 법원은 피고인에게 징역 6개월을 선고하되 2년간 집행을 유예하였습니다. 또한, 피고인에게 40시간의 성폭력 치료 프로그램 수강을 명하였습니다.",
+        "originwordCnt": "411",
+        "labelwordCnt": "32"
+    }
+}

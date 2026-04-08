@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001638",
+        "promulgDate": "20230418",
+        "effectDate": "20240101",
+        "promulgNum": "19357",
+        "title": "도로교통법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제106조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "자동차운전 전문학원의 학감은 누구에게 자동차운전 교육을 맡길 수 없나요?",
+        "output": "도로교통법 제106조 제5항에 따르면 자동차운전 전문학원의 학감은 강사가 아닌 사람으로 하여금 자동차운전에 관한 학과교육 또는 기능교육을 하게 하여서는 아니 됩니다.",
+        "originwordCnt": "288",
+        "labelwordCnt": "20"
+    }
+}

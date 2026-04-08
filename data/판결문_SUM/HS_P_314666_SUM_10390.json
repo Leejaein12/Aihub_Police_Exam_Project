@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314666",
+        "caseName": "폭행",
+        "caseNum": "2023고정128",
+        "sentenceDate": "2023.09.20",
+        "courtName": "창원지방법원 진주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "아파트 경로당과 후문 입구에서 피해자와 말다툼 중 몸을 밀치고 넘어뜨리거나 주먹으로 입술 부위를 때려 폭행하여 형법 제260조 제1항에 따라 폭행 혐의로 기소되었습니다. 법원은 범행이 중하다고 판단하여 벌금 50만 원을 선고하고, 이를 납부하지 않을 경우 형법 제70조 제1항에 따라 노역장에 유치하도록 명령하였습니다.",
+        "originwordCnt": "243",
+        "labelwordCnt": "41"
+    }
+}

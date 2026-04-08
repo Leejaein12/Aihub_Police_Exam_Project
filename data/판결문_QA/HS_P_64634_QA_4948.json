@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "64634",
+        "caseName": "강제집행면탈",
+        "caseNum": "2006노782",
+        "sentenceDate": "2006.11.14",
+        "courtName": "창원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "집행해제신청을 한 행위가 강제집행면탈죄에 해당하지 않는 이유는 무엇인가요?",
+        "output": "집행해제신청을 한 행위는 공탁금에 대한 출급청구권 등 구체적 권리가 피고인에게 있다고 볼 수 없어, 강제집행면탈죄의 재산 은닉에 해당하지 않습니다. 따라서 원심판결은 판결에 영향을 미친 사실의 오인이 있어 파기되었고, 피고인에게 무죄가 선고되었습니다.",
+        "originwordCnt": "903",
+        "labelwordCnt": "31"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제221조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검사가 증인신문을 청구할 때 필요한 절차는 무엇인가요?",
+        "output": "형사소송법 제221조의2제3항에 따르면 제221조의2제1항의 청구를 함에는 서면으로 그 사유를 소명하여야 합니다.",
+        "originwordCnt": "94",
+        "labelwordCnt": "11"
+    }
+}

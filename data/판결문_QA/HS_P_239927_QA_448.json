@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "239927",
+        "caseName": "추징보전청구기각결정에대한재항고",
+        "caseNum": "2023모465",
+        "sentenceDate": "2024.03.12",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "지방교육자치에 관한 법률을 위반한 죄가 부패재산의 몰수 및 회복에 관한 특례법에서 정한 부패범죄에 포함되나요?",
+        "output": "지방교육자치에 관한 법률을 위반한 죄는 부패재산의 몰수 및 회복에 관한 특례법에서 정한 부패범죄에 포함되지 않으며, 공직선거법 제230조를 준용하더라도 부패범죄로 해석될 수 없습니다.",
+        "originwordCnt": "99",
+        "labelwordCnt": "22"
+    }
+}

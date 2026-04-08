@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001638",
+        "promulgDate": "20230418",
+        "effectDate": "20240101",
+        "promulgNum": "19357",
+        "title": "도로교통법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제22조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "차의 운전자가 앞차를 앞지르지 못하는 경우는 무엇인가요?",
+        "output": "도로교통법 제22조 제1항에 따르면 모든 차의 운전자는 다음 각 호의 어느 하나에 해당하는 경우에는 앞차를 앞지르지 못합니다.1. 앞차의 좌측에 다른 차가 앞차와 나란히 가고 있는 경우2. 앞차가 다른 차를 앞지르고 있거나 앞지르려고 하는 경우",
+        "originwordCnt": "133",
+        "labelwordCnt": "36"
+    }
+}

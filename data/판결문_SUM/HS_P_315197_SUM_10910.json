@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315197",
+        "caseName": "근로기준법위반",
+        "caseNum": "2023고정172",
+        "sentenceDate": "2023.11.30",
+        "courtName": "광주지방법원 순천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "주점에서 피해자가 자신을 보고 웃었다는 이유로 화가 나 약 10분간 소란을 피우며 피해자의 주점 운영을 방해한 혐의로 기소되었습니다. 법원은 피고인의 범죄사실을 인정하고, 형법 제314조 제1항에 따라 업무방해죄로 벌금 100만 원을 선고했습니다.",
+        "originwordCnt": "176",
+        "labelwordCnt": "31"
+    }
+}

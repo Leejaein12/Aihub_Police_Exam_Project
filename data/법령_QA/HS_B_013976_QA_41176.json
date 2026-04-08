@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013976",
+        "promulgDate": "20240524",
+        "effectDate": "20240524",
+        "promulgNum": "00483",
+        "title": "경찰수사규칙",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사법경찰관리는 검사에게 협력 요청을 어떤 방식으로 해야 하나요?",
+        "output": "경찰수사규칙 제3조 제2항에 따르면, 사법경찰관리는 검사에게 협력요청 등을 하는 경우에는 형사사법절차 전자화 촉진법 제2조제4호에 따른 형사사법정보시스템 또는 서면으로 해야 합니다.",
+        "originwordCnt": "119",
+        "labelwordCnt": "20"
+    }
+}

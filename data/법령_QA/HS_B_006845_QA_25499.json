@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "006845",
+        "promulgDate": "20200203",
+        "effectDate": "20200203",
+        "promulgNum": "01010",
+        "title": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 시행규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제64조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군교도소의 교육ㆍ훈련은 누가 담당하나요?",
+        "output": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 시행규칙 제64조에 따르면, 동시행규칙 제57조에 따른 교육ㆍ훈련은 소장이 소속 장교ㆍ준사관ㆍ부사관 및 군무원 중에서 임명한 교관 및 조교가 담당합니다.",
+        "originwordCnt": "15",
+        "labelwordCnt": "26"
+    }
+}

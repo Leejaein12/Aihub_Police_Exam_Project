@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001722",
+        "promulgDate": "20240102",
+        "effectDate": "20240102",
+        "promulgNum": "19922",
+        "title": "정당법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "정당의 명칭이 변경되었을 경우, 변경 등록 신청은 언제까지 해야 합니까?",
+        "output": "정당의 명칭이 변경되었을 경우, 변경 등록 신청은 변경이 생긴 날로부터 14일 이내에 관할 선거관리위원회에 변경 등록을 신청하여야 합니다. 이는 정당법 제14조에 명시되어 있습니다.",
+        "originwordCnt": "51",
+        "labelwordCnt": "23"
+    }
+}

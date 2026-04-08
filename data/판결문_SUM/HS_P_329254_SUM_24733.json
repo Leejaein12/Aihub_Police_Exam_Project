@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "329254",
+        "caseName": "사기등",
+        "caseNum": "2023노757",
+        "sentenceDate": "2023.09.15.",
+        "courtName": "서울북부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사기, 점유이탈물횡령, 여신전문금융업법위반으로 기소된 피고인은 원심의 형이 너무 무거워서 부당하다며 항소하였습니다. 그러나 피고인에게 유리하게 고려할 만한 새로운 양형의 조건이 제출되지 않아 원심의 형이 부당하다고 보이지 않습니다. 따라서 피고인의 양형부당 주장은 이유 없으므로 기각하였습니다.",
+        "originwordCnt": "272",
+        "labelwordCnt": "33"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013976",
+        "promulgDate": "20240524",
+        "effectDate": "20240524",
+        "promulgNum": "00483",
+        "title": "경찰수사규칙",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제56조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사법경찰관리가 체포 또는 구속한 피의자를 호송할 때 주의해야 할 사항은 무엇인가요?",
+        "output": "경찰수사규칙 제56조 제1항에 따르면,사법경찰관리는 체포ㆍ구속한 피의자를 호송할 때에는 피의자의 도망ㆍ자살ㆍ신변안전ㆍ증거인멸 등에 주의해야 합니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "13"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014462",
+        "promulgDate": "20230628",
+        "effectDate": "20230628",
+        "promulgNum": "01120",
+        "title": "군사법경찰 수사규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군사법경찰관리는 피해자의 어떤 권리를 보호해야 하나요?",
+        "output": "군사법경찰관리는 피해자의 명예와 사생활의 평온을 보호하고 해당 사건과 관련하여 각종 법적 절차에 참여할 권리를 보장해야 합니다. 이는 군사법경찰 수사규칙 제9조 제2항에 따릅니다.",
+        "originwordCnt": "40",
+        "labelwordCnt": "22"
+    }
+}

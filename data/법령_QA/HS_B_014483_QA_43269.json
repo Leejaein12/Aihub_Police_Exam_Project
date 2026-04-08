@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014483",
+        "promulgDate": "20230914",
+        "effectDate": "20240126",
+        "promulgNum": "19725",
+        "title": "해상교통안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제50조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "정부대행기관이 인증심사를 대행하는 경우 인증심사를 받으려는 자는 수수료를 내야 합니까?",
+        "output": "해상교통안전법 제50조제4항에 따르면 정부대행기관이 인증심사를 대행하는 경우 인증심사를 받으려는 자는 정부대행기관이 정하는 수수료를 그 정부대행기관에 내야 합니다.",
+        "originwordCnt": "295",
+        "labelwordCnt": "17"
+    }
+}

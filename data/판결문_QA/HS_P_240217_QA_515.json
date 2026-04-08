@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "240217",
+        "caseName": "부정수표단속법위반",
+        "caseNum": "65도324",
+        "sentenceDate": "1966.09.27",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "부정수표를 발행 또는 작성한 사람의 범죄는 언제 성립되나요?",
+        "output": "부정수표단속법 제2조1항에 의하면 부정수표를 발행 또는 작성한 사람의 범죄는 구 부정수표단속법 제2조 각호의 사유를 인식하고 수표를 발행한 때에 성립합니다. 따라서 그 시점을 기준으로 하여 일반사면령에 의해 사면된 여부를 결정하게 됩니다.",
+        "originwordCnt": "32",
+        "labelwordCnt": "30"
+    }
+}

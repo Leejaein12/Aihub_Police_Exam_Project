@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001783",
+        "promulgDate": "20230418",
+        "effectDate": "20240419",
+        "promulgNum": "19359",
+        "title": "약사법",
+        "ministry": "보건복지부,식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제36조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "의약외품 제조업자는 제조 업무 관리를 위해 어떤 자격을 가진 자를 두어야 하나요?",
+        "output": "약사법 제36조 제2항에 따르면, 의약외품 제조업자는 제조소마다 식품의약품안전처장의 승인을 받은 기술자를 두고 제조 업무를 관리하게 하여야 합니다.",
+        "originwordCnt": "137",
+        "labelwordCnt": "17"
+    }
+}

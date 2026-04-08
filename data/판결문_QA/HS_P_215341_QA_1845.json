@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "215341",
+        "caseName": "시장규칙위반·명예훼손",
+        "caseNum": "4287형상120",
+        "sentenceDate": "1955.03.04",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "시장설치허가의 의의는 무엇인가요?",
+        "output": "시장규칙 제3조에 따르면, 시장설치허가는 다수의 상인을 모아 집단적으로 시장을 설치하거나 경영할 때 필요한 절차로, 이를 통해 설치 또는 경영자가 허가를 받아야 합니다. 동 규칙 제19조 제1호에 의거하여 허가를 받지 않고 시장을 설치하거나 경영한 경우에는 관련 규정을 적용받게 됩니다.",
+        "originwordCnt": "36",
+        "labelwordCnt": "38"
+    }
+}

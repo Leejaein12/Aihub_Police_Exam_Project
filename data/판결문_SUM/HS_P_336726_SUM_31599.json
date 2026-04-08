@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336726",
+        "caseName": "자동차관리법위반",
+        "caseNum": "2023고단897",
+        "sentenceDate": "2023.08.23",
+        "courtName": "수원지방법원 성남지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "등록되지 않은 차량을 운행한 혐의로 기소된 피고인은 남편이 채권담보 목적으로 보관 중인 차량을 2022년 10월 약 5.1km 운행하였고, 해당 차량의 등록 여부를 확인하지 않았습니다. 법원은 피고인의 미필적 고의를 인정하며 유죄로 판단했습니다. 관련 법령에 따라 자동차관리법을 적용하여 벌금 100만 원에 집행유예 1년을 선고하였습니다.",
+        "originwordCnt": "205",
+        "labelwordCnt": "42"
+    }
+}

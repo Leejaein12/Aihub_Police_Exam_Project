@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "224185",
+        "caseName": "배임",
+        "caseNum": "2013고단2871",
+        "sentenceDate": "2014.07.09",
+        "courtName": "수원지방법원성남지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "징역형이 선고된 후 집행유예와 함께 부과된 추가 명령은 무엇인가요?",
+        "output": "징역 6월의 형이 선고되었으나, 이 형의 집행은 판결이 확정된 날로부터 2년간 유예되었습니다. 이에 더하여, 피고인에게 120시간의 사회봉사를 명령하여 집행유예 기간 동안 사회봉사를 이행하도록 하였습니다.",
+        "originwordCnt": "631",
+        "labelwordCnt": "24"
+    }
+}

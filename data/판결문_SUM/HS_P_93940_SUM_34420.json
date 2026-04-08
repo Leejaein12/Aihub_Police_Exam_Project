@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93940",
+        "caseName": "특정범죄가중처벌등에관한법률위반",
+        "caseNum": "78도1418",
+        "sentenceDate": "1978.07.25",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "특정범죄가중처벌등에관한법률 제5조의2 제2항 제1호에 규정된 재물요구죄는 재물 요구 사실이 있을 때 이미 기수로 완성됩니다. 따라서 피고인의 범죄는 중지미수가 아니라 기수로 성립되며, 이후의 사정은 중지미수나 장애미수로 논할 수 없습니다. 이에 따라 피고인의 상고는 이유가 없어 기각하였습니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "35"
+    }
+}

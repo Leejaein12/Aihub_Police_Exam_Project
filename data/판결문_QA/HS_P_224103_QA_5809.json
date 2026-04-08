@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "224103",
+        "caseName": "공직선거법위반",
+        "caseNum": "2007노38",
+        "sentenceDate": "2007.03.15",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "선거운동을 위해 병원 입원실을 방문하는 행위가 공직선거법에서 제한하는 '호별방문'에 해당하나요?",
+        "output": "병원 입원실도 공직선거법 제106조 제1항에서 말하는 '호'에 해당하므로, 선거운동을 위해 입원실을 방문하는 행위는 '호별방문'에 해당하여 제한됩니다",
+        "originwordCnt": "2627",
+        "labelwordCnt": "16"
+    }
+}

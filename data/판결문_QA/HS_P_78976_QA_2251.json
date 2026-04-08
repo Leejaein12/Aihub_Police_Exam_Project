@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78976",
+        "caseName": "주거침입·재물손괴",
+        "caseNum": "2007노260",
+        "sentenceDate": "2007.12.07",
+        "courtName": "의정부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피해자의 냉장고와 세탁기의 효용을 해한 경우, 재물손괴죄가 성립할 수 있나요?",
+        "output": "피고인이 피해자의 냉장고와 세탁기의 효용을 해하는 행위를 한 경우, 재물손괴죄가 성립할 수 있습니다. 이러한 행위는 재물의 가치를 손상시키는 것으로 인정될 수 있으며, 따라서 유죄로 판단될 수 있습니다.",
+        "originwordCnt": "353",
+        "labelwordCnt": "27"
+    }
+}

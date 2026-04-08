@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78948",
+        "caseName": "선고유예실효·근로기준법위반",
+        "caseNum": "2007초기837",
+        "sentenceDate": "2007.12.20",
+        "courtName": "서울동부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "선고유예 판결이 확정되기 전에 자격정지 이상의 형이 존재했을 때, 선고유예의 실효를 청구할 수 있나요?",
+        "output": "선고유예 판결이 확정되기 전에 자격정지 이상의 형이 이미 존재했음을 검사가 알았거나 알 수 있는 객관적 상황이 있었음에도 불구하고 이를 알지 못한 경우, 선고유예의 실효를 청구할 수 없습니다.",
+        "originwordCnt": "331",
+        "labelwordCnt": "27"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005896",
+        "promulgDate": "20161129",
+        "effectDate": "20161201",
+        "promulgNum": "02696",
+        "title": "소년심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제34조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소년심판규칙에 따르면, 법원장에 의해 지정된 곳은 보호관찰소의 장으로 하여금 어떤 정보를 들을 수 있습니까?",
+        "output": "소년심판규칙 제34조 제3항에 명시된 바와 같이, 제2항의 지정을 할 때에는 보호관찰소의 장으로 하여금 필요한 보고를 하게 하거나 그 의견을 들을 수 있습니다.",
+        "originwordCnt": "187",
+        "labelwordCnt": "22"
+    }
+}

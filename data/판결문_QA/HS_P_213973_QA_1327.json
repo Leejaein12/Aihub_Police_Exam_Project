@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "213973",
+        "caseName": "군형법위반",
+        "caseNum": "77도1457",
+        "sentenceDate": "1977.07.12",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "군수형자가 집총명령을 거부할 경우, 항명죄로 처벌되기 위해서는 어떤 요건이 필요한가요?",
+        "output": "군수형자의 집총훈련 거부가 항명죄로 처벌되기 위해서는 참모총장이 필요성을 인정한 정당한 집총명령이 있었는지 여부에 대해 충분한 심리가 이루어져야 합니다. 이는 군형법 제44조와 군행형법시행령 제97조에 따라 판단됩니다.",
+        "originwordCnt": "25",
+        "labelwordCnt": "25"
+    }
+}

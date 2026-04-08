@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317937",
+        "caseName": "스토킹범죄의처벌등에관한법률위반",
+        "caseNum": "2023고정1101",
+        "sentenceDate": "2024.02.08",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자동차전용도로에서 약 2.5km 구간을 125cc 이륜자동차로 운전하여 도로교통법을 위반하였습니다. 자동차 외의 차마나 보행자는 고속도로 및 자동차전용도로를 통행할 수 없도록 규정된 도로교통법 제63조를 위반한 사실이 인정되었습니다. 이에 따라 법원은 도로교통법 제154조 제6호와 제63조에 따라 벌금을 선고하였습니다.",
+        "originwordCnt": "151",
+        "labelwordCnt": "35"
+    }
+}

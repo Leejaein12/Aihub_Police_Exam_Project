@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "324139",
+        "caseName": "업무상과실치사등",
+        "caseNum": "2023노2396",
+        "sentenceDate": "2024.05.23",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "면허 없이 로더를 조종하다가 후진 중 주의를 기울이지 않아 충격으로 인해 사람이 사망한 사건에서, 피고인은 범행을 인정하고 유가족과 합의했으며 처벌을 원치 않는다는 뜻이 고려되었습니다. 피고인의 연령, 성향, 범행 동기 및 이후 정황 등을 종합해 원심의 형량이 무겁다고 판단하여, 원심을 파기하고 징역 1년에 집행유예 2년을 선고하였습니다.",
+        "originwordCnt": "308",
+        "labelwordCnt": "45"
+    }
+}

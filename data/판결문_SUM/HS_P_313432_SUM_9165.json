@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313432",
+        "caseName": "강간미수",
+        "caseNum": "2024노43",
+        "sentenceDate": "2024.04.19",
+        "courtName": "대전고등법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "다수에게 2,994만 원을 편취한 혐의로 기소되었으며, 형법 제347조 제1항을 위반한 것으로 인정되었습니다. 범행 후 해외로 도피하였으나, 이후 입국하여 조사받고 피해자들과 합의하였으며, 처벌을 원하지 않는 점이 참작되었습니다. 반성과 범행 동기를 고려하여 항소심에서 징역 8개월을 선고하되, 2년간 집행유예를 명하고 배상신청을 각하하였습니다.",
+        "originwordCnt": "425",
+        "labelwordCnt": "39"
+    }
+}

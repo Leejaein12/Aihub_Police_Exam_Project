@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "153829",
+        "caseName": "임산물단속에관한법률위반",
+        "caseNum": "67도1282",
+        "sentenceDate": "1969.03.18",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "목할저는 임산물에 해당하나요?",
+        "output": "목할저는 임산물단속에관한법률 제1조 제2항 및 동법 시행령 제1조에 규정된 임산물에 해당하지 않습니다. 따라서 목할저를 거래한 행위는 임산물 거래로 볼 수 없으며, 목할저는 임산물에 해당하지 않는다고 할 수 있습니다.",
+        "originwordCnt": "6",
+        "labelwordCnt": "28"
+    }
+}

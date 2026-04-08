@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012522",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "공항시설법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제35조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "항공학적 검토위원회의 위원 중 공무원이 아닌 자가 뇌물을 받은 경우 공무원으로 볼 수 있습니까?",
+        "output": "공항시설법 제35조 제5항 규정에 따르면 위원회의 위원 중 공무원이 아닌 사람은 형법 제129조부터 제132조까지를 적용할 때에는 공무원으로 봅니다.",
+        "originwordCnt": "137",
+        "labelwordCnt": "18"
+    }
+}

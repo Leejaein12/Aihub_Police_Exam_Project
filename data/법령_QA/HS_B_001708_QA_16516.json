@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001708",
+        "promulgDate": "20210105",
+        "effectDate": "20210105",
+        "promulgNum": "17828",
+        "title": "변호사법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제55조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법무법인이 조직변경 시 순재산액이 부족한 경우 어떻게 해야 하나요?",
+        "output": "변호사법 제55조의2 제3항에 따르면 조직변경 시 법무법인의 현존 순재산액이 새로 설립되는 법무법인(유한)의 자본총액보다 적을 경우, 동의 당시의 구성원들이 연대하여 그 차액을 보충해야 합니다.",
+        "originwordCnt": "119",
+        "labelwordCnt": "23"
+    }
+}

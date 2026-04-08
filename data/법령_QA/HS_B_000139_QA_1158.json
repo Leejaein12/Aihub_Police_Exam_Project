@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000139",
+        "promulgDate": "20210518",
+        "effectDate": "20220519",
+        "promulgNum": "18179",
+        "title": "노동위원회법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제15조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "심판위원회는 어떻게 구성되며 어떤 사항을 처리하나요?",
+        "output": "노동위원회법 제15조 제3항에 따르면, 심판위원회는 심판담당 공익위원 중 위원장이 지명하는 3명으로 구성되며, 노동위원회의 판정ㆍ의결ㆍ승인 및 인정 등과 관련된 사항을 처리합니다.",
+        "originwordCnt": "350",
+        "labelwordCnt": "20"
+    }
+}

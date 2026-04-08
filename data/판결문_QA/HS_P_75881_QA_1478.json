@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "75881",
+        "caseName": "의료법위반피고사건",
+        "caseNum": "84노197",
+        "sentenceDate": "1984.08.10",
+        "courtName": "부산지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "조산원이 분만 과정에서 질구 절개 및 봉합을 수행할 수 있나요?",
+        "output": "조산원은 의료법 제25조에 따라 조산업무를 수행하는 과정에서, 의사의 지도하에 분만을 용이하게 하기 위하여 질구를 절개할 수 있으며, 분만 직후 파열된 질구를 봉합할 수 있는 권한이 있습니다. 이는 조산업무 수행에 필요한 조치로서 허용됩니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "32"
+    }
+}

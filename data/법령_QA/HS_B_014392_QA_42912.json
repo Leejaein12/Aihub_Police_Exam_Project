@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014392",
+        "promulgDate": "20230117",
+        "effectDate": "20230718",
+        "promulgNum": "19216",
+        "title": "스토킹방지 및 피해자보호 등에 관한 법률",
+        "ministry": "여성가족부",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "피해자가 스토킹으로 인해 근무 장소 변경을 요청할 경우 고용주는 어떤 조치를 할 수 있나요?",
+        "output": "스토킹방지 및 피해자보호 등에 관한 법률 제6조 제2항에 따르면 피해자의 요청이 있을 경우 고용주는 업무 연락처 및 근무 장소의 변경, 배치 전환 등의 적절한 조치를 할 수 있습니다.",
+        "originwordCnt": "188",
+        "labelwordCnt": "28"
+    }
+}

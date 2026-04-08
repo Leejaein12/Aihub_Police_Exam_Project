@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001740",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19772",
+        "title": "선원법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제67조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "선박소유자는 몇 퍼센트 이상의 예비원을 확보해야 하나요?",
+        "output": "선원법 제67조 제1항에 따르면 선박소유자는 그가 고용하고 있는 총승선 선원 수의 10퍼센트 이상의 예비원을 확보하여야 합니다. 다만, 항해선이 아닌 선박의 경우에는 선박의 종류ㆍ용도 등을 고려하여 대통령령으로 다르게 정할 수 있습니다.",
+        "originwordCnt": "44",
+        "labelwordCnt": "30"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "309744",
+        "caseName": "과실치상",
+        "caseNum": "2013고정860",
+        "sentenceDate": "2013. 12. 19.",
+        "courtName": "청주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "스키장 슬로프에서 스노우보드를 타던 중, 전방과 좌우를 주의하지 않고 직선으로 내려오다 피해자를 뒤늦게 발견하고 속도 및 방향을 제대로 조절하지 못하여 충돌하였습니다. 이로 인해 경추부염좌 및 긴장 등의 상해를 입고 약 2주간의 치료가 필요하게 되었습니다. 법원은 과실치상을 형법 제266조 제1항에 따라 인정하고, 벌금 70만 원을 선고하였습니다.",
+        "originwordCnt": "181",
+        "labelwordCnt": "45"
+    }
+}

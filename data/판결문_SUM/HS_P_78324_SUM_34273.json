@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78324",
+        "caseName": "도박개장",
+        "caseNum": "2006고단770",
+        "sentenceDate": "2006.11.22",
+        "courtName": "대구지방법원김천지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "부산지방국세청 세무공무원으로 재직 중 세무조사 종결을 청탁받고 1억 원을 수수한 혐의로 기소되었습니다. 2005년 5월 24일 부산 해운대구의 한 호텔에서 뇌물을 받은 사실이 인정되었고, 법원은 특정범죄가중처벌 등에 관한 법률 제2조 제1항 제1호와 형법 제129조 제1항을 적용하여 징역 5년을 선고했습니다.",
+        "originwordCnt": "480",
+        "labelwordCnt": "38"
+    }
+}

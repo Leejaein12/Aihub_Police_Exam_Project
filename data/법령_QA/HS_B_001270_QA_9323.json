@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001270",
+        "promulgDate": "20220111",
+        "effectDate": "20230112",
+        "promulgNum": "18755",
+        "title": "법률구조법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "정부는 법률구조법인의 육성과 발전을 위해 어떤 지원을 할 수 있나요?",
+        "output": "법률구조법 제4조에 따르면 정부는 제3조에 따라 등록된 법인과 제8조에 따른 대한법률구조공단의 건전한 육성ㆍ발전을 위하여 필요하다고 인정하면 예산의 범위에서 보조금을 지급할 수 있습니다.",
+        "originwordCnt": "23",
+        "labelwordCnt": "22"
+    }
+}

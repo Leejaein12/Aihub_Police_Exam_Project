@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311637",
+        "caseName": "보험사기방지특별법위반",
+        "caseNum": "2023고정663",
+        "sentenceDate": "2023.10.13",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "후진 차량에 고의로 신체를 접촉하여 보험사기로 치료비 등을 편취하려 하였으나, 보험사로부터 보험금 지급을 거절당해 미수에 그쳤습니다. 법원은 보험사기방지 특별법 제10조 및 제8조에 따라 이러한 행위가 보험사기 미수에 해당하며, 편취 고의가 인정된다고 판단하여 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "361",
+        "labelwordCnt": "36"
+    }
+}

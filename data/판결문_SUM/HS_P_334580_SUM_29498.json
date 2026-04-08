@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334580",
+        "caseName": "성폭력범죄의처벌등에관한특례법위반(공중밀집장소에서의추행)",
+        "caseNum": "2023고정109",
+        "sentenceDate": "2023.09.13",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "강간죄로 신상정보 등록대상자가 된 피고인은 직장과 주소지 변경 후 20일 이내에 변경된 신상정보를 관할 경찰관서에 제출하지 않아 성폭력범죄의 처벌 등에 관한 특례법 제50조 제3항 제2호 및 제43조 제3항을 위반하였습니다. 이에 법원은 피고인에게 벌금 70만 원을 선고하습니다.",
+        "originwordCnt": "189",
+        "labelwordCnt": "36"
+    }
+}

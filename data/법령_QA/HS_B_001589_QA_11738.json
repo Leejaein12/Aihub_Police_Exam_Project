@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001589",
+        "promulgDate": "20230620",
+        "effectDate": "20231221",
+        "promulgNum": "19511",
+        "title": "소비자기본법",
+        "ministry": "공정거래위원회",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소비자의 권익에 관하여 다른 법률에서 특별한 규정을 두고 있는 경우, 어떤 법이 우선 적용되나요?",
+        "output": "소비자의 권익에 관하여 다른 법률에서 특별한 규정을 두고 있는 경우를 제외하고는 소비자기본법을 적용합니다. 이는 소비자기본법 제3조에 근거합니다.",
+        "originwordCnt": "17",
+        "labelwordCnt": "17"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335831",
+        "caseName": "도로교통법위반(무면허운전)등",
+        "caseNum": "2024고단1985",
+        "sentenceDate": "2024.07.19",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "과거 음주운전으로 4회 처벌받은 전력이 있으며, 음주운전으로 징역형 집행유예를 선고받았음에도 다시 무면허로 음주운전을 하였습니다. 피고인은 약 4km 구간을 혈중알코올농도 0.069% 상태에서 운전하였고, 이는 도로교통법 위반(음주운전) 및 무면허운전죄에 해당합니다. 법원은 징역 1년에 집행유예 3년을 선고하였습니다.",
+        "originwordCnt": "280",
+        "labelwordCnt": "34"
+    }
+}

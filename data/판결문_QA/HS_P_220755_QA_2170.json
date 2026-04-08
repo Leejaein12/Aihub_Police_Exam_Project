@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "220755",
+        "caseName": "업무상배임",
+        "caseNum": "2007노301",
+        "sentenceDate": "2007.07.19",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "이 사건 각서의 효력이 공소외 2 주식회사에 대해 유효한 것으로 인정될 수 있나요?",
+        "output": "이 사건 각서의 효력은 이사회 결의가 없었기 때문에 공소외 2 주식회사에 대해 유효하다고 볼 수 없으며, 이는 피고인들이 주장하는 바와 달리 법적으로 인정되지 않습니다.",
+        "originwordCnt": "2584",
+        "labelwordCnt": "24"
+    }
+}

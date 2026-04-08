@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000980",
+        "promulgDate": "20221115",
+        "effectDate": "20230516",
+        "promulgNum": "19021",
+        "title": "경비업법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "경비업자가 집단민원현장에 경비원을 배치할 때 특별한 조치가 필요한가요?",
+        "output": "경비업자는 경비업법 제7조 제6항에 따라, 집단민원현장에 경비원을 배치하는 때에는 경비지도사를 선임하고 그 장소에 배치하여 행정안전부령으로 정하는 바에 따라 경비원을 지도·감독하게 해야 합니다.",
+        "originwordCnt": "211",
+        "labelwordCnt": "22"
+    }
+}

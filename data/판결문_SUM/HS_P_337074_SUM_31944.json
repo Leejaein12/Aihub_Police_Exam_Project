@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337074",
+        "caseName": "도로교통법위반(음주측정거부)",
+        "caseNum": "2023고단122",
+        "sentenceDate": "2023.08.10",
+        "courtName": "수원지방법원 여주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주 상태에서 차량을 운전한 후 경찰의 음주측정 요구에 불응하였으며, 도로교통법 제148조의2 제2항 및 제44조 제2항에 따라 징역 1년이 선고되었습니다. 다만, 잘못을 인정하고 반성하며, 범행 후의 정황 등을 고려하여 2년간 집행유예가 부과되었습니다.",
+        "originwordCnt": "223",
+        "labelwordCnt": "31"
+    }
+}

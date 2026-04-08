@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "302751",
+        "caseName": "특정범죄가중처벌등에관한법률위반(조세)",
+        "caseNum": "2018고합134",
+        "sentenceDate": "2018. 9. 7.",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "불법 스포츠 도박사이트를 운영하면서 다수의 차명계좌를 이용하여 부가가치세 및 종합소득세를 포탈하였습니다. 이로 인해 국가의 조세 부과 및 징수를 어렵게 하여 조세 정의를 훼손하였습니다. 법원은 피고인들에게 징역형을 부과하고 2년간 형의 집행을 유예하였습니다.",
+        "originwordCnt": "1983",
+        "labelwordCnt": "31"
+    }
+}

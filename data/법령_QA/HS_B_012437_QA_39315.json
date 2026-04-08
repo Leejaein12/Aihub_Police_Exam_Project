@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012437",
+        "promulgDate": "20201222",
+        "effectDate": "20210623",
+        "promulgNum": "17683",
+        "title": "방위산업기술 보호법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "대상기관의 장은 방위산업기술의 수출 및 국내이전 시 무엇을 해야 하나요?",
+        "output": "제9조 제1항에 따르면, 대상기관의 장은 방위산업기술의 수출 및 국내이전 시 제10조에 따른 유출 및 침해가 발생하지 않도록 방위산업기술의 보호에 필요한 대책을 수립하여야 합니다.",
+        "originwordCnt": "75",
+        "labelwordCnt": "23"
+    }
+}

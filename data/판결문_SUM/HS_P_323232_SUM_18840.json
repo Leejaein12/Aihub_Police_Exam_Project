@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "323232",
+        "caseName": "사기등",
+        "caseNum": "2021노1681",
+        "sentenceDate": "2023.04.19",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "지방법원은 검사 항소를 기각하였습니다. 원심의 형량인 징역 1년, 집행유예 2년은 피고인이 범행을 인정하고 피해자와 합의한 점을 고려할 때 합리적인 범위 내에서 정해진 것으로 판단됩니다. 또한, 피고인은 피해자와 채무 분할 상환 약정을 체결하였고, 판결 이후에도 채무를 추가 변제하여 잔액이 감소하는 등의 사",
+        "originwordCnt": "260",
+        "labelwordCnt": "41"
+    }
+}

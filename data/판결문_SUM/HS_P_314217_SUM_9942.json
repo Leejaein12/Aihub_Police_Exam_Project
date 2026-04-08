@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314217",
+        "caseName": "교통사고처리특례법위반(치상)등",
+        "caseNum": "2023노370",
+        "sentenceDate": "2023.07.20",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "항소는 형의 무거움을 주장하였으나, 원심에서 형을 결정하는 과정에서 이미 고려된 사항들로 보입니다. 제1심과 비교해 양형 조건의 변화가 없고, 원심의 형이 합리적인 재량 범위 내에 있으므로 피고인의 주장은 받아들여지지 않았습니다. 이에 따라 피고인의 항소는 이유가 없어 기각되었습니다. 피고인에게 선고된 형은 유지됩니다.",
+        "originwordCnt": "170",
+        "labelwordCnt": "40"
+    }
+}

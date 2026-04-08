@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014483",
+        "promulgDate": "20230914",
+        "effectDate": "20240126",
+        "promulgNum": "19725",
+        "title": "해상교통안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제60조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "해사안전감독관이 지도·감독 결과를 대상자에게 어떻게 통보해야 합니까?",
+        "output": "해상교통안전법 제60조제5항에 따르면 제60조제1항에 따라 지도ㆍ감독을 실시한 해사안전감독관은 그 결과를 서면으로 해당 지도ㆍ감독의 대상이 되는 자에게 알려야 합니다.",
+        "originwordCnt": "234",
+        "labelwordCnt": "18"
+    }
+}

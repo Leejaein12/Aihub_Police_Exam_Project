@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "144576",
+        "caseName": "사기·전자금융거래법위반",
+        "caseNum": "2009고단1853",
+        "sentenceDate": "2009.12.22",
+        "courtName": "인천지방법원부천지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "인터넷 사기로 피해자들에게 금품을 받은 행위는 어떤 처벌을 받나요?",
+        "output": "인터넷 사기로 피해자들에게 금품을 받은 피고인의 행위는 형법 제347조 제1항에 따라 사기죄로 처벌되며, 피고인은 징역형을 선고받았습니다.",
+        "originwordCnt": "746",
+        "labelwordCnt": "16"
+    }
+}

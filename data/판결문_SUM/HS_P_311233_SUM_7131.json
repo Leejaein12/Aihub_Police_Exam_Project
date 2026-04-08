@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311233",
+        "caseName": "교통사고처리특례법위반(치상)",
+        "caseNum": "2023고정311",
+        "sentenceDate": "2024.02.07",
+        "courtName": "대구지방법원 김천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "차량을 운전하던 중 직진이 금지된 차로에서 그대로 직진하여 좌회전하던 피해차량과 충돌하는 사고가 발생하였고, 사고로 피해자는 경추 염좌 등의 상해를 입었습니다. 주의의무 위반이 있었으나, 피해자의 상해가 비교적 경미하고 피고인에게 별다른 형사처벌 전력이 없는 점 등을 참작하여 벌금 150만 원이 선고되었습니다.",
+        "originwordCnt": "301",
+        "labelwordCnt": "39"
+    }
+}

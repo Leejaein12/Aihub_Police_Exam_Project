@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335312",
+        "caseName": "사기등",
+        "caseNum": "2024노209",
+        "sentenceDate": "2024.05.02",
+        "courtName": "제주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사기 및 협박 혐의로 1심에서 징역 10개월을 선고받자, 피고인은 형이 무거워 부당하다고 주장하며 항소하였고, 검사 측은 형이 가벼워 부당하다고 항소하였습니다. 법원은 원심판결 선고 후 양형에 반영할 특별한 사정변경이 없고, 형이 부당하게 무겁거나 가볍지 않다고 보아 피고인과 검사의 항소를 모두 기각하였습니다.",
+        "originwordCnt": "169",
+        "labelwordCnt": "40"
+    }
+}

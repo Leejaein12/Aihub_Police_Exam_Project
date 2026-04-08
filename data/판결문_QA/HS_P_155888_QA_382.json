@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155888",
+        "caseName": "국유재산법위반",
+        "caseNum": "69도821",
+        "sentenceDate": "1969.07.08",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "국유재산에 대한 농지분배가 당연 무효일 때, 국유재산법 제36조 제1항의 죄는 언제 성립하나요?",
+        "output": "국유재산에 대한 농지분배가 당연 무효인 경우, 국유재산법 제36조 제1항의 죄는 그 당연무효임을 알았을 때부터 성립합니다.",
+        "originwordCnt": "71",
+        "labelwordCnt": "15"
+    }
+}

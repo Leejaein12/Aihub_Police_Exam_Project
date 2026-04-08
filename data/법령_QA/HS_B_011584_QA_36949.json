@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011584",
+        "promulgDate": "20230111",
+        "effectDate": "20230111",
+        "promulgNum": "01108",
+        "title": "군검찰 압수물 사무규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제53조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "환부하여야 할 군검찰 압수물이 현금 또는 환가대금인 경우 어떤 절차를 따르나요?",
+        "output": "군검찰 압수물 사무규칙 제53조 제4항에 따르면, 검찰서기는 환부하여야 할 압수물이 현금 또는 환가대금인 경우 별지 제40호서식의 압수금 환부통지서를 피환부인에게 송부하여야 합니다.",
+        "originwordCnt": "131",
+        "labelwordCnt": "21"
+    }
+}

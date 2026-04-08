@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337196",
+        "caseName": "강제추행",
+        "caseNum": "2022고정853",
+        "sentenceDate": "2023.07.06",
+        "courtName": "의정부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "버스에서 가슴 부위를 손으로 만져 강제추행을 저질렀습니다. 형법 제298조에 따라 벌금 500만 원이 선고되었으며, 성폭력 치료프로그램 40시간 이수와 함께 벌금 미납 시 노역장 유치가 명령되었습니다. 초범이고, 범행의 내용과 경위를 고려하여 신상정보 공개 및 취업제한명령은 면제되었습니다.",
+        "originwordCnt": "442",
+        "labelwordCnt": "35"
+    }
+}

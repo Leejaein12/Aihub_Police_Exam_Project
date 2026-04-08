@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335545",
+        "caseName": "사기",
+        "caseNum": "2023노2496",
+        "sentenceDate": "2023.12.14",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "보이스피싱 범행에 가담하여 피해자 6명으로부터 약 1억 1,700만 원을 편취하였습니다. 피고인은 범행을 인정하고 반성하고 있으며, 초범으로 범죄 전력이 없습니다. 그러나 피해자와의 합의가 이루어지지 않았고, 범행의 죄질이 좋지 않아 양형이 무겁다고 보기 어렵습니다. 이에 따라 피고인의 항소는 기각되었습니다.",
+        "originwordCnt": "249",
+        "labelwordCnt": "37"
+    }
+}

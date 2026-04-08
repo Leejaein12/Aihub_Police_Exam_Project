@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011546",
+        "promulgDate": "20161220",
+        "effectDate": "20161220",
+        "promulgNum": "14408",
+        "title": "난민법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "난민위원회의 심의절차에 대한 구체적인 사항은 어떻게 정해집니까?",
+        "output": "난민법 제21조 제5항에 따르면 난민위원회의 심의절차에 대한 구체적인 사항은 대통령령으로 정합니다.",
+        "originwordCnt": "150",
+        "labelwordCnt": "11"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001718",
+        "promulgDate": "20231226",
+        "effectDate": "20240627",
+        "promulgNum": "19854",
+        "title": "공직자윤리법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제14조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "주식백지신탁계약을 체결한 경우, 그 신탁재산은 언제까지 신고대상에서 제외되나요?",
+        "output": "공직자윤리법 제14조의4 제4항에 따르면 주식백지신탁계약을 체결한 경우, 그 신탁재산은 신탁계약을 해지할 때까지 제6조 및 제6조의2제1항에 따른 신고대상에서 제외됩니다.",
+        "originwordCnt": "386",
+        "labelwordCnt": "18"
+    }
+}

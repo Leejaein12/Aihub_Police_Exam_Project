@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001719",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "국가공무원법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제50조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "각 기관의 장과 관리직위에 있는 공무원은 인재개발의 책임이 있나요?",
+        "output": "국가공무원법 제50조 제3항에 따르면 각 기관의 장과 관리직위에 있는 공무원은 지속적인 인재개발을 통하여 소속 직원의 공직가치를 확립하고 미래지향적 역량과 전문성을 향상시킬 책임을 집니다.",
+        "originwordCnt": "89",
+        "labelwordCnt": "23"
+    }
+}

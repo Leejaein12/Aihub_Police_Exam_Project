@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "99297",
+        "caseName": "무고",
+        "caseNum": "84도125",
+        "sentenceDate": "1984.05.15",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 허위사실을 기재한 진정서를 제출하여 무고죄가 성립할 수 있는지요?",
+        "output": "피고인이 공소외인을 형사처벌 받게 할 목적으로 허위사실을 기재한 앙문이라는 명칭의 진정서를 검사에게 제출하였다면, 이는 형법 제156조에 따라 무고죄가 성립합니다. 따라서 진정서의 형식이나 명칭과 무관하게 그 내용이 허위라면 무고죄로 처벌될 수 있습니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "31"
+    }
+}

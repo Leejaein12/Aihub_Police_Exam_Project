@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001371",
+        "promulgDate": "20201215",
+        "effectDate": "20240101",
+        "promulgNum": "17646",
+        "title": "국가정보원법",
+        "ministry": "국가정보원",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국정원은 모든 예산을 집행할 때 어떤 서류를 첨부해야 하나요?",
+        "output": "국가정보원법 제16조 제5항에 의하여 국정원은 모든 예산을 집행함에 있어 지출의 사실을 증명할 수 있는 증빙서류를 첨부하여야 합니다. 다만, 국가안전보장을 위해 기밀이 요구되는 경우에는 예외로 합니다.",
+        "originwordCnt": "130",
+        "labelwordCnt": "25"
+    }
+}

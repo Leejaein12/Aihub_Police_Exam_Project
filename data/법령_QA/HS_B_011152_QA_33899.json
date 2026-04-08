@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011152",
+        "promulgDate": "20240213",
+        "effectDate": "20240517",
+        "promulgNum": "20309",
+        "title": "매장유산 보호 및 조사에 관한 법률",
+        "ministry": "국가유산청",
+        "fullText": "N",
+        "smClass": "제5조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "매장유산의 보호 및 조사에 관해 다른 법률에 특별한 규정이 없을 경우, 어떤 법을 따르나요?",
+        "output": "매장유산 보호 및 조사에 관한 법률 제5조의2 제1항에 따르면, 매장유산의 보호 및 조사에 관하여 다른 법률에 특별한 규정이 있는 경우를 제외하고는 이 법에서 정하는 바에 따릅니다.",
+        "originwordCnt": "33",
+        "labelwordCnt": "26"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318056",
+        "caseName": "사기",
+        "caseNum": "2023고단1600",
+        "sentenceDate": "2024.01.24",
+        "courtName": "수원지방법원 안양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "두 지역에서 야간에 시정되지 않은 창문을 통해 식당에 침입하여 총 25차례에 걸쳐 약 500만 원 상당의 현금을 절취하거나 시도하였습니다. 죄질이 나쁘고 피해자가 다수인 점을 고려하여 징역 1년 2월을 선고받았으며, 피해자에게 10만 원을 배상하도록 결정되었고, 해당 배상명령은 가집행할 수 있습니다.",
+        "originwordCnt": "575",
+        "labelwordCnt": "39"
+    }
+}

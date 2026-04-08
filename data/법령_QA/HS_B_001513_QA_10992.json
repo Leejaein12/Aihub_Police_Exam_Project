@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001513",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19754",
+        "title": "식물방역법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제25조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국내 지역 경유 승인을 받은 자는 경유물품이 경유 목적지에 도착하면 어떻게 해야 합니까?",
+        "output": "식물방역법 제25조제1항에 따르면, 국내 지역 경유 승인을 받은 자는 경유물품이 경유 목적지인 수입항에 도착하면 지체 없이 그 수입항을 관할하는 식물검역기관의 장에게 신고하여야 합니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "23"
+    }
+}

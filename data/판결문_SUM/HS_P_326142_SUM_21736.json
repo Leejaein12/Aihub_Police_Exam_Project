@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "326142",
+        "caseName": "사기등",
+        "caseNum": "2022노2493",
+        "sentenceDate": "2023.10.25.",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "대전지방법원 제4형사부는 피고인이 보이스피싱 범행을 시인하고 깊이 반성하며 피해자들과 합의한 점을 고려하여, 원심이 선고한 징역형이 합리적이라고 판단하였습니다. 또한, 피해자에 대한 배상 책임의 범위가 불명확하다는 이유로 배상신청은 각하되었습니다. 검사의 항소는 이유가 없으므로 기각되었고, 배상신청도 각하되었습니다.",
+        "originwordCnt": "291",
+        "labelwordCnt": "34"
+    }
+}

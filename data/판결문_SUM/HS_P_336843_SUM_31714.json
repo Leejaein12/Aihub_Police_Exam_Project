@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336843",
+        "caseName": "절도",
+        "caseNum": "2023고단4478",
+        "sentenceDate": "2023.12.21",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "절도죄로 여러 차례 처벌받은 전력이 있으며, 누범 기간 중 피해자의 집에서 1,100만 원을 절취하였습니다. 피고인은 범행을 시인하였으나, 피해 회복이 이루어지지 않았으며, 피해자는 피고인의 처벌을 원하지 않았습니다. 법원은 피고인의 동종 범죄 전력과 형평성을 고려하여 징역 4월을 선고하였습니다.",
+        "originwordCnt": "244",
+        "labelwordCnt": "36"
+    }
+}

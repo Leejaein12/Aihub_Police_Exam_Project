@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001133",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19743",
+        "title": "특정강력범죄의 처벌에 관한 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "재판장은 특정강력범죄사건 소송 관계인의 공판기일 준수를 위해 어떤 조치를 해야 하나요?",
+        "output": "재판장은 소송 관계인이 공판기일을 준수하도록 요청해야 하며, 이를 위해 필요한 조치를 할 수 있습니다. 이는 특정강력범죄의 처벌에 관한 특례법 제10조 제3항에 따릅니다.",
+        "originwordCnt": "45",
+        "labelwordCnt": "22"
+    }
+}

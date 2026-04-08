@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001638",
+        "promulgDate": "20230418",
+        "effectDate": "20240101",
+        "promulgNum": "19357",
+        "title": "도로교통법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제26조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "좌회전하려는 차의 운전자는 교차로에서 어떻게 행동해야 하나요?",
+        "output": "도로교통법 제26조 제4항에 따르면 교통정리를 하고 있지 아니하는 교차로에서 좌회전하려고 하는 차의 운전자는 그 교차로에서 직진하거나 우회전하려는 다른 차가 있을 때에는 그 차에 진로를 양보하여야 합니다.",
+        "originwordCnt": "104",
+        "labelwordCnt": "26"
+    }
+}

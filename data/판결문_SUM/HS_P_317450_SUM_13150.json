@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317450",
+        "caseName": "마약류관리에관한법률위반(향정)",
+        "caseNum": "2023고단2427",
+        "sentenceDate": "2024.05.09",
+        "courtName": "제주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "차량을 운전하다 적색 신호에 정지선을 넘었다는 공소사실이 제기되었으나, 범칙금 부과 과정에서 경찰관의 실수로 다른 사람의 주민등록번호가 잘못 기재되었습니다. 이후 범칙금을 납부하지 않아 즉결심판이 이루어졌으나, 정식재판이 청구되었습니다. 재판부는 공소제기의 절차가 법률을 위반하여 무효라고",
+        "originwordCnt": "153",
+        "labelwordCnt": "32"
+    }
+}

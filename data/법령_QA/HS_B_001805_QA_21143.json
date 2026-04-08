@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001805",
+        "promulgDate": "20240213",
+        "effectDate": "20240514",
+        "promulgNum": "20307",
+        "title": "식품위생법",
+        "ministry": "식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제48조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "교육훈련기관 지정 내용이 변경된 경우 어떻게 해야 하나요?",
+        "output": "식품위생법 제48조의4 제3항에 따르면, 교육훈련기관으로 지정받은 자는 지정된 내용 중 총리령으로 정하는 사항이 변경된 경우, 변경사유 발생일로부터 1개월 이내에 식품의약품안전처장에게 신고해야 합니다.",
+        "originwordCnt": "163",
+        "labelwordCnt": "22"
+    }
+}

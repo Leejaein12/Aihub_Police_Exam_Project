@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "006220",
+        "promulgDate": "20211231",
+        "effectDate": "20211231",
+        "promulgNum": "00298",
+        "title": "경범죄 처벌법 시행규칙",
+        "ministry": "경찰청,해양경찰청",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "경범죄 처벌에 따른 범칙금 징수사항 기록부는 어떤 서식을 따라야 하나요?",
+        "output": "범칙금 징수사항 기록부는 경범죄 처벌법 시행령 제5조에 따라 별지 제6호서식에 따릅니다. 이는 경범죄 처벌법 시행규칙 제3조에 규정되어 있습니다.",
+        "originwordCnt": "14",
+        "labelwordCnt": "18"
+    }
+}

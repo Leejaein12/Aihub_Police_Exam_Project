@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010208",
+        "promulgDate": "20210112",
+        "effectDate": "20220113",
+        "promulgNum": "17893",
+        "title": "주민소환에 관한 법률",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "지방자치단체의 장에 대한 주민소환투표의 대상 구역은 어디까지입니까?",
+        "output": "지방자치단체의 장에 대한 주민소환투표는 해당 지방자치단체의 관할구역 전체를 대상으로 실시됩니다. 이는 주민소환에 관한 법률 제16조 제1항에 명시되어 있습니다.",
+        "originwordCnt": "20",
+        "labelwordCnt": "18"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "159303",
+        "caseName": "특수절도",
+        "caseNum": "75도1089",
+        "sentenceDate": "1975.05.27",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "경찰에서의 자백이 증거로 인정되지 않는 상황에서 조사 경찰관의 증언을 유죄의 증거로 사용할 수 있나요?",
+        "output": "경찰에서의 자백이 형사소송법 312조 2항에 의해 증거로 인정되지 않는 상황에서, 조사 경찰관의 증언을 유죄의 증거로 사용할 수 없습니다. 이는 형사소송법 316조 1항에 의해서도 동일하게 적용됩니다.",
+        "originwordCnt": "70",
+        "labelwordCnt": "25"
+    }
+}

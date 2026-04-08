@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312694",
+        "caseName": "주거침입",
+        "caseNum": "2024고단2269",
+        "sentenceDate": "2024.08.28",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "주거에 침입하여 창문을 통해 집 내부를 훔쳐본 사실로 기소되었습니다. 법원은 형법 제319조 제1항에 따라 주거침입죄를 인정하고 징역 10월을 선고하였습니다. 다만, 피고인이 범행을 인정하고 추가 범행이 없었던 점 등을 고려하여 형의 집행을 2년간 유예하며, 보호관찰과 80시간의 사회봉사를 명하였습니다.",
+        "originwordCnt": "217",
+        "labelwordCnt": "37"
+    }
+}

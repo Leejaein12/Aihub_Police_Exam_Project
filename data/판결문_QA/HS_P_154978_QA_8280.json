@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "154978",
+        "caseName": "특수강도",
+        "caseNum": "70도2125",
+        "sentenceDate": "1970.11.30",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "합동강도죄의 법조 적용 시 형법 제334조 제2항과 제1항을 적시하지 않고 형법 제334조만을 적시해도 위법이 아닌가요?",
+        "output": "형법 제334조 및 형사소송법 제383조에 따르면, 합동강도죄의 법조 적용에 있어 형법 제334조 제2항과 제1항을 구체적으로 적시하지 않고 형법 제334조만을 적시하였더라도 이는 위법이 아닙니다.",
+        "originwordCnt": "140",
+        "labelwordCnt": "23"
+    }
+}

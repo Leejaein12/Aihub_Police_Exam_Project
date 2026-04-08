@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "306337",
+        "caseName": "제대혈관리및연구에관한법률위반",
+        "caseNum": "2016노9183",
+        "sentenceDate": "2017. 9. 8.",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "폐기 대상 제대혈을 불법적으로 시술하여 제대혈관리 및 연구에 관한 법률을 위반한 혐의로 기소된 사건에서, 피고인들은 이 형이 너무 무겁다며 항소하였으나, 항소심에서는 원심의 양형이 합리적인 범위를 벗어나지 않았다고 판단하여 피고인들의 항소를 기각하였습니다.",
+        "originwordCnt": "276",
+        "labelwordCnt": "31"
+    }
+}

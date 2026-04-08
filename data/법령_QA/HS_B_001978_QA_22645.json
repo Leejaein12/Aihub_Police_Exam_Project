@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001978",
+        "promulgDate": "20230816",
+        "effectDate": "20230816",
+        "promulgNum": "19637",
+        "title": "농수산물 품질관리법",
+        "ministry": "농림축산식품부,식품의약품안전처,해양수산부",
+        "fullText": "N",
+        "smClass": "제71조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "해양수산부장관은 어떤 해역을 지정해역으로 지정할 수 있나요?",
+        "output": "농수산물 품질관리법 제71조 제1항에 따르면 해양수산부장관은 제69조 제1항에 따른 위생관리기준에 맞는 해역을 지정해역으로 지정하여 고시할 수 있습니다.",
+        "originwordCnt": "33",
+        "labelwordCnt": "17"
+    }
+}

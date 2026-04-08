@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001638",
+        "promulgDate": "20230418",
+        "effectDate": "20240101",
+        "promulgNum": "19357",
+        "title": "도로교통법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시장등 및 도로관리자가 교통안전시설을 설치ㆍ관리할 때 따라야 할 기준은 무엇인가요?",
+        "output": "도로교통법 제3조 제2항에 따르면 시장등 및 도로관리자는 제3조 제1항에 따라 교통안전시설을 설치ㆍ관리할 때에는 제4조에 따른 교통안전시설의 설치ㆍ관리기준에 적합하도록 하여야 합니다.",
+        "originwordCnt": "149",
+        "labelwordCnt": "20"
+    }
+}

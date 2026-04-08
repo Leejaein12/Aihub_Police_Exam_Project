@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009505",
+        "promulgDate": "20230411",
+        "effectDate": "20240412",
+        "promulgNum": "19330",
+        "title": "소방기본법",
+        "ministry": "소방청",
+        "fullText": "N",
+        "smClass": "제52조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소방기본법에서 어떤 경우에 300만원 이하의 벌금에 처해질 수 있나요?",
+        "output": "소방기본법 제25조 제2항 및 제3항에 따른 처분을 방해한 자 또는 정당한 사유 없이 그 처분에 따르지 아니한 자는 300만원 이하의 벌금에 처해질 수 있습니다. 이는 소방기본법 제52조 제1호에 근거합니다.",
+        "originwordCnt": "33",
+        "labelwordCnt": "29"
+    }
+}

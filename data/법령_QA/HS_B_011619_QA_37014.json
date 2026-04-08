@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011619",
+        "promulgDate": "20230808",
+        "effectDate": "20230808",
+        "promulgNum": "19592",
+        "title": "국제경기대회 지원법",
+        "ministry": "문화체육관광부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "문화체육관광부장관은 정책 총괄·조정을 위해 필요한 경우 어떤 조치를 할 수 있나요?",
+        "output": "국제경기대회 지원법 제5조 제2항에 따르면, 문화체육관광부장관은 정책의 총괄·조정을 위해 필요한 경우 관계 중앙행정기관의 장 및 지방자치단체의 장 등에게 협조를 요청할 수 있습니다.",
+        "originwordCnt": "46",
+        "labelwordCnt": "22"
+    }
+}

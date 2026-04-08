@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001777",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "노인복지법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제37조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "노인여가복지시설의 시설, 인력, 운영 기준 및 설치신고와 관련된 사항은 어떻게 정해집니까?",
+        "output": "노인복지법 제37조 제5항에 따르면 노인여가복지시설의 시설, 인력 및 운영에 관한 기준과 설치신고 등에 필요한 사항은 보건복지부령으로 정하게 됩니다.",
+        "originwordCnt": "77",
+        "labelwordCnt": "18"
+    }
+}

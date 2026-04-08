@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313015",
+        "caseName": "사기등",
+        "caseNum": "2023노130",
+        "sentenceDate": "2024.01.17",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "보이스피싱 범죄에 가담한 혐의로 기소되었으나, 원심에서는 피고인이 범행 당시 범죄 가담 사실을 인식하지 못했을 가능성을 배제할 수 없다고 판단하여 무죄를 선고했습니다. 항소심에서 검사는 원심이 사실을 오인하고 법리를 오해했다고 주장하였으나, 법원은 원심의 증거 조사와 판단이 적법하고 타당하다고 보아 검사의 항소를 기각하였습니다.",
+        "originwordCnt": "184",
+        "labelwordCnt": "40"
+    }
+}

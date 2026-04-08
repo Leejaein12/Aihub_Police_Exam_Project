@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012141",
+        "promulgDate": "20220630",
+        "effectDate": "20220701",
+        "promulgNum": "03057",
+        "title": "군사법원 판결서 등의 열람 및 복사에 관한 규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군사법원 판결서 등의 증거목록과 기록목록의 전자파일 등록 절차는 어떻게 되나요?",
+        "output": "서기는 증거목록과 기록목록을 작성한 경우 전자파일의 형태로 전산정보처리시스템에 등록하여야 합니다. 이는 군사법원 판결서 등의 열람 및 복사에 관한 규칙 제3조에 따른 절차입니다.",
+        "originwordCnt": "13",
+        "labelwordCnt": "22"
+    }
+}

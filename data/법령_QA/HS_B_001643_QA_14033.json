@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001643",
+        "promulgDate": "20230816",
+        "effectDate": "20230816",
+        "promulgNum": "19626",
+        "title": "경찰공무원법",
+        "ministry": "경찰청,해양경찰청",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "경정 및 순경의 신규채용 방식은 무엇인가요?",
+        "output": "경정 및 순경의 신규채용은 공개경쟁시험으로 진행됩니다. 이는 경찰공무원법 제10조 제1항에 명시되어 있습니다.",
+        "originwordCnt": "242",
+        "labelwordCnt": "12"
+    }
+}

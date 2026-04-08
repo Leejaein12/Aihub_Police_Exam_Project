@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000994",
+        "promulgDate": "20221115",
+        "effectDate": "20230516",
+        "promulgNum": "19028",
+        "title": "온천법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "온천법에 근거하여, 동력장치를 설치할 때 수문관측시설을 함께 설치해야 하는 경우는 무엇인가요?",
+        "output": "온천법 제14조 제3항에 의거하여, 동조 제1항에 따라 허가를 받은 자는 동력장치를 설치할 때 행정안전부령으로 정하는 수문관측시설을 함께 설치하여야 합니다.",
+        "originwordCnt": "76",
+        "labelwordCnt": "19"
+    }
+}

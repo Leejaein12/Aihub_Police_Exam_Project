@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001622",
+        "promulgDate": "20240206",
+        "effectDate": "20240507",
+        "promulgNum": "20191",
+        "title": "병역법",
+        "ministry": "국방부,병무청",
+        "fullText": "N",
+        "smClass": "제23조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "상근예비역으로 소집된 사람은 어디에서 근무하게 되나요?",
+        "output": "병역법 제23조 제4항에 따르면, 각 군 참모총장은 상근예비역으로 소집된 사람에 대하여 지역방위업무를 수행하는 군부대 또는 이를 지원하는 기관에 파견하여 근무하게 한다고 규정되어 있습니다.",
+        "originwordCnt": "163",
+        "labelwordCnt": "23"
+    }
+}

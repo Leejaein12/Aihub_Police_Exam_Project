@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "73847",
+        "caseName": "상해치사(예비적으로폭력행위등처벌에관한법률위반)피고사건",
+        "caseNum": "75노423",
+        "sentenceDate": "1975.06.26",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "항소이유서 제출기간이 도과한 후 추가로 제출된 항소이유서는 어떻게 판단되나요?",
+        "output": "항소이유서 제출기간이 도과한 후에 제출된 항소이유서는 기간 내에 제출된 항소이유를 보충하는 한도 내에서만 판단하면 됩니다. 이는 형사소송법 제361조의3 및 제364조에 따라 적용되는 원칙입니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "23"
+    }
+}

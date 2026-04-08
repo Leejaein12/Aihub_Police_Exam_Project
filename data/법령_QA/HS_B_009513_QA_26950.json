@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009513",
+        "promulgDate": "20220610",
+        "effectDate": "20230611",
+        "promulgNum": "18898",
+        "title": "암관리법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가와 지방자치단체는 어떤 경우에 암 치료 비용을 지원할 수 있나요?",
+        "output": "암관리법 제13조 제1항에 따르면, 국가와 지방자치단체는 암환자의 암 종류별 경제적 부담능력 등을 고려하여 암 치료에 드는 비용을 예산 또는 국민건강증진기금에서 지원할 수 있습니다.",
+        "originwordCnt": "212",
+        "labelwordCnt": "23"
+    }
+}

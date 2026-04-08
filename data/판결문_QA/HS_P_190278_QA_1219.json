@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "190278",
+        "caseName": "손해배상(기)",
+        "caseNum": "2000가합7461",
+        "sentenceDate": "2002.03.22",
+        "courtName": "전주지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "골프장에서 발생한 낙뢰사고를 자연재해로 판단해 골프장 운영자의 책임이 부정될 수 있나요?",
+        "output": "제반사정을 고려할 때, 낙뢰사고를 자연재해로 보아 골프장 운영자의 이용자에 대한 안전배려의무 위반이 부정된 사례가 있습니다. 이는 체육시설의설치이용에관한법률 및 관련 규정에 따라 판단되었습니다.",
+        "originwordCnt": "1313",
+        "labelwordCnt": "22"
+    }
+}

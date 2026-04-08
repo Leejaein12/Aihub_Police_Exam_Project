@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "74346",
+        "caseName": "추행유인미수등피고사건",
+        "caseNum": "76노1346",
+        "sentenceDate": "1977.01.27",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "수사기관에서 범인의 처벌을 바란다는 진술을 했다면, 이것이 고소로서 효력이 인정될 수 있나요?",
+        "output": "수사기관에서 친고죄의 피해자가 범죄사실을 진술하고 범인의 처벌을 바란다는 진술을 하였다면, 이는 형사소송법 제237조에 따라 적법한 고소로서의 효력이 인정됩니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "18"
+    }
+}

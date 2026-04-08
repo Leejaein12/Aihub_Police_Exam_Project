@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336244",
+        "caseName": "준강제추행",
+        "caseNum": "2023고정551",
+        "sentenceDate": "2024.02.07",
+        "courtName": "부산지방법원 동부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "잠을 자고 있는 심신상실 또는 항거불능 상태를 이용해 피해자의 신체를 만지는 행위로 준강제추행을 저지른 것으로 판단되었습니다. 법원은 피고인이 범행을 인정하고 깊이 반성하고 있으며, 피해자와 합의하여 피해자가 처벌을 원하지 않는 점, 그리고 피고인에게 범죄 전력이 없는 점을 참작하여 형의 선고를 유예하였습니다.",
+        "originwordCnt": "323",
+        "labelwordCnt": "40"
+    }
+}

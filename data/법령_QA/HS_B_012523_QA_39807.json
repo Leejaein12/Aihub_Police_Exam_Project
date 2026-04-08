@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012523",
+        "promulgDate": "20230816",
+        "effectDate": "20240217",
+        "promulgNum": "19688",
+        "title": "항공사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제19조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "항공운송사업자가 정기편 노선의 허가를 받은 경우, 언제 운항을 시작해야 합니까?",
+        "output": "항공사업법 제19조 제2항에 의하면 항공운송사업자가 제7조제2항 또는 제10조제3항에 따라 정기편 노선의 허가를 받은 경우에는 노선허가 신청서에 적은 운항개시예정일에 운항을 시작하여야 합니다.",
+        "originwordCnt": "64",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319991",
+        "caseName": "도로교통법위반(음주운전)등",
+        "caseNum": "2023고단1933",
+        "sentenceDate": "2023.07.20",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 8월 4일 혈중알코올농도 0.244%의 상태로 약 3.1km 구간에서 원동기장치자전거를 운전한 혐의가 인정되었습니다. 음주운전으로 인한 범죄사실은 주취운전자 정황보고와 음주운전 단속결과통보 등의 증거로 뒷받침되었습니다. 이에 따라 벌금형에 처해지며, 추가로 가납명령도 포함되었습니다.",
+        "originwordCnt": "157",
+        "labelwordCnt": "30"
+    }
+}

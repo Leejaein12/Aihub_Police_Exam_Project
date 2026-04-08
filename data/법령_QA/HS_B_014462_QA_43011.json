@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014462",
+        "promulgDate": "20230628",
+        "effectDate": "20230628",
+        "promulgNum": "01120",
+        "title": "군사법경찰 수사규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제36조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군사법경찰관리가 진행하는 영상녹화는 어떤 조건을 만족해야 하나요?",
+        "output": "군사법경찰 수사규칙 제36조 제3항의 규정에 의하면, 군사법경찰관리가 제1항 및 제2항에 따른 영상녹화는 조사실 전체를 확인할 수 있고 조사받는 사람의 얼굴과 음성을 식별할 수 있도록 해야 합니다.",
+        "originwordCnt": "187",
+        "labelwordCnt": "26"
+    }
+}

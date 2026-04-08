@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000201",
+        "promulgDate": "20190115",
+        "effectDate": "20190115",
+        "promulgNum": "16246",
+        "title": "사회복지공동모금회법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제25조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "모금회의 관리ㆍ운영 비용은 어떻게 결정되며, 그 범위는 무엇입니까?",
+        "output": "사회복지공동모금회법 제25조 제4항에 따르면 기부금품 모집과 모금회의 관리ㆍ운영에 필요한 비용은 바로 앞 회계연도 모금총액의 100분의 10의 범위에서 이사회의 의결을 거쳐 사용할 수 있습니다.",
+        "originwordCnt": "148",
+        "labelwordCnt": "23"
+    }
+}

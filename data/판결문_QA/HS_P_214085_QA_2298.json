@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "214085",
+        "caseName": "공갈",
+        "caseNum": "79도1329",
+        "sentenceDate": "1979.07.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "선거소송 제기가 공갈이나 협박에 해당하지 않는 이유는 무엇인가요?",
+        "output": "선거소송 제기는 폭행에 해당하지 않으며, 해악의 고지 즉 협박이라고도 볼 수 없습니다. 따라서 선거소송을 제기하는 행위 자체는 정당한 법적 절차로서, 공갈죄의 협박 요건을 충족하지 않으므로 범죄가 성립하지 않는다고 판단한 것은 타당합니다.",
+        "originwordCnt": "201",
+        "labelwordCnt": "31"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014462",
+        "promulgDate": "20230628",
+        "effectDate": "20230628",
+        "promulgNum": "01120",
+        "title": "군사법경찰 수사규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제24조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군사법경찰관리는 검시에 어떤 사람들을 참여시켜야 하나요?",
+        "output": "군사법경찰 수사규칙 제24조에 따르면, 군사법경찰관리는 검시에 특별한 지장이 없다고 인정하면 변사자의 가족, 친족, 소속 부대원이나 그 밖에 필요하다고 인정하는 사람을 검시에 참여시켜야 합니다.",
+        "originwordCnt": "20",
+        "labelwordCnt": "23"
+    }
+}

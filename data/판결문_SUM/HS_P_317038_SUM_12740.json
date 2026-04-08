@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317038",
+        "caseName": "사기",
+        "caseNum": "2023고정692",
+        "sentenceDate": "2024.05.08",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "인터넷 카페에서 욕창 방지 매트를 판매한다고 허위로 알린 후, 상대방에게 매트를 판매하겠다고 속여 금액을 송금받았습니다. 실제로 해당 물품을 판매할 의사나 능력이 없었으며, 피해를 본 사람들로부터 총 1,418,000원을 부당하게 교부받았습니다. 이로 인해 법원은 벌금 3백만원을 선고하였습니다.",
+        "originwordCnt": "282",
+        "labelwordCnt": "35"
+    }
+}

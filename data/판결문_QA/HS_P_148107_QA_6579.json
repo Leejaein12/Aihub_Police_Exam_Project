@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "148107",
+        "caseName": "공직선거법위반",
+        "caseNum": "2010노154",
+        "sentenceDate": "2010.06.30",
+        "courtName": "대전고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인들과 검사의 항소에 대한 법원의 최종 결정은 무엇인가요?",
+        "output": "주문에 따르면 법원은 피고인들과 검사의 항소를 모두 기각하였습니다. 이는 항소심에서 원심판결을 변경할 만한 사유가 없다고 판단하여 원심판결을 그대로 유지하기로 결정한 것입니다.",
+        "originwordCnt": "4764",
+        "labelwordCnt": "21"
+    }
+}

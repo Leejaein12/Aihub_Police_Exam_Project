@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335862",
+        "caseName": "특수협박",
+        "caseNum": "2023고단2681",
+        "sentenceDate": "2024.04.03",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "이혼한 전 배우자인 피해자가 다른 남성과 연락한 사실에 분노하여, 중식도를 사용해 피해자를 협박하였습니다. 법원은 피고인이 위험한 물건을 휴대하여 협박을 한 점에 대해 징역 1년을 선고했으며, 피해자와의 합의를 고려하여 2년간의 집행유예와 보호관찰을 명했습니다.",
+        "originwordCnt": "332",
+        "labelwordCnt": "32"
+    }
+}

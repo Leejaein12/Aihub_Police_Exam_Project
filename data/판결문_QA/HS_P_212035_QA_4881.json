@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "212035",
+        "caseName": "특정범죄가중처벌등에관한법률위반·도로교통법위반",
+        "caseNum": "80도3320",
+        "sentenceDate": "1981.06.23",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "교통사고를 발생시킨 운전자가 사고의 귀책사유와 상관없이 신고의무를 지게 되나요?",
+        "output": "도로교통법 제45조 제2항의 신고의무는 교통사고를 발생시킨 당해 차량의 운전자에게 그 사고 발생에 대한 귀책사유의 유무와 관계없이 부과된 의무입니다.",
+        "originwordCnt": "27",
+        "labelwordCnt": "18"
+    }
+}

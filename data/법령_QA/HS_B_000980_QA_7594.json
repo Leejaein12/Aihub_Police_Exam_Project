@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000980",
+        "promulgDate": "20221115",
+        "effectDate": "20230516",
+        "promulgNum": "19021",
+        "title": "경비업법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제25조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시ㆍ도경찰청장은 특수경비업자에 대해 어떤 의무를 가지나요?",
+        "output": "시ㆍ도경찰청장은 대통령령이 정하는 바에 따라 특수경비업자에 대하여 보안지도ㆍ점검을 실시하여야 하고, 필요한 경우 관계기관에 보안측정을 요청하여야 합니다. 이는 경비업법 제25조에 규정되어 있습니다.",
+        "originwordCnt": "20",
+        "labelwordCnt": "21"
+    }
+}

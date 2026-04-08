@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335316",
+        "caseName": "사기등",
+        "caseNum": "2022노2600",
+        "sentenceDate": "2023.03.21",
+        "courtName": "창원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "각각 원심에서 선고된 징역 1년 형이 너무 가볍고 무겁다며 양형 부당을 이유로 항소했으나, 법원은 원심이 양형요소를 적절히 선택·적용하였다고 판단하였습니다. 당심에서 양형조건에 변화가 없고, 원심의 형이 합리적 재량 범위를 벗어났다고 보기 어렵다는 이유로 항소를 모두 기각하였습니다.",
+        "originwordCnt": "133",
+        "labelwordCnt": "35"
+    }
+}

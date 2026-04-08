@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001722",
+        "promulgDate": "20240102",
+        "effectDate": "20240102",
+        "promulgNum": "19922",
+        "title": "정당법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제40조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "정당이 헌법재판소의 결정으로 해산된 경우, 해산된 정당의 강령과 동일하거나 유사한 정당을 창당할 수 있습니까?",
+        "output": "정당이 헌법재판소의 결정으로 해산된 경우, 해산된 정당의 강령 또는 기본정책과 동일하거나 유사한 것으로 정당을 창당하는 것은 금지됩니다. 이는 정당법 제40조에 근거합니다.",
+        "originwordCnt": "17",
+        "labelwordCnt": "21"
+    }
+}

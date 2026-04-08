@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "99194",
+        "caseName": "강간치상(예비적:강간)",
+        "caseNum": "84도372",
+        "sentenceDate": "1984.04.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "강간치상죄에 형법 제263조의 동시범 규정을 적용할 수 있나요?",
+        "output": "강간치상죄에는 형법 제263조의 동시범 규정을 적용할 수 없습니다. 동시범 규정은 상해와 폭행죄에 관한 특별규정으로, 그 보호법익이 다른 강간치상죄에는 적용되지 않는 것이 타당합니다. 이는 형법 제263조와 제301조에 근거한 법리적 판단입니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "29"
+    }
+}

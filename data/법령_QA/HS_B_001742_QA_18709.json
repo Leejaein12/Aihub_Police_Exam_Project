@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001742",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19134",
+        "title": "선박안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제23조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "컨테이너형식승인을 받기 위해 어떤 절차를 거쳐야 하나요?",
+        "output": "선박안전법 제23조 제2항에 따르면, 컨테이너형식승인을 받고자 하는 자는 해양수산부령으로 정하는 바에 따라 지정·고시하는 시험기관인 컨테이너지정시험기관의 형식승인시험을 거쳐야 합니다.",
+        "originwordCnt": "288",
+        "labelwordCnt": "18"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010111",
+        "promulgDate": "20230613",
+        "effectDate": "20231214",
+        "promulgNum": "19448",
+        "title": "긴급복지지원법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "긴급지원담당공무원은 얻은 정보를 어떤 용도로 사용해서는 안 됩니까?",
+        "output": "긴급복지지원법 제13조 제7항에 따르면, 긴급지원담당공무원 또는 긴급지원담당공무원이었던 사람은 얻은 정보와 자료를 지원 목적 외에 다른 용도로 사용하거나 다른 사람 또는 기관에 제공하여서는 안 됩니다.",
+        "originwordCnt": "260",
+        "labelwordCnt": "24"
+    }
+}

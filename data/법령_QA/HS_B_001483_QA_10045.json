@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001483",
+        "promulgDate": "20220111",
+        "effectDate": "20230112",
+        "promulgNum": "18755",
+        "title": "어선법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "만재흘수선의 표시를 초과하여 사람이나 화물을 싣고 항행할 수 있나요?",
+        "output": "누구든지 어선법 제4조 제1항에 따라 표시된 만재흘수선을 초과하여 사람, 어획물 또는 화물 등을 승선시키거나 싣고 항행하여서는 아니 됩니다. 이는 어선법 제4조 제2항에 근거합니다.",
+        "originwordCnt": "58",
+        "labelwordCnt": "23"
+    }
+}

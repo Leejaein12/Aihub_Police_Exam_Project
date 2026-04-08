@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "특별건축구역이란 무엇인가요?",
+        "output": "특별건축구역은 도시경관의 창출, 건설기술 수준 향상 및 건축 관련 제도개선을 도모하기 위하여 일부 규정을 완화 또는 통합하여 적용할 수 있도록 지정된 구역을 의미한다고 건축법 제2조 제1항 제18호에 규정되어 있습니다.",
+        "originwordCnt": "690",
+        "labelwordCnt": "29"
+    }
+}

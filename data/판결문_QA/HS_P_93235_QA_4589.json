@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93235",
+        "caseName": "변호사법위반",
+        "caseNum": "76도3391",
+        "sentenceDate": "1976.12.14",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "변호사법 제54조의 범죄 성립 시점은 언제인가요?",
+        "output": "변호사법 제54조에 따른 범죄는 공무원이 취급하는 사건이나 사무에 대해 청탁 또는 알선의 명목으로 금품을 받으면 바로 성립하는 것입니다. 따라서 금품을 받은 후 청탁이나 알선 경비에 일부 소비한 사실이 있더라도 이는 범죄 성립에 영향을 미치지 않습니다.",
+        "originwordCnt": "40",
+        "labelwordCnt": "35"
+    }
+}

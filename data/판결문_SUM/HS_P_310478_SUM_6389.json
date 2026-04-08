@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310478",
+        "caseName": "상해등",
+        "caseNum": "2023고단3483",
+        "sentenceDate": "2024.06.13",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "택시 요금을 요구한 운전자를 폭행하고, 이후 피해자를 추격하여 주먹으로 때려 상해를 입혔습니다. 약 4주간의 치료가 필요한 상해를 입었으나, 이후 운전자는 합의하였고, 선처를 요청하였습니다. 법원은 특정범죄 가중처벌 등에 관한 법률 제5조의10 제1항 및 형법 제257조 제1항을 적용하여 벌금 1,200만 원을 선고하였습니다.",
+        "originwordCnt": "298",
+        "labelwordCnt": "40"
+    }
+}

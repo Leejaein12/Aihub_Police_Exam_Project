@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311821",
+        "caseName": "전자금융거래법위반등",
+        "caseNum": "2023고정578",
+        "sentenceDate": "2023.11.09",
+        "courtName": "수원지방법원 안산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "전자금융거래법 및 전기통신사업법 위반에 대한 판결이 내려졌습니다. 대출을 목적으로 신용 불량자 대출을 요청하며 대출업체 직원을 사칭하는 자에게 접근매체를 대여한 사실이 인정되었습니다. 또한, 선불 유심을 제공하여 타인의 통신용으로 제공한 혐의도 확인되었습니다. 이로 인해 법원은 벌금을 부과하였습니다.",
+        "originwordCnt": "300",
+        "labelwordCnt": "35"
+    }
+}

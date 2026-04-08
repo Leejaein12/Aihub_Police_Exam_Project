@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010726",
+        "promulgDate": "20210615",
+        "effectDate": "20220616",
+        "promulgNum": "18284",
+        "title": "지진ㆍ화산재해대책법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제9조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "지진ㆍ화산방재정책위원회는 몇 명 이내의 위원으로 구성됩니까?",
+        "output": "지진ㆍ화산방재정책위원회는 위원장 및 부위원장 각 1명을 포함하여 대통령령으로 정하는 20명 이내의 위원으로 구성됩니다. 이는 지진ㆍ화산재해대책법 제9조의3 제3항에 명시되어 있습니다.",
+        "originwordCnt": "101",
+        "labelwordCnt": "19"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317678",
+        "caseName": "교통사고처리특례법위반(치상)",
+        "caseNum": "2023고단200",
+        "sentenceDate": "2023.09.20",
+        "courtName": "춘천지방법원 강릉지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "횡단보도가 설치된 도로에서 전방 주시 및 제동장치 조작 의무를 소홀히 하고 그대로 주행하여 횡단 중이던 피해자를 충격해 골절 등 상해를 입혔습니다. 이에 따라 교통사고처리특례법 위반으로 기소되었으며, 법원은 피고인에게 벌금 300만 원을 선고하였습니다.",
+        "originwordCnt": "259",
+        "labelwordCnt": "32"
+    }
+}

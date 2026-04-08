@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317078",
+        "caseName": "사기",
+        "caseNum": "2023노2156",
+        "sentenceDate": "2023.10.25",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심에서 선고된 징역 1년 10개월의 형에 대해 항소를 제기하였으나, 제1심과 비교하여 양형 조건에 변화가 없고 양형이 재량의 합리적인 범위를 벗어나지 않았으므로 항소를 모두 기각하였습니다. 또한, 배상신청은 법적 절차 및 신청 시기에서 부적합하여 각하되었습니다.",
+        "originwordCnt": "380",
+        "labelwordCnt": "33"
+    }
+}

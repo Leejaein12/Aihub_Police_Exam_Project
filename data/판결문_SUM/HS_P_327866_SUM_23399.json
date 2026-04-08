@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "327866",
+        "caseName": "업무방해등",
+        "caseNum": "2022노2587",
+        "sentenceDate": "2022.11.25.",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "형사소송법에 따르면 제1심의 양형이 재량의 합리적 범위를 벗어나지 않는 한 이를 존중해야 합니다. 본 사건에서 새로운 양형 자료나 조건 변화가 없었으므로, 원심의 형량이 과도하다고 볼 수 없다고 판단하여 피고인의 항소를 기각하였습니다.",
+        "originwordCnt": "151",
+        "labelwordCnt": "31"
+    }
+}

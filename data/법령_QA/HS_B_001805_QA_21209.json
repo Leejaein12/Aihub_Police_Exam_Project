@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001805",
+        "promulgDate": "20240213",
+        "effectDate": "20240514",
+        "promulgNum": "20307",
+        "title": "식품위생법",
+        "ministry": "식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제62조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공제회에 대해 식품위생법에서 규정하지 않은 사항은 어떻게 처리하나요?",
+        "output": "식품위생법 제62조 제2항에 따르면, 공제회에 관하여 이 법에서 규정하지 않은 사항은 민법 중 사단법인에 관한 규정과 상법 중 주식회사의 회계에 관한 규정을 준용합니다.",
+        "originwordCnt": "44",
+        "labelwordCnt": "23"
+    }
+}

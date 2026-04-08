@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312586",
+        "caseName": "스토킹범죄의처벌등에관한법률위반",
+        "caseNum": "2023고단1527",
+        "sentenceDate": "2023.07.05",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "교제 종료 후 지속적으로 피해자의 주거지와 직장 주변에서 기다리거나 지켜보는 스토킹 행위를 하였습니다. 이러한 행위로 인해 피해자는 불안감과 공포심을 느꼈습니다. 법원은 피고인을 징역 6개월에 처하고, 판결 확정일부터 2년간 집행을 유예하며, 보호관찰 및 40시간의 스토킹 재범 예방 강의를 수강할 것을 명령하였습니다.",
+        "originwordCnt": "329",
+        "labelwordCnt": "40"
+    }
+}

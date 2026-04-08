@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010760",
+        "promulgDate": "20150330",
+        "effectDate": "20150330",
+        "promulgNum": "02594",
+        "title": "인신보호규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "피수용자를 이송할 때 법원이 해야 할 일은 무엇인가요?",
+        "output": "인신보호규칙 제13조 제2항에 따르면 피수용자의 신병을 이송하는 경우 법원은 사전에 이송받는 시설의 장 또는 운영자에게 도망방지 등 피수용자를 보호 또는 감호하는데 필요한 사항을 고지하고 동의를 얻어야 합니다.",
+        "originwordCnt": "115",
+        "labelwordCnt": "27"
+    }
+}

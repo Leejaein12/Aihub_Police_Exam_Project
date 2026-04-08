@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155035",
+        "caseName": "반공법위반",
+        "caseNum": "71도745",
+        "sentenceDate": "1971.06.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "반공법 제4조 제1항에서 규정한 찬양, 고무 등의 행위는 어떤 조건에서 성립할 수 있나요?",
+        "output": "반공법 제4조 제1항의 찬양, 고무 등에 관한 행위는 특정인 또는 특정, 불특정 다수인이 그 내용을 인식할 수 있는 상태에서 이루어져야 성립할 수 있습니다. 이는 해당 행위가 공공연히 인식될 수 있는 조건에서 이루어져야 한다는 것을 의미합니다.",
+        "originwordCnt": "44",
+        "labelwordCnt": "35"
+    }
+}

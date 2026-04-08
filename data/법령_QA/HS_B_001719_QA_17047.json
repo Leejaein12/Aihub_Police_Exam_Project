@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001719",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "국가공무원법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제46조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공무원의 보수는 무엇을 고려하여 정해져야 하나요?",
+        "output": "국가공무원법 제46조 제2항에 따르면 공무원의 보수는 일반의 표준 생계비, 물가 수준, 그 밖의 사정을 고려하여 정하며, 민간 부문의 임금 수준과 적절한 균형을 유지하도록 노력해야 합니다.",
+        "originwordCnt": "126",
+        "labelwordCnt": "25"
+    }
+}

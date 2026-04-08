@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317750",
+        "caseName": "폭행",
+        "caseNum": "2023고정495",
+        "sentenceDate": "2024.03.21",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "아파트 내 층간소음 문제로 피해자 D와 다투던 중 폭언을 하며 피해자의 멱살을 잡아 폭행하였고, 이를 말리던 피해자 F의 손가락을 꺾어 폭행하였습니다. 피고인과 변호인은 각 범행이 정당방위에 해당한다고 주장하였으나, 법원은 피고인의 행위를 방어행위가 아닌 공격행위로 판단하여 정당방위 주장을 받아들이지 않았습니다. 이에 따라 벌금 70만 원을 선고하였습니다.",
+        "originwordCnt": "249",
+        "labelwordCnt": "45"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72271",
+        "caseName": "폭력행위등처벌에관한법률위반피고사건",
+        "caseNum": "67노252",
+        "sentenceDate": "1967.12.12",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "강간죄에서 요구되는 폭행과 협박은 어떤 의미인가요?",
+        "output": "강간죄에서 폭행과 협박은 피해자가 항거할 수 없을 정도로 현실적인 외포를 느끼게 할 정도의 강도를 요구합니다. 이는 형법 제297조에 따라 강간죄 성립의 중요한 요건으로 판시된 내용입니다.",
+        "originwordCnt": "20",
+        "labelwordCnt": "25"
+    }
+}

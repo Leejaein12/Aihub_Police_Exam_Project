@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332317",
+        "caseName": "사기등",
+        "caseNum": "2023고단1593",
+        "sentenceDate": "2023.04.13",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피해자를 속여 상당한 금액을 편취한 사기 사건에 연루되었습니다. 피고인은 피해자에게 부실채권을 매입하겠다는 허위의 말을 하여 투자금 명목으로 6,400만 원과 1억 4,300만 원을 받았습니다. 또한, 위조한 문서를 사용하여 피해자에게 행사한 점도 심각한 범죄로 판단되었습니다. 판결은 피고인에게 징역 2년 6개월로 결정되었습니다.",
+        "originwordCnt": "640",
+        "labelwordCnt": "39"
+    }
+}

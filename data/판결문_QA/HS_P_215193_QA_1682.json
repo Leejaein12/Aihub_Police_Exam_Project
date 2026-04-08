@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "215193",
+        "caseName": "살인·배임·업무상횡령",
+        "caseNum": "4287형상113",
+        "sentenceDate": "1955.01.18",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "국회의 계엄 해제 요구는 언제 효력이 발생하나요?",
+        "output": "국회의 계엄 해제 요구는 대통령이 이를 시행한 때에 효력이 발생합니다. 계엄법의 규정에 따라, 해제 요구 자체는 대통령의 행동을 통해 구체적으로 실현되어야 법적 효력을 발휘합니다.",
+        "originwordCnt": "7269",
+        "labelwordCnt": "24"
+    }
+}

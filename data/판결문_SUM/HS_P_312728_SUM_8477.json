@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312728",
+        "caseName": "도로교통법위반",
+        "caseNum": "2023고정30",
+        "sentenceDate": "2023.08.23",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피고인은 자전거 운전업무에 종사하며, 도로의 좌측으로 진행하다가 우회전하던 차량과 충돌하여 수리비를 초래한 과실로 도로교통법 위반에 해당합니다. 자전거 운전자는 자전거 도로가 없는 곳에서 도로 우측 가장자리에 붙어서 통행해야 하며, 주의 의무를 다해야 합니다. 이에 따라 피고인은 벌금 2,000,000원을 부과받았습니다.",
+        "originwordCnt": "234",
+        "labelwordCnt": "38"
+    }
+}

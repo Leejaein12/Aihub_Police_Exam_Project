@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "190122",
+        "caseName": "보건범죄단속에관한특별조치법위반피고사건",
+        "caseNum": "76노283",
+        "sentenceDate": "1978.09.06",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "원심에서 징역형과 벌금형을 병과하면서 한쪽에만 작량감경을 한 경우, 이 판결이 위법한가요?",
+        "output": "원심에서 징역형과 벌금형을 병과하면서 한쪽에만 작량감경을 한 것은 형법 제53조에 따른 작량감경에 관한 법리를 오해한 위법이므로, 이는 판결에 영향을 미친 것으로 판단되어 파기되어야 합니다.",
+        "originwordCnt": "528",
+        "labelwordCnt": "24"
+    }
+}

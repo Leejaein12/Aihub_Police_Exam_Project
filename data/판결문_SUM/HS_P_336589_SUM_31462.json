@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336589",
+        "caseName": "사기",
+        "caseNum": "2023노1446",
+        "sentenceDate": "2024.03.14",
+        "courtName": "서울서부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사기 혐의로 1심에서 징역 10개월을 선고받고 배상명령이 내려졌으나, 양형이 부당하다는 이유로 항소했습니다. 그러나 항소심 법원은 제1심과 비교해 양형의 조건에 변화가 없고, 원심의 형이 재량의 범위를 벗어나지 않았다고 판단했습니다. 피고인의 나이, 성행, 경제적 상황 등 여러 요소를 고려했으나, 새로운 사정을 발견할 수 없어 항소를 기각했습니다.",
+        "originwordCnt": "347",
+        "labelwordCnt": "44"
+    }
+}

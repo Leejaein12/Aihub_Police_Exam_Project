@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334917",
+        "caseName": "강제추행",
+        "caseNum": "2023고단617",
+        "sentenceDate": "2024.01.22",
+        "courtName": "춘천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 8월 여성의 엉덩이를 손으로 치며 신체 접촉을 시도한 사건이 발생하였습니다. 법원은 그의 죄질이 좋지 않다고 판단했으나, 잘못을 인정하고 동종 전력이 없는 점 등을 고려해 징역 5개월을 선고하면서 1년간 형 집행을 유예하였습니다. 또한, 사회봉사, 성폭력 치료 강의 수강, 특정 기관에 취업 제한을 명하였습니다.",
+        "originwordCnt": "326",
+        "labelwordCnt": "43"
+    }
+}

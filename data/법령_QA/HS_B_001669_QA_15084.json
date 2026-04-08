@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001669",
+        "promulgDate": "20170726",
+        "effectDate": "20170726",
+        "promulgNum": "14839",
+        "title": "즉결심판에 관한 절차법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "즉결심판절차에 의한 심리와 재판의 선고는 어디에서 행하여야 하나요?",
+        "output": "즉결심판에 관한 절차법 제7조 제1항에 따르면, 즉결심판절차에 의한 심리와 재판의 선고는 공개된 법정에서 행하되, 그 법정은 경찰관서, 해양경찰관서 외의 장소에 설치되어야 합니다.",
+        "originwordCnt": "60",
+        "labelwordCnt": "22"
+    }
+}

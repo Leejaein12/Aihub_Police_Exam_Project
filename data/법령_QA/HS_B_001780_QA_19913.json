@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001780",
+        "promulgDate": "20240213",
+        "effectDate": "20240517",
+        "promulgNum": "20309",
+        "title": "의료급여법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제29조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공표심의위원회는 심의 대상자에게 어떤 기회를 제공해야 하나요?",
+        "output": "의료급여법 제29조의3 제3항 규정에 따르면 공표심의위원회는 공표 심의 대상자에게 심의 사실 및 내용을 알려 대상자가 소명자료를 제출하거나 출석하여 의견을 진술할 기회를 주어야 하고 심의과정에서 이를 고려하여야 합니다.",
+        "originwordCnt": "138",
+        "labelwordCnt": "27"
+    }
+}

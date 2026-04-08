@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "237617",
+        "caseName": "업무방해",
+        "caseNum": "2021노363",
+        "sentenceDate": "2022.05.20",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 공소권 남용을 주장했으나 법원이 이를 받아들이지 않은 이유는 무엇인가요?",
+        "output": "법원은 검사의 공소제기가 자의적으로 이루어져 피고인에게 실질적인 불이익을 준 것이 아니라며, 피고인의 방어권이 침해되었다고 보기 어려워 공소권 남용에 해당하지 않는다고 판단하였습니다.",
+        "originwordCnt": "2582",
+        "labelwordCnt": "21"
+    }
+}

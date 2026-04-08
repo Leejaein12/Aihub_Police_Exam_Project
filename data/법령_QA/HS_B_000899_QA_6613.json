@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000899",
+        "promulgDate": "20230609",
+        "effectDate": "20230710",
+        "promulgNum": "19430",
+        "title": "고등교육법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "학교가 등록금을 면제하거나 감액할 수 있는 상황은 어떤 경우입니까?",
+        "output": "학교는 재난으로 인해 학교시설 이용이 제한되거나 수업시수가 감소하는 등 학사 운영이 정상적으로 이루어지지 않은 경우 등록금을 면제하거나 감액할 수 있습니다. 이 규정은 고등교육법 제11조 제4항에 근거합니다.",
+        "originwordCnt": "402",
+        "labelwordCnt": "26"
+    }
+}

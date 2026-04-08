@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "221025",
+        "caseName": "공공단체등위탁선거에관한법률위반·업무상배임·근로기준법위반",
+        "caseNum": "2019노6849",
+        "sentenceDate": "2020.06.22",
+        "courtName": "수원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인의 행위가 사회상규에 위배되지 않는다고 볼 수 있나요?",
+        "output": "피고인의 행위는 공공단체등 위탁선거에 관한 법률상 기부행위의 구성요건에 해당하며, 사회상규에 위배되지 않는다고 평가할 수 없으므로, 원심 판결을 파기하고 피고인을 징역 1년에 처하는 것이 적절합니다.",
+        "originwordCnt": "1545",
+        "labelwordCnt": "24"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001514",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19746",
+        "title": "농약관리법",
+        "ministry": "농림축산식품부,농촌진흥청",
+        "fullText": "N",
+        "smClass": "제2조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "농림축산식품부장관의 농약 개발과 관련된 역할은 무엇인가요?",
+        "output": "농약관리법 제2조의2에 따르면, 농림축산식품부장관은 원제 및 우수한 품질의 농약 등을 개발·보급하고, 농약 등의 안전한 사용을 촉진하는 데 필요한 시책을 수립·시행하여야 합니다.",
+        "originwordCnt": "25",
+        "labelwordCnt": "21"
+    }
+}

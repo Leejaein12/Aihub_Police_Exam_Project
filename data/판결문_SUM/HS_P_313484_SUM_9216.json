@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313484",
+        "caseName": "절도",
+        "caseNum": "2024고정197",
+        "sentenceDate": "2024.05.30",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "총 9회에 걸쳐 마트에서 약 271,380원 상당의 물품을 계산하지 않고 절취한 혐의로 기소되었습니다. 법원은 초범인 점, 공탁금을 납부한 점, 피해물품이 소액인 점을 고려하여 형법 제329조를 적용하여 벌금 15만 원을 선고하였습니다.",
+        "originwordCnt": "255",
+        "labelwordCnt": "30"
+    }
+}

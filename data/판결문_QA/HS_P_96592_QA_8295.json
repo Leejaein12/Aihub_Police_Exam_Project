@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "96592",
+        "caseName": "사기",
+        "caseNum": "81도790",
+        "sentenceDate": "1982.06.08",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "범죄사실을 자백한 것으로 인정되지 않은 경우는 어떤 경우인가요?",
+        "output": "형사소송법 제310조에 따르면, 범죄사실에 대한 자백으로 인정되지 않는 경우는 피고인이 자신의 행위를 명확히 인정하지 않거나, 범행의 고의나 사실관계를 부인하여 범죄사실을 자인하지 않은 경우입니다.",
+        "originwordCnt": "14",
+        "labelwordCnt": "23"
+    }
+}

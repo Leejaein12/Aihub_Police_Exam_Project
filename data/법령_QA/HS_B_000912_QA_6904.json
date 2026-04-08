@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000912",
+        "promulgDate": "20200204",
+        "effectDate": "20200204",
+        "promulgNum": "16927",
+        "title": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제63조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군수형자가 작업을 통해 벌어들인 수입은 어떻게 처리됩니까?",
+        "output": "군수형자의 작업수입은 국가의 재정으로 귀속됩니다. 이는 군에서의 형의 집행 및 군수용자의 처우에 관한 법률 제63조 제1항에 명시되어 있습니다.",
+        "originwordCnt": "59",
+        "labelwordCnt": "18"
+    }
+}

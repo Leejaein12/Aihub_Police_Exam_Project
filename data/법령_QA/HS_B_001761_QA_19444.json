@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001761",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19591",
+        "title": "고용보험법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제55조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "구직급여를 받는 기간 동안 국민연금 보험료의 지원이 가능한가요?",
+        "output": "고용노동부장관은 구직급여를 받는 기간을 국민연금 가입기간으로 추가 산입하려는 수급자격자에게 국민연금 보험료의 일부를 지원할 수 있습니다. 고용보험법 제55조의2 제1항에 규정되어 있습니다.",
+        "originwordCnt": "47",
+        "labelwordCnt": "20"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "건축물의 건축허가를 받은 자가 공사현장을 장기간 방치할 경우, 어떤 조치를 해야 하나요?",
+        "output": "건축물의 건축허가를 받은 자는 공사현장을 장기간 방치할 경우, 공사현장의 미관 개선과 안전관리를 위한 필요한 조치를 해야 합니다. 이는 건축법 제13조 제1항에 따라 규정된 사항입니다.",
+        "originwordCnt": "255",
+        "labelwordCnt": "24"
+    }
+}

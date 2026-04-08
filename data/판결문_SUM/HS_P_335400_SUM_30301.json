@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335400",
+        "caseName": "경범죄처벌법위반",
+        "caseNum": "2024고정83",
+        "sentenceDate": "2024.05.14",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "112 신고 처리에 불만을 품고 경찰관들에게 지속적으로 전화를 걸고 B지구대를 방문하여 소란을 피웠습니다. 피고인은 술에 취한 상태에서 경찰관들에게 거친 말을 하며 사과를 요구하는 등의 행위를 약 40분간 반복하였습니다. 법원은 피고인에게 벌금 60만 원을 선고하였습니다.",
+        "originwordCnt": "377",
+        "labelwordCnt": "34"
+    }
+}

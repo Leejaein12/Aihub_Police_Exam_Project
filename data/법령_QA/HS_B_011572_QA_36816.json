@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011572",
+        "promulgDate": "20240403",
+        "effectDate": "20240403",
+        "promulgNum": "01075",
+        "title": "검사의 국선변호사 선정 등에 관한 규칙",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제20조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국선변호사가 공판절차를 지원할 경우 보수의 지급 시기는 언제인가요?",
+        "output": "검사의 국선변호사 선정 등에 관한 규칙 제20조 제2항 제2호에 의거하여, 국선변호사에게 지급할 보수등의 결정 시기는 다음 각 호의 구분에 따릅니다.2. 공판절차 지원 법원의 각 심급의 변론종결 시",
+        "originwordCnt": "147",
+        "labelwordCnt": "28"
+    }
+}

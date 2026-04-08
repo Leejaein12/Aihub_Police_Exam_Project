@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335151",
+        "caseName": "사기등",
+        "caseNum": "2022노2426",
+        "sentenceDate": "2023.01.12",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "검사는 피고인에게 보이스피싱 관련 사기, 사문서위조, 위조사문서행사에 대한 고의가 있었다고 주장하며 항소했으나, 법원은 이를 인정하지 않았습니다. 원심과 항소심은 피고인이 범행에 대한 고의가 있었다는 증거가 충분하지 않다고 판단하였으며, 피고인에게 무죄를 선고한 원심판결이 정당하다고 보았습니다. 따라서 검사의 항소는 기각되었습니다.",
+        "originwordCnt": "192",
+        "labelwordCnt": "37"
+    }
+}

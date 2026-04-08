@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335174",
+        "caseName": "사기등",
+        "caseNum": "2023노1122",
+        "sentenceDate": "2023.05.03",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사기, 폭행, 절도, 재물손괴 혐의로 징역 8월을 선고받은 피고인은 형이 과중하다는 이유로 항소하였으나, 항소심은 이를 기각하였습니다. 피고인이 범행을 인정하고 반성하나, 동종 범죄 전력이 있고 누범기간 중 범행을 저지른 점, 피해 회복이 이루어지지 않은 점 등을 고려할 때 원심의 형이 재량의 범위를 벗어나지 않았다고 판단했습니다.",
+        "originwordCnt": "213",
+        "labelwordCnt": "44"
+    }
+}

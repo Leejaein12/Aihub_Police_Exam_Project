@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "303474",
+        "caseName": "사기",
+        "caseNum": "2019고단3202",
+        "sentenceDate": "2019. 8. 29.",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "SNS와 인터넷 채팅 애플리케이션을 통해 피해자들에게 접근하여, 경제적 어려움을 호소하며 돈을 빌려달라고 속인 후 이를 갚을 의사나 능력이 없었음에도 불구하고 피해자들로부터 다수의 금전을 교부받았습니다. 법원은 피고인의 범행을 사기죄로 인정하였고, 징역 6월에 집행유예 2년을 선고하고 증거물 몰수를 명했습니다.",
+        "originwordCnt": "1313",
+        "labelwordCnt": "37"
+    }
+}

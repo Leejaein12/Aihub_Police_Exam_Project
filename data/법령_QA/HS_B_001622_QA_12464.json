@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001622",
+        "promulgDate": "20240206",
+        "effectDate": "20240507",
+        "promulgNum": "20191",
+        "title": "병역법",
+        "ministry": "국방부,병무청",
+        "fullText": "N",
+        "smClass": "제25조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "전환복무된 사람의 복무기간은 어떻게 계산되나요?",
+        "output": "병역법 제25조 제4항에 따르면, 전환복무기간과 연장된 전환복무기간은 현역병으로 복무한 기간으로 간주됩니다.",
+        "originwordCnt": "231",
+        "labelwordCnt": "11"
+    }
+}

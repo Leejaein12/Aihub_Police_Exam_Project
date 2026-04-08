@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005630",
+        "promulgDate": "20200805",
+        "effectDate": "20200805",
+        "promulgNum": "30909",
+        "title": "형의 집행 및 수용자의 처우에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제120조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보호장비의 규격과 사용방법 등에 관한 사항은 어떻게 정해지나요?",
+        "output": "형의 집행 및 수용자의 처우에 관한 법률 시행령 제120조 제2항에 따르면 법 및 이 영에 규정된 사항 외에 보호장비의 규격과 사용방법 등에 관하여 필요한 사항은 법무부령으로 정합니다.",
+        "originwordCnt": "43",
+        "labelwordCnt": "27"
+    }
+}

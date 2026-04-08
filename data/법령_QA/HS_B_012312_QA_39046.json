@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012312",
+        "promulgDate": "20240123",
+        "effectDate": "20240123",
+        "promulgNum": "20129",
+        "title": "수산종자산업육성법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가와 지방자치단체는 수산종자산업의 국제적인 동향과 관련하여 어떤 역할을 해야 하나요?",
+        "output": "수산종자산업육성법 제10조 제1항에 따르면, 국가와 지방자치단체는 수산종자산업의 국제적인 동향을 파악하고 국제협력 및 해외시장 진출을 촉진하여야 합니다.",
+        "originwordCnt": "60",
+        "labelwordCnt": "16"
+    }
+}

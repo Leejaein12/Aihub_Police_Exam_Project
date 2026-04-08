@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005652",
+        "promulgDate": "20240402",
+        "effectDate": "20240402",
+        "promulgNum": "34375",
+        "title": "형의 실효 등에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "고등검찰부에서 수형인명부에 기재할 수 있는 경우는 언제인가요?",
+        "output": "군사법원의 재판에 대한 상소심에서 자격정지 이상의 형을 선고한 재판이 확정된 경우 해당 고등검찰부에서도 그 사실을 수형인명부에 기재할 수 있습니다. 형의 실효 등에 관한 법률 시행령 제3조에 규정되어 있습니다.",
+        "originwordCnt": "25",
+        "labelwordCnt": "28"
+    }
+}

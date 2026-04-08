@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "303901",
+        "caseName": "살인미수",
+        "caseNum": "2013고합497",
+        "sentenceDate": "2014. 1. 10.",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피해자와 갈등 중 피고인은 농약을 소주병에 주입해 피해자를 살해하려 했으나, 피해자가 이를 마시지 않아 살인미수에 그쳤습니다. 법원은 피고인이 범행을 미수에 그친 점, 피해자가 상해를 입지 않았고 처벌을 원치 않는 점, 그리고 피고인이 진지하게 반성하고 있는 점 등을 고려해 징역 2년에 집행유예 3년, 120시간의 사회봉사를 명했습니다.",
+        "originwordCnt": "415",
+        "labelwordCnt": "45"
+    }
+}

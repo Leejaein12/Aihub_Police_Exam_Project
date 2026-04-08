@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001818",
+        "promulgDate": "20240130",
+        "effectDate": "20240130",
+        "promulgNum": "20172",
+        "title": "수도법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제33조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소독 및 세척 조치의 주기와 항목은 어떻게 정해지나요?",
+        "output": "수도법 제33조제6항에 의하면, 소독등위생조치, 세척등조치, 수질검사의 주기와 항목 및 지도ㆍ감독에 관한 사항은 환경부령으로 정하며, 특정 건축물에 대한 소독등위생조치는 지방자치단체의 조례로 정할 수 있습니다.",
+        "originwordCnt": "298",
+        "labelwordCnt": "23"
+    }
+}

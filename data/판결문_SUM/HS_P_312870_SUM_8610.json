@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312870",
+        "caseName": "상해등",
+        "caseNum": "2023고단1658",
+        "sentenceDate": "2023.10.12",
+        "courtName": "대전지방법원 천안지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사실혼 관계인 피해자가 지인에게 반찬을 가져다주었다는 이유로 얼굴을 수차례 때려 14일간의 치료를 요하는 상해를 입혔습니다. 또한, 피해자가 화장실로 피신해 문을 잠그자, 부엌칼을 들고 문고리를 내리치며 협박하였습니다. 법원은 피고인의 상해와 특수협박 혐의를 인정하여 징역 6개월을 선고하였으나, 2년간 집행을 유예하였습니다.",
+        "originwordCnt": "202",
+        "labelwordCnt": "38"
+    }
+}

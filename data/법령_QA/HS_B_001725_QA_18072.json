@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제172조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에 따르면, 개표를 개시한 이후 개표소에 필요한 구 시 군선거관리위원회의 재적위원 수는 어떻게 되는가?",
+        "output": "공직선거법 제172조 제3항에 따르면, 개표를 개시한 이후 개표소에는 구 시 군선거관리위원회의 재적위원 과반수가 참석해야 합니다",
+        "originwordCnt": "104",
+        "labelwordCnt": "15"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "154162",
+        "caseName": "강도살인",
+        "caseNum": "68도349",
+        "sentenceDate": "1968.05.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "강도살인 사실을 인정하면서 형법 제250조 제1항을 적용하는 것이 적법한가요?",
+        "output": "강도살인 사실을 인정하면서 형법 제250조 제1항을 적용하는 것은 적법하지 않습니다. 강도살인죄는 형법 제338조에 따라 처벌해야 하는데, 원심에서 이를 형법 제250조 제1항에 적용한 것은 법령 적용의 오류가 있어 위법하다고 볼 수 있습니다.",
+        "originwordCnt": "66",
+        "labelwordCnt": "31"
+    }
+}

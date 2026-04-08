@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000160",
+        "promulgDate": "20221213",
+        "effectDate": "20230114",
+        "promulgNum": "19090",
+        "title": "토양환경보전법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제10조의6",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "토양정화 공제조합은 어떤 사업을 수행하나요?",
+        "output": "토양환경보전법 제10조의6에 따르면, 조합은 다음 각 호의 사업을 수행합니다.1. 조합원의 토양정화를 위한 공제사업2. 토양오염의 방지 및 토양정화를 위하여 필요한 기술의 조사ㆍ개발 및 보급에 관한 사업",
+        "originwordCnt": "27",
+        "labelwordCnt": "27"
+    }
+}

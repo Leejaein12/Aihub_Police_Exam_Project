@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "95900",
+        "caseName": "살인",
+        "caseNum": "81도1522",
+        "sentenceDate": "1981.07.07",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "소년범에게 부정기형을 선고할 때, 징역 장기 7년, 단기 6년을 선고하는 것이 적법한가요?",
+        "output": "소년법 제54조 제1항에 따르면, 소년범에게 부정기형을 선고할 경우 장기는 10년, 단기는 5년을 초과할 수 없습니다. 따라서 징역 장기 7년, 단기 6년에 처하는 것은 위법입니다.",
+        "originwordCnt": "38",
+        "labelwordCnt": "24"
+    }
+}

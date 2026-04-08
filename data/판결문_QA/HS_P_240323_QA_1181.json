@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "240323",
+        "caseName": "무고",
+        "caseNum": "72도1136",
+        "sentenceDate": "1973.01.16",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "무고죄에서 공무소나 공무원에 대한 신고는 어디에 해야 하나요?",
+        "output": "무고죄에서 공무소 또는 공무원에 대한 신고는 반드시 징계처분이나 형사처분을 심사할 권한이 있는 본속상관에게 직접 할 필요는 없습니다. 지휘 명령계통이나 수사관할 이첩을 통해 권한 있는 상관에게 도달하면 성립합니다. 이는 형법 제156조에 따른 것입니다.",
+        "originwordCnt": "40",
+        "labelwordCnt": "32"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336145",
+        "caseName": "교통사고처리특례법위반(치상)",
+        "caseNum": "2023고단4760",
+        "sentenceDate": "2024.04.17",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "버스 운전 업무를 수행하며 신호등 없는 횡단보도에서 일시정지해 보행자의 통행을 보호할 주의의무를 위반하고 막연히 진행하여 횡단하던 피해자에게 상해를 입힌 혐의로 기소되었습니다. 법원은 피고인이 범행을 인정하고 반성하며 피해자와 합의에 이른 점을 참작해 피고인에게 벌금 500만 원을 선고하였습니다.",
+        "originwordCnt": "278",
+        "labelwordCnt": "36"
+    }
+}

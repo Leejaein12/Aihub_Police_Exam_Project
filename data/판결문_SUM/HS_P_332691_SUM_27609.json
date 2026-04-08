@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332691",
+        "caseName": "병역법위반",
+        "caseNum": "2024고단2047",
+        "sentenceDate": "2024.08.14",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사회복무요원으로 복무하던 중 정당한 사유 없이 2023년 1월 26일부터 2024년 2월 26일까지 총 16일간 복무를 이탈하였습니다. 병역법 제89조의2 제1호에 따라 사회복무요원의 복무이탈은 처벌 대상이므로, 이에 대해 법원은 피고인에게 징역 6개월의 형을 선고하되, 판결 확정일부터 2년간 형의 집행을 유예하였습니다.",
+        "originwordCnt": "319",
+        "labelwordCnt": "38"
+    }
+}

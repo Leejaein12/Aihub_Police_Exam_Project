@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335054",
+        "caseName": "사기등",
+        "caseNum": "2024노720",
+        "sentenceDate": "2024.05.09",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "항소인은 원심에서 선고된 형이 지나치게 무겁다고 주장했지만, 원심 이후 특별한 사정변경이 없었고, 원심이 고려한 모든 양형 요소를 종합적으로 검토한 결과, 형량은 합리적인 범위 내에 있는 것으로 판단되었습니다. 따라서 형이 과도하지 않다고 보아 항소를 기각하였습니다.",
+        "originwordCnt": "167",
+        "labelwordCnt": "34"
+    }
+}

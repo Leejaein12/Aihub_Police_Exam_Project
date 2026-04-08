@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010384",
+        "promulgDate": "20201222",
+        "effectDate": "20210623",
+        "promulgNum": "17695",
+        "title": "어린이놀이시설 안전관리법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "어린이놀이시설 안전관리법은 어린이놀이시설 관리에 있어 다른 법률에 우선 적용이 되는 것입니까?",
+        "output": "어린이놀이시설 안전관리법 제3조에 명시된 것처럼, 어린이놀이시설 안전관리법은 어린이놀이시설의 안전관리에 관하여 다른 법률에 우선하여 적용됩니다.",
+        "originwordCnt": "12",
+        "labelwordCnt": "14"
+    }
+}

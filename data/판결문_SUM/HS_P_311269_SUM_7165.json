@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311269",
+        "caseName": "특수재물손괴등",
+        "caseNum": "2023노3241",
+        "sentenceDate": "2023.10.25",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "특수재물손괴와 특수협박 혐의로 1심에서 징역 1년과 몰수형을 선고받고, 형이 너무 무겁다고 항소하였으나, 항소심에서는 피고인의 연령, 성행, 범행 경위 및 범행 후의 정황 등을 종합적으로 고려하였을 때, 1심 판결이 부당하다고 볼 수 없어 피고인의 항소를 기각하였습니다.",
+        "originwordCnt": "188",
+        "labelwordCnt": "35"
+    }
+}

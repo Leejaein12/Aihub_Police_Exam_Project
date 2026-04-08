@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000311",
+        "promulgDate": "20230103",
+        "effectDate": "20230704",
+        "promulgNum": "19165",
+        "title": "변리사법",
+        "ministry": "특허청",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "변리사의 자격을 갖추기 위한 조건은 무엇인가요?",
+        "output": "변리사법 제3조에 따르면, 변리사의 자격은 다음 각 호의 어느 하나에 해당하는 사람으로서 대통령령으로 정하는 실무수습을 마친 사람에게 주어집니다.1. 변리사시험에 합격한 사람  2. 「변호사법」에 따른 변호사 자격을 가진 사람",
+        "originwordCnt": "30",
+        "labelwordCnt": "31"
+    }
+}

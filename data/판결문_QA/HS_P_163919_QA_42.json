@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "163919",
+        "caseName": "부정경쟁방지 및 영업비밀보호에 관한 법률 위반",
+        "caseNum": "2009노941",
+        "sentenceDate": "2010.04.29",
+        "courtName": "청주지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "원심판결에 어떤 잘못이 있었습니까?",
+        "output": "원심판결은 부정경쟁방지법 제2조 제1호 가목 소정의 상품표지의 주지성에 관한 사실을 오인하여 판결 결과에 영향을 미친 위법이 있습니다. 따라서 피고인의 주장은 이유 있습니다.",
+        "originwordCnt": "1184",
+        "labelwordCnt": "22"
+    }
+}

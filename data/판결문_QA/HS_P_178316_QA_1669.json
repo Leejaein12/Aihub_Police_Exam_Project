@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "178316",
+        "caseName": "담배사업법위반",
+        "caseNum": "2009고정2321",
+        "sentenceDate": "2010.05.14",
+        "courtName": "수원지방법원안산지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인은 어떤 이유로 영업정지 처분을 받았나요?",
+        "output": "피고인은 청소년에게 담배를 판매한 사실로 인해 2009년 4월 13일부터 2009년 5월 27일까지 영업정지 처분을 받았습니다. 그러나 이 기간 중인 2009년 5월 24일에 다시 담배를 판매하여 영업정지 기간 중 영업을 하였습니다.",
+        "originwordCnt": "163",
+        "labelwordCnt": "30"
+    }
+}

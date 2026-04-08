@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315188",
+        "caseName": "준강제추행등",
+        "caseNum": "2023고단2194",
+        "sentenceDate": "2024.04.18",
+        "courtName": "청주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "장애인전용주차구역 주차표지의 유효기간을 임의로 수정하여 공문서를 변조한 후 이를 행사한 혐의로 기소되었습니다. 피고인은 장애인인 장모를 위해 발급받은 주차표지의 유효기간을 수정하였고, 이를 차량에 비치하여 주차하는 방식으로 사용하였습니다. 법원은 징역 4개월에 집행유예 1년과 사회봉사 40시간을 명령하였습니다.",
+        "originwordCnt": "243",
+        "labelwordCnt": "34"
+    }
+}

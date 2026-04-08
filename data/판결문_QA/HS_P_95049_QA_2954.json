@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "95049",
+        "caseName": "석유사업법위반",
+        "caseNum": "79도1485",
+        "sentenceDate": "1980.04.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "석유사업법 제22조 제1호 위반죄와 사기죄가 상상적 경합관계에 있는 이유는 무엇인가요?",
+        "output": "석유사업법 제22조 제1호를 위반하여 휘발유에 솔벤트를 혼합하여 그 품질을 저하시킨 행위는 이를 정상적인 휘발유로 잘못 알고 구입한 사람에 대한 사기행위에 해당하므로, 이 두 죄는 형법 제40조에 따라 상상적 경합관계에 있다고 보아야 합니다.",
+        "originwordCnt": "62",
+        "labelwordCnt": "32"
+    }
+}

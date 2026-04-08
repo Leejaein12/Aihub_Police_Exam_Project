@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86728",
+        "caseName": "국가보안법위반",
+        "caseNum": "4293형상807",
+        "sentenceDate": "1961.01.27",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "대남공작원을 남한에 상륙시킨 행위가 간첩방조에 해당하나요?",
+        "output": "북괴가 남파한 대남공작원을 남한에 상륙시킨 행위는 간첩방조에 해당합니다. 이는 국가보안법과 형법 제98조 제1항에 따라 인정된 것입니다.",
+        "originwordCnt": "16",
+        "labelwordCnt": "16"
+    }
+}

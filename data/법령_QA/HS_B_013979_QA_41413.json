@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013979",
+        "promulgDate": "20210101",
+        "effectDate": "20210101",
+        "promulgNum": "00996",
+        "title": "영장심의위원회 규칙",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제18조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "담당검사는 영장심의위원회에 언제까지 출석의사를 통지해야 하나요?",
+        "output": "담당검사는 영장심의위원회에 출석하여 의견을 개진할 수 있다. 이 경우 담당검사는 심의위원회의 회의가 개최되기 2일 전까지 출석의사를 서면으로 통지해야 합니다. 이는 영장심의위원회 규칙 제18조 제2항에 따릅니다.",
+        "originwordCnt": "56",
+        "labelwordCnt": "25"
+    }
+}

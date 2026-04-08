@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335859",
+        "caseName": "공무집행방해",
+        "caseNum": "2023고단2457",
+        "sentenceDate": "2024.02.28",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "경찰관에게 폭언을 하고 몸으로 밀치는 등 폭행을 가하여 정당한 공무집행을 방해한 것으로 인정되었습니다. 법원은 피고인이 이전에 두 차례 집행유예를 받았음에도 다시 범행을 저질렀고, 피해 경찰관으로부터 용서를 받지 못한 점 등을 들어 죄질이 나쁘다고 판단하였습니다. 이에 따라 피고인에게 징역 8개월을 선고하였습니다.",
+        "originwordCnt": "263",
+        "labelwordCnt": "40"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314300",
+        "caseName": "공무집행방해",
+        "caseNum": "2023고단2519",
+        "sentenceDate": "2024.01.23",
+        "courtName": "의정부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "편의점 앞에서 경찰관에게 욕설을 하고 가방으로 폭행하여 공무집행을 방해하였습니다. 법원은 공권력 보호와 법질서 확립을 위해 공무집행방해죄를 엄하게 처벌할 필요가 있다고 판단했습니다. 다만, 피고인이 범행을 인정하고 반성하는 점과 처벌 전력이 없음을 고려하여 징역 6개월을 선고하되, 2년간 형의 집행을 유예하기로 하였습니다.",
+        "originwordCnt": "234",
+        "labelwordCnt": "39"
+    }
+}

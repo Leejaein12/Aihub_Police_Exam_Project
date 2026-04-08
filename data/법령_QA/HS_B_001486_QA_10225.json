@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001486",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "수산업법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제19조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "어업권을 이전받거나 분할받으려는 자가 특정 조건에 해당할 경우 어떻게 되나요?",
+        "output": "시장, 군수, 구청장은 제9조 각 호의 어느 하나 또는 제11조 제2항에 해당하는 자가 어업권을 이전받거나 분할받으려는 경우, 그 인가를 해서는 안 됩니다. 이는 '수산자원관리법' 제19조 제2항에 따른 규정입니다.",
+        "originwordCnt": "120",
+        "labelwordCnt": "28"
+    }
+}

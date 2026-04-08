@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000068",
+        "promulgDate": "20220610",
+        "effectDate": "20230611",
+        "promulgNum": "18957",
+        "title": "선박법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "길이 24미터 미만인 한국선박의 소유자가 국제항해에 종사하기 위해 취할 수 있는 조치는 무엇인가요?",
+        "output": "선박법 제13조 제5항에 따르면 길이 24미터 미만인 한국선박의 소유자가 그 선박을 국제항해에 종사하게 하려는 경우, 해양수산부장관으로부터 국제톤수확인서를 발급받을 수 있습니다.",
+        "originwordCnt": "179",
+        "labelwordCnt": "20"
+    }
+}

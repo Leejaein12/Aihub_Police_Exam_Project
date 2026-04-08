@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012523",
+        "promulgDate": "20230816",
+        "effectDate": "20240217",
+        "promulgNum": "19688",
+        "title": "항공사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제34조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국토교통부장관이 항공기사용사업자의 양도ㆍ양수의 신고를 받으면 무엇을 해야 합니까?",
+        "output": "항공사업법 제34조 제3항에 의하면 국토교통부장관은 제34조 제1항에 따른 신고를 받으면 국토교통부령으로 정하는 바에 따라 이를 공고하여야 합니다. 이 경우 공고의 비용은 양도인이 부담합니다.",
+        "originwordCnt": "105",
+        "labelwordCnt": "23"
+    }
+}

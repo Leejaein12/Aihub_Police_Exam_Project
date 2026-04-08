@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "307174",
+        "caseName": "사기, 업무상횡령",
+        "caseNum": "2016고단4658",
+        "sentenceDate": "2017. 5. 19.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자신의 회사가 부도 위기에 처하자, 피고인은 1억 원이 넘는 회사 자금을 횡령하고, 물품 대금 지급 능력이 없으면서도 거래처로부터 물품을 납품받아 사기 혐의로 기소되었습니다. 법원은 피고인이 횡령한 금액이 크고 피해자와 합의하지 않은 점, 피해 회복을 위한 노력을 기울이지 않은 점을 고려하여 징역 1년 6개월의 실형을 선고하였습니다.",
+        "originwordCnt": "612",
+        "labelwordCnt": "45"
+    }
+}

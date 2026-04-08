@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334551",
+        "caseName": "업무방해등",
+        "caseNum": "2024고단776",
+        "sentenceDate": "2024.07.24",
+        "courtName": "수원지방법원 안양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "주점에서 술에 취해 다른 손님에게 말을 걸며 소란을 피우고, 피해자의 제지를 받자 욕설과 폭행을 하여 피해자의 영업업무를 방해하였습니다. 또한 경찰의 출동 후 체포하려는 경찰관의 얼굴을 손으로 때려 공무집행을 방해하였습니다. 이에 대해 법원은 피고인에게 벌금 500만 원을 선고하였습니다.",
+        "originwordCnt": "326",
+        "labelwordCnt": "37"
+    }
+}

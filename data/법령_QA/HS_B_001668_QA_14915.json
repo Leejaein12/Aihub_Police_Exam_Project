@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001668",
+        "promulgDate": "20221227",
+        "effectDate": "20221227",
+        "promulgNum": "19105",
+        "title": "형의 집행 및 수용자의 처우에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제22조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소장은 수용자에게 어떤 물품을 지급합니까?",
+        "output": "형의 집행 및 수용자의 처우에 관한 법률 제22조 제1항에 따르면, 소장은 수용자에게 건강유지에 적합한 의류와 침구를 지급해야 합니다. 이 외에도 수용자의 생활에 필요한 그 밖의 생활용품을 지급하는 것이 의무로 규정되어 있습니다.",
+        "originwordCnt": "27",
+        "labelwordCnt": "31"
+    }
+}

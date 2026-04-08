@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313599",
+        "caseName": "특수협박",
+        "caseNum": "2023고정356",
+        "sentenceDate": "2023.08.24",
+        "courtName": "서울서부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "차선 변경 문제로 피해자와 시비가 발생한 상황에서, 피해자를 향해 분사기를 겨누며 협박한 혐의로 기소되었습니다. 법원은 피고인이 위험한 물건을 사용하여 협박한 점을 중하게 보았으나, 피고인이 자백하고 반성하며 피해자와 합의한 점을 참작하여 벌금 1,500,000원의 판결을 내렸습니다.",
+        "originwordCnt": "243",
+        "labelwordCnt": "34"
+    }
+}

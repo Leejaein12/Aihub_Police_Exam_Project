@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334710",
+        "caseName": "강제추행",
+        "caseNum": "2023고단1543",
+        "sentenceDate": "2023.07.18",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "업소에서 피해자를 강제추행한 혐의로 기소되었습니다. 피고인은 피해자의 왼쪽 가슴을 갑작스럽게 움켜쥐는 행위를 하였고, 이에 따라 강제추행 혐의가 인정되었습니다. 법원은 형법 제298조를 적용하여 징역 8개월에 집행유예 2년을 선고하였습니다. 또한 피고인에게 성폭력 치료강의 40시간 수강을 명하였습니다.",
+        "originwordCnt": "271",
+        "labelwordCnt": "34"
+    }
+}

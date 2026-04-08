@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009494",
+        "promulgDate": "20211228",
+        "effectDate": "20220629",
+        "promulgNum": "18664",
+        "title": "원자력시설 등의 방호 및 방사능 방재 대책법",
+        "ministry": "원자력안전위원회",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "정부는 원자력시설과 핵물질의 물리적 방호를 위해 무엇을 해야 하나요?",
+        "output": "원자력시설 등의 방호 및 방사능 방재 대책법 제3조 제1항에 따르면, 정부는 핵물질 및 원자력시설에 대한 물리적 방호를 위한 시책을 마련하여야 합니다.",
+        "originwordCnt": "66",
+        "labelwordCnt": "21"
+    }
+}

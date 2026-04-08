@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000958",
+        "promulgDate": "20240116",
+        "effectDate": "20240116",
+        "promulgNum": "20027",
+        "title": "소하천정비법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제10조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "관계 행정기관의 장은 소하천 정비 관련 협의를 요청받은 후 며칠 이내에 의견을 제출해야 하나요?",
+        "output": "소하천정비법 제10조의2 제4항에 따르면, 관계 행정기관의 장은 소화천정비법 제10조의2 제3항에 따른 협의를 요청받은 날부터 30일 이내에 의견을 제출하여야 합니다.",
+        "originwordCnt": "428",
+        "labelwordCnt": "19"
+    }
+}

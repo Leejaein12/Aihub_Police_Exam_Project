@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319979",
+        "caseName": "스토킹범죄의처벌등에관한법률위반등",
+        "caseNum": "2023고단1175",
+        "sentenceDate": "2023.08.24",
+        "courtName": "부산지방법원 동부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "과거 연인과의 갈등 상황에서 폭행 및 협박 행위가 발생하였습니다. 사건 당일, 한 사람은 목양실에서 상대방의 뒷머리를 잡고 입을 막으며 밀침으로 폭행하였고, 동시에 누나의 협박 메시지를 보여주며 위협하였습니다. 법원은 이러한 사실을 근거로 각각 벌금형을 선고하였습니다.",
+        "originwordCnt": "411",
+        "labelwordCnt": "34"
+    }
+}

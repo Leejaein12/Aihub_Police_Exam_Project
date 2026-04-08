@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312404",
+        "caseName": "교통사고처리특례법위반(치상)",
+        "caseNum": "2024고단95",
+        "sentenceDate": "2024.05.23",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "택시 운전업무에 종사하던 A는 신호를 위반하고 진행하여 횡단보도를 건너던 보행자 B와 충돌하여 상해를 입혔습니다. B 역시 적색 보행자 신호를 무시하고 횡단보도를 건넜으며, A는 이러한 점이 참작되어 교통사고처리특례법 제3조 제1항 등 관련 조항에 따라 벌금 400만 원에 처해졌습니다.",
+        "originwordCnt": "324",
+        "labelwordCnt": "37"
+    }
+}

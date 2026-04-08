@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "92621",
+        "caseName": "업무상과실치상",
+        "caseNum": "75도877",
+        "sentenceDate": "1975.05.13",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 참조 법령을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "버스차장이 승객의 안전을 확인하지 않고 발차신호를 한 경우, 업무상과실치상죄의 주체가 될 수 있나요?",
+        "output": "버스차장이 승객의 안전승차 여부를 확인하지 않은 채 승강구의 문을 닫지 않고 발차신호를 하여 승객에게 상해를 입힌 경우, 이는 형법 제268조에 따라 업무상과실치상죄의 구성요건을 충족하며, 버스차장은 이 죄의 주체가 될 수 있습니다.",
+        "originwordCnt": "27",
+        "labelwordCnt": "31"
+    }
+}

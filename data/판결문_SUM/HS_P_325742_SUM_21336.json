@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "325742",
+        "caseName": "사기등",
+        "caseNum": "2021노3994",
+        "sentenceDate": "2023.11.09.",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "대전지방법원은 항소를 기각하며, 횡령 혐의는 무죄로 판단하였다. 원심은 수익금을 보관하고 있었다고 보기 어렵다는 이유로 무죄로 판단하였고, 사기 혐의는 유죄로 인정하였다. 검사의 사실오인 주장에 대해 법원은 원심의 판단이 정당하다고 보았으며, 범죄 경중과 피해 회복 노력 등을 고려할 때 양형 또한 적정하다고 판단하였다. 따라서 항소는 모두 기각되었다.",
+        "originwordCnt": "913",
+        "labelwordCnt": "46"
+    }
+}

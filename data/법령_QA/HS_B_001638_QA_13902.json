@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001638",
+        "promulgDate": "20230418",
+        "effectDate": "20240101",
+        "promulgNum": "19357",
+        "title": "도로교통법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제65조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "고속도로에 진입하려는 자동차 운전자는 고속도로를 통행하는 다른 자동차의 통행을 방해해도 되나요?",
+        "output": "도로교통법 제65조 제1항에 따르면 자동차(긴급자동차는 제외)의 운전자는 고속도로에 들어가려고 하는 경우에는 그 고속도로를 통행하고 있는 다른 자동차의 통행을 방해하여서는 아니 됩니다.",
+        "originwordCnt": "36",
+        "labelwordCnt": "21"
+    }
+}

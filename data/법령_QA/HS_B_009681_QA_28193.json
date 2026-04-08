@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009681",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19761",
+        "title": "청소년복지 지원법",
+        "ministry": "여성가족부",
+        "fullText": "N",
+        "smClass": "제18조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "청소년부모의 학업 지원을 위해 여성가족부장관은 누구에게 협조를 요청해야 할까요?",
+        "output": "여성가족부장관은 청소년부모가 학업을 계속할 수 있도록 교육부장관에게 협조를 요청하여야 합니다. 이는 청소년복지 지원법 제18조의4 제3항에 명시되어 있습니다.",
+        "originwordCnt": "120",
+        "labelwordCnt": "17"
+    }
+}

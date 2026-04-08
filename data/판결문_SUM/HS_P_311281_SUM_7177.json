@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311281",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단1155",
+        "sentenceDate": "2023.10.13",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "과거 음주운전으로 처벌받은 전력이 있는 피고인이 다시 혈중알코올농도 0.102%의 술에 취한 상태로 약 4km를 운전하였습니다. 이는 음주운전 금지 규정을 위반한 것으로, 법원은 피고인의 음주 수치, 운행 거리, 그리고 동종 전력 등을 고려하여 벌금 700만 원을 선고하였습니다.",
+        "originwordCnt": "212",
+        "labelwordCnt": "36"
+    }
+}

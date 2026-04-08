@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005896",
+        "promulgDate": "20161129",
+        "effectDate": "20161201",
+        "promulgNum": "02696",
+        "title": "소년심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소년심판규칙 규정상, 통고 내용에는 어떤 사항이 포함되어야 하나요?",
+        "output": "제1항의 통고에는 소년과 보호자의 성명, 생년월일, 직업, 주거, 등록기준지, 통고자의 성명, 통고하게 된 사유 및 소년의 처우에 관한 의견을 명시하여야 합니다. 이는 소년심판규칙 제6조 제2항에 명시되어 있습니다.",
+        "originwordCnt": "56",
+        "labelwordCnt": "27"
+    }
+}

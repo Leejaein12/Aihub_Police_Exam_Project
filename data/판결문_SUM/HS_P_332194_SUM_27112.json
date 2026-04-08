@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332194",
+        "caseName": "조세범처벌법위반",
+        "caseNum": "2023고단1839",
+        "sentenceDate": "2023.12.13",
+        "courtName": "부산지방법원 동부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "특정 법인이 허위 세금계산서를 발급받은 사실이 확인되었습니다. 피고인은 여러 차례에 걸쳐 공급받은 사실이 없는 재화나 용역에 대한 세금계산서를 발급하고, 이를 통해 조세범처벌법을 위반하였습니다. 이로 인해 피고인 A에게는 징역 1년과 2,400만 원의 벌금이 부과되었고, 집행을 유예하며, 법인은 각각 벌금을 명령받았습니다.",
+        "originwordCnt": "1550",
+        "labelwordCnt": "39"
+    }
+}

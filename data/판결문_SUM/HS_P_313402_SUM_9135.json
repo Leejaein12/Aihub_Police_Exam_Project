@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313402",
+        "caseName": "특수협박",
+        "caseNum": "2023고정544",
+        "sentenceDate": "2023.10.25",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "차량이 진로를 양보하지 않고 경적을 울린 것에 화가 나, 자신의 화물차를 이용하여 피해 차량 쪽으로 급조향하며 피해자를 위협한 혐의로 기소되었습니다. 법원은 위험한 물건인 자동차를 이용해 피해자를 협박한 행위를 형법 제284조와 제283조 제1항에 따른 특수협박으로 인정하고 벌금 200만 원을 선고하였습니다.",
+        "originwordCnt": "289",
+        "labelwordCnt": "39"
+    }
+}

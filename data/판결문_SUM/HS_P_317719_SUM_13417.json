@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317719",
+        "caseName": "전기통신사업법위반",
+        "caseNum": "2023고단1599",
+        "sentenceDate": "2023.07.14",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알콜농도 0.181%의 만취 상태에서 약 3km 구간을 차량으로 운전하여 도로교통법을 위반하였습니다. 법원은 징역 1년을 선고하였습니다. 그러나 피고인이 범행을 반성하고 있으며, 최근 10년 이내에 음주운전으로 처벌받은 전력이 없는 점을 참작하여 징역형의 집행을 2년간 유예하고, 보호관찰과 80시간의 사회봉사를 명령하였습니다.",
+        "originwordCnt": "179",
+        "labelwordCnt": "37"
+    }
+}

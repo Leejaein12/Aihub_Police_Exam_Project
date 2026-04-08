@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "307158",
+        "caseName": "특수폭행",
+        "caseNum": "2016고단404",
+        "sentenceDate": "2016. 5. 13.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "행인과 어깨가 부딪혀 말다툼을 하던 피고인은 피해자가 이를 제지하자 화가 나 위험한 물건인 다용도 칼을 휘둘러 폭행하였습니다. 법원은 피고인이 흉기를 사용한 폭행임에도 피해자가 처벌을 원하지 않고 피고인이 진지하게 반성한 점, 범행이 우발적이었음을 감안하여 징역 6개월에 집행유예 2년을 선고하고, 보호관찰 1년을 명령하였습니다.",
+        "originwordCnt": "249",
+        "labelwordCnt": "41"
+    }
+}

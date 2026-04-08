@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009513",
+        "promulgDate": "20220610",
+        "effectDate": "20230611",
+        "promulgNum": "18898",
+        "title": "암관리법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제51조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "암관리법 제44조를 위반한 경우에 대한 처벌은 어떻게 되나요?",
+        "output": "암관리법 제51조에 따르면, 제44조를 위반한 자는 3년 이하의 징역 또는 3천만원 이하의 벌금에 처합니다.",
+        "originwordCnt": "14",
+        "labelwordCnt": "14"
+    }
+}

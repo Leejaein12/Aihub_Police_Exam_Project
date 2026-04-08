@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "305818",
+        "caseName": "공직선거법위반",
+        "caseNum": "2016고합829",
+        "sentenceDate": "2016. 9. 23.",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "국회의원 선거에서 투표소 내에서 기표한 투표지를 촬영하고, 이를 제3자에게 전송하여 공개한 피고인은, 이로 인해 공직선거법이 규정한 투표 비밀의 원칙을 위반한 것으로 판단되었습니다. 재판부는 피고인이 범행을 자백하고 반성하고 있으며, 범행이 선거 결과에 영향을 미치지 않았고 전과가 없는 점을 고려하여 벌금 30만 원을 선고하였습니다.",
+        "originwordCnt": "268",
+        "labelwordCnt": "42"
+    }
+}

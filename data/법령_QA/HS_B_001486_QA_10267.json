@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001486",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "수산업법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제36조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "어촌계와 지구별수협의 어업권 행사에 필요한 사항은 어떻게 정해지나요?",
+        "output": "「수산업법」 제36조 제3항에 따르면, 어촌계와 지구별수협의 어업권 행사방법, 행사의 우선순위, 어촌계별, 어촌계원별, 조합원별 시설량 또는 구역의 조정 등 어장관리에 필요한 사항은 해양수산부령으로 정해집니다.",
+        "originwordCnt": "111",
+        "labelwordCnt": "23"
+    }
+}

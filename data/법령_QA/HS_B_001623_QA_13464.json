@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제324조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공판기일에 소송의 지휘는 누가 하나요?",
+        "output": "군사법원법 제324조에 따르면 공판기일에 소송의 지휘는 재판장이 합니다. 이는 소송 절차의 원활한 진행을 위해 필요합니다.",
+        "originwordCnt": "7",
+        "labelwordCnt": "15"
+    }
+}

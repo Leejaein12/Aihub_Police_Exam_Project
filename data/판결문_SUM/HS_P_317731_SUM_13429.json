@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317731",
+        "caseName": "사기",
+        "caseNum": "2023고단2566",
+        "sentenceDate": "2023.12.12",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "차용금을 변제할 의사나 능력이 없었으며, 기존 채무자에게 돌려막기를 할 계획이었습니다. 피고인은 피해자들을 각 기망하여 피해자 C으로부터 합계 3,000만 원을, 피해자 E으로부터 500만 원을 각 편취하였습니다. 법원은 피고인에게 징역 10월을 선고하고 2년간 형의 집행을 유예하였습니다.",
+        "originwordCnt": "334",
+        "labelwordCnt": "34"
+    }
+}

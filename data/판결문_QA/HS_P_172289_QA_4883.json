@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "172289",
+        "caseName": "건축물의 분양에 관한 법률 위반",
+        "caseNum": "2010고단6057",
+        "sentenceDate": "2011.06.15",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "주차장을 무상 증여할 생각으로 매매한 경우에도 건축물 분양에 해당할 수 있나요?",
+        "output": "주차장을 무상으로 증여할 생각이었다고 주장했지만, 법원은 상가와 함께 주차장도 분양된 사실을 인정하고 피고인의 주장을 받아들이지 않았습니다.",
+        "originwordCnt": "261",
+        "labelwordCnt": "16"
+    }
+}

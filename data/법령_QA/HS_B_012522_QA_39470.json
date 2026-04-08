@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012522",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "공항시설법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공항시설에서 종합계획을 수립하거나 변경할 때 누구와 협의해야 하나요?",
+        "output": "공항시설법 제3조 제4항 규정에 따르면 국토교통부장관은 종합계획을 수립하거나 변경하려는 경우에는 관할 지방자치단체의 장의 의견을 들은 후 관계 중앙행정기관의 장과 협의하여야 합니다.",
+        "originwordCnt": "177",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "323799",
+        "caseName": "업무상횡령",
+        "caseNum": "2023고단1439",
+        "sentenceDate": "2023.06.14",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "조합의 운영 자금을 관리하던 피고인이 개인적 목적으로 이를 사용한 것이 문제되었습니다. 2015년과 2017년에 걸쳐 변호사 선임비와 벌금 납부를 위해 조합 자금을 송금하도록 지출결의서를 작성하였으며, 일부 금액은 반환되었습니다. 피고인이 반성하며 범행을 인정하고 기존 전과가 없다는 점이 참작되어 벌금 500만 원이 선고되었습니다.",
+        "originwordCnt": "327",
+        "labelwordCnt": "40"
+    }
+}

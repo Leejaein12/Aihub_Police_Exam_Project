@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "92996",
+        "caseName": "재심청구기각결정에대한즉시항고",
+        "caseNum": "76모19",
+        "sentenceDate": "1976.05.03",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 주식청약증거금을 인출하여 다른 계좌에 입금한 행위는 횡령죄가 성립한다고 볼 수 있나요?",
+        "output": "피고인은 형법 제356조에 따라 타인의 재물을 보관하는 지위에 있으므로, 주식청약증거금을 인출하여 다른 계좌에 입금한 행위는 업무상횡령죄가 성립한다고 보아야 합니다.",
+        "originwordCnt": "58",
+        "labelwordCnt": "19"
+    }
+}

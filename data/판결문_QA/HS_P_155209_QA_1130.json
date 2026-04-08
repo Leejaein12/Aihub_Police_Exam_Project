@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155209",
+        "caseName": "배임등",
+        "caseNum": "69도2345",
+        "sentenceDate": "1971.03.09",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "수불하자로서의 권리를 양도한 자가 이전등기에 협력하지 않은 경우, 이는 배임죄에 해당하나요?",
+        "output": "수불하자로서의 권리를 양도한 자는 소유권이전등기에 협력할 법적 의무가 없으며, 따라서 배임죄의 주체가 될 수 없습니다. 이는 형법 제355조에 따라 타인의 사무를 처리하는 자에 해당하지 않기 때문에 배임죄가 성립하지 않습니다.",
+        "originwordCnt": "216",
+        "labelwordCnt": "29"
+    }
+}

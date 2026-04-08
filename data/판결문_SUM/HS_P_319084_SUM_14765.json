@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319084",
+        "caseName": "교통사고처리특례법위반(치상)",
+        "caseNum": "2023고정1239",
+        "sentenceDate": "2024.04.18",
+        "courtName": "서울북부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자전거 짐칸에서 가방과 신발 등 30만 원 상당의 물품을 절취한 혐의로 기소되었습니다. 법원은 물품을 바닥에서 주운 것이 아니라 피해자의 자전거 짐칸에서 꺼내 가져간 사실이 CCTV를 통해 확인되었으므로, 절도의 고의가 인정된다고 판단했습니다. 형법 제329조에 따라 벌금 50만 원을 선고하였습니다.",
+        "originwordCnt": "245",
+        "labelwordCnt": "38"
+    }
+}

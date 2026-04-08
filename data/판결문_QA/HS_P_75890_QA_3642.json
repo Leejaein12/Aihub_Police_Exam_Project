@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "75890",
+        "caseName": "가환부사건",
+        "caseNum": "84초235",
+        "sentenceDate": "1984.09.13",
+        "courtName": "서울형사지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법원 판결 확정 후 압수물에 대한 환부 청구가 가능한가요?",
+        "output": "법원이 압수물에 대해 몰수 선고를 하지 않고 판결이 확정된 경우, 해당 압수물의 압수는 형사소송법 제333조에 따라 해제된 것으로 간주됩니다. 따라서 이해관계인이 압수물의 환부나 가환부를 청구하려면 판결 확정 전에 이를 신청해야 하며, 확정 후에는 청구할 수 없습니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "36"
+    }
+}

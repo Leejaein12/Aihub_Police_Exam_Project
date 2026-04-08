@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "316283",
+        "caseName": "도로교통법위반(무면허운전)등",
+        "caseNum": "2023노7783",
+        "sentenceDate": "2024.02.01",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심은 무면허운전 및 의무보험 미가입 운행으로 징역 4월의 실형을 선고하였으나, 공시송달 절차로 진행된 원심 공판에 출석하지 못한 사유로 항소권회복청구가 인정되었습니다. 이에 항소심 법원은 다시 소송 절차를 진행한 후 원심판결을 파기하고 징역 4월에 처하되, 2년간 집행을 유예하며, 준법운전강의 시간을 명령하였습니다",
+        "originwordCnt": "422",
+        "labelwordCnt": "39"
+    }
+}

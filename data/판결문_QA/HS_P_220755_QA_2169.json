@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "220755",
+        "caseName": "업무상배임",
+        "caseNum": "2007노301",
+        "sentenceDate": "2007.07.19",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인들이 업무상 배임의 범의를 가지고 이 사건 풋옵션계약을 체결했다고 볼 수 있나요?",
+        "output": "피고인들이 업무상 배임의 범의를 가지고 이 사건 풋옵션계약을 체결했다고 판단한 원심의 결정은, 피고인들이 회사에 손해를 끼칠 가능성을 인식하면서도 계약을 체결한 점을 들어 정당한 것으로 인정됩니다.",
+        "originwordCnt": "2584",
+        "labelwordCnt": "25"
+    }
+}

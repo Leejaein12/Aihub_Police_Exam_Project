@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001613",
+        "promulgDate": "20230321",
+        "effectDate": "20240322",
+        "promulgNum": "19245",
+        "title": "공연법",
+        "ministry": "문화체육관광부",
+        "fullText": "N",
+        "smClass": "제34조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공연 활동 또는 공연장 운영의 정지명령을 받고도 계속하여 조치를 할 때에는 어떤 절차를 따라야 하나요?",
+        "output": "공연법 제34조제3항에 따르면, 제1항 각 호의 조치를 할 때에는 필요한 최소한의 범위에 그쳐야 하며, 미리 당사자에게 서면이나 구두로 알려주어야 합니다.",
+        "originwordCnt": "112",
+        "labelwordCnt": "20"
+    }
+}

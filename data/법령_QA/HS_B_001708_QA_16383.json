@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001708",
+        "promulgDate": "20210105",
+        "effectDate": "20210105",
+        "promulgNum": "17828",
+        "title": "변호사법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "변호사의 자격을 갖추려면 어떤 조건을 만족해야 합니까?",
+        "output": "변호사의 자격은 다음 각 호의 어느 하나에 해당하는 자에게 있습니다. 이 내용은 변호사법 제4조에 따라 규정되어 있습니다.1. 사법시험에 합격하여 사법연수원의 과정을 마친 자2. 판사나 검사의 자격이 있는 자3. 변호사시험에 합격한 자",
+        "originwordCnt": "32",
+        "labelwordCnt": "34"
+    }
+}

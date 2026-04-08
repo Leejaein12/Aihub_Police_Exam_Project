@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011384",
+        "promulgDate": "20220610",
+        "effectDate": "20221211",
+        "promulgNum": "18907",
+        "title": "석면안전관리법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제37조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "석면안전관리법에서 어떤 경우에 타인의 토지에 출입할 수 없나요?",
+        "output": "해 뜨기 전 또는 해 진 후에는 해당 토지의 소유자ㆍ점유자 또는 관리자의 승낙 없이는 택지 또는 담장이나 울타리로 둘러싸인 타인의 토지에 출입할 수 없습니다. 이는 석면안전관리법 제37조 제4항에 근거합니다.",
+        "originwordCnt": "219",
+        "labelwordCnt": "29"
+    }
+}

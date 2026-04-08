@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335460",
+        "caseName": "양식산업발전법위반",
+        "caseNum": "2024고정76",
+        "sentenceDate": "2024.08.20",
+        "courtName": "광주지방법원 해남지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "무면허 패류 양식시설 99칸을 설치하고 운영하여 법을 위반하였습니다. 피고인은 자신의 범행을 시인하며 건강상 문제가 있음을 밝혔으나, 양식시설의 규모와 운영 기간 등을 고려할 때 죄책이 무겁다고 판단되었습니다. 피고인은 시설을 자진 철거하지 않고 있으며, 법원은 피고인에게 벌금 6,000,000원을 선고하였습니다.",
+        "originwordCnt": "346",
+        "labelwordCnt": "37"
+    }
+}

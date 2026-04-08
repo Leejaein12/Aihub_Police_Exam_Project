@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "006845",
+        "promulgDate": "20200203",
+        "effectDate": "20200203",
+        "promulgNum": "01010",
+        "title": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 시행규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군교도관회의의 개의에 필요한 인원 수는 몇 명인가요?",
+        "output": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 시행규칙 제6조 제4항에 따르면, 군교도관회의는 구성원 과반수의 출석으로 개의하고, 출석위원 과반수의 찬성으로 의결합니다.",
+        "originwordCnt": "47",
+        "labelwordCnt": "21"
+    }
+}

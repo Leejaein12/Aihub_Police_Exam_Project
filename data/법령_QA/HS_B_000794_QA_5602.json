@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000794",
+        "promulgDate": "20230406",
+        "effectDate": "20230406",
+        "promulgNum": "19326",
+        "title": "방송법",
+        "ministry": "과학기술정보통신부,방송통신위원회",
+        "fullText": "N",
+        "smClass": "제35조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "방송분쟁조정위원회 위원이 스스로 회피할 수 있는 경우는 언제인가요?",
+        "output": "방송법 제35조의3 제7항에 따르면, 방송분쟁조정위원회 위원이 제5항 또는 제6항의 사유에 해당하는 경우, 스스로 그 사건의 심의ㆍ의결에서 회피할 수 있습니다.",
+        "originwordCnt": "324",
+        "labelwordCnt": "19"
+    }
+}

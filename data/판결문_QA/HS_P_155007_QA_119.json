@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155007",
+        "caseName": "기부금품모집금지법위반",
+        "caseNum": "71도936",
+        "sentenceDate": "1971.07.27",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "기부금품 모집이란 어떤 행위를 의미하며, 그 요건은 무엇인가요",
+        "output": "기부금품 모집이란 기부금품모집금지법 제2조에 따라 무상으로 취득한 금품이 기부금 모집자나 다른 특정한 사람 또는 기관에 귀속되는 관계에서 금품을 모집함으로써 금품 피거출자의 재산권을 침해하고 그 생활안정을 해치는 행위를 의미합니다.",
+        "originwordCnt": "51",
+        "labelwordCnt": "28"
+    }
+}

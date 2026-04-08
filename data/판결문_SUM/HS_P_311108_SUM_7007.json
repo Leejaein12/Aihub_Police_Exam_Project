@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311108",
+        "caseName": "보험사기방지특별법위반",
+        "caseNum": "2022고단4746",
+        "sentenceDate": "2023.12.08",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "고의로 교통사고를 일으킨 후 보험회사에 허위로 사고를 접수하여 보험금을 편취하였습니다. 피고인들은 가해 차량과 피해 차량을 각각 운전하거나 동승하는 등 역할을 분담하여 고의로 사고를 낸 뒤, 보험금을 받았습니다. 이러한 행위는 보험사기방지특별법 위반으로 인정되어 피고인들에게 각각 벌금형이 선고되었습니다.",
+        "originwordCnt": "528",
+        "labelwordCnt": "36"
+    }
+}

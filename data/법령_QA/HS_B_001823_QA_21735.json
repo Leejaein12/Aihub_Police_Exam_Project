@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "어떤 건축물은 건축법의 적용을 받지 않나요?",
+        "output": "문화유산의 보존 및 활용에 관한 법률에 따른 지정문화유산이나 임시지정문화유산, 자연유산의 보존 및 활용에 관한 법률에 따라 지정된 천연기념물 등은 건축법의 적용을 받지 않습니다. 이는 건축법 제3조 제1항 제1호에 명시된 내용입니다.",
+        "originwordCnt": "171",
+        "labelwordCnt": "30"
+    }
+}

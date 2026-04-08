@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310212",
+        "caseName": "폭행",
+        "caseNum": "2023고정1435",
+        "sentenceDate": "2024.06.11",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A는 B가 욕설을 했다는 이유로 지팡이로 피해자의 배를 찔러 폭행한 혐의로 기소되었습니다. 법원은 피고인의 범죄사실을 인정하고 형법 제260조 제1항에 따라 벌금 100만 원을 선고하였습니다. 다만, 피고인이 고령이고 건강 상태가 좋지 않은 점 등을 고려하여 형법 제62조 제1항에 근거해 1년간 벌금형의 집행을 유예하였습니다.",
+        "originwordCnt": "150",
+        "labelwordCnt": "42"
+    }
+}

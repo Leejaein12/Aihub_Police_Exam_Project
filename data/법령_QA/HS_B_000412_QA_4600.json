@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000412",
+        "promulgDate": "20230620",
+        "effectDate": "20240427",
+        "promulgNum": "19486",
+        "title": "동물보호법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제68조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "인증농장 인증을 받은 자의 지위를 승계한 경우, 승계한 자가 해야 할 절차는 무엇인가요?",
+        "output": "농업·농촌 및 식품산업 기본법 제68조 제2항에 따르면, 제1항에 따라 인증농장 인증을 받은 자의 지위를 승계한 자는 그 사실을 30일 이내에 인증기관에 신고하여야 합니다.",
+        "originwordCnt": "78",
+        "labelwordCnt": "23"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000994",
+        "promulgDate": "20221115",
+        "effectDate": "20230516",
+        "promulgNum": "19028",
+        "title": "온천법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제31조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "온천법에 근거하여, 수수료를 납부해야 하는 경우는 무엇인가요?",
+        "output": "온천법 제31조에 의거하여, 동법 제12조 제1항ㆍ제14조 제1항 및 제16조 제1항에 따른 허가나 동법 제19조 제1항에 따른 수질검사 또는 성분검사를 받으려는 자는 대통령령으로 정하는 바에 따라 수수료를 내야 합니다.",
+        "originwordCnt": "20",
+        "labelwordCnt": "28"
+    }
+}

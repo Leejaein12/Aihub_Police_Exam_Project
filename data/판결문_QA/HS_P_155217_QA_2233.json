@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155217",
+        "caseName": "폭행치사등",
+        "caseNum": "70도2681",
+        "sentenceDate": "1971.03.09",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "원심이 형법 제42조 단서를 적용하지 않은 점이 판결 결과에 영향을 미쳤나요?",
+        "output": "원심이 형법 제42조 단서를 적용하지 않은 것은 위법하지만, 피고인에게 징역 3년이 선고된 경우 판결 결과에 영향을 미치지 않았으므로 상고 이유가 받아들여지지 않았습니다.",
+        "originwordCnt": "33",
+        "labelwordCnt": "22"
+    }
+}

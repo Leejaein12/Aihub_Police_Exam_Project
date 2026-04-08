@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "224905",
+        "caseName": "저작권법위반(피고인1·피고인2에대한예비적죄명저작권법위반방조)",
+        "caseNum": "2017고정824",
+        "sentenceDate": "2018.10.12",
+        "courtName": "서울동부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인 1과 피고인 2가 무죄를 선고받은 이유는 무엇인가요?",
+        "output": "피고인 1과 피고인 2는 종업원들이 무단 복제한 프로그램을 사용한 사실을 인식하거나 이를 방조했다고 인정할 만한 증거가 부족하여 무죄가 선고되었습니다.",
+        "originwordCnt": "1327",
+        "labelwordCnt": "19"
+    }
+}

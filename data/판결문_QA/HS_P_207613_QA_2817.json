@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "207613",
+        "caseName": "임시조치결정에대한항고",
+        "caseNum": "2018서10",
+        "sentenceDate": "2018.03.21",
+        "courtName": "서울가정법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "행위자가 주거지를 옮겨 피해자와 접근하지 않고 있다는 점이 임시조치 결정에 영향을 미칠 수 있나요?",
+        "output": "행위자가 제1심결정 전에 주거지를 옮겨 피해자에게 접근하지 않고 있다는 점을 고려하면, 임시조치 결정을 유지할 필요성이 낮아져 이를 유지하기 어렵다고 판단됩니다.",
+        "originwordCnt": "250",
+        "labelwordCnt": "20"
+    }
+}

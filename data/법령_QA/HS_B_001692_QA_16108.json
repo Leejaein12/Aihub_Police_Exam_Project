@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001692",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19582",
+        "title": "형법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제55조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "형법에 의거하여, 법률상 감경할 사유가 여러 개 있을 때는 어떻게 처리하나요?",
+        "output": "형법 제55조 제2항에 따르면, 법률상 감경할 사유가 수개있는 때에는 거듭 감경할 수 있습니다.",
+        "originwordCnt": "100",
+        "labelwordCnt": "13"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "128290",
+        "caseName": "부정경쟁방지및영업비밀보호에관한법률위반·절도",
+        "caseNum": "2005노3002",
+        "sentenceDate": "2006.11.01",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "004년 형법 개정 이후 벌금형이 확정된 죄와 이후 범한 죄의 경합범 관계는 어떻게 적용되나요?",
+        "output": "이전에 벌금형이 확정된 죄와 이후 범한 죄는 경합범 관계로 보지 않으며, 형법 제1조 제2항의 유추적용으로 하나의 형을 선고하는 것이 피고인에게 유리할 때 적용됩니다.",
+        "originwordCnt": "10099",
+        "labelwordCnt": "23"
+    }
+}

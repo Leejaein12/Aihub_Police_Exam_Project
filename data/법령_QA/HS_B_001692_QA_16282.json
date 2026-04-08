@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001692",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19582",
+        "title": "형법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제181조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "형법상 과실로 물건을 침해한 자가 1천만원 이하의 벌금에 처해지는 경우는 무엇일까요?",
+        "output": "형법 제181조에 따르면, 과실로 인하여 동법 제177조 또는 제178조에 기재한 물건을 침해한 자 또는 동법 제179조에 기재한 물건을 침해하여 공공의 위험을 발생하게 한 자는 1천만원 이하의 벌금에 처합니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "28"
+    }
+}

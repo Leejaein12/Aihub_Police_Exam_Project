@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009182",
+        "promulgDate": "20220610",
+        "effectDate": "20220911",
+        "promulgNum": "18870",
+        "title": "정보통신기반 보호법",
+        "ministry": "과학기술정보통신부",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "주요정보통신기반시설의 보호지침은 누가 제정하나요?",
+        "output": "'정보통신기반 보호법' 제10조제1항에 따르면, 관계중앙행정기관의 장은 소관 분야의 주요정보통신기반시설에 대해 보호지침을 제정하고, 관리기관의 장에게 이를 지키도록 권고할 수 있습니다.",
+        "originwordCnt": "30",
+        "labelwordCnt": "19"
+    }
+}

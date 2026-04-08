@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328236",
+        "caseName": "횡령등",
+        "caseNum": "2023고정1137",
+        "sentenceDate": "2024.01.10.",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "임차인용으로 피해자가 설치한 냉장고를 동의 없이 판매하여 횡령하고, 세탁기도 임의로 판매하려다 발각되어 미수에 그쳤습니다. 범행을 인정하고 반성하는 태도를 보이고 동종 처벌 전력이 없는 점을 고려하여, 형법 제355조 제1항과 제359조에 따라 벌금 70만 원을 선고하였습니다.",
+        "originwordCnt": "238",
+        "labelwordCnt": "34"
+    }
+}

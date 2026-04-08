@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "329339",
+        "caseName": "업무방해등",
+        "caseNum": "2022고단1162",
+        "sentenceDate": "2022.09.15.",
+        "courtName": "서울서부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술에 취해 서울 마포구에 있는 주점에서 술병을 바닥에 던져 깨뜨리고 소란을 피워 피해자의 주점 운영 업무를 방해하였으며, 이를 제지하는 경찰관을 폭행하여 경찰관의 정당한 직무집행을 방해하였습니다. 이에 법원은 피고인의 범행 경위와 죄질을 고려하여 벌금형을 선고하였으며, 피고인이 벌금을 납부하지 않을 경우 노역장에 유치될 것을 명했습니다.",
+        "originwordCnt": "339",
+        "labelwordCnt": "43"
+    }
+}

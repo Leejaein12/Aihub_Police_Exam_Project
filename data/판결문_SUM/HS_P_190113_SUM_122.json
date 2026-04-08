@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "190113",
+        "caseName": "존속상해·강제추행등피고사건",
+        "caseNum": "78노127",
+        "sentenceDate": "1978.06.08",
+        "courtName": "광주고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "존속상해죄와 강제추행죄 등으로 기소되었는데, 경합범 가중을 적용할 때 가장 중한 형이 존속상해죄임에도 원심에서 더 가벼운 강제추행죄에 경합범 가중을 적용한 것은 법률적용의 오류입니다. 따라서 원심판결은 파기되었고, 피고인에게 징역 3년을 선고하였으며, 구금일수 160일을 형에 산입하였습니다.",
+        "originwordCnt": "32",
+        "labelwordCnt": "33"
+    }
+}

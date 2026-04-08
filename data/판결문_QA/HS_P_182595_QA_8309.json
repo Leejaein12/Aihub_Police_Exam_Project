@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "182595",
+        "caseName": "관세법위반",
+        "caseNum": "2014노3822",
+        "sentenceDate": "2016.02.04",
+        "courtName": "부산지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "관세 포탈 관련 항소에서 피고인들의 항소가 기각된 이유는 무엇인가요?",
+        "output": "피고인들의 관세 포탈 관련 항소는 범행을 인정하고도 반성하지 않는 점, 범행 기간과 규모, 피고인 1이 과거 동종 범죄로 집행유예를 받았음에도 반복하여 범행을 저지른 점 등을 고려해, 원심의 형량이 과하지 않다고 판단되어 기각되었습니다.",
+        "originwordCnt": "454",
+        "labelwordCnt": "32"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009412",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19590",
+        "title": "산지관리법",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제25조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "토사채취신고 후 신고수리 여부는 언제 통지받을 수 있나요?",
+        "output": "산지관리법 제25조에 따르면, 시ㆍ도지사 또는 시장ㆍ군수ㆍ구청장은 토사채취신고, 변경신고 또는 토사채취기간의 변경신고를 받은 날부터 15일 이내에 신고수리 여부를 신고인에게 통지해야 합니다.",
+        "originwordCnt": "398",
+        "labelwordCnt": "20"
+    }
+}

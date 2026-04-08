@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011019",
+        "promulgDate": "20240213",
+        "effectDate": "20240517",
+        "promulgNum": "20309",
+        "title": "산림보호법",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보호수 지정과 관련하여 이의신청은 누가 할 수 있나요?",
+        "output": "산림보호법 제13조 제3항에 따르면, 보호수의 지정과 관련하여 지정 대상 나무의 소유자나 지정 대상 나무에 직접적인 이해관계가 있는 자는 이의신청 기간에 농림축산식품부령으로 정하는 바에 따라 이의신청을 할 수 있습니다.",
+        "originwordCnt": "156",
+        "labelwordCnt": "28"
+    }
+}

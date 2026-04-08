@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335629",
+        "caseName": "명예훼손",
+        "caseNum": "2023고정14",
+        "sentenceDate": "2024.04.03",
+        "courtName": "의정부지방법원 남양주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "과거 연인이었던 피해자가 피고인의 금전을 갈취하거나 낙태를 한 사실이 없음에도 불구하고, E와 F에게 허위 사실을 유포하여 피해자의 명예를 훼손한 것으로 인정되었습니다. 증인 E와 F는 범죄사실에 대해 일관되게 진술하였고, 그 신빙성이 인정되었습니다. 법원은 피고인에게 명예훼손 혐의로 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "199",
+        "labelwordCnt": "39"
+    }
+}

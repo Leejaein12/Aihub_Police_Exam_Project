@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "94027",
+        "caseName": "주거침입·직권남용",
+        "caseNum": "75도2665",
+        "sentenceDate": "1978.10.10",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형법 제123조의 직권남용죄는 어떤 경우에 기수에 이르나요?",
+        "output": "형법 제123조의 타인의 권리행사 방해죄가 기수에 이르려면, 행위로 인해 실제로 권리행사의 저해가 발생해야 합니다. 따라서 공무원이 직권을 남용하더라도 현실적으로 권리행사의 저해가 없다면 기수를 인정할 수 없습니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "26"
+    }
+}

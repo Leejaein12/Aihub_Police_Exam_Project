@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "154165",
+        "caseName": "마약법위반",
+        "caseNum": "68도557",
+        "sentenceDate": "1968.05.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "마약을 소지하고 있다가 타인에게 판매를 부탁하면서 교부한 행위는 마약법상 어떤 죄에 해당하나요?",
+        "output": "마약을 소지하고 있다가 타인에게 판매를 부탁하면서 교부한 행위는 마약을 매매한 행위로 볼 수 없고, 다만 소지 내지 수수한 행위에 해당하므로, 이는 구 마약법 제60조의 2에 해당하는 죄로 처벌받아야 합니다.",
+        "originwordCnt": "72",
+        "labelwordCnt": "29"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001674",
+        "promulgDate": "20171024",
+        "effectDate": "20171024",
+        "promulgNum": "14908",
+        "title": "경범죄 처벌법",
+        "ministry": "경찰청,해양경찰청",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "경범죄 처벌법을 적용시 남용금지에 대한 규정이 있습니까?",
+        "output": "경범죄처벌법 제2조 규정에 따라 경범죄 처벌법을 적용할 때에는 국민의 권리를 부당하게 침해하지 아니하도록 세심한 주의를 기울여야 하며, 본래의 목적에서 벗어나 다른 목적을 위하여 이 법을 적용하여서는 아니 됩니다.",
+        "originwordCnt": "25",
+        "labelwordCnt": "28"
+    }
+}

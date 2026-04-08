@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315056",
+        "caseName": "절도",
+        "caseNum": "2022고단399",
+        "sentenceDate": "2023.08.17",
+        "courtName": "광주지방법원 해남지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공영주차장에서 피해자의 SUV 차량에서 현금 15만 원을 절취한 혐의를 받고 있습니다. 증거로는 CCTV 및 블랙박스 영상이 있으며, 피고인은 차량 문을 열고 물건을 훔치지 않았다고 주장하였습니다. 그러나 법원은 피고인이 범행을 저질렀음을 충분히 인정하였고, 과거 동종 범죄 전력이 있는 점을 고려하여 징역 6월에 처하되, 2년간 집행을 유예하고 보호관찰을 명하였습니다.",
+        "originwordCnt": "356",
+        "labelwordCnt": "47"
+    }
+}

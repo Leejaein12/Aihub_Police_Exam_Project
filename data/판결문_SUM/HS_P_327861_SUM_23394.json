@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "327861",
+        "caseName": "사기등",
+        "caseNum": "2022노2540",
+        "sentenceDate": "2022.12.20.",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "벌금 800만 원의 원심 형이 지나치게 무겁다고 항소했으나, 형사소송법상 제1심의 양형 판단을 존중하는 것이 타당하므로 원심 이후 피고인의 정상에 변화가 없는 경우 이를 유지하는 것이 원칙입니다. 피고인의 나이, 성행, 환경, 범행 동기 등 여러 조건을 종합해도 원심 형이 과도하지 않다고 판단하여 항소를 기각하였습니다.",
+        "originwordCnt": "167",
+        "labelwordCnt": "43"
+    }
+}

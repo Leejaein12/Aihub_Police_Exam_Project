@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78596",
+        "caseName": "공직선거법위반",
+        "caseNum": "2007노497",
+        "sentenceDate": "2007.04.26",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인들이 선거운동을 위해 프로필을 수정한 행위는 어떤 의미를 가지나요?",
+        "output": "피고인들이 피고인 2의 프로필을 수정하여 나이와 학력을 변경한 행위는 선거운동의 기획에 참여한 것으로 인정되었습니다. 법원은 이 수정 행위가 피고인의 선거운동에 영향을 미치는 중요한 요소로 작용했다고 보아, 공직선거법 위반으로 판단하였습니다.",
+        "originwordCnt": "13000",
+        "labelwordCnt": "29"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014483",
+        "promulgDate": "20230914",
+        "effectDate": "20240126",
+        "promulgNum": "19725",
+        "title": "해상교통안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제88조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "수면비행선박이 비행하는 경우 표시해야 하는 등화는 무엇입니까?",
+        "output": "해상교통안전법 제88조제3항에 따르면 수면비행선박이 비행하는 경우에는 제88조제1항에 따른 등화에 덧붙여 사방을 비출 수 있는 고광도 홍색 섬광등 1개를 표시하여야 합니다.",
+        "originwordCnt": "194",
+        "labelwordCnt": "20"
+    }
+}

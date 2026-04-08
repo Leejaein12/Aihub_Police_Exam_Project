@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "230557",
+        "caseName": "살인·살인미수·살인음모",
+        "caseNum": "2007노78",
+        "sentenceDate": "2007.04.19",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인 1에 대한 판단 내용은 무엇이었나요?",
+        "output": "법원은 피고인 1의 범행이 경제적 이익을 위해 고의적으로 저질러진 점을 고려하였으며, 범행의 결과와 방법에 따라 죄질이 극히 중하다고 판단하였습니다. 법원은 피고인이 초범인 점을 고려하면서도, 원심에서 선고한 형이 적절하다고 판단하였습니다.",
+        "originwordCnt": "2685",
+        "labelwordCnt": "29"
+    }
+}

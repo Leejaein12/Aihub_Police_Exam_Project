@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315267",
+        "caseName": "준강제추행등",
+        "caseNum": "2022노4950",
+        "sentenceDate": "2023.10.10",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "준강제추행 및 준강제추행미수 혐의로 1심에서 징역 8개월과 40시간의 이수명령을 선고받았으나, 검사는 형이 너무 가볍다며 항소하였습니다. 그러나, 법원은 1심 이후 양형에 참작할 만한 특별한 사정변경이 없고, 1심의 형량이 재량의 범위를 벗어나지 않았다고 판단하였습니다. 이에 따라 검사의 항소는 기각되었습니다.",
+        "originwordCnt": "174",
+        "labelwordCnt": "37"
+    }
+}

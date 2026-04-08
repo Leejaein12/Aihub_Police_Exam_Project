@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제26조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "군판사의 정년은 어떻게 구분됩니까?",
+        "output": "정년은 다음 각 호의 구분에 따르며 군사법원법 제26조 제3항에 명시하고 있습니다. 1. 군사법원장 58세2. 군사법원장이 아닌 군판사 56세",
+        "originwordCnt": "67",
+        "labelwordCnt": "20"
+    }
+}

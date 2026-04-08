@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001638",
+        "promulgDate": "20230418",
+        "effectDate": "20240101",
+        "promulgNum": "19357",
+        "title": "도로교통법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "차마의 운전자는 보도를 횡단할 때 어떻게 해야 하나요?",
+        "output": "도로교통법 제13조 제2항에 따르면, 제13조 제1항 단서의 경우 차마의 운전자는 보도를 횡단하기 직전에 일시정지하여 좌측과 우측 부분 등을 살핀 후 보행자의 통행을 방해하지 아니하도록 횡단하여야 합니다.",
+        "originwordCnt": "231",
+        "labelwordCnt": "26"
+    }
+}

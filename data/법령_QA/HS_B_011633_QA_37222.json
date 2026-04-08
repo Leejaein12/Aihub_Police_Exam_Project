@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011633",
+        "promulgDate": "20191210",
+        "effectDate": "20200611",
+        "promulgNum": "16785",
+        "title": "식물신품종 보호법",
+        "ministry": "농림축산식품부,해양수산부",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "이 법에 따른 품종보호를 받기 위해 필요한 요건은 무엇인가요?",
+        "output": "식물신품종 보호법 제16조에 따르면, 이 법에 따른 품종보호를 받을 수 있는 품종은 다음 각 호의 요건을 갖추어야 합니다. 1. 신규성 2. 구별성 3. 균일성 4. 안정성 5. 제106조 제1항에 따른 품종명칭",
+        "originwordCnt": "28",
+        "labelwordCnt": "36"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000160",
+        "promulgDate": "20221213",
+        "effectDate": "20230114",
+        "promulgNum": "19090",
+        "title": "토양환경보전법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제18조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "토양보전대책계획에 포함된 주민건강 피해조사와 피해주민에 대한 지원 대책의 구체적인 사항이 규정된 법령의 형식은 무엇인가요?",
+        "output": "토양환경보전법 제18조 제5항에 의거하여, 주민건강 피해조사와 같은 항 피해주민에 대한 지원 대책 등에 관한 구체적인 사항은 대통령령으로 정합니다.",
+        "originwordCnt": "164",
+        "labelwordCnt": "18"
+    }
+}

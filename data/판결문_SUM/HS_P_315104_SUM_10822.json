@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315104",
+        "caseName": "교통사고처리특례법위반(치상)",
+        "caseNum": "2023고단4981",
+        "sentenceDate": "2024.02.29",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "교통사고처리특례법 위반으로 기소되었으며, 횡단보도 앞에서 일시정지하지 않고 진행하여 보행자를 충격하였습니다. 피고인은 업무상 주의 의무를 다하지 않은 과실로 피해자에게 약 6주간의 치료를 요하는 상해를 입혔습니다. 이에 법원은 피고인에게 금고 6개월을 선고하였으나, 형의 집행을 2년간 유예하였습니다.",
+        "originwordCnt": "281",
+        "labelwordCnt": "34"
+    }
+}

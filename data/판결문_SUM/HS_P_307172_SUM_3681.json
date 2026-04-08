@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "307172",
+        "caseName": "준강제추행",
+        "caseNum": "2016고단462",
+        "sentenceDate": "2016. 5. 12.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "새벽에 술에 취해 자신의 집으로 착각한 피고인은 피해자의 집에 들어가 피해자의 엉덩이와 허벅지를 만져 추행한 혐의로 기소되었습니다. 피고인은 징역 6개월을 선고받았으나, 2년간 집행이 유예되었고, 성폭력 치료 강의 40시간 수강이 명령되었습니다.",
+        "originwordCnt": "240",
+        "labelwordCnt": "30"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335330",
+        "caseName": "사기등",
+        "caseNum": "2023노1654",
+        "sentenceDate": "2024.03.20",
+        "courtName": "청주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사기, 횡령, 자동차손해배상보장법위반죄로 기소당한 피고인의 양형이 너무 무겁거나 가벼워 부당하다고 주장하였습니다. 이에 법원은 원심이 든 사정 이외에 당심에서 원심의 형량을 변경할 만한 새로운 사정을 찾을 수 없고, 원심의 양형이 재량의 합리적인 범위를 벗어났다고 보이지 아니하므로 피고인과 검사의 양형부당 주장은 이유 없어 항소를 모두 기각하였습니다.",
+        "originwordCnt": "178",
+        "labelwordCnt": "44"
+    }
+}

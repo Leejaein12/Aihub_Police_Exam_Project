@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001123",
+        "promulgDate": "20210720",
+        "effectDate": "20220121",
+        "promulgNum": "18299",
+        "title": "보호관찰 등에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제85조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국법무보호복지공단이 기부금품을 접수한 경우, 누구에게 보고해야 하나요?",
+        "output": "한국법무보호복지공단이 기부금품을 접수한 경우, 그 접수 상황 및 처리 상황을 법무부장관에게 보고하여야 합니다. 이는 보호관찰 등에 관한 법률 제85조 제2항에 명시되어 있습니다.",
+        "originwordCnt": "50",
+        "labelwordCnt": "22"
+    }
+}

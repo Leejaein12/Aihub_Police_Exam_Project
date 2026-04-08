@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000412",
+        "promulgDate": "20230620",
+        "effectDate": "20240427",
+        "promulgNum": "19486",
+        "title": "동물보호법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제62조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "인증농장의 표시 기준과 방법은 어떻게 정해지나요?",
+        "output": "동물보호법 제62조 제2항에 따르면, 인증농장의 표시에 관한 기준 및 방법 등은 농림축산식품부령으로 정합니다.",
+        "originwordCnt": "25",
+        "labelwordCnt": "13"
+    }
+}

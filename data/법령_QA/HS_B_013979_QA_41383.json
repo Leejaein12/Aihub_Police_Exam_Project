@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013979",
+        "promulgDate": "20210101",
+        "effectDate": "20210101",
+        "promulgNum": "00996",
+        "title": "영장심의위원회 규칙",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "영장심의위원회 위원은 어떤 방식으로 선정되나요?",
+        "output": "심의위원회 위원은 심의신청이 있을 때마다 각 고등검찰청 검사장이 위원후보 중에서 추첨 등 무작위 추출방식으로 선정하여 위촉합니다. 이는 영장심의위원회 규칙 제5조 제3항에 따른 것입니다.",
+        "originwordCnt": "90",
+        "labelwordCnt": "23"
+    }
+}

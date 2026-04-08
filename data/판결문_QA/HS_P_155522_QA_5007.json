@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155522",
+        "caseName": "뇌물수수",
+        "caseNum": "70도1289",
+        "sentenceDate": "1970.07.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "선고유예를 할 때 주형과 부가형 모두 포함되는 이유는 무엇인가요?",
+        "output": "형법 제59조 제1항에 따르면, 선고유예는 주형과 부가형을 포함한 전처단형을 대상으로 합니다. 이는 선고유예의 대상이 형벌의 전체에 해당하며, 일부 형벌에 대해서만 선고유예를 할 수 없다는 취지입니다. 따라서 주형뿐 아니라 부가형도 함께 선고유예되어야 합니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "32"
+    }
+}

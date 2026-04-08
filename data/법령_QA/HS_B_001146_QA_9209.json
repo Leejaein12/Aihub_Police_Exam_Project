@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001146",
+        "promulgDate": "20100324",
+        "effectDate": "20100324",
+        "promulgNum": "10179",
+        "title": "벌금 등 임시조치법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "벌금, 과료 또는 과태료의 금액을 일정한 금액에 배수를 곱하여 정할 때, 적용하지 않는 법조항이 있나요?",
+        "output": "벌금, 과료 또는 과태료의 금액을 일정한 금액에 배수를 곱하여 정할 때에는 제4조를 적용하지 아니합니다. 이는 벌금 등 임시조치법 제5조에서 명시하고 있는 내용입니다.",
+        "originwordCnt": "16",
+        "labelwordCnt": "22"
+    }
+}

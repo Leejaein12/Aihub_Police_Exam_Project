@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "308051",
+        "caseName": "도로법위반, 국유재산법위반",
+        "caseNum": "2020고정868",
+        "sentenceDate": "2021. 3. 12.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "고속도로 옹벽을 허물고 자신의 농지로 통하는 진입로를 만들기 위해 도로를 파손하고 국유재산을 무단으로 사용한 혐의로 기소되었습니다. 법원은 피고인이 범행을 인정하고 일부 원상복구를 했지만, 파손된 도로의 범위가 크다는 점을 고려하여 벌금 300만 원을 선고하였습니다.",
+        "originwordCnt": "224",
+        "labelwordCnt": "33"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001777",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "노인복지법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제27조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가 또는 지방자치단체는 홀로 사는 노인에게 어떤 지원을 제공해야 하나요?",
+        "output": "국가 또는 지방자치단체는 홀로 사는 노인에 대하여 방문요양과 돌봄 등의 서비스와 안전확인 등의 보호조치를 취하여야 합니다. 이는 노인복지법 제27조의2 제1항에서 규정하고 있습니다.",
+        "originwordCnt": "61",
+        "labelwordCnt": "22"
+    }
+}

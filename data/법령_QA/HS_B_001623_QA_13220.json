@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제232조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "피의자를 체포한 후 작성해야 하는 문서에는 어떤 내용이 포함되어야 하나요?",
+        "output": "군사법원법 제232조의3 제3항과 제4항에 따르면 군검사나 군사법경찰관은 피의자를 체포한 경우 즉시 긴급체포서를 작성하여야 하며, 긴급체포서에는 범죄사실의 요지와 긴급체포의 사유 등을 적어야 합니다.",
+        "originwordCnt": "121",
+        "labelwordCnt": "22"
+    }
+}

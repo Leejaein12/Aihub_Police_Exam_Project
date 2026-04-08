@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001655",
+        "promulgDate": "20231226",
+        "effectDate": "20240627",
+        "promulgNum": "19841",
+        "title": "주민등록법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "주민등록법에 따라 수납되는 수수료, 사용료 및 과태료는 어디의 수입으로 귀속되나요?",
+        "output": "주민등록법 제4조에 따르면, 이 법의 규정에 따라 수납되는 수수료, 사용료 및 과태료는 특별시, 광역시, 특별자치시, 도, 특별자치도 또는 시, 군, 자치구의 수입으로 귀속됩니다.",
+        "originwordCnt": "20",
+        "labelwordCnt": "23"
+    }
+}

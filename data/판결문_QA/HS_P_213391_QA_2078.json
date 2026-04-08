@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "213391",
+        "caseName": "업무방해",
+        "caseNum": "2017노2217",
+        "sentenceDate": "2017.11.09",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인 2, 3, 4의 법리오해 주장은 왜 기각되었나요?",
+        "output": "피고인 2, 3, 4의 법리오해 주장은 불특정 다수인으로부터 자금을 조달하여 대출하는 행위로 은행업을 영위한 것으로 인정되었으며, 이에 따라 이들의 주장은 이유 없다고 판단되었습니다.",
+        "originwordCnt": "1501",
+        "labelwordCnt": "23"
+    }
+}

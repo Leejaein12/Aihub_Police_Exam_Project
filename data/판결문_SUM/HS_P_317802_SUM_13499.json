@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317802",
+        "caseName": "업무방해",
+        "caseNum": "2024고정83",
+        "sentenceDate": "2024.08.13",
+        "courtName": "창원지방법원 통영지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술에 취한 상태로 피해자에게 욕설을 하고 머리 부위를 잡아당기는 등 폭행을 하며 소란을 피워 피해자의 영업을 방해한 사실이 인정되었습니다. 이에 법원은 형법 제314조 제1항을 적용하여 업무방해죄로 벌금 300만 원을 선고하였습니다.",
+        "originwordCnt": "182",
+        "labelwordCnt": "30"
+    }
+}

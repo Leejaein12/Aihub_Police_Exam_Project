@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "215193",
+        "caseName": "살인·배임·업무상횡령",
+        "caseNum": "4287형상113",
+        "sentenceDate": "1955.01.18",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "재심판결에 대한 부인 또는 무효선언은 법적으로 유효한가요?",
+        "output": "재심판결에 대한 부인 또는 무효선언은 법적으로 무효입니다. 국방경비법에 따르면, 재심판결은 최종적으로 확정된 것이므로 이를 부인하거나 무효로 선언하는 행위는 효력을 가질 수 없습니다.",
+        "originwordCnt": "7269",
+        "labelwordCnt": "22"
+    }
+}

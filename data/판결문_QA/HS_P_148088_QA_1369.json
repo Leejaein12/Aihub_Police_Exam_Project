@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "148088",
+        "caseName": "마약류관리에관한법률위반(향정)·도로교통법위반",
+        "caseNum": "2010고단947-1",
+        "sentenceDate": "2010.05.11",
+        "courtName": "부산지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인은 어떤 이유로 징역형에 처해졌나요?",
+        "output": "피고인은 향정신성의약품인 필로폰을 교부하고 직접 투약한 사실이 인정되어, 마약류관리에관한법률을 위반한 혐의로 징역 1년 2월의 형을 선고받았습니다. 또한 피고인으로부터 300,000원을 추징하도록 결정되었습니다.",
+        "originwordCnt": "383",
+        "labelwordCnt": "21"
+    }
+}

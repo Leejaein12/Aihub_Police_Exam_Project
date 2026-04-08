@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제100조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에서 선거운동 중 어떤 장비의 사용을 금지하고 있나요?",
+        "output": "누구든지 선거기간 중 이 법의 규정에 의하지 않고는 녹음기나 비디오 및 오디오 기기를 포함한 녹화기를 사용하여 선거운동을 할 수 없습니다. 공직선거법 제100조에 규정하고 있습니다.",
+        "originwordCnt": "23",
+        "labelwordCnt": "24"
+    }
+}

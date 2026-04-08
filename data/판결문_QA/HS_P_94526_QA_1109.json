@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "94526",
+        "caseName": "강도살인·식품위생법위반",
+        "caseNum": "79도266",
+        "sentenceDate": "1979.09.11",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "청량음료의 정의는 무엇인가요?",
+        "output": "청량음료란 탄산가스가 들어 있어 마실 때 시원한 쾌감을 주는 음료를 의미합니다. 이는 식품위생법시행령 제9조 제24호에 규정된 내용에 따라 정의됩니다.",
+        "originwordCnt": "16",
+        "labelwordCnt": "19"
+    }
+}

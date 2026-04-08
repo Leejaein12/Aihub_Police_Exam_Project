@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001783",
+        "promulgDate": "20230418",
+        "effectDate": "20240419",
+        "promulgNum": "19359",
+        "title": "약사법",
+        "ministry": "보건복지부,식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한약사는 어떤 목적으로 한약사회를 설립해야 하나요?",
+        "output": "약사법 제12조에 따르면, 한약사는 한약 및 한약제제에 관련된 약사에 관한 연구와 한약사윤리 확립, 한약사의 권익 증진 및 자질 향상을 위하여 한약사회를 설립해야 합니다.",
+        "originwordCnt": "78",
+        "labelwordCnt": "23"
+    }
+}

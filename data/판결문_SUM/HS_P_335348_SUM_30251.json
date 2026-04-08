@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335348",
+        "caseName": "특수폭행등",
+        "caseNum": "2023고단1044",
+        "sentenceDate": "2024.08.14",
+        "courtName": "춘천지방법원 강릉지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "배우자와의 말다툼 중 화가 나서 위험한 물건으로 피해자를 폭행하였고, 사기 범행으로 피해자로부터 금전을 가로챘습니다. 피고인의 범행은 중대하나, 피해자와 합의하여 처벌을 원하지 않는 점이 고려되었습니다. 이에 따라 법원은 피고인에게 징역 1년을 선고하고, 2년간 형의 집행을 유예하였습니다.",
+        "originwordCnt": "371",
+        "labelwordCnt": "35"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "221103",
+        "caseName": "대통령긴급조치위반·반공법위반",
+        "caseNum": "2009노3318",
+        "sentenceDate": "2010.03.19",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "검사의 항소가 기각된 이유는 무엇인가요?",
+        "output": "검사의 항소가 기각된 이유는, 서울중앙지방법원의 원심판결을 뒤집을 만한 새로운 증거나 법리적 오류가 인정되지 않았기 때문입니다.",
+        "originwordCnt": "1260",
+        "labelwordCnt": "15"
+    }
+}

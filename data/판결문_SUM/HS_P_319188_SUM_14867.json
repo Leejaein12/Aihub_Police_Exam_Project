@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319188",
+        "caseName": "모욕",
+        "caseNum": "2023고정676",
+        "sentenceDate": "2023.12.22",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "인터넷 방송 채팅창을 통해 반복적으로 모욕적인 발언을 한 행위는 형법 제311조에 따른 모욕죄에 해당합니다. 법원은 피고인의 법정진술, 피해자의 고소장, 실시간 방송 송출 화면 갈무리 등을 근거로 범죄사실을 인정하고, 경합범가중의 적용을 고려하여 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "314",
+        "labelwordCnt": "35"
+    }
+}

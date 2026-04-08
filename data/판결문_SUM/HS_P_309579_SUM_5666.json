@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "309579",
+        "caseName": "장애인복지법위반",
+        "caseNum": "2022고단1321",
+        "sentenceDate": "2023. 3. 8.",
+        "courtName": "창원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "시각장애인에게 폭언을 하며 폭행하여 다수의 늑골 골절 등 상해를 입혔습니다. 법원은 이러한 행위가 장애인복지법 제86조 제2항 제1호 및 제59조의9 제2호 후단에 해당한다고 판단하였습니다. 시각장애인임을 알면서도 폭행한 점과 상해의 심각성 등을 고려하여 징역 6개월을 선고하였습니다.",
+        "originwordCnt": "489",
+        "labelwordCnt": "34"
+    }
+}

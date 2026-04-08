@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "214999",
+        "caseName": "공문서위조·공문서위조행사·사기·군용물횡령",
+        "caseNum": "67도1112",
+        "sentenceDate": "1968.12.06",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "재판부의 구성이 군법회의법에 부합하는지에 대한 판단은 어떻게 이루어졌나요?",
+        "output": "육군중령인 피고인을 심판하는 재판부가 재판장 심판관으로 육군대령을 포함하고 있어, 이는 군법회의법 제33조 제1항에 위반되지 않는다고 판단하였습니다.",
+        "originwordCnt": "195",
+        "labelwordCnt": "16"
+    }
+}

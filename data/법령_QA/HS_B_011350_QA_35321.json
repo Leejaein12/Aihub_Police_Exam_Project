@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011350",
+        "promulgDate": "20230725",
+        "effectDate": "20240126",
+        "promulgNum": "19573",
+        "title": "낚시 관리 및 육성법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제25조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "낚시어선 안전성 검사에 대한 시기와 절차 등은 어떻게 정해지나요?",
+        "output": "낚시 관리 및 육성법 제25조의2 제2항에 따르면 제1항에 따른 낚시어선 안전성 검사의 시기, 절차, 기준, 유효기간 및 수수료에 관하여 필요한 사항은 해양수산부령으로 정합니다.",
+        "originwordCnt": "47",
+        "labelwordCnt": "23"
+    }
+}

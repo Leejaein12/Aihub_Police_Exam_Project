@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013794",
+        "promulgDate": "20240102",
+        "effectDate": "20240403",
+        "promulgNum": "19879",
+        "title": "도시숲 등의 조성 및 관리에 관한 법률",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "산림청장은 도시숲에 관한 현황을 어떻게 공개할 수 있나요?",
+        "output": "도시숲 등의 조성 및 관리에 관한 법률 제8조 제3항에 따르면 산림청장은 지역별 도시숲 등에 관한 현황을 공개할 수 있으며, 공개의 구체적 내용과 방법 등은 농림축산식품부령",
+        "originwordCnt": "59",
+        "labelwordCnt": "25"
+    }
+}

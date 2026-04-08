@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014483",
+        "promulgDate": "20230914",
+        "effectDate": "20240126",
+        "promulgNum": "19725",
+        "title": "해상교통안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제84조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시계가 제한된 상황에서 선박이 준수해야 할 사항은 무엇인가요?",
+        "output": "해상교통안전법 제84조제2항에 따르면 모든 선박은 시계가 제한된 그 당시의 사정과 조건에 적합한 안전한 속력으로 항행하여야 하며, 동력선은 제한된 시계 안에 있는 경우 기관을 즉시 조작할 수 있도록 준비하고 있어야 합니다.",
+        "originwordCnt": "235",
+        "labelwordCnt": "30"
+    }
+}

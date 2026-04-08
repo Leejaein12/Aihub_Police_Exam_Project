@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72726",
+        "caseName": "폭력행위등처벌에관한법률피고사건",
+        "caseNum": "70노510",
+        "sentenceDate": "1970.11.26",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "상습범으로 인정되는 기준은 무엇인가요?",
+        "output": "상습범으로 인정되기 위해서는 범행이 반복적으로 수행되는 것이 중요한데, 폭력행위등처벌에관한법률 제2조에 따르면, 손괴행위와 같은 반복적인 행위가 있었다면 단 한 번의 상해행위라도 상습범으로 처벌될 수 있습니다.",
+        "originwordCnt": "277",
+        "labelwordCnt": "24"
+    }
+}

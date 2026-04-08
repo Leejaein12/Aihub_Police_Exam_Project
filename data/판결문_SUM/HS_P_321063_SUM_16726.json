@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "321063",
+        "caseName": "업무상횡령등",
+        "caseNum": "2024고단441",
+        "sentenceDate": "2024.07.09",
+        "courtName": "수원지방법원 평택지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "건설업체 대표이사로 근무하며, 회사의 지입료를 개인 계좌로 이체하여 약 12억 원을 횡령하였습니다. 2023년 1월, 부인 식당과 자택에서 쇠막대기를 이용해 재물을 손괴하고 협박한 혐의도 있습니다. 법원은 동종 전력이 있고 상대방과 합의하지 않은 점 등을 고려하여 징역 2년을 선고하되, 형 집행은 4년 유예하고 사회봉사를 명하였습니다.",
+        "originwordCnt": "1402",
+        "labelwordCnt": "43"
+    }
+}

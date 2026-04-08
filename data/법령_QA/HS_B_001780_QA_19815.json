@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001780",
+        "promulgDate": "20240213",
+        "effectDate": "20240517",
+        "promulgNum": "20309",
+        "title": "의료급여법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "의료급여의 방법ㆍ절차ㆍ범위ㆍ한도 등 기준에 관하여는 무엇으로 정하나요?",
+        "output": "의료급여법 제7조 제2항 규정에 따르면 제1항에 따른 의료급여의 방법ㆍ절차ㆍ범위ㆍ한도 등 의료급여의 기준에 관하여는 보건복지부령으로 정하고, 의료수가기준과 그 계산방법 등에 관하여는 보건복지부장관이 정합니다.",
+        "originwordCnt": "82",
+        "labelwordCnt": "22"
+    }
+}

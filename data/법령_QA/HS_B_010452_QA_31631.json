@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010452",
+        "promulgDate": "20210720",
+        "effectDate": "20220721",
+        "promulgNum": "18298",
+        "title": "교육관련기관의 정보공개에 관한 특례법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공시되는 정보에 학생 및 교원의 개인정보를 포함할 수 있나요?",
+        "output": "교육관련기관의 정보공개에 관한 특례법 제3조 제2항에 따르면, 이 법에 따라 공시 또는 제공되는 정보에는 학생 및 교원의 개인정보가 포함되어서는 안 됩니다.",
+        "originwordCnt": "29",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335059",
+        "caseName": "근로자퇴직급여보장법위반",
+        "caseNum": "2023고단211",
+        "sentenceDate": "2023.10.11",
+        "courtName": "대구지방법원 영덕지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "근로자퇴직급여보장법 위반으로, 피고가 퇴직한 근로자의 퇴직금을 지급 기일 내에 지급하지 않았습니다. 그러나 피해자가 처벌을 원하지 않는다는 의사를 표시한 후 공소가 제기되어, 형사소송법에 따라 공소가 기각되었습니다. 결과적으로 처벌을 원하지 않은 점을 반영하여 공소를 기각하였습니다.",
+        "originwordCnt": "153",
+        "labelwordCnt": "33"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312811",
+        "caseName": "강도상해등",
+        "caseNum": "2024도4569",
+        "sentenceDate": "2024.05.30",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "강도상해, 절도, 재물손괴, 주거침입, 모욕 등의 혐의로 기소되었으며, 원심은 이를 유죄로 판단하였습니다. 상고심에서는 원심의 판단이 논리와 경험의 법칙에 어긋나지 않으며, 강도상해죄의 성립에 관한 법리를 잘못 이해한 것이 아님을 확인하였습니다. 따라서 상고를 기각하고 원심 판결을 유지하기로 하였습니다.",
+        "originwordCnt": "123",
+        "labelwordCnt": "36"
+    }
+}

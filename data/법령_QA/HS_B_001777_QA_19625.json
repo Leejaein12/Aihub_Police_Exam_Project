@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001777",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "노인복지법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제33조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시장ㆍ군수ㆍ구청장이 노인복지주택의 입소자격 여부를 조사할 수 있는 경우는 언제입니까?",
+        "output": "노인복지법 제33조의2 제8항에 따르면 시장ㆍ군수ㆍ구청장은 필요한 경우 입소자격 여부 및 입소자격자의 사망 또는 실제 거주 여부를 조사할 수 있습니다.",
+        "originwordCnt": "195",
+        "labelwordCnt": "19"
+    }
+}

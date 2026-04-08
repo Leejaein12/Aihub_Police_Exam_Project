@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제8조의5",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에서 인터넷선거보도심의위원회의 상임위원은 어떻게 지명되나요?",
+        "output": "공직선거법 제8조의5제4항에 따르면, 인터넷선거보도심의위원회에 상임위원 1인을 두며, 중앙선거관리위원회가 인터넷선거보도심의위원회의 위원 중에서 지명합니다.",
+        "originwordCnt": "192",
+        "labelwordCnt": "12"
+    }
+}

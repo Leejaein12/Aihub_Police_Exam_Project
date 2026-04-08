@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "239255",
+        "caseName": "물가안정에관한법률위반",
+        "caseNum": "2023도2836",
+        "sentenceDate": "2024.01.04",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "‘물가안정에 관한 법률’ 위반죄에서 ‘폭리 목적’은 범죄 성립 요건인가요?",
+        "output": "‘물가안정에 관한 법률’ 제26조, 제7조 위반죄는 폭리 목적을 범죄 성립의 요건으로 하는 목적범입니다. 폭리 목적에 대한 증명책임은 검사에게 있으며, 고의와 별도로 엄격히 증명해야 합니다.",
+        "originwordCnt": "353",
+        "labelwordCnt": "24"
+    }
+}

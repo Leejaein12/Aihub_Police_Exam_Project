@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000170",
+        "promulgDate": "20210401",
+        "effectDate": "20210401",
+        "promulgNum": "17985",
+        "title": "환경분쟁 조정법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제45조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소송절차의 중지가 없는 경우, 재정위원회는 어떻게 해야 하나요?",
+        "output": "환경분쟁조정법 제45조 제2항에 따르면 재정위원회는 제1항에 따른 소송절차의 중지가 없는 경우 해당 사건의 재정절차를 중지하여야 합니다. 다만,제4항에 따라 원인재정을 하는 경우는 제외 합니다.",
+        "originwordCnt": "117",
+        "labelwordCnt": "23"
+    }
+}

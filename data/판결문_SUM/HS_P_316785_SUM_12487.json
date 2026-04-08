@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "316785",
+        "caseName": "자동차손해배상보장법위반",
+        "caseNum": "2023고정454",
+        "sentenceDate": "2024.06.12",
+        "courtName": "제주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "의무보험에 가입되지 않은 차량을 운행한 혐의로 기소되었습니다. 법원은 피고인이 해당 차량의 실질적인 보유자임을 인정하고, 구 자동차손해배상보장법에 따라 처벌할 수 있다고 판단하였습니다. 범죄사실은 법정진술과 무보험운행차량 정보 등을 통해 증명되었으며, 이에 따라 벌금형을 처하였습니다.",
+        "originwordCnt": "143",
+        "labelwordCnt": "32"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "150568",
+        "caseName": "국가보안법위반,관세법위반",
+        "caseNum": "4294형상375",
+        "sentenceDate": "1962.08.02",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법령이 개정되어 형이 폐지된 경우에도 법원이 이를 간과하고 형을 선고할 수 있나요?",
+        "output": "범죄 후에 법령이 개정되어 해당 형이 폐지된 경우, 형사소송법 제383조 제11호에 따라 법원은 이를 고려하여 형을 선고해야 하며, 이를 간과하면 판결이 파기될 수 있습니다.",
+        "originwordCnt": "60",
+        "labelwordCnt": "24"
+    }
+}

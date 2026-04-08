@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312779",
+        "caseName": "폭력행위등처벌에관한법률위반(공동주거침입)",
+        "caseNum": "2023도6720",
+        "sentenceDate": "2023.12.21",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공동으로 주거에 침입한 혐의로 기소된 사건에서 원심은 제1심 판결을 유지하며 유죄를 인정하였습니다. 대법원은 원심의 판단이 논리와 경험의 법칙을 위반하거나 자유심증주의의 한계를 벗어나지 않았고, 건조물침입죄와 정당행위에 관한 법리를 오해한 잘못이 없다고 판단하였습니다. 이에 따라 상고를 모두 기각하였습니다.",
+        "originwordCnt": "131",
+        "labelwordCnt": "36"
+    }
+}

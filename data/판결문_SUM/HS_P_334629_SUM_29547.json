@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334629",
+        "caseName": "강제추행",
+        "caseNum": "2023노1202",
+        "sentenceDate": "2024.05.31",
+        "courtName": "의정부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피해자를 강제추행한 사실이 없다고 주장하며 항소하였으나, 원심은 피해자의 일관된 진술과 피고인의 일부 인정 진술 등을 바탕으로 유죄로 판단하였습니다. 피해자는 피고인의 행동을 기습추행으로 인식하였고, 신체 접촉을 용인한 적이 없다고 진술하였습니다. 따라서 원심에 사실오인의 잘못이 있다고 볼 수 없으므로 피고인의 항소를 기각하였습니다.",
+        "originwordCnt": "278",
+        "labelwordCnt": "40"
+    }
+}

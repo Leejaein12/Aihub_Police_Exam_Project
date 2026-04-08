@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "157434",
+        "caseName": "관세법 위반",
+        "caseNum": "4293형상757",
+        "sentenceDate": "1961.10.12",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "일소위 수죄에 해당하는 경우 가장 중한 죄에 따른 처벌을 명시하지 않은 경우, 판결에 어떤 영향을 미치나요?",
+        "output": "일소위 수죄에 해당하는 처단상의 일죄에서는 가장 중한 죄에 정해진 형으로 처벌해야 하며, 그 형을 명시하지 않을 경우 법률 적용이 잘못된 것으로 판결에 영향을 미치는 법령 위반이 됩니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "27"
+    }
+}

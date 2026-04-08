@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "238533",
+        "caseName": "압수처분에대한준항고",
+        "caseNum": "2020보10",
+        "sentenceDate": "2021.01.26",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "압수된 화장품의 상세 품명을 나중에 확정한 경우에도 압수 처분이 적법한가요?",
+        "output": "압수대상이 방대한 수량일 경우, 압수 후에 상세한 품명과 수량을 확정하는 것은 부득이한 사정으로 인정되며, 이로 인해 피압수자의 재산권이나 항고권이 부당하게 침해되었다고 보기는 어렵습니다.",
+        "originwordCnt": "1109",
+        "labelwordCnt": "23"
+    }
+}

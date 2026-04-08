@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제40조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "습한 토지나 물이 나올 우려가 많은 토지에 건축물을 지을 때 필요한 조치는 무엇인가요?",
+        "output": "습한 토지나 물이 나올 우려가 많은 토지, 또는 쓰레기 등으로 매립된 토지에 건축물을 건축하는 경우에는 성토나 지반 개량 등의 필요한 조치를 하여야 합니다. 이는 건축법 제40조 제2항에 따라 규정된 사항입니다.",
+        "originwordCnt": "93",
+        "labelwordCnt": "30"
+    }
+}

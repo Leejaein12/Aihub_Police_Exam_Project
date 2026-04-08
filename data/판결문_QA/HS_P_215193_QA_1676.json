@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "215193",
+        "caseName": "살인·배임·업무상횡령",
+        "caseNum": "4287형상113",
+        "sentenceDate": "1955.01.18",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법인의 자금을 운영자금 이외의 목적으로 대여한 경우 배임죄가 성립되나요?",
+        "output": "금전 소비대차를 업무로 하지 않는 법인의 역원이 운영자금을 임무에 반하여 대여한 경우, 대여금액에 대해 배임죄가 성립합니다. 이때 손해 전보 방법의 유무나 그 가능 여부는 배임죄 성립에 영향을 미치지 않습니다.",
+        "originwordCnt": "7269",
+        "labelwordCnt": "29"
+    }
+}

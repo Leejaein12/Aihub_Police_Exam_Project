@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010107",
+        "promulgDate": "20240206",
+        "effectDate": "20240507",
+        "promulgNum": "20190",
+        "title": "방위사업법",
+        "ministry": "국방부,방위사업청,산업통상자원부",
+        "fullText": "N",
+        "smClass": "제53조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군용총포, 도검, 화약류에 대한 법적 규제는 무엇을 준용하나요?",
+        "output": "방위사업법 제53조 제2항에 따르면, 군용총포, 도검, 화약류에 대한 제1항의 규정을 제외하고는 「총포ㆍ도검ㆍ화약류 등의 안전관리에 관한 법률」의 규정을 준용합니다.",
+        "originwordCnt": "49",
+        "labelwordCnt": "18"
+    }
+}

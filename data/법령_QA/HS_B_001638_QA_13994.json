@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001638",
+        "promulgDate": "20230418",
+        "effectDate": "20240101",
+        "promulgNum": "19357",
+        "title": "도로교통법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제98조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국제운전면허증의 유효기간은 얼마나 되나요?",
+        "output": "도로교통법 제98조 제2항에 따르면 제98조 제1항에 따른 국제운전면허증의 유효기간은 발급받은 날부터 1년으로 합니다.",
+        "originwordCnt": "78",
+        "labelwordCnt": "13"
+    }
+}

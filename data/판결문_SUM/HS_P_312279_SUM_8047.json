@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312279",
+        "caseName": "협박등",
+        "caseNum": "2022노2303",
+        "sentenceDate": "2023.10.26",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공포심을 유발하는 문자메시지를 반복적으로 보냈다는 공소사실에 대해 항소심에서는 사실오인 및 법리오해 주장이 받아들여지지 않았습니다. 다만, 피고인의 상해죄 등과 관련된 판결이 확정된 상황을 고려해 원심 판결을 파기하였습니다. 범행의 죄질이 좋지 않고, 피해자로부터 용서를 받지 못한 점 등을 감안하여 벌금 500만 원을 선고하였습니다.",
+        "originwordCnt": "625",
+        "labelwordCnt": "41"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010507",
+        "promulgDate": "20200218",
+        "effectDate": "20210101",
+        "promulgNum": "17007",
+        "title": "산림조합의 구조개선에 관한 법률",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제27조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "기명식 기금채를 질권의 목적으로 할 때 어떤 절차를 거쳐야 대항력이 있나요?",
+        "output": "산림조합의 구조개선에 관한 법률 제27조에 따르면, 기명식 기금채를 질권의 목적으로 할 때에는 질권자의 성명과 주소를 채권 원부에 등록하지 아니하면 중앙회나 그 밖의 제3자에게 대항하지 못합니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "25"
+    }
+}

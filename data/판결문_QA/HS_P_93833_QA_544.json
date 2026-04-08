@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93833",
+        "caseName": "특정범죄가중처벌등에관한법률위반ㆍ조세범처벌법위반",
+        "caseNum": "78도246",
+        "sentenceDate": "1978.04.25",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형법 제55조 제1항 제6호에 따른 벌금 감경 시, 다액의 2분의 1이란 의미는 어떻게 해석해야 하나요?",
+        "output": "형법 제55조 제1항 제6호에 따른 벌금을 감경할 때 '다액의 2분의 1'이란 문구는 금액의 2분의 1로 해석되어, 벌금의 상한뿐만 아니라 하한도 2분의 1로 내려가는 것으로 해석해야 합니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "26"
+    }
+}

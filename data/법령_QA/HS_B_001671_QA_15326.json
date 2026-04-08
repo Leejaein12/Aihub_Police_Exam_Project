@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제92조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "구속기간에 산입되지 않는 기간이 있나요?",
+        "output": "형사소송법 제92조제3항에 따르면 제22조, 제298조제4항, 제306조제1항 및 제2항의 규정에 의하여 공판절차가 정지된 기간 및 공소제기전의 체포ㆍ구인ㆍ구금 기간은 제92조제1항 및 제2항의 기간에 산입하지 아니합니다.",
+        "originwordCnt": "73",
+        "labelwordCnt": "23"
+    }
+}

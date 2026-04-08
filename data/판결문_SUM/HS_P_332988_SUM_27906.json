@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332988",
+        "caseName": "강제추행",
+        "caseNum": "2023고정187",
+        "sentenceDate": "2024.06.14",
+        "courtName": "부산지방법원 동부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "강제추행 사건에 대한 판결을 내렸습니다. 피고인은 요양보호 대상자인 피해자에게 여러 차례에 걸쳐 신체적 접촉을 통해 강제로 추행한 혐의가 인정되었습니다. 범행의 경중과 피고인의 건강 상태, 전과 여부 등을 고려하여 벌금 500만 원에 처하고, 해당 판결의 확정일부터 2년간 집행을 유예하기로 결정하였습니다.",
+        "originwordCnt": "425",
+        "labelwordCnt": "39"
+    }
+}

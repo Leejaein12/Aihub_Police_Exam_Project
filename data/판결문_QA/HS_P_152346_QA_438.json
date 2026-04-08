@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "152346",
+        "caseName": "도시및주거환경정비법위반",
+        "caseNum": "2010노1325",
+        "sentenceDate": "2010.11.23",
+        "courtName": "서울북부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 2007년도 회계감사보고서를 공개하지 않은 이유가 인정되나요?",
+        "output": "피고인의 주장은 인정되지 않습니다. ○○○세무회계사무소의 사실조회 결과에 따르면 2007년도 회계감사보고서는 고소인의 공개 요구 이전에 이미 조합에 제출된 것으로 확인되었습니다. 따라서 피고인의 주장은 이유가 없습니다.",
+        "originwordCnt": "366",
+        "labelwordCnt": "24"
+    }
+}

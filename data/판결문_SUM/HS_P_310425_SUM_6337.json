@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310425",
+        "caseName": "전기통신사업법위반",
+        "caseNum": "2024고정260",
+        "sentenceDate": "2024.07.17",
+        "courtName": "수원지방법원 안산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "오픈채팅방을 통해 포커머니 6,300억 원을 738,000원에 판매하겠다고 속여, 738,000원을 송금받아 편취한 사기 혐의로 기소되었습니다. 법원은 실제로 게임 머니를 판매할 의사나 능력이 없었음을 인정하고, 형법 제347조 제1항에 따라 사기죄로 벌금 300만 원을 선고하였습니다.",
+        "originwordCnt": "204",
+        "labelwordCnt": "32"
+    }
+}

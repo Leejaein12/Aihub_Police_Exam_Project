@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337778",
+        "caseName": "특수주거침입등",
+        "caseNum": "2022고단1748",
+        "sentenceDate": "2023.09.13",
+        "courtName": "창원지방법원 통영지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "위험한 물건인 쇠파이프를 들고 피해자의 주거에 침입한 후, 쇠파이프를 휘두르며 위협하여 형법 제319조 제1항과 제261조을 위반하였습니다. 이전에도 여러 차례 폭력 전과가 있었으며, 음주 상태에서 이유 없이 범행을 저지른 점, 큰 공포를 안겨준 점을 고려하여 법원은 징역 6개월을 선고하고, 압수된 쇠파이프를 몰수하였습니다.",
+        "originwordCnt": "391",
+        "labelwordCnt": "41"
+    }
+}

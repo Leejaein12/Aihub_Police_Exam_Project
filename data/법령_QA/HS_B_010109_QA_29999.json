@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010109",
+        "promulgDate": "20170314",
+        "effectDate": "20170314",
+        "promulgNum": "14583",
+        "title": "범죄피해자 보호법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제24조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "범죄피해 지구심의회 및 본부심의회의 위원 중 어떤 경우에 공무원으로 봅니까?",
+        "output": "범죄피해자 보호법 제24조 제5항에 따르면 지구심의회 및 본부심의회 위원 중 공무원이 아닌 위원은 형법 제127조 및 제129조부터 제132조 까지의 규정을 적용할 때에는 공무원으로 봅니다.",
+        "originwordCnt": "99",
+        "labelwordCnt": "24"
+    }
+}

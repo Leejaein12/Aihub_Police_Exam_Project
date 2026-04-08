@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336112",
+        "caseName": "성폭력범죄의처벌등에관한특례법위반(통신매체이용음란)",
+        "caseNum": "2022노2292",
+        "sentenceDate": "2023.09.01",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심에서 피고인에게 선고된 형(벌금 500만 원의 선고유예)에 대해 검사가 형이 너무 가벼워 부당하다고 항소하였습니다. 항소심에서는 새로운 양형 자료가 제출되지 않았으며, 원심의 양형이 적정하고 지나치게 가벼운 것으로 보기 어렵다고 보았습니다. 이에 따라 항소심은 검사의 항소를 기각하였습니다.",
+        "originwordCnt": "181",
+        "labelwordCnt": "35"
+    }
+}

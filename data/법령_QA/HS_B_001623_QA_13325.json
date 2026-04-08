@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제272조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "친고죄에 대해 고소할 수 있는 기간은 어떻게 되나요?",
+        "output": "친고죄에 대하여는 범인을 알게 된 날부터 6개월이 지나면 고소하지 못합니다. 다만, 고소할 수 없는 불가항력의 사유가 있을 때에는 그 사유가 없어진 날부터 기산합니다. 군사법원법 제272조 제1항에 명시하고 있습니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "28"
+    }
+}

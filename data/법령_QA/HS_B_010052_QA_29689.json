@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010052",
+        "promulgDate": "20210406",
+        "effectDate": "20210421",
+        "promulgNum": "31595",
+        "title": "치료감호 등에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제32조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보호관찰소의 장은 어떤 자료를 심사하여 치료비용의 국가부담을 결정하나요?",
+        "output": "치료감호 등에 관한 법률 시행령 제32조 제6항에 따르면 보호관찰소의 장은 제2항부터 제5항까지의 자료를 심사하여 신청인에 대한 치료비용의 국가부담을 결정합니다.",
+        "originwordCnt": "301",
+        "labelwordCnt": "19"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "323792",
+        "caseName": "조세범처벌법위반",
+        "caseNum": "2023고단1376",
+        "sentenceDate": "2023.06.09",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2016년 두 차례에 걸쳐 실질 거래 없이 허위 계산서를 발급받아 조세 공정성을 저해한 행위로 인해, 법원은 해당 행위의 죄책을 무겁게 보아 징역형을 선고했습니다. 그러나 피고인이 반성하는 태도를 보이고 형평성을 고려해 징역 6개월에 처하며, 이 판결이 확정된 날로부터 1년간 집행을 유예하였습니다.",
+        "originwordCnt": "305",
+        "labelwordCnt": "40"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009513",
+        "promulgDate": "20220610",
+        "effectDate": "20230611",
+        "promulgNum": "18898",
+        "title": "암관리법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제9조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보건복지부장관은 처리된 가명정보를 어떻게 사용할 수 있나요?",
+        "output": "암관리법 제9조의2 제5항에 따르면, 보건복지부장관은 암데이터사업의 목적을 위하여 처리된 가명정보를 제3자에게 제공할 수 있으나, 특정 개인을 알아볼 수 있는 정보를 포함해서는 안 됩니다.",
+        "originwordCnt": "195",
+        "labelwordCnt": "23"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "156678",
+        "caseName": "관세법위반",
+        "caseNum": "67도1683",
+        "sentenceDate": "1968.02.20",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "관세법 제198조 제2항 위반과 수출진흥법 제5조 위반 행위는 어떻게 다루어지나요?",
+        "output": "관세법 제198조 제2항 위반행위와 수출진흥법 제5조 위반행위는 경합범의 관계에 있으며, 이들 범죄는 상상적 경합범으로 보아야 합니다. 형법 제37조와 형법 제40조에 따라 경합범으로 처리됩니다.",
+        "originwordCnt": "578",
+        "labelwordCnt": "23"
+    }
+}

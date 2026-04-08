@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "230617",
+        "caseName": "전기통신사업법위반방조·증권거래법위반방조",
+        "caseNum": "2004노3120",
+        "sentenceDate": "2005.12.15",
+        "courtName": "수원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인들이 정보제공사업자들에게 060회선을 임대해 준 행위가 방조행위로 인정될 수 있나요?",
+        "output": "피고인들이 정보제공사업자들에게 060회선을 임대해 준 행위가 방조행위로 인정될 수 있으며, 원심은 이를 전기통신사업법 및 증권거래법 위반에 대한 방조행위로 평가하였습니다.",
+        "originwordCnt": "6000",
+        "labelwordCnt": "19"
+    }
+}

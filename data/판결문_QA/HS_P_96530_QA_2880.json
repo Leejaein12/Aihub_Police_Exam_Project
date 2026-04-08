@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "96530",
+        "caseName": "업무상과실치사",
+        "caseNum": "81도2151",
+        "sentenceDate": "1982.04.27",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 의료인이 아님에도 의료법에 따른 의무를 부담할 수 있나요?",
+        "output": "피고인은 의료법에 규정된 의료인이 아니므로 의료법 제16조 제2항과 의료법 시행규칙 제10조 제2항에 따른 종합병원 등에의 이송의무를 이행하지 않았다고 하여 부작위범으로 처벌할 수 없습니다.",
+        "originwordCnt": "12",
+        "labelwordCnt": "23"
+    }
+}

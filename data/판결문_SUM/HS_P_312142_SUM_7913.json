@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312142",
+        "caseName": "상습절도",
+        "caseNum": "2023고단334",
+        "sentenceDate": "2023.12.21",
+        "courtName": "창원지방법원 거창지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "절도죄로 집행유예를 선고받은 후 집행유예 기간 중에 다시 상습 절도를 저질렀습니다. 피고인은 다수의 매장을 돌며 물품을 절취하였습니다. 법원은 피고인의 죄질이 나쁘고, 동종 범죄 전력이 있으며, 집행유예 기간 중에 재차 범행을 저지른 점을 고려하여 징역 4개월을 선고하였습니다.",
+        "originwordCnt": "971",
+        "labelwordCnt": "36"
+    }
+}

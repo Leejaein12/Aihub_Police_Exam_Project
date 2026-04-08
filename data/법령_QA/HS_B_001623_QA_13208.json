@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제230조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "관하 수사기관의 피의자 체포와 구속장소를 얼마나 자주 감찰해야 하나요?",
+        "output": "군검사는 매월 1회 이상 관하 수사기관의 피의자 체포와 구속장소를 감찰하여야 합니다. 감찰하는 군검사는 체포되거나 구속된 사람을 심문하고 관련 서류를 조사하여야 합니다. 군사법원법 제230조 제1항에 명시하고 있습니다.",
+        "originwordCnt": "58",
+        "labelwordCnt": "26"
+    }
+}

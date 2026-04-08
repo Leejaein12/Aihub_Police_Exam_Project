@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001460",
+        "promulgDate": "20220610",
+        "effectDate": "20230611",
+        "promulgNum": "18958",
+        "title": "산업표준화법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제30조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "산업통상자원부장관은 산업표준화 실태조사를 어떻게 실시할 수 있나요?",
+        "output": "산업표준화법 제30조의2 제4항에 따르면, 산업통상자원부장관은 제1항에 따른 산업표준화 실태조사를 대통령령으로 정하는 법인이나 단체에 위탁하여 실시할 수 있습니다.",
+        "originwordCnt": "98",
+        "labelwordCnt": "17"
+    }
+}

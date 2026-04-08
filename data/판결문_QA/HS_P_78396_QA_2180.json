@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78396",
+        "caseName": "공직선거법위반",
+        "caseNum": "2007노60",
+        "sentenceDate": "2007.04.05",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "문경시장의 판공비 사용에 대해 4년 동안 12억 원을 사용했다고 주장한 것이 허위사실에 해당하나요?",
+        "output": "공직선거법 제254조에 따르면, 문경시장의 판공비 사용에 대해 4년 동안 12억 원을 사용했다고 주장한 것은 실제 예산 집행 결과와 다소 차이가 있을 수 있지만, 이 주장 자체가 허위사실에 해당한다고 단정할 수는 없습니다.",
+        "originwordCnt": "5417",
+        "labelwordCnt": "31"
+    }
+}

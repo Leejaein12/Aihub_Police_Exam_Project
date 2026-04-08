@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "224033",
+        "caseName": "업무상횡령등피고사건",
+        "caseNum": "84노138",
+        "sentenceDate": "1984.04.24",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형법 제314조 제1항의 업무방해죄는 어떤 행위로 성립하나요?",
+        "output": "형법 제314조 제1항에 따르면, 허위의 사실을 유포하거나 위계 또는 위력으로 타인의 업무를 방해한 경우 업무방해죄가 성립합니다. 이는 업무의 정상적인 진행을 저해하는 의도적인 행위로, 해당 법 조항에 따라 처벌받을 수 있습니다.",
+        "originwordCnt": "444",
+        "labelwordCnt": "30"
+    }
+}

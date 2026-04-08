@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011187",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19743",
+        "title": "성폭력범죄의 처벌 등에 관한 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제38조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "성폭력범죄 피해자 진술조력인은 피해자의 개인 정보와 관련하여 어떤 의무가 있습니까?",
+        "output": "성폭력범죄의 처벌 등에 관한 특례법 제38조 제2항에 따르면, 진술조력인은 직무상 알게 된 피해자의 개인 정보와 사생활에 관한 비밀을 공개하거나 다른 사람에게 누설해서는 안 됩니다.",
+        "originwordCnt": "54",
+        "labelwordCnt": "24"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005651",
+        "promulgDate": "20110929",
+        "effectDate": "20111124",
+        "promulgNum": "23160",
+        "title": "형사보상 및 명예회복에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "심의회가 보상결정을 한 후 청구인에게 보내야 할 문서는 무엇인가요?",
+        "output": "형사보상 및 명예회복에 관한 법률 시행령 제10조 제3항에 따르면 심의회가 보상결정을 하였을 때에는 보상결정서 원본을 보관하고 청구인에게 보상결정통지서와 보상결정서 정본 1부를 보내야 합니다.",
+        "originwordCnt": "53",
+        "labelwordCnt": "23"
+    }
+}

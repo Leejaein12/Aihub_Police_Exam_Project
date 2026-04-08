@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001616",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "교육공무원법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제24조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "교육공무원법에서 대학의 장의 임용을 위해 추천위원회의 구성과 운영은 어떻게 정해지나요?",
+        "output": "교육공무원법 제24조 제4항 규정에 따르면 추천위원회의 구성ㆍ운영 등에 필요한 사항은 대통령령으로 정하되, 위원의 일정 비율 이상은 여성으로 합니다.",
+        "originwordCnt": "204",
+        "labelwordCnt": "18"
+    }
+}

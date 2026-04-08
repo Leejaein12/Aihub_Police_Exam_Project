@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001805",
+        "promulgDate": "20240213",
+        "effectDate": "20240514",
+        "promulgNum": "20307",
+        "title": "식품위생법",
+        "ministry": "식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제9조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "식품의약품안전처장은 기구 및 용기ㆍ포장에 사용하는 재생원료에 대해 어떤 기준을 정하나요?",
+        "output": "식품위생법 제9조의2 제1항에 따르면, 식품의약품안전처장은 기구 및 용기ㆍ포장을 제조할 때 원재료로 사용하기에 적합한 재생원료의 기준을 정하여 고시합니다.",
+        "originwordCnt": "165",
+        "labelwordCnt": "17"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002013",
+        "promulgDate": "20170919",
+        "effectDate": "20170919",
+        "promulgNum": "14898",
+        "title": "한국보건산업진흥원법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국보건산업진흥원의 사무소는 어떻게 정해지나요?",
+        "output": "'한국보건산업진흥원법' 제4조제1항에 따르면, 진흥원의 주된 사무소의 소재지는 정관으로 정합니다.",
+        "originwordCnt": "16",
+        "labelwordCnt": "9"
+    }
+}

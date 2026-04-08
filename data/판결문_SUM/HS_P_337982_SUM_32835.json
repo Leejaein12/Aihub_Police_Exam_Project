@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337982",
+        "caseName": "횡령등",
+        "caseNum": "2020노3098",
+        "sentenceDate": "2022.10.27.",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "지하자금과 관련된 사기 및 횡령 혐의로 기소되었으며, 원심에서 유죄 판결을 받았습니다. 법원은 피고인 A가 허위 사실로 피해자들에게 금원을 편취한 사실을 인정하였고, J에 대한 형량이 부당하다고 판단하여 경감했습니다. 피고인 A에게는 징역 2년과 160시간의 사회봉사가 명령되었으며, 3년간 집행유예가 적용되었습니다. 피고인 J는 징역 8개월을 선고받았습니다.",
+        "originwordCnt": "1745",
+        "labelwordCnt": "42"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001113",
+        "promulgDate": "20210105",
+        "effectDate": "20210105",
+        "promulgNum": "17825",
+        "title": "국제형사사법 공조법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "물건을 인도할 때 공조요청국으로부터 요구되는 조건은 무엇인가요?",
+        "output": "국제형사사법 공조법 제8조 제2항에 의거하면, 물건을 인도할 때에는 대한민국이 그 물건에 대한 권리를 포기한 경우가 아니면 요청국으로부터 그 물건의 반환에 대한 보증을 받아야 합니다.",
+        "originwordCnt": "60",
+        "labelwordCnt": "24"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제182조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에따르면  관람증의 매수는 어떻게 결정되며, 어떻게 배부되어야 합니까?",
+        "output": "관람증의 매수는 개표장소를 참작하여 적당한 수로 하되, 후보자별로 균등하게 배부되도록 하여야 합니다. 공직선거법 제182조 제2항에 규정하고 있습니다.",
+        "originwordCnt": "33",
+        "labelwordCnt": "17"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "187889",
+        "caseName": "모욕·폭행·상해·명예훼손",
+        "caseNum": "2014노1566",
+        "sentenceDate": "2015.06.11",
+        "courtName": "서울서부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "폭행당한 사실이 어떻게 인정되었나요?",
+        "output": "폭행당한 사실은, 공소외 7의 일관된 진술과 사건 당시 촬영된 동영상에서 공소외 7의 얼굴을 손으로 때리는 장면이 명확히 확인되었기 때문에 인정되었습니다. 이에 따라 피고인 1은 벌금 1,000,000원에 처해졌습니다.",
+        "originwordCnt": "2733",
+        "labelwordCnt": "27"
+    }
+}

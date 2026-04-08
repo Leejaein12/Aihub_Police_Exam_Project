@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011620",
+        "promulgDate": "20210817",
+        "effectDate": "20220218",
+        "promulgNum": "18425",
+        "title": "목재의 지속가능한 이용에 관한 법률",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제31조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "산림청장은 전문인력 양성기관에 대해 어떤 지원을 할 수 있나요?",
+        "output": "목재의 지속가능한 이용에 관한 법률 제31조 제2항에 따르면 산림청장은 제1항에 따라 지정된 전문인력 양성기관에 대해 예산의 범위에서 교육훈련에 필요한 비용의 전부 또는 일부를 지원할 수 있습니다.",
+        "originwordCnt": "206",
+        "labelwordCnt": "26"
+    }
+}

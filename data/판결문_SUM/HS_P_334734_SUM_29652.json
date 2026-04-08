@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334734",
+        "caseName": "횡령",
+        "caseNum": "2023고정540",
+        "sentenceDate": "2023.10.18",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "월 임대료 조건으로 카니발 승용차를 임차한 후 보관하던 중, 2개월간 임대료를 지급하지 않아 계약 해지와 차량 반환을 요구받았으나, 정당한 사유 없이 반환을 거부하여 횡령하였습니다. 법원은 이러한  행위가 형법 제355조 제1항에 따른 횡령죄에 해당한다고 판단하여 벌금 300만 원을 선고하였으며, 미납 시 노역장 유치를 명령하였습니다.",
+        "originwordCnt": "182",
+        "labelwordCnt": "44"
+    }
+}

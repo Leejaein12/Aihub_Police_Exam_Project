@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "96353",
+        "caseName": "유가증권위조·유가증권위조행사",
+        "caseNum": "81도2262",
+        "sentenceDate": "1982.02.09",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "증거가치 판단을 잘못하여 유가증권위조죄를 인정하지 않은 경우, 법적 문제가 있나요?",
+        "output": "증거가치 판단을 잘못하여 유가증권위조죄를 인정하지 않은 것은 판결 결과에 중대한 영향을 미칠 수 있으며, 이는 형법 제214조 및 형사소송법 제383조에 따라 법적 위법이 됩니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "24"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000479",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19877",
+        "title": "농지법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제29조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "농업진흥지역 지정은 어떤 지역을 대상으로 합니까?",
+        "output": "농지법 제29조에 따르면, 제28조에 따른 농업진흥지역 지정은 「국토의 계획 및 이용에 관한 법률」에 따른 녹지지역ㆍ관리지역ㆍ농림지역 및 자연환경보전지역을 대상으로 합니다. 다만, 특별시의 녹지지역은 제외됩니다.",
+        "originwordCnt": "23",
+        "labelwordCnt": "23"
+    }
+}

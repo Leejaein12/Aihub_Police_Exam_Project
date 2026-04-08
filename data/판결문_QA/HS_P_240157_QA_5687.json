@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "240157",
+        "caseName": "조세범처벌법위반",
+        "caseNum": "4290형비상2",
+        "sentenceDate": "1957.07.05",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법률이 개정된 후에도 이전 법에 따라 징역형을 선고한 경우, 그 판결은 어떻게 처리되나요?",
+        "output": "형사소송법 제441조와 제446조에 따르면, 법률이 개정되어 징역형이 삭제된 이후에도 이전 법에 따라 징역형을 선고한 판결은 부당하므로, 비상상고가 이유 있어 원판결은 파기되어야 합니다.",
+        "originwordCnt": "115",
+        "labelwordCnt": "22"
+    }
+}

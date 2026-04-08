@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319911",
+        "caseName": "공무집행방해",
+        "caseNum": "2023고단1140",
+        "sentenceDate": "2023.12.06",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "무인 상점에서 앙심을 품고, 위험한 물건인 돌과 망치를 사용해 상점의 유리문을 손괴하였으며, 여러 차례에 걸쳐 절도를 저질렀습니다. 절도 피해물로는 자전거, 전조등, 블루투스 스피커 등이 포함되어 있습니다. 법원은 누범 행위와 범행의 동기가 비난받을 만한 점, 과거 동종 범죄 전력 등을 고려해 배상금과 징역 1년 6월을 선고하였습니다.",
+        "originwordCnt": "697",
+        "labelwordCnt": "45"
+    }
+}

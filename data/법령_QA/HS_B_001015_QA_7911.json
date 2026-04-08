@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001015",
+        "promulgDate": "20230214",
+        "effectDate": "20240215",
+        "promulgNum": "19225",
+        "title": "유선 및 도선 사업법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제19조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "유선 및 도선 사업법 규정상, 도선 승객이 준수해야 할 사항은 무엇인가요?",
+        "output": "도선의 승객은 안전수칙을 준수하고 운항질서의 유지 및 위해방지를 위한 주의를 다하여야 합니다. 이는 유선 및 도선 사업법 제19조 제1항에 명시되어 있습니다.",
+        "originwordCnt": "44",
+        "labelwordCnt": "21"
+    }
+}

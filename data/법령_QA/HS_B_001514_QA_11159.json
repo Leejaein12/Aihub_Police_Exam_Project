@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001514",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19746",
+        "title": "농약관리법",
+        "ministry": "농림축산식품부,농촌진흥청",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "농약 회수 및 폐기 업무를 수행하는 공무원은 어떤 절차를 따라야 하나요?",
+        "output": "농약관리법 제14조 제5항에 따르면, 농약의 회수·폐기 업무를 수행하는 공무원은 그 권한을 표시하는 증표를 지니고 이를 관계인에게 내보여야 합니다.",
+        "originwordCnt": "343",
+        "labelwordCnt": "18"
+    }
+}

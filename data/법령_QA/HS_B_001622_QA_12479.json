@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001622",
+        "promulgDate": "20240206",
+        "effectDate": "20240507",
+        "promulgNum": "20191",
+        "title": "병역법",
+        "ministry": "국방부,병무청",
+        "fullText": "N",
+        "smClass": "제30조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사회복무요원이 형을 받거나 복무를 이탈한 경우 복무기간에 어떻게 반영되나요?",
+        "output": "병역법 제30조 제2항에 따르면 사회복무요원이 징역, 금고 또는 구류의 형을 받거나 복무를 이탈한 경우에는 그 형의 집행일수나 복무이탈일수는 복무기간에 산입하지 않습니다.",
+        "originwordCnt": "57",
+        "labelwordCnt": "21"
+    }
+}

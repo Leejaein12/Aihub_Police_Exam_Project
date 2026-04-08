@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005988",
+        "promulgDate": "20211231",
+        "effectDate": "20220101",
+        "promulgNum": "03016",
+        "title": "형사소송규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제75조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "재판장은 주신문에서 유도신문을 제지할 수 있나요?",
+        "output": "형사소송규칙 제75조제3항에 따르면 재판장은 제75조제2항 단서의 각호에 해당하지 아니하는 경우의 유도신문은 이를 제지하여야 하고, 유도신문의 방법이 상당하지 아니하다고 인정할 때에는 이를 제한할 수 있습니다.",
+        "originwordCnt": "114",
+        "labelwordCnt": "24"
+    }
+}

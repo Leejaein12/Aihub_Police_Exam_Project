@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010168",
+        "promulgDate": "20240213",
+        "effectDate": "20240514",
+        "promulgNum": "20275",
+        "title": "풍수해ㆍ지진재해보험법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제32조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "풍수해ㆍ지진재해보험의 보험료를 되돌려받을 권리와 보험금을 받을 권리는 얼마 동안 행사하지 않으면 소멸합니까?",
+        "output": "풍수해ㆍ지진재해보험법 제32조에 제2항에 명시된 바와 같이, 보험료를 되돌려받을 권리와 보험금을 받을 권리는 2년간 행사하지 아니하면 시효로 인하여 소멸합니다.",
+        "originwordCnt": "46",
+        "labelwordCnt": "18"
+    }
+}

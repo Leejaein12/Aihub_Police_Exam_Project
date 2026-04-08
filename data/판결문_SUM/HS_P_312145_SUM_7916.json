@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312145",
+        "caseName": "사기",
+        "caseNum": "2022고단3402",
+        "sentenceDate": "2024.05.14",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자신의 재산 상황을 허위로 설명하며 돈을 빌려주면 변제하겠다고 기망하였습니다. 그러나 피고인은 실제로 고깃집을 운영하지 않았으며, 재산도 없었습니다. 피고인은 피해자로부터 돈을 송금받아 편취하였습니다. 법원은 피고인의 범행과 피해 회복 미비 등을 고려하여 징역 1년의 형을 선고하였습니다.",
+        "originwordCnt": "365",
+        "labelwordCnt": "34"
+    }
+}

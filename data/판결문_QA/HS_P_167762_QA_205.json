@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "167762",
+        "caseName": "공인회계사법 위반",
+        "caseNum": "2011노1316",
+        "sentenceDate": "2011.06.24",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "공인회계사가 매수인의 요청에 따라 작성한 실사보고서 초안이 처벌대상이 될 수 있나요?",
+        "output": "공인회계사가 피감회사의 매수인 요청에 따라 작성한 실사보고서 초안은 공인회계사법 등 관련 법령의 규정에 비추어 처벌대상이 되지 않는다고 원심은 판단하였습니다.",
+        "originwordCnt": "532",
+        "labelwordCnt": "19"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312810",
+        "caseName": "장애인복지법위반",
+        "caseNum": "2024도4454",
+        "sentenceDate": "2024.05.30",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "장애인복지법위반 사건에서 원심은 피고인에 대한 공소사실을 유죄로 판단하였습니다. 원심은 제1심 판결을 유지하면서 증거의 적법성과 법리를 바탕으로 판단하였고, 이에 따라 고의 및 정당행위에 관한 법리의 오해가 없음을 확인하였습니다. 따라서 상고가 기각되었습니다.",
+        "originwordCnt": "118",
+        "labelwordCnt": "30"
+    }
+}

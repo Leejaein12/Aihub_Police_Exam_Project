@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005896",
+        "promulgDate": "20161129",
+        "effectDate": "20161201",
+        "promulgNum": "02696",
+        "title": "소년심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제42조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소년부 판사는 심리 중에 소년 이 10세 미만인 것이 밝혀진 경우에는 어떻게 합니까?",
+        "output": "소년심판규칙 제42조 제1항에 명시된 바와 같이, 소년부 판사는 심리 중에 소년 이 10세 미만인 것이 밝혀진 경우에는 그 심리 개시 결정을 취소하고 심리 불개시 결정을 하여야 합니다.",
+        "originwordCnt": "69",
+        "labelwordCnt": "27"
+    }
+}

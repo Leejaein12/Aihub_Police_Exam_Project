@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001723",
+        "promulgDate": "20160529",
+        "effectDate": "20161130",
+        "promulgNum": "14184",
+        "title": "국민투표법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제79조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국민투표의 효력에 이의에 대한 결정을 내리기 위해 필요한 위원 수는 몇명 입니까?",
+        "output": "투표의 효력에 이의가 있을 때에는 구ㆍ시ㆍ군선거관리위원회의 위원 과반수의 출석과 출석위원 과반수의 찬성으로 이를 결정하여야 합니다. 이는 국민투표법 제79조에 규정되어 있습니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "20"
+    }
+}

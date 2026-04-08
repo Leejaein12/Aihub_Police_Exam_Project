@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000888",
+        "promulgDate": "20221213",
+        "effectDate": "20230614",
+        "promulgNum": "19066",
+        "title": "사립학교법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제32조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "학교법인은 매 회계연도 말에 어떤 서류들을 준비해야 하나요?",
+        "output": "사립학교법 제32조 제1항에 따르면, 학교법인은 매 회계연도가 끝난 후 2개월 이내에 재산목록, 재무상태표, 수입ㆍ지출 계산서, 그 밖에 필요한 장부나 서류를 작성하여 사무소에 갖추어 두어야 합니다.",
+        "originwordCnt": "43",
+        "labelwordCnt": "25"
+    }
+}

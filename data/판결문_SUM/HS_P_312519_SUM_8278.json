@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312519",
+        "caseName": "상해",
+        "caseNum": "2024고정56",
+        "sentenceDate": "2024.07.17",
+        "courtName": "대구지방법원 상주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술자리에서 피고인은 피해자의 태도가 불쾌하다는 이유로 얼굴에 맥주를 뿌리고 주먹으로 피해자의 얼굴을 한 차례 때려 다발성 타박상을 입혔습니다. 법원은 피고인의 범행을 형법 제257조 제1항에 따라 상해죄로 판단하고, 벌금 200만 원을 선고하였습니다.",
+        "originwordCnt": "225",
+        "labelwordCnt": "31"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000201",
+        "promulgDate": "20190115",
+        "effectDate": "20190115",
+        "promulgNum": "16246",
+        "title": "사회복지공동모금회법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공동모금재원의 배분은 어떤 기준에 따라 이루어져야 합니까?",
+        "output": "공동모금재원의 배분은 객관적인 기준에 따라 효율적으로 이루어지도록 해야 하며, 그 결과를 공개하여야 합니다. 이 내용은 「기부금품의 모집 및 사용에 관한 법률」 제3조 제3항에 명시되어 있습니다.",
+        "originwordCnt": "49",
+        "labelwordCnt": "25"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "184049",
+        "caseName": "조세범처벌법위반",
+        "caseNum": "2014노4657",
+        "sentenceDate": "2015.10.23",
+        "courtName": "부산지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인에 대한 판결의 요지를 공시하기로 한 이유는 무엇인가요?",
+        "output": "피고인에 대해 무죄를 선고하면서, 형법 제58조 제2항에 따라 판결의 요지를 공시함으로써 공익적 목적을 달성하기 위해 판결의 요지를 공시하기로 했습니다.",
+        "originwordCnt": "620",
+        "labelwordCnt": "19"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310246",
+        "caseName": "상해",
+        "caseNum": "2024고정112",
+        "sentenceDate": "2024.06.11",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술에 취한 상태에서 아무런 이유 없이 상대방에게 시비를 걸고, 주먹으로 얼굴을 때리는 등 폭행을 가하여 2주간의 치료가 필요한 상해를 입힌 사건입니다. 법원은 피고인의 범행을 인정하고, 상해 혐의에 대해 벌금 200만 원을 선고하였습니다.",
+        "originwordCnt": "147",
+        "labelwordCnt": "32"
+    }
+}

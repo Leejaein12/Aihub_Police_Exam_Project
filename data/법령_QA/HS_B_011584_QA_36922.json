@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011584",
+        "promulgDate": "20230111",
+        "effectDate": "20230111",
+        "promulgNum": "01108",
+        "title": "군검찰 압수물 사무규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제41조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "몰수물이 압수되어 있지 않은 경우, 군검사는 어떤 절차를 밟아야 하나요?",
+        "output": "군검사는 몰수물이 압수되어 있지 않은 경우, 몰수 선고를 받은 자에게 별지 제30호서식의 몰수물 제출명령서에 따라 몰수물의 제출을 명해야 합니다. 이는 군검찰 압수물 사무규칙 제41조 제1항에 명시되어 있습니다.",
+        "originwordCnt": "69",
+        "labelwordCnt": "27"
+    }
+}

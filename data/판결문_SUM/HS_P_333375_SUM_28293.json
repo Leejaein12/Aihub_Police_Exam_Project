@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333375",
+        "caseName": "업무방해등",
+        "caseNum": "2023고정151",
+        "sentenceDate": "2023.07.06",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "저금리 대출을 해주겠다며 수수료를 요구하여 피해자로부터 휴대전화와 현금을 편취한 혐의(사기)로 기소되었습니다. 또한 피고인은 피해자로부터 받은 휴대전화를 이용하여 소액결제 정보를 무단으로 입력하는 방식으로 재산상 이익을 취득한 혐의(컴퓨터등사용사기)도 있습니다. 법원은 피고인에게 벌금 200만 원을 선고하였습니다.",
+        "originwordCnt": "354",
+        "labelwordCnt": "33"
+    }
+}

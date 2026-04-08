@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334341",
+        "caseName": "강제추행",
+        "caseNum": "2023고정1117",
+        "sentenceDate": "2023.11.08",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "강제추행 사건에서 피고인은 피해자 일행과 술을 마시던 중, 피해자의 가슴을 만져 강제추행죄로 벌금 400만 원을 선고받았습니다. 형의 집행은 1년간 유예되었고, 성폭력 치료강의 40시간 수강 명령이 부과되었으며, 신상정보 등록 의무는 있지만 공개명령, 고지명령, 취업제한 명령은 특별한 사정이 있다고 판단되어 면제되었습니다.",
+        "originwordCnt": "370",
+        "labelwordCnt": "39"
+    }
+}

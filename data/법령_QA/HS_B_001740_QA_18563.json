@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001740",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19772",
+        "title": "선원법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제100조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "선박소유자는 선원이 사망했을 때 어떤 장제비를 지급해야 하나요?",
+        "output": "선원법 제100조 제1항에 따르면 선박소유자는 선원이 사망했을 때 지체 없이 대통령령으로 정하는 유족에게 승선평균임금의 120일분에 상당하는 금액을 장제비로 지급하여야 합니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "20"
+    }
+}

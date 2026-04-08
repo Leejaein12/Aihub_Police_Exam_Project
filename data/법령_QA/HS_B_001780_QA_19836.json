@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001780",
+        "promulgDate": "20240213",
+        "effectDate": "20240517",
+        "promulgNum": "20309",
+        "title": "의료급여법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제11조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "의료급여기관은 의료급여가 끝난 날부터 얼마 동안 서류를 보존해야 하나요?",
+        "output": "의료급여법 제11조의2 제1항 규정에 따르면 의료급여기관은 의료급여가 끝난 날부터 5년간 보건복지부령으로 정하는 바에 따라 제11조에 따른 급여비용의 청구에 관한 서류를 보존하여야 합니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "22"
+    }
+}

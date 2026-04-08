@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001662",
+        "promulgDate": "20201020",
+        "effectDate": "20210421",
+        "promulgNum": "17505",
+        "title": "소년법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "형벌 법령에 저촉되는 행위를 할 우려가 있는 10세 이상의 소년을 발견한 경우, 보호자는 어떻게 해야 할까요?",
+        "output": "소년법 제4조 제3항에 따르면, 형벌 법령에 저촉되는 행위를 할 우려가 있는 10세 이상의 소년을 발견한 경우, 보호자는 이를 관할 소년부에 통고할 수 있습니다.",
+        "originwordCnt": "115",
+        "labelwordCnt": "23"
+    }
+}

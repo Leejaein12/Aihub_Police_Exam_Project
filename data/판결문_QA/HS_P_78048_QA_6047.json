@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78048",
+        "caseName": "공직선거법위반",
+        "caseNum": "2006노1568",
+        "sentenceDate": "2006.09.28",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 항소심에서 주장한 양형 부당의 이유는 무엇인가요?",
+        "output": "피고인은 돈을 건넨 경위가 계획적이지 않고, 돈을 받은 공소외인과 선거구민 간의 연고가 크지 않으며, 이 사건이 당선에 영향을 미치지 않았다는 점, 그리고 동종 전과가 없는 점을 고려하여 원심의 양형이 너무 무거워 부당하다고 주장했습니다.",
+        "originwordCnt": "241",
+        "labelwordCnt": "33"
+    }
+}

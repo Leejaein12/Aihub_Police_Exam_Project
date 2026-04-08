@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "197758",
+        "caseName": "관세법위반",
+        "caseNum": "2017노283",
+        "sentenceDate": "2017.05.19",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인들의 항소가 기각된 이유는 무엇인가요?",
+        "output": "피고인들의 항소는 제1심의 사실 인정과 양형이 모두 정당하고, 항소심에서도 특별히 참작할 만한 사유가 없었기 때문에 형사소송법 제364조 제4항에 따라 기각되었습니다.",
+        "originwordCnt": "480",
+        "labelwordCnt": "20"
+    }
+}

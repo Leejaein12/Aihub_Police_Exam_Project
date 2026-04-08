@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337137",
+        "caseName": "상해등",
+        "caseNum": "2023고단4993",
+        "sentenceDate": "2024.05.03",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "금전 문제로 인한 상해와 폭행을 가하고, 경찰의 경고에도 불구하고 지속적으로 접근하여 스토킹행위를 반복하였습니다. 이에 따라 형법 제257조 제1항, 스토킹범죄의 처벌 등에 관한 법률 제18조 제1항, 형법 제260조 제1항 따라 징역 6개월이 선고되었으나, 범행을 인정하고 피해회복을 위해 노력한 점 등을 참작하여 2년간의 집행유예가 명령되었습니다.",
+        "originwordCnt": "355",
+        "labelwordCnt": "43"
+    }
+}

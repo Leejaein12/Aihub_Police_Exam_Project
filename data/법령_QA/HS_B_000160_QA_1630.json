@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000160",
+        "promulgDate": "20221213",
+        "effectDate": "20230114",
+        "promulgNum": "19090",
+        "title": "토양환경보전법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제23조의9",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "토양정화업자는 다른 자에게 자기의 성명 또는 상호를 사용하여 토양정화업을 하게 할 수 있나요?",
+        "output": "토양환경보전법 제23조의9 제1항에 의하면, 토양정화업자는 다른 자에게 자기의 성명 또는 상호를 사용하여 토양정화업을 하게 하거나 등록증을 다른 자에게 빌려 주어서는 아니 됩니다.",
+        "originwordCnt": "71",
+        "labelwordCnt": "22"
+    }
+}

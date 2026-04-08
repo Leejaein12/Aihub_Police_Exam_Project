@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000319",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "소금산업 진흥법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소금사업자나 소금산업 관련자는 어떤 절차를 통해 단체를 설립할 수 있나요?",
+        "output": "소금산업 진흥법 제13조 제1항에 따르면, 소금사업자 또는 소금산업과 관련된 자로서 해양수산부령으로 정하는 자는 소금산업의 발전을 위하여 해양수산부장관의 인가를 받아 단체를 설립할 수 있습니다.",
+        "originwordCnt": "85",
+        "labelwordCnt": "23"
+    }
+}

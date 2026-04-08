@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "159991",
+        "caseName": "유기 치사·의료법 위반(예비적·업무 방해)",
+        "caseNum": "79도1387",
+        "sentenceDate": "1980.09.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "환자가 스스로 치료를 거부한 경우, 보호자의 치료 거부에 대한 법적 책임은 어떻게 되나요?",
+        "output": "형법 제275조에 따르면, 환자가 스스로 치료를 거부했다 하더라도, 보호자가 이를 이유로 필요한 치료를 거부한 행위는 여전히 위법하며, 보호자의 법적 책임에 영향을 미치지 않습니다.",
+        "originwordCnt": "1065",
+        "labelwordCnt": "23"
+    }
+}

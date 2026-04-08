@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제279조의6",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "수명법관이 소송절차를 진행할 때 재판장의 직무를 행하나요?",
+        "output": "형사소송법 제279조의6에 따르면 수명법관 또는 수탁판사가 소송절차를 진행하는 경우에는 제279조의2제2항부터 제4항까지의 규정에 따른 법원 및 재판장의 직무는 그 수명법관이나 수탁판사가 행합니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "21"
+    }
+}

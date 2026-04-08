@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011633",
+        "promulgDate": "20191210",
+        "effectDate": "20200611",
+        "promulgNum": "16785",
+        "title": "식물신품종 보호법",
+        "ministry": "농림축산식품부,해양수산부",
+        "fullText": "N",
+        "smClass": "제63조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "통상실시권자는 어떤 권리를 가지게 되나요?",
+        "output": "식물신품종 보호법 제63조 제2항에 따르면, 통상실시권자는 이 법에서 정하는 바에 따라 또는 설정행위로 정한 범위에서 업으로서 해당 보호품종을 실시할 수 있는 권리를 가집니다.",
+        "originwordCnt": "106",
+        "labelwordCnt": "23"
+    }
+}

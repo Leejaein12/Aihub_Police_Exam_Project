@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310859",
+        "caseName": "강제추행",
+        "caseNum": "2022노1209",
+        "sentenceDate": "2024.06.19",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "강제추행 혐의로 1심에서 벌금 300만 원을 선고받고 항소하였으나, 항소심은 원심의 형이 적절하다고 판단하여 피고인의 항소를 기각하였습니다. 항소심은 피고인의 나이, 성행, 범행 동기와 수단, 범행 후 정황 등을 종합적으로 고려했을 때, 원심의 양형이 재량의 범위를 벗어나지 않았고 이를 변경할 특별한 사정도 없다고 판단하였습니다.",
+        "originwordCnt": "171",
+        "labelwordCnt": "42"
+    }
+}

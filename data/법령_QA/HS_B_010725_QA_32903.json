@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010725",
+        "promulgDate": "20210518",
+        "effectDate": "20220519",
+        "promulgNum": "18191",
+        "title": "부패재산의 몰수 및 회복에 관한 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제17조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "부패재산의 몰수 및 회복에 관한 특례법에 따르면 외국으로부터 집행재산등의 환수는 누가 행합니까?",
+        "output": "부패재산의 몰수 및 회복에 관한 특례법 제17조 제1항에 따르면 외국으로부터 집행재산등의 환수는 외교부장관이 행합니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "14"
+    }
+}

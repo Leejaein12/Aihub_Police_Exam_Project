@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013050",
+        "promulgDate": "20221115",
+        "effectDate": "20230516",
+        "promulgNum": "19027",
+        "title": "소방장비관리법",
+        "ministry": "소방청",
+        "fullText": "N",
+        "smClass": "제37조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소방기관의 장은 소방장비 반납을 위해 어떤 조치를 취할 수 있나요?",
+        "output": "소방기관의 장은 소방장비의 운용 필요성 및 가능성 등을 조사한 후, 소방장비운용자의 소방장비 반납에 필요한 조치를 할 수 있습니다. 이는 소방장비관리법 제37조 제2항에 근거합니다.",
+        "originwordCnt": "29",
+        "labelwordCnt": "23"
+    }
+}

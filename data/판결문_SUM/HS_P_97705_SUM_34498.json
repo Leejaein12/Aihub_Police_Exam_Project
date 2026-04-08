@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "97705",
+        "caseName": "판결정정",
+        "caseNum": "83초17",
+        "sentenceDate": "1983.05.19",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "형사소송법 제400조에 따른 판결정정은 상고법원의 판결 내용에 오류가 있을 경우 이를 검토하는 기회를 제공하는 것이며, 사건을 새로 심리하거나 무죄를 선고하는 절차가 아닙니다. 따라서 신청인이 대법원에서 무죄를 선고하거나 사건을 고등법원으로 이송해 심리해 달라는 주장은 적법한 판결정정 사유가 될 수 없으므로, 판결정정 신청은 기각되었습니다.",
+        "originwordCnt": "60",
+        "labelwordCnt": "42"
+    }
+}

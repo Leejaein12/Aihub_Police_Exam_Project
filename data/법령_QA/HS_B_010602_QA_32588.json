@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010602",
+        "promulgDate": "20230620",
+        "effectDate": "20240621",
+        "promulgNum": "19499",
+        "title": "수산생물질병 관리법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "병성감정실시기관의 장이 병원체를 분리한 경우, 어떤 조치를 취해야 하나요?",
+        "output": "수산생물질병 관리법 제12조제2항에 따르면, 병성감정실시기관의 장은 병성감정을 실시하여 수산생물질병의 병원체를 분리한 경우, 그 사실을 수산생물방역기관의 장에게 신고하여야 합니다.",
+        "originwordCnt": "56",
+        "labelwordCnt": "18"
+    }
+}

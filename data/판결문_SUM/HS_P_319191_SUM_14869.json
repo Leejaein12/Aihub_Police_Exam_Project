@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319191",
+        "caseName": "사기",
+        "caseNum": "2023고정926",
+        "sentenceDate": "2023.11.22",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "인터넷 중고거래 사이트에서 에어팟프로를 판매할 의사나 능력이 없으면서 속여 대금을 송금받은 행위는 형법 제347조 제1항에 따른 사기죄에 해당합니다. 법원은 사기죄로 유죄 판결을 받은 전력이 있는 점을 고려하여 벌금 50만 원을 선고하였으며, 벌금 미납 시 형법 제70조 제1항 및 제69조 제2항에 따라 노역장에 유치하도록 판결하였습니다.",
+        "originwordCnt": "187",
+        "labelwordCnt": "44"
+    }
+}

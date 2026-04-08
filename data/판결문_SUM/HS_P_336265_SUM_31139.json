@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336265",
+        "caseName": "도로교통법위반(음주측정거부)",
+        "caseNum": "2023고단2019",
+        "sentenceDate": "2023.12.07",
+        "courtName": "부산지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주측정을 요구받았으나 도주하여 정당한 사유 없이 측정에 응하지 않았습니다. 이는 도로교통법을 위반한 것으로, 이전에도 음주운전으로 여러 차례 처벌받은 전력이 있습니다. 법원은 피고인에게 징역 10개월을 선고하였으며, 집행유예 2년, 80시간의 사회봉사 및 40시간의 준법운전강의 수강을 명령하였습니다.",
+        "originwordCnt": "357",
+        "labelwordCnt": "34"
+    }
+}

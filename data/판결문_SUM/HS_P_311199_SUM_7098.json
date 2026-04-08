@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311199",
+        "caseName": "상해",
+        "caseNum": "2023고정340",
+        "sentenceDate": "2024.07.03",
+        "courtName": "전주지방법원 군산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "말다툼 중 피해자의 턱을 주먹으로 때려 약 4주간의 치료를 요하는 치아의 상해를 입혔습니다. 피해자의 일관된 진술과 치과 진단서 등을 토대로 피고인의 범행이 인정되었습니다. 피고인 A는 벌금 300만 원을 선고받았습니다. 한편, 피고인 B에 대해서는 피해자가 처벌을 원치 않음에 따라 공소가 기각되었습니다.",
+        "originwordCnt": "490",
+        "labelwordCnt": "40"
+    }
+}

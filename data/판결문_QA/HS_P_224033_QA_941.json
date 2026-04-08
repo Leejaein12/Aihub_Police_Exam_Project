@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "224033",
+        "caseName": "업무상횡령등피고사건",
+        "caseNum": "84노138",
+        "sentenceDate": "1984.04.24",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형사소송법 제232조의 고소의 요건은 무엇인가요?",
+        "output": "형사소송법 제232조에 따르면, 범죄로 인하여 피해를 입은 자 또는 그 법정대리인은 고소를 제기할 수 있습니다. 고소는 수사기관에 범죄사실을 신고하고, 범인의 처벌을 요구하는 절차로서, 이 조항에 근거해 이루어집니다.",
+        "originwordCnt": "20806",
+        "labelwordCnt": "27"
+    }
+}

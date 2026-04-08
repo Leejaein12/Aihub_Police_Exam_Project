@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014483",
+        "promulgDate": "20230914",
+        "effectDate": "20240126",
+        "promulgNum": "19725",
+        "title": "해상교통안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제86조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "양색등은 무엇입니까?",
+        "output": "해상교통안전법 제86조제7호에 따르면 양색등은 선수와 선미의 중심선상에 설치된 붉은색과 녹색의 두 부분으로 된 등화로서 그 붉은색과 녹색 부분이 각각 현등의 붉은색 등 및 녹색 등과 같은 특성을 가진 등입니다.",
+        "originwordCnt": "187",
+        "labelwordCnt": "29"
+    }
+}

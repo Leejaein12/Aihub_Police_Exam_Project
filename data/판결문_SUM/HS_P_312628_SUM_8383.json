@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312628",
+        "caseName": "폭행",
+        "caseNum": "2023고정731",
+        "sentenceDate": "2023.08.23",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "D식당에서 피해자에게 이유 없이 욕설과 함께 폭행을 가한 사실이 인정되었습니다. 피해자는 술에 취한 피고인에게 주먹으로 얼굴을 맞고 넘어지면서 가슴을 차여 폭행당했습니다. 증거로는 피해자의 진술과 식당 업주의 증언이 있으며, 피고인은 범행을 부인하였으나 법원은 그 주장을 받아들이지 않았습니다. 법원은 피고인에게 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "298",
+        "labelwordCnt": "42"
+    }
+}

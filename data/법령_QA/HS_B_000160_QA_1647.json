@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000160",
+        "promulgDate": "20221213",
+        "effectDate": "20230114",
+        "promulgNum": "19090",
+        "title": "토양환경보전법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제26조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가는 지방자치단체가 추진하는 토양보전을 위한 사업에 대해 어떤 지원을 할 수 있나요?",
+        "output": "토양환경보전법 제26조에 의거하여, 국가는 예산의 범위에서 지방자치단체가 추진하는 토양보전을 위한 사업에 필요한 비용을 보조하거나 융자할 수 있습니다.",
+        "originwordCnt": "16",
+        "labelwordCnt": "17"
+    }
+}

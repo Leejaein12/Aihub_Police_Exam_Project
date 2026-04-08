@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000667",
+        "promulgDate": "20240206",
+        "effectDate": "20240209",
+        "promulgNum": "20240",
+        "title": "약관의 규제에 관한 법률",
+        "ministry": "공정거래위원회",
+        "fullText": "N",
+        "smClass": "제19조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "심사대상인 약관 조항이 변경된 경우, 공정거래위원회는 어떤 조치를 할 수 있나요?",
+        "output": "약관의 규제에 관한 법률 제19조의2에 따르면, 공정거래위원회는 심사대상인 약관 조항이 변경된 때, 직권으로 또는 심사청구인의 신청에 의하여 심사대상을 변경할 수 있습니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "21"
+    }
+}

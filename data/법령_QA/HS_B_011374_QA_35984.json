@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011374",
+        "promulgDate": "20231229",
+        "effectDate": "20240101",
+        "promulgNum": "19864",
+        "title": "의료사고 피해구제 및 의료분쟁 조정 등에 관한 법률",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제48조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "원장의 자료 제공 요청을 받은 기관은 어떻게 해야 합니까?",
+        "output": "의료사고 피해구제 및 의료분쟁 조정 등에 관한 법률 제48조제2항에 따르면 제48조제1항에 따른 요청을 받은 기관은 특별한 사유가 없으면 이에 따라야 합니다.",
+        "originwordCnt": "46",
+        "labelwordCnt": "21"
+    }
+}

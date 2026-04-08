@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001514",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19746",
+        "title": "농약관리법",
+        "ministry": "농림축산식품부,농촌진흥청",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "폐업 신고를 하려는 자는 어떤 조치를 취해야 하나요?",
+        "output": "농약관리법 제6조 제2항에 따르면, 폐업의 신고를 하려는 자는 해당 사업장 및 약제 보관창고 등에 있는 농약등 또는 원제가 사람이나 환경에 위해를 끼치지 않도록 폐기·반품 등의 적절한 조치를 취해야 합니다.",
+        "originwordCnt": "76",
+        "labelwordCnt": "29"
+    }
+}

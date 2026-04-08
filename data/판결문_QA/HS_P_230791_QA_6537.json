@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "230791",
+        "caseName": "도로교통법위반(음주측정거부)",
+        "caseNum": "2021노468",
+        "sentenceDate": "2022.03.24",
+        "courtName": "춘천지방법원강릉지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 항소한 이유와 법원의 판결 내용은 무엇인가요?",
+        "output": "원심에서 선고된 징역 2년의 형이 너무 무겁다고 주장하며 항소하였으나, 법원은 항소를 기각하고 원심 판결을 유지하기로 결정하였습니다.",
+        "originwordCnt": "183",
+        "labelwordCnt": "16"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "329663",
+        "caseName": "조세범처벌법위반",
+        "caseNum": "2023고단1848",
+        "sentenceDate": "2024.02.14.",
+        "courtName": "서울서부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "조세범처벌법을 위반하여 총 13회의 거짓 세금계산서를 발급한 피고인 A 그리고 피고인 B는 A의 범행에 관여하여 벌금형에 처해졌습니다. A는 징역형에 집행유예를 선고받았으며, 이 사건의 범행은 조세징수권을 침해하고 죄질이 가볍지 않은 것으로 판단되었습니다. 피고인의 전과와 범행 횟수를 고려하여 형량이 결정되었습니다.",
+        "originwordCnt": "1175",
+        "labelwordCnt": "38"
+    }
+}

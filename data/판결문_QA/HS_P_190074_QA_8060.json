@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "190074",
+        "caseName": "관세법위반피고사건",
+        "caseNum": "73노932",
+        "sentenceDate": "1977.06.23",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "관세법 위반 행위에 대한 벌금형 선고 시 형법의 경합범 처리 규정이 적용될 수 있나요?",
+        "output": "관세법 제208조에 따르면, 관세법 위반 행위에 대해 벌금형을 선고하는 경우 형법 제38조 제1항 제2호의 규정은 적용되지 않습니다. 따라서, 경합범 처리 규정이 아닌 각 죄에 대해 개별적으로 벌금형을 양정하여야 합니다.",
+        "originwordCnt": "71",
+        "labelwordCnt": "29"
+    }
+}

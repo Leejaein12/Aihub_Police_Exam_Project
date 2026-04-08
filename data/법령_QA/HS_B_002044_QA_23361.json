@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002044",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20416",
+        "title": "아동ㆍ청소년의 성보호에 관한 법률",
+        "ministry": "여성가족부",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "19세 이상의 사람이 13세 이상의 장애 아동 청소년을 추행하거나 다른 사람을 추행하게 하는 경우 처벌은 어떻게 되나요?",
+        "output": "이런 경우에는 10년 이하의 징역 또는 5천만원 이하의 벌금에 처합니다. 아동 청소년의 성보호에 관한 법률 제8조 제2항에 명시하고 있습니다.",
+        "originwordCnt": "80",
+        "labelwordCnt": "19"
+    }
+}

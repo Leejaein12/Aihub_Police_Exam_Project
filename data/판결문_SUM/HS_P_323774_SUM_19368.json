@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "323774",
+        "caseName": "공공단체등위탁선거에관한법률위반",
+        "caseNum": "2023고단1089",
+        "sentenceDate": "2023.05.18",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "조합장 선거에서 경쟁 후보가 축의금을 보낸 것처럼 허위로 알리며 자신에게도 축의금을 요구하여, 선거의 공정성을 해치는 행위를 한 것으로 판단되었습니다. 이러한 금품 제공 요구는 법으로 금지된 사항이며, 피고인은 이를 위반한 점, 반성의 태도가 부족한 점 등이 양형에 고려되었습니다. 따러서, 벌금 80만 원을 부과하였습니다.",
+        "originwordCnt": "423",
+        "labelwordCnt": "42"
+    }
+}

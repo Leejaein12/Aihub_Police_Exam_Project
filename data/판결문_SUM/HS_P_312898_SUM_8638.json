@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312898",
+        "caseName": "주거침입",
+        "caseNum": "2023고정680",
+        "sentenceDate": "2024.03.28",
+        "courtName": "대전지방법원 천안지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피해자와의 시비 끝에 자신의 주거지에서 골프채를 가지고 나와 피해자의 주거지에 침입하였습니다. 이후 피고인은 피해자의 현관문을 열고 안으로 들어가 골프채를 휘두르며 폭력을 예고하는 말을 하였습니다. 이러한 행위로 피고인은 주거침입죄로 기소되었으며, 법원은 피고인에게 벌금 200만 원을 선고하였습니다.",
+        "originwordCnt": "152",
+        "labelwordCnt": "35"
+    }
+}

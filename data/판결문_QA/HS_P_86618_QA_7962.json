@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86618",
+        "caseName": "살인",
+        "caseNum": "4292형상893",
+        "sentenceDate": "1960.03.31",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형법 부칙 제6조에 따라 불법 시행 전에 범한 수죄에 대해 구 형법 제55조의 연속범 규정이 적용되나요?",
+        "output": "형법 부칙 제6조에 따르면 불법 시행 전에 범한 수죄는 구 형법 제55조의 연속범 규정에 따라 처단되며, 연속범은 당연히 일죄로 취급됩니다. 따라서 구 형법에 따른 연속범 처단 시 본조를 적용할 수 없다는 점을 명심해야 합니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "34"
+    }
+}

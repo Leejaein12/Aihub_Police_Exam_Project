@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313148",
+        "caseName": "사기",
+        "caseNum": "2023고정415",
+        "sentenceDate": "2023.07.17",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "바에서 현금을 지불할 능력이나 의사가 없음에도 불구하고 종업원에게 외상으로 양주를 제공받기 위해 거짓말을 하여 피해자를 기망하였습니다. 이후 시가 400,000원 상당의 양주를 제공받고도 대금을 지급하지 않아 재물의 교부를 받았습니다. 법원은 형법 제347조 제1항을 적용하여 벌금 1,000,000원을 선고하였습니다.",
+        "originwordCnt": "167",
+        "labelwordCnt": "36"
+    }
+}

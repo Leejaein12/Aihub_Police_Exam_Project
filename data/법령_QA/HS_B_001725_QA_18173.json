@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제203조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에 따르면 임기만료일이 같은 지방의회의원 및 지방자치단체의 장의 선거는 언제 실시하나요?",
+        "output": "임기만료일이 같은 지방의회의원 및 지방자치단체의 장의 선거는 그 임기만료에 의한 선거의 선거일에 동시실시합니다. 공직선거법 제203조 제1항에 규정하고 있습니다.",
+        "originwordCnt": "178",
+        "labelwordCnt": "18"
+    }
+}

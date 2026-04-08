@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009513",
+        "promulgDate": "20220610",
+        "effectDate": "20230611",
+        "promulgNum": "18898",
+        "title": "암관리법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제28조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국립암센터가 정관을 변경하려면 어떻게 해야 합니까?",
+        "output": "암관리법 제28조 제2항에 따르면, 국립암센터는 정관을 변경하려는 경우에는 보건복지부장관의 인가를 받아야 합니다.",
+        "originwordCnt": "69",
+        "labelwordCnt": "12"
+    }
+}

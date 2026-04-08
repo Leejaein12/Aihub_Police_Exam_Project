@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "175054",
+        "caseName": "특정범죄가중처벌등에관한법률위반(도주차량)",
+        "caseNum": "2013노2932",
+        "sentenceDate": "2014.02.13",
+        "courtName": "대전지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 사람이 도로에 누워 있을 것을 예상하여 주의 의무를 다해야 했다는 원심판단은 정당한가요?",
+        "output": "피고인이 사람이 도로에 누워 있을 것을 예상하여 주의 의무를 다해야 했다는 원심판단은 정당하며, 피고인의 업무상 과실이 인정되었습니다. 이는 형법 제51조에 근거합니다.",
+        "originwordCnt": "980",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001719",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "국가공무원법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소청심사위원회가 심사 과정에서 필요할 경우 어떤 조치를 취할 수 있나요?",
+        "output": "국가공무원법 제12조 제2항에 따르면 소청심사위원회는 제1항에 따른 심사를 할 때 필요하면 검증(檢證)ㆍ감정(鑑定), 그 밖의 사실조사를 하거나 증인을 소환하여 질문하거나 관계 서류를 제출하도록 명할 수 있습니다.",
+        "originwordCnt": "90",
+        "labelwordCnt": "25"
+    }
+}

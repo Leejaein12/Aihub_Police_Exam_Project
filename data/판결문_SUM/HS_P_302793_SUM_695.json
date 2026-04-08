@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "302793",
+        "caseName": "감염병의예방및관리에관한법률위반",
+        "caseNum": "2020노2556",
+        "sentenceDate": "2021. 8. 10.",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "검사는 형이 너무 가벼워 부당하다고 항소했으며, 법원은 피고인이 감염병의 예방 및 관리에 관한 법률을 위반한 죄책이 무겁다고 보았습니다. 그러나 피고인이 초범이며 자신의 잘못을 인정하고 있는 점, 사회와 일정 기간 격리된 점 등을 고려하여 원심의 형이 적정하다고 판단하였습니다. 이에 따라 검사의 항소를 기각하였습니다.",
+        "originwordCnt": "222",
+        "labelwordCnt": "42"
+    }
+}

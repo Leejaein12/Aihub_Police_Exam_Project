@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "211963",
+        "caseName": "변호사법위반",
+        "caseNum": "82도1359",
+        "sentenceDate": "1982.09.14",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "동업자가 허가를 얻는 과정에서 금품을 받은 경우, 변호사법 위반이 될 수 있나요?",
+        "output": "동업자가 허가를 얻는 과정에서 동업자로부터 금품을 받았더라도, 이는 변호사법 제54조에서 정한 타인의 사무에 관하여 금품을 제공받은 것으로 볼 수 없습니다.",
+        "originwordCnt": "48",
+        "labelwordCnt": "20"
+    }
+}

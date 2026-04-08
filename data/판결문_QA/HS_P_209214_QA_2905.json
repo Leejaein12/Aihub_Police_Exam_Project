@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "209214",
+        "caseName": "위헌제청신청기각결정에대한재항고사건",
+        "caseNum": "77모19",
+        "sentenceDate": "1977.05.13",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "대통령긴급조치 9호의 위헌 여부에 대해 제청신청을 받아들이지 않은 원심의 결정이 정당한 이유는 무엇인가요?",
+        "output": "대통령긴급조치 9호는 헌법 제53조에 따른 긴급조치로서, 사법적 심사의 대상이 되지 않기 때문에, 위헌 여부 제청신청을 받아들이지 않은 원심의 결정은 위법하지 않습니다.",
+        "originwordCnt": "93",
+        "labelwordCnt": "21"
+    }
+}

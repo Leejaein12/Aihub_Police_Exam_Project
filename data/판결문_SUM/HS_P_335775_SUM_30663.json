@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335775",
+        "caseName": "특정범죄가중처벌등에관한법률위반(운전자폭행등)",
+        "caseNum": "2023고정1542",
+        "sentenceDate": "2024.05.09",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "차량 경적 소리로 인한 말다툼 중 피해자의 차량을 정차시키고 폭행하였습니다. 피고인은 운전 중이던 피해자의 차량 운전석 문을 두드리고 붙잡은 후 피해자의 멱살을 잡고 어깨를 밀치는 등 폭행을 가하였습니다. 법원은 피고인에게 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "174",
+        "labelwordCnt": "34"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000239",
+        "promulgDate": "20230418",
+        "effectDate": "20231019",
+        "promulgNum": "19365",
+        "title": "건설기계관리법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "건설기계의 검사에 관한 시설 및 기술능력을 갖춘 자로 지정을 받으려면 어떤 조건을 갖추어야 합니까?",
+        "output": "건설기계관리법 제14조 제2항에 명시된 바와 같이, 제1항에 따른 지정을 받으려는 자는 국토교통부령으로 정하는 기준에 적합한 시설ㆍ기술인력 및 검사업무규정을 갖추어야 합니다.",
+        "originwordCnt": "436",
+        "labelwordCnt": "20"
+    }
+}

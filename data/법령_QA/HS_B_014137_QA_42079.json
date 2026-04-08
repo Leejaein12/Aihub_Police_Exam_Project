@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014137",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19117",
+        "title": "2023 순천만국제정원박람회 지원 및 사후활용에 관한 특별법",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가와 지방자치단체는 박람회가 성공적으로 개최되기 위해 어떤 책무를 가지고 있나요?",
+        "output": "순천만정원박람회법 제4조 제1항에 따르면, 박람회가 성공적으로 개최될 수 있도록 종합적인 시책을 수립ㆍ시행하고 지원하는 방안을 강구하여야 합니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "16"
+    }
+}

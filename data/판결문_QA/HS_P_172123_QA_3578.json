@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "172123",
+        "caseName": "낙태교사",
+        "caseNum": "2010고단3391",
+        "sentenceDate": "2011.08.12",
+        "courtName": "서울남부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "낙태 교사행위에 해당하는지 판단한 기준은 무엇인가요?",
+        "output": "형법 제31조 제1항에 따르면 교사행위란 타인에게 특정 범죄를 실행하도록 결의를 가지게 하는 행위를 말하며, 그 수단과 방법에는 제한이 없습니다. 본 판례에서 공소외 1에게 여러 차례 낙태를 권유하여 결의를 가지게 한 행위가 교사행위로 인정되었습니다.",
+        "originwordCnt": "995",
+        "labelwordCnt": "33"
+    }
+}

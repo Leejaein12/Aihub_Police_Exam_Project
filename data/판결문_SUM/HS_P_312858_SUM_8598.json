@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312858",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고단294",
+        "sentenceDate": "2024.07.12",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주운전으로 벌금형을 선고받은 전력이 있음에도 다시 음주운전을 하여 도로교통법을 위반하였습니다. 피고인은 혈중알코올농도 0.092% 상태에서 약 2.6km 구간을 운전하였고, 이는 도로교통법 제44조 제1항을 위반한 것입니다. 법원은 피고인에게 벌금 1,000만 원을 선고하였습니다.",
+        "originwordCnt": "323",
+        "labelwordCnt": "30"
+    }
+}

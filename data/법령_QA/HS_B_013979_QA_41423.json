@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013979",
+        "promulgDate": "20210101",
+        "effectDate": "20210101",
+        "promulgNum": "00996",
+        "title": "영장심의위원회 규칙",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제22조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "영장심의위원회의 위원장은 심의가 어떻게 이루어질 수 있도록 노력해야 합니까?",
+        "output": "위원장은 심의위원회의 심의가 신속하고 공정하게 이루어질 수 있도록 최대한 노력해야 합니다. 이는 영장심의위원회 규칙 제22조 제2항에 따라 규정되어 있습니다.",
+        "originwordCnt": "80",
+        "labelwordCnt": "19"
+    }
+}

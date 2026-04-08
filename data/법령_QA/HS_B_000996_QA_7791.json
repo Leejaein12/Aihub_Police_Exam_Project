@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000996",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19117",
+        "title": "농어촌도로 정비법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "농어촌도로의 방호울타리와 가로수는 누구에 의해 설치되어야 합니까?",
+        "output": "도로의 방호울타리와 가로수는 군수, 도농복합형태의 시의 시장, 특별자치시장 및 특별자치도지사에 의해 설치되어야 합니다. 이는 농어촌도로 정비법 제3조 2호 나목에 따라 명시된 사항입니다.",
+        "originwordCnt": "119",
+        "labelwordCnt": "22"
+    }
+}

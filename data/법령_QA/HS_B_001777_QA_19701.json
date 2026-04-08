@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001777",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "노인복지법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제39조의16",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "노인학대행위자는 노인보호전문기관이 제공하는 상담 및 교육을 반드시 받아야 하나요?",
+        "output": "노인복지법 제39조의16 제2항에 따르면, 노인학대행위자는 노인보호전문기관의 장이 제1항에 따른 상담·교육 및 심리적 치료 등을 제공하는 경우 정당한 사유가 없으면 이를 받아야 합니다.",
+        "originwordCnt": "48",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000143",
+        "promulgDate": "20210105",
+        "effectDate": "20210706",
+        "promulgNum": "17864",
+        "title": "노동조합 및 노동관계조정법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제44조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사용자는 쟁의행위에 참가한 근로자에게 쟁의행위 기간 중 임금을 지급해야 하나요?",
+        "output": "노동조합 및 노동관계조정법 제44조 제1항에 따르면, 사용자는 쟁의행위에 참가하여 근로를 제공하지 않은 근로자에게 그 기간 중의 임금을 지급할 의무가 없습니다.",
+        "originwordCnt": "32",
+        "labelwordCnt": "20"
+    }
+}

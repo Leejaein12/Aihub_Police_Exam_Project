@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317468",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고단251",
+        "sentenceDate": "2024.07.23",
+        "courtName": "수원지방법원 여주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "도로교통법을 위반하여 혈중알코올농도 0.114% 상태에서 약 150m를 음주 운전한 사건입니다. 이전에도 음주운전으로 벌금형을 받은 전력이 있었으며, 음주운전의 위험성과 높은 혈중알코올농도가 불리한 사정으로 고려되었습니다. 다만, 반성하는 점과 운전 거리가 짧았던 점 등이 참작되어 벌금형을 선고하였습니다.",
+        "originwordCnt": "268",
+        "labelwordCnt": "34"
+    }
+}

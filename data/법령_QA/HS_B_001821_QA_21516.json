@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001821",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19587",
+        "title": "도로법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국토교통부장관 또는 행정청은 도로 노선의 변경 또는 폐지를 할 수 있는 근거는 무엇입니까?",
+        "output": "도로법 제21조 제1항에 따르면, 국토교통부장관 또는 행정청은 제11조부터 제18조까지 및 제20조에 따라 지정한 도로 노선을 변경하거나 그 노선의 전부 또는 일부를 폐지할 수 있습니다.",
+        "originwordCnt": "76",
+        "labelwordCnt": "24"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001501",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19753",
+        "title": "수의사법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "농림축산식품부장관은 수의사 국가시험의 관리를 누구에게 맡길 수 있습니까?",
+        "output": "수의사법 제8조 제3항에 따라, 농림축산식품부장관은 수의사 국가시험의 관리를 대통령령으로 정하는 바에 따라 시험 관리 능력이 있다고 인정되는 관계 전문기관에 맡길 수 있습니다.",
+        "originwordCnt": "58",
+        "labelwordCnt": "22"
+    }
+}

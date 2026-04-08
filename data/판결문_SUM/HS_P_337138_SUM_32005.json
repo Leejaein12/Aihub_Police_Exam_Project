@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337138",
+        "caseName": "상해등",
+        "caseNum": "2023고단740",
+        "sentenceDate": "2023.07.20",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자신을 무시하는 발언을 하자 주먹으로 얼굴을 수회 때려 코뼈 골절 등의 상해를 입혔으며, 이는 형법 제257조 제1항 상해죄에 해당합니다. 또한 무면허 상태로 약 29km 구간을 운전한 행위는 도로교통법 제43조, 제152조 제1호를 위반한 무면허운전으로 인정되었습니다. 이에 법원은 형법 제62조 제1항에 따라 징역 4개월의 형을 선고하되 1년간 집행을 유예하였습니다.",
+        "originwordCnt": "264",
+        "labelwordCnt": "47"
+    }
+}

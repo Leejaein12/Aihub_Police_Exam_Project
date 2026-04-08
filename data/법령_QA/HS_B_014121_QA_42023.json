@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014121",
+        "promulgDate": "20210720",
+        "effectDate": "20220721",
+        "promulgNum": "18318",
+        "title": "수산부산물 재활용 촉진에 관한 법률",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "해양수산부장관은 수산부산물 통계조사 결과를 누구에게 통보해야 하나요?",
+        "output": "수산부산물 재활용촉진에 관한 법 제6조 제3항에 따르면, 해양수산부장관은 제2항에 따라 제출받은 통계조사 결과를 환경부장관에게 통보하여야 합니다.",
+        "originwordCnt": "77",
+        "labelwordCnt": "16"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93353",
+        "caseName": "관세법위반",
+        "caseNum": "76도4483",
+        "sentenceDate": "1977.03.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 참조 법령을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "관세법에 따른 장물성의 존속기간은 언제까지인가요?",
+        "output": "관세법 제186조에 해당하는 물품의 장물성은 관세징수권의 소멸시효기간인 5년이 아니라, 형사소송법에 따른 공소시효가 완성되어 국가의 형벌권이 발동할 수 없고 몰수추징이 불가능한 단계에 이르기 전까지 존속한다고 해석해야 합니다.",
+        "originwordCnt": "112",
+        "labelwordCnt": "26"
+    }
+}

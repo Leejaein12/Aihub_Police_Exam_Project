@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000068",
+        "promulgDate": "20220610",
+        "effectDate": "20230611",
+        "promulgNum": "18957",
+        "title": "선박법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "대한민국의 항만에 출입하거나 머무는 한국선박 외의 선박은 국기를 어떻게 게양할 수 있나요?",
+        "output": "선박법 제5조 제2항에 따르면 제1항에도 불구하고 대한민국의 항만에 출입하거나 머무는 한국선박 외의 선박은 선박의 마스트나 그 밖에 외부에서 눈에 잘 띄는 곳에 대한민국 국기를 게양할 수 있다고 규정하고 있습니다.",
+        "originwordCnt": "37",
+        "labelwordCnt": "29"
+    }
+}

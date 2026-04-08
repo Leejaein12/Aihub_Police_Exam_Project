@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315785",
+        "caseName": "모욕",
+        "caseNum": "2023고정876",
+        "sentenceDate": "2023.10.26",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "수술 결과에 대한 불만으로 블로그에 피해자를 모욕하는 글을 다섯 차례 게시하여 형법 제311조에 따른 모욕죄로 처벌받게 되었습니다. 범죄사실은 피해자의 진술과 증거에 의해 인정되었습니다. 그러나 초범인 점과 작성 경위에 참작할 사정이 있는 점, 그 외 피고인의 나이, 성행, 범행의 동기와 수단 등을 종합적으로 고려하여 벌금 70만 원이 부과되었습니다.",
+        "originwordCnt": "547",
+        "labelwordCnt": "47"
+    }
+}

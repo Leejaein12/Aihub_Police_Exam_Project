@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318169",
+        "caseName": "사기",
+        "caseNum": "2023고단1407",
+        "sentenceDate": "2024.01.11",
+        "courtName": "부산지방법원 동부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피해 회사 소유의 리스 차량을 보관하던 중, 인터넷에서 알게 된 성명불상자로부터 대출을 받기 위해 차량을 담보로 임의로 교부하여 횡령한 혐의로 기소되었습니다. 피고인은 각각 두 건의 리스 차량을 임의로 처분하여 총 2,800만 원의 대출을 받았습니다. 법원은 피해 차량의 가액과 피해 회복 여부 등을 고려하여 피고인에게 징역 10개월을 선고하였습니다.",
+        "originwordCnt": "196",
+        "labelwordCnt": "47"
+    }
+}

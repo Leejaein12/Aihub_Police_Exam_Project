@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001109",
+        "promulgDate": "20210924",
+        "effectDate": "20220701",
+        "promulgNum": "18465",
+        "title": "사면법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제24조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사건 본인이 형의 집행을 지휘한 검찰청의 관할구역이 아닌 곳에 거주할 때, 사면법에 따른 통지는 누가 수행합니까?",
+        "output": "사건 본인이 형의 집행을 지휘한 검찰청의 관할구역이 아닌 곳에 거주할 때, 사면법 제23조에 따른 통지는 촉탁받은 검찰청의 검사가 수행합니다. 이는 사면법 제24조 제2항에 명시되어 있습니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "25"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014070",
+        "promulgDate": "20230711",
+        "effectDate": "20240112",
+        "promulgNum": "19518",
+        "title": "스토킹범죄의 처벌 등에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "스토킹범죄 관련하여 검사는 어떤 경우에 잠정조치를 청구할 수 있나요?",
+        "output": "스토킹범죄의 처벌 등에 관한 법률 제8조 제1항에 따르면, 검사는 스토킹범죄가 재발될 우려가 있다고 인정하면 직권 또는 사법경찰관의 신청에 따라 법원에 제9조제1항 각 호의 잠정조치를 청구할 수 있습니다.",
+        "originwordCnt": "99",
+        "labelwordCnt": "27"
+    }
+}

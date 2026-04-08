@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "230455",
+        "caseName": "개인정보보호법위반",
+        "caseNum": "2020고정111",
+        "sentenceDate": "2020.10.06",
+        "courtName": "창원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "경찰 내부 직원 검색 시스템에서 얻은 정보를 사용하는 것이 왜 문제가 되지 않나요?",
+        "output": "경찰 내부의 직원 검색 시스템은 경찰공무원이 동료의 연락처를 업무적으로 필요할 때 사용 가능한 시스템입니다. 피고인은 이를 적법하게 사용하여 정보를 확인했고, 별도의 개인정보 누설 행위가 없었으므로 문제가 되지 않습니다.",
+        "originwordCnt": "1365",
+        "labelwordCnt": "28"
+    }
+}

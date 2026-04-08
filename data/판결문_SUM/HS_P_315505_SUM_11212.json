@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315505",
+        "caseName": "전자금융거래법위반등",
+        "caseNum": "2023고정642",
+        "sentenceDate": "2024.01.10",
+        "courtName": "인천지방법원 부천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "노상에서 피해자의 복부를 만져 강제추행 혐의로 기소된 피고인은 추행 고의가 없었다고 주장하였으나, 피해자의 일관된 진술과 CCTV 영상 분석 결과, 피고인의 행동이 고의적인 접촉으로 판단되었습니다. 법원은 피고인에게 벌금 500만 원을 선고하고, 성폭력 치료프로그램 40시간 이수 및 3년간 아동·청소년 및 장애인 관련 기관 취업 제한을 명령하였습니다.",
+        "originwordCnt": "602",
+        "labelwordCnt": "44"
+    }
+}

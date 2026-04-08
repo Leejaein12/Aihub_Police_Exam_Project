@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "159783",
+        "caseName": "의료법 위반·약사법 위반",
+        "caseNum": "2010고정3125",
+        "sentenceDate": "2010.10.04",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "무상으로 의약품을 교부할 목적으로 구매한 행위가 법적으로 판매에 해당하나요?",
+        "output": "무상으로 교부할 목적으로 의약품을 취득한 경우에도 다수인에게 수여할 목적으로 취득한 것이므로, 법적으로 판매에 해당한다고 볼 수 있습니다.",
+        "originwordCnt": "4371",
+        "labelwordCnt": "17"
+    }
+}

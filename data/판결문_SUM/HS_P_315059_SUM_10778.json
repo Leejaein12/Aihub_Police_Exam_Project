@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315059",
+        "caseName": "교통사고처리특례법위반(치상)등",
+        "caseNum": "2023고단498",
+        "sentenceDate": "2023.11.29",
+        "courtName": "제주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "여러 차례의 절도 전력이 있는 피고인은 시장에서 여러 피해자로부터 현금을 절취하였습니다. 범행은 피해자가 한눈을 파는 사이에 가방의 지퍼를 열어 이루어졌으며, 총 5건의 범죄가 확인되었습니다. 피고인은 특정범죄 가중처벌 등에 관한 법률 위반으로 기소되었고, 법원은 누범기간 중의 재범을 고려하여 징역 2년을 선고하였습니다.",
+        "originwordCnt": "809",
+        "labelwordCnt": "40"
+    }
+}

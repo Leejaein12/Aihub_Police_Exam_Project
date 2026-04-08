@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319497",
+        "caseName": "공무집행방해",
+        "caseNum": "2023고단6802",
+        "sentenceDate": "2024.05.22",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "주취 상태로 경찰서에서 보호를 받던 중 구급대가 출동하여 경찰이 부축하자, 이유 없이 경찰관의 얼굴을 폭행하여 경찰의 정당한 직무집행을 방해한 혐의로 기소되었습니다. 공무집행방해죄는 공권력 행사를 방해하는 중대한 범죄로, 엄중히 처벌할 필요가 있습니다. 따라서 재판부는 벌금 500만원을 선고하였습니다.",
+        "originwordCnt": "239",
+        "labelwordCnt": "36"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000888",
+        "promulgDate": "20221213",
+        "effectDate": "20230614",
+        "promulgNum": "19066",
+        "title": "사립학교법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제31조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "교육부장관은 감리 업무를 다른 법인이나 단체에 위탁할 수 있나요?",
+        "output": "사립학교법 제31조의2 제2항에 따르면, 교육부장관은 감리 업무의 전부 또는 일부를 대통령령으로 정하는 바에 따라 외부회계감사 및 감리에 관한 전문성을 갖춘 법인이나 단체에 위탁할 수 있습니다.",
+        "originwordCnt": "52",
+        "labelwordCnt": "25"
+    }
+}

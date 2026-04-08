@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332609",
+        "caseName": "횡령",
+        "caseNum": "2022고정156",
+        "sentenceDate": "2023.04.19",
+        "courtName": "춘천지방법원 강릉지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "이장으로 재임 중 마을기금을 관리하다가 각각 300만 원씩을 임의로 인출하여 개인적인 용도로 사용해 형법 제355조 제1항을 위반하였습니다. 법원은 이를 횡령죄로 인정해 벌금 70만 원을 선고하였습니다. 그러나 마을기금과 부동산등기권리증 반환을 거부한 혐의에 대해서는 반환할 의사가 있었던 것으로 판단하여 무죄를 선고하였습니다.",
+        "originwordCnt": "374",
+        "labelwordCnt": "39"
+    }
+}

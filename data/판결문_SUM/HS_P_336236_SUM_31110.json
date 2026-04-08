@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336236",
+        "caseName": "근로기준법위반등",
+        "caseNum": "2023고단1751",
+        "sentenceDate": "2024.01.18",
+        "courtName": "부산지방법원 동부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "부동산 개발업체를 운영하며 퇴직한 근로자 E의 임금과 퇴직금을 근로기준법 및 근로자퇴직급여보장법에 따라 퇴직일로부터 14일 이내에 지급하지 않은 혐의로 기소되었습니다. 그러나 피고인과 E가 사건 공소제기 후 합의서와 처벌불원탄원서를 제출해 처벌불원의 의사를 표시하였으므로, 공소가 기각되었습니다.",
+        "originwordCnt": "223",
+        "labelwordCnt": "33"
+    }
+}

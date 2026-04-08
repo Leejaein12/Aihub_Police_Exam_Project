@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009412",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19590",
+        "title": "산지관리법",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제35조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국유림의 산지에 있는 토석을 매각할 때 적용되는 계약 방법은 무엇인가요?",
+        "output": "산지관리법 제35조에 따르면, 산림청장은 국유림의 산지에 있는 토석을 매각하는 경우에는 「국가를 당사자로 하는 계약에 관한 법률」 제7조에 따른 수의계약에 의하여 매각할 수 있습니다.",
+        "originwordCnt": "271",
+        "labelwordCnt": "23"
+    }
+}

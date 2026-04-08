@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001723",
+        "promulgDate": "20160529",
+        "effectDate": "20161130",
+        "promulgNum": "14184",
+        "title": "국민투표법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제78조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국민투표법에 따른 투표시 찬반의 구분란선상에 기표된 경우라면 유효한 투표로 볼 수 있습니까?",
+        "output": "국민투표법 제78조 제2항 제4호에 의하면찬반의 구분란선상에 기표되었으나 어느 난에 기표한 것인가가 명확한 것은 유효한 투표로 봅니다.",
+        "originwordCnt": "138",
+        "labelwordCnt": "16"
+    }
+}

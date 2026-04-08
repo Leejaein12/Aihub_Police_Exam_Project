@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001780",
+        "promulgDate": "20240213",
+        "effectDate": "20240517",
+        "promulgNum": "20309",
+        "title": "의료급여법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제23조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시장ㆍ군수ㆍ구청장이 부당이득금을 내지 않은 납부의무자에게 어떻게 할 수 있나요?",
+        "output": "의료급여법 제23조 제6항 규정에 따르면 시장ㆍ군수ㆍ구청장은 제1항부터 제4항까지에 따른 부당이득금 납부의무자가 부당이득금을 내지 아니하면 기한을 정하여 독촉할 수 있습니다.",
+        "originwordCnt": "319",
+        "labelwordCnt": "19"
+    }
+}

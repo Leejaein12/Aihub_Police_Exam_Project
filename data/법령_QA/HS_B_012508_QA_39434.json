@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012508",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19580",
+        "title": "국민보호와 공공안전을 위한 테러방지법",
+        "ministry": "국가정보원,국무조정실",
+        "fullText": "N",
+        "smClass": "제19조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "대한민국 밖에서 테러단체 구성죄를 저지른 외국인에게 국내법이 적용되나요?",
+        "output": "국민보호와 공공안전을 위한 테러방지법 제19조에 따르면, 제17조의 죄는 대한민국 영역 밖에서 저지른 외국인에게도 국내법이 적용됩니다.",
+        "originwordCnt": "12",
+        "labelwordCnt": "15"
+    }
+}

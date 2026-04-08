@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012522",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "공항시설법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "토지매수업무와 관련된 위탁수수료는 어떤 법률에 따라 정해지나요?",
+        "output": "공항시설법 제13조 제2항 규정에 따르면 제1항에 따라 토지매수업무, 손실보상업무 및 이주대책사업 등을 위탁하는 경우의 위탁수수료 등에 관하여는 공익사업을 위한 토지 등의 취득 및 보상에 관한 법률에서 정하는 바에 따릅니다.",
+        "originwordCnt": "78",
+        "labelwordCnt": "29"
+    }
+}

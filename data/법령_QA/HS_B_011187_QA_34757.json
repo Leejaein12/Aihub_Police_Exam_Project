@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011187",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19743",
+        "title": "성폭력범죄의 처벌 등에 관한 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제38조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "성폭력범죄 피해자 진술조력인은 수사 및 재판 과정에서 어떤 의무를 지니고 있습니까?",
+        "output": "성폭력범죄의 처벌 등에 관한 특례법 제38조 제1항에 따르면, 진술조력인은 수사 및 재판 과정에 참여하면서 중립적인 지위에서 상호 간의 진술이 왜곡 없이 전달되도록 노력해야 합니다.",
+        "originwordCnt": "54",
+        "labelwordCnt": "24"
+    }
+}

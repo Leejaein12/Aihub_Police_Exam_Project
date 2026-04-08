@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001723",
+        "promulgDate": "20160529",
+        "effectDate": "20161130",
+        "promulgNum": "14184",
+        "title": "국민투표법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제77조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국민투표법에 의하면, 구ㆍ시ㆍ군선거관리위원회는 개표참관인의 참관 방식은 어떻게 진행되나요?",
+        "output": "국민투표법에 의하면, 구ㆍ시ㆍ군선거관리위원회는 정당별로 선정된 개표참관인 중 3인씩을 교대하여 참관하도록 되어 있습니다. 이는 제77조 제3항에 명시되어 있습니다.",
+        "originwordCnt": "165",
+        "labelwordCnt": "17"
+    }
+}

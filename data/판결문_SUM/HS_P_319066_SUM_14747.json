@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319066",
+        "caseName": "공인중개사법위반",
+        "caseNum": "2023고단3968",
+        "sentenceDate": "2023.12.20",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공인중개사 자격이 없음에도 불구하고 중개대상물에 대한 광고를 다수 게시한 혐의로 기소되었습니다. 피고인 A는 총 734회, 피고인 B는 105회, 피고인 C는 52회에 걸쳐 중개대상물에 대한 광고를 게시한 사실이 인정되었습니다. 법원은 공인중개사법 제49조 제1항 제6의2호 및 제18조의2 제3항을 적용하여 각 벌금 200만 원을 선고하였습니다.",
+        "originwordCnt": "432",
+        "labelwordCnt": "42"
+    }
+}

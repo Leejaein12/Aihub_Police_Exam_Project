@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000179",
+        "promulgDate": "20200129",
+        "effectDate": "20200730",
+        "promulgNum": "16881",
+        "title": "재해구호법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제17조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "어떤 경우에 의연금품 모집허가를 신청할 수 없나요?",
+        "output": "재해구호법 제17조 5항에 따르면,미성년자, 피성년후견인, 피한정후견인, 파산선고를 받고 복권되지 아니한 사람, 금고 이상의 실형을 선고받고 2년이 지나지 않은 사람 등은 모집허가를 신청할 수 없습니다.",
+        "originwordCnt": "324",
+        "labelwordCnt": "24"
+    }
+}

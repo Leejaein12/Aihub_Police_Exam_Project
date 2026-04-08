@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314749",
+        "caseName": "사기등",
+        "caseNum": "2023노2575",
+        "sentenceDate": "2024.04.02",
+        "courtName": "창원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사기와 절도 혐의로 1심에서 각각 징역 6개월을 선고받고 항소하였으나, 법원은 각 범죄가 형법 제37조 전단의 경합범 관계에 있으므로 하나의 형이 선고되어야 한다며 1심 판결을 파기했습니다. 범행을 인정하고 일부 피해를 변제한 점을 참작했으나, 동종 범죄로 인한 누범 기간 중 범행을 저질렀고 피해 회복이 완전히 이루어지지 않아 징역 1년을 선고하였습니다.",
+        "originwordCnt": "617",
+        "labelwordCnt": "48"
+    }
+}

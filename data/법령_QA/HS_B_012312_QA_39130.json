@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012312",
+        "promulgDate": "20240123",
+        "effectDate": "20240123",
+        "promulgNum": "20129",
+        "title": "수산종자산업육성법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제34조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "수산종자의 결함으로 인한 피해가 발생한 경우, 피해자는 어떤 조치를 취할 수 있나요?",
+        "output": "수산종자산업육성법 제34조제7항에 따르면, 분쟁대상 수산종자의 결함으로 인해 피해가 발생한 경우, 피해자는 수산종자생산업자에게 해양수산부령으로 정하는 바에 따라 보상을 청구할 수 있습니다.",
+        "originwordCnt": "154",
+        "labelwordCnt": "20"
+    }
+}

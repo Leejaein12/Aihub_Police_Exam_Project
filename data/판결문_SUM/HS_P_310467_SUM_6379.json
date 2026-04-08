@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310467",
+        "caseName": "전기통신사업법위반",
+        "caseNum": "2024고정239",
+        "sentenceDate": "2024.08.13",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "성명불상 대출업자의 지시에 따라 통신사에서 개통한 유심을 대출업자에게 제공하여, 전기통신사업자가 제공하는 전기통신역무를 타인의 통신용으로 제공한 사실이 인정되었습니다. 이에 대해 전기통신사업법 제97조 제7호 및 제30조에 따라 벌금 200만 원이 선고되었습니다. 범행 경위와 반성 등을 고려하여 벌금형이 감경되었습니다.",
+        "originwordCnt": "244",
+        "labelwordCnt": "36"
+    }
+}

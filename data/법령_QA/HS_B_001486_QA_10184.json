@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001486",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "수산업법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "외국인이나 외국법인에게 어업면허를 부여하려면 어떤 절차가 필요한가요?",
+        "output": "외국인이나 외국법인에게 어업면허를 부여하려면 시·도지사 또는 시장·군수·구청장은 미리 해양수산부장관과 협의해야 합니다. 이는 '수산자원관리법' 제5조 제1항에 따른 절차입니다.",
+        "originwordCnt": "97",
+        "labelwordCnt": "17"
+    }
+}

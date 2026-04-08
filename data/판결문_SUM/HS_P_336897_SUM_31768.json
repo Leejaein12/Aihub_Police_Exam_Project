@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336897",
+        "caseName": "보험사기방지특별법위반",
+        "caseNum": "2023노1332",
+        "sentenceDate": "2023.11.01",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "보험사기방지특별법 위반 혐의로 기소되어 원심에서 벌금 500만 원을 선고받았습니다. 검사는 원심의 형이 너무 가볍다며 항소하였으나, 법원은 제1심과 비교하여 양형 조건에 변화가 없고 양형의 재량이 합리적인 범위를 벗어나지 않았다고 판단하여 형사소송법 제364조 제4항에 따라 항소를 기각하였습니다.",
+        "originwordCnt": "140",
+        "labelwordCnt": "35"
+    }
+}

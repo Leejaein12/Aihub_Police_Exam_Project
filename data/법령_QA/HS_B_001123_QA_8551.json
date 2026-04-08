@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001123",
+        "promulgDate": "20210720",
+        "effectDate": "20220121",
+        "promulgNum": "18299",
+        "title": "보호관찰 등에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제80조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국법무보호복지공단의 업무에 관한 주요 사항을 심의ㆍ의결하기 위해 공단에는 무엇이 설치되는가요?",
+        "output": "보호관찰 등에 관한 법률 제80조 제1항에 따르면, 한국법무보호복지공단의 업무에 관한 주요 사항을 심의ㆍ의결하기 위하여 공단에 이사회를 둔다.",
+        "originwordCnt": "32",
+        "labelwordCnt": "17"
+    }
+}

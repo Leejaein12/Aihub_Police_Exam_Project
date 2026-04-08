@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001742",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19134",
+        "title": "선박안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국제항해에 취항하는 선박의 소유자는 어떤 검사를 받아야 하나요?",
+        "output": "선박안전법 제12조 제1항에 따르면, 국제항해에 취항하는 선박의 소유자는 선박의 감항성 및 인명안전과 관련하여 국제적으로 발효된 국제협약에 따른 해양수산부장관의 국제협약검사를 받아야 합니다.",
+        "originwordCnt": "106",
+        "labelwordCnt": "21"
+    }
+}

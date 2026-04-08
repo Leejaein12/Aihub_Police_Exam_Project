@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009998",
+        "promulgDate": "20220104",
+        "effectDate": "20220705",
+        "promulgNum": "18678",
+        "title": "치료감호 등에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제45조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "치료감호가 청구된 사건은 판결의 확정 없이 얼마나 지나야 청구의 시효가 완성되나요?",
+        "output": "치료감호 등에 관한 법률 제45조 제2항에 따르면 치료감호가 청구된 사건은 판결의 확정 없이 치료감호가 청구되었을 때부터 15년이 지나면 청구의 시효가 완성된 것으로 봅니다.",
+        "originwordCnt": "37",
+        "labelwordCnt": "23"
+    }
+}

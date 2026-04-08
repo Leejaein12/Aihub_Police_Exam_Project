@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001589",
+        "promulgDate": "20230620",
+        "effectDate": "20231221",
+        "promulgNum": "19511",
+        "title": "소비자기본법",
+        "ministry": "공정거래위원회",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소비자는 물품을 선택할 때 어떤 책무를 다해야 하나요?",
+        "output": "소비자는 사업자 등과 더불어 자유시장경제를 구성하는 주체임을 인식하여 물품등을 올바르게 선택하고, 소비자의 기본적 권리를 정당하게 행사하여야 합니다. 이는 소비자기본법 제5조 제1항에 근거합니다.",
+        "originwordCnt": "49",
+        "labelwordCnt": "22"
+    }
+}

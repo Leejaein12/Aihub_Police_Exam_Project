@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000798",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19597",
+        "title": "저작권법",
+        "ministry": "문화체육관광부",
+        "fullText": "N",
+        "smClass": "제35조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "문화시설이 저작물을 이용한 경우 저작재산권자는 보상금을 청구할 수 있나요?",
+        "output": "저작재산권자는 같은 조 제1항에 따른 이용에 대하여 보상금을 청구할 수 있으며, 문화시설은 저작재산권자와 협의한 보상금을 지급하여야 합니다. 이는 저작권법 제35조의4 제3항에 규정되어 있습니다.",
+        "originwordCnt": "220",
+        "labelwordCnt": "23"
+    }
+}

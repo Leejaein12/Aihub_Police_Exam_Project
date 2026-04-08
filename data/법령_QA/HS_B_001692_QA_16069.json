@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001692",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19582",
+        "title": "형법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제31조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "교사를 받은 자가 범죄를 실행하지 않았을 경우, 교사자는 어떻게 처벌되나요?",
+        "output": "교사를 받은 자가 범죄의 실행을 승낙하고 실행의 착수에 이르지 아니한 때에는 교사자와 피교사자를 음모 또는 예비에 준하여 처벌합니다. 이는 형법 제31조 제2항에서 규정하고 있습니다.",
+        "originwordCnt": "43",
+        "labelwordCnt": "24"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "305701",
+        "caseName": "업무방해",
+        "caseNum": "2012고단2072",
+        "sentenceDate": "2012. 7. 19.",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피고인은 여러 식당에서 술에 취해 욕설과 소란을 피우며 피해자들의 식당 운영을 방해한 혐의로 기소되었습니다. 피고인은 사기, 폭행, 업무방해 등으로 70여 차례 형사처벌을 받은 전력이 있으며, 특히 2000년 이후 비슷한 범죄가 집중되었습니다. 피해자들이 받은 피해와 피고인의 누범 사정을 고려하여 징역 1년 2월의 실형이 선고되었습니다.",
+        "originwordCnt": "507",
+        "labelwordCnt": "43"
+    }
+}

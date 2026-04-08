@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "305472",
+        "caseName": "병역법위반",
+        "caseNum": "2016고단2879",
+        "sentenceDate": "2016. 9. 22.",
+        "courtName": "서울북부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사회복무요원으로 근무 중 정당한 사유 없이 총 8일간 복무를 이탈하여 병역법 제89조의2 제1호에 따라 처벌 대상이 되었습니다. 이에 법원은 피고인이 자신의 범행을 반성하고 성실히 복무할 것을 다짐한 점, 나이와 가족관계 등의 사정을 참작하여 징역 6월을 선고하되, 형의 집행을 2년간 유예하였습니다.",
+        "originwordCnt": "191",
+        "labelwordCnt": "40"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011584",
+        "promulgDate": "20230111",
+        "effectDate": "20230111",
+        "promulgNum": "01108",
+        "title": "군검찰 압수물 사무규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제20조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군검찰 압수물인 통화는 어떻게 영치해야 합니까?",
+        "output": "근거 조문은 군검찰 압수물 사무규칙 제20조에 명시된 바에 의하면, 검찰서기는 압수물인 통화에 관하여 제16조제1항에 따라 압수물 대장에 기록한 후 군검사의 참여하에 압수금 봉투를 붙이고, 군검사의 봉인을 받아 보관해야 합니다.",
+        "originwordCnt": "25",
+        "labelwordCnt": "29"
+    }
+}

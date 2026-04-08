@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335192",
+        "caseName": "사기등",
+        "caseNum": "2024노72",
+        "sentenceDate": "2024.03.29",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사기와 전자금융거래법위반으로 원심에서 징역 2년 6개월을 선고받은 피고인은 해당 형이 너무 무거워서 부당하다며 항소를 제기했습니다. 항소심재판부는 제1심의 양형이 합리적인 범위를 벗어나지 않는다면 이를 존중함이 타당하다는 대법원 판례를 들어 피고인의 항소를 이유 없다고 보았습니다. 따라서 재판부는 피고인의 항소를 기각하였습니다.",
+        "originwordCnt": "174",
+        "labelwordCnt": "38"
+    }
+}

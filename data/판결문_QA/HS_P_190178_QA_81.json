@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "190178",
+        "caseName": "관세법위반피고사건",
+        "caseNum": "77노1106",
+        "sentenceDate": "1979.12.06",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "주한미군이 들여온 물건이 언제 관세법상 장물이 되나요?",
+        "output": "관세법 제186조에 따르면, 주한미군이 들여온 물건은 그 면세대상자로부터 우리나라의 수입면허를 받지 않은 자에게 유출될 때 비로소 관세법상 장물이 된다고 할 수 있습니다.",
+        "originwordCnt": "554",
+        "labelwordCnt": "22"
+    }
+}

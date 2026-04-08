@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009632",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19589",
+        "title": "복권 및 복권기금법",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제23조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "복권으로 인한 사행심 억제 및 중독 예방을 위한 비용은 어떻게 처리됩니까?",
+        "output": "복권 및 복권기금법 제23조 제4항에 따르면, 복권으로 인한 사행심을 억제하고 중독을 예방ㆍ치유하기 위한 교육 및 홍보에 필요한 비용과 복권기금의 조성ㆍ운용 및 관리에 드는 경비는 기금에서 지급합니다.",
+        "originwordCnt": "246",
+        "labelwordCnt": "26"
+    }
+}

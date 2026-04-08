@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "309663",
+        "caseName": "사기횡령",
+        "caseNum": "2012고단524",
+        "sentenceDate": "2012. 7. 20.",
+        "courtName": "청주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "경매 관련 경험이 많은 것처럼 속이고, 아파트와 토지를 저가에 낙찰받게 해주겠다고 거짓말하여 총 7회에 걸쳐 20,352,600원을 편취하고, 이후 공매 입찰 보증금 명목으로 추가로 22,944,000원을 편취하였습니다. 법원은 사기 및 횡령 행위를 형법 제347조 제1항과 제355조 제1항에 따라 인정하고, 벌금 1000만 원을 선고하였습니다.",
+        "originwordCnt": "601",
+        "labelwordCnt": "41"
+    }
+}

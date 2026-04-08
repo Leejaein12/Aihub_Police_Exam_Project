@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336167",
+        "caseName": "사기",
+        "caseNum": "2023노1530",
+        "sentenceDate": "2023.10.20",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "항소심은 피고인이 원심의 벌금 70만 원 형이 부당하게 무겁다고 주장하였으나, 제1심에서 양형의 조건에 변화가 없고 제1심의 양형이 재량의 합리적인 범위를 벗어나지 않는 경우 이를 존중함이 타당하다는 대법원 전원합의체 판결을 근거로 원심 판단을 유지하였습니다. 법원은 피고인의 항소를 기각하였습니다.",
+        "originwordCnt": "175",
+        "labelwordCnt": "37"
+    }
+}

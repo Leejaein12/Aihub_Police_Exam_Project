@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제85조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에서 정치적 중립을 지켜야 하는 자는 어떤 행위를 할 수 없습니까?",
+        "output": "공직선거법 제85조 제1항에 따르면, 공무원 등 정치적 중립을 지켜야 하는 자는 직무와 관련하여 또는 지위를 이용하여 선거에 부당한 영향력을 행사하는 등 선거에 영향을 미치는 행위를 할 수 없습니다.",
+        "originwordCnt": "130",
+        "labelwordCnt": "28"
+    }
+}

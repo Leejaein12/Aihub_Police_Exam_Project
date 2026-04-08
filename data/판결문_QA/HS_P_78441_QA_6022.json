@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78441",
+        "caseName": "폭력행위등처벌에관한법률위반(집단·흉기등상해)공무집행방해",
+        "caseNum": "2006고단745",
+        "sentenceDate": "2006.07.26",
+        "courtName": "수원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 범행 이후 피해자와 합의한 점이 형량에 어떻게 반영되었나요?",
+        "output": "법원은 피고인이 범행 이후 피해자와 합의한 점을 참작하여 작량감경을 적용하였으며, 이러한 이유로 피고인에게 징역형을 선고하면서도 집행유예를 허용하였습니다.",
+        "originwordCnt": "551",
+        "labelwordCnt": "17"
+    }
+}

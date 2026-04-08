@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "237315",
+        "caseName": "강제집행면탈등피고사건",
+        "caseNum": "77노1113",
+        "sentenceDate": "1980.12.04",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "채무자가 여러 채권자에게 허위양도를 했을 때 강제집행면탈죄가 몇 개 성립하나요?",
+        "output": "채무자가 구체적으로 강제집행을 당할 염려가 있는 상태에서 재산을 허위양도한 경우, 그 의도가 단일하다면 당시의 채권자가 여러 명이라 할지라도 강제집행면탈죄는 하나만 성립합니다. 참조 법령은 형법 제327조입니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "25"
+    }
+}

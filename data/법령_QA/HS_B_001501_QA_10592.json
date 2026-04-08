@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001501",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19753",
+        "title": "수의사법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공수의는 누구의 지휘ㆍ감독을 받아 업무를 수행합니까?",
+        "output": "수의사법 제21조 제2항에 따라, 공수의는 시장ㆍ군수의 지휘ㆍ감독을 받아 위촉받은 업무를 수행합니다.",
+        "originwordCnt": "92",
+        "labelwordCnt": "11"
+    }
+}

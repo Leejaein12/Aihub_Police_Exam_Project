@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "182246",
+        "caseName": "모욕",
+        "caseNum": "2014노2118",
+        "sentenceDate": "2015.01.29",
+        "courtName": "의정부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인의 발언에 공연성이 인정될 수 있는지요?",
+        "output": "당시 현장에 있던 관리사무소 직원들은 불특정 다수인에게 전파될 개연성이 있으므로, 피고인의 발언에 공연성이 인정된다고 판단되었습니다.",
+        "originwordCnt": "451",
+        "labelwordCnt": "15"
+    }
+}

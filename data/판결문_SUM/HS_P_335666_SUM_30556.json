@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335666",
+        "caseName": "업무방해",
+        "caseNum": "2024고단89",
+        "sentenceDate": "2024.07.25",
+        "courtName": "대구지방법원 김천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "편의점에서 술에 취해 컵라면을 계산하지 않고 섭취하려 하고 종업원에게 욕설을 하며 소란을 피웠습니다. 이후 경찰이 출동했음에도 불구하고 피해자에게 접근하며 욕설을 계속하였고, 이로 인해 약 30분 동안 피해자의 영업을 방해했습니다. 이러한 행위는 형법 제314조 제1항에 해당하며, 피고인은 벌금 150만 원에 처해졌습니다.",
+        "originwordCnt": "273",
+        "labelwordCnt": "40"
+    }
+}

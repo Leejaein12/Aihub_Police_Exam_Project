@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313457",
+        "caseName": "도로교통법위반(무면허운전)등",
+        "caseNum": "2023고단3679",
+        "sentenceDate": "2024.03.27",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원동기장치자전거 면허 없이 도로를 운전하던 중, 진로 변경 중 실수로 혼자 전도되었고, 이로 인해 후속 차량들이 연쇄적으로 추돌하여 상해를 입었습니다. 도로교통법 제154조 제2호와 교통사고처리특례법 제3조 제1항에 따른 무면허운전 및 업무상 과실치상의 죄가 인정되어 벌금 150만 원을 선고하였습니다.",
+        "originwordCnt": "286",
+        "labelwordCnt": "37"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000851",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19588",
+        "title": "평생교육법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "평생교육은 어떤 방식으로 이루어져야 하나요?",
+        "output": "'평생교육법' 제4조 제2항에 따르면, 평생교육은 학습자의 자유로운 참여와 자발적인 학습을 기초로 이루어져야 합니다.",
+        "originwordCnt": "44",
+        "labelwordCnt": "13"
+    }
+}

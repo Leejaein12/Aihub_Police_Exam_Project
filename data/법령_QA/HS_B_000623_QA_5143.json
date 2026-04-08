@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000623",
+        "promulgDate": "20220812",
+        "effectDate": "20220812",
+        "promulgNum": "18974",
+        "title": "교통ㆍ에너지ㆍ환경세법",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "과세물품이 제조된 것으로 간주되는 경우는 무엇인가요?",
+        "output": "'교통ㆍ에너지ㆍ환경세법' 제5조 제1항에 따르면, 제조장 외의 장소에서 판매 목적으로 과세물품에 가치증대를 위한 첨가 등의 가공을 하는 경우 해당 물품은 제조된 것으로 간주됩니다.",
+        "originwordCnt": "71",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335604",
+        "caseName": "명예훼손",
+        "caseNum": "2023고정41",
+        "sentenceDate": "2024.01.12",
+        "courtName": "전주지방법원 군산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "식당 종업원에게 허위 사실을 말하여 피해자의 명예를 훼손한 혐의로 기소되었습니다. 법원은 피고인의 발언이 불특정 다수에게 전파될 가능성이 있어 공연성이 있다고 판단하였으며, 명예훼손죄가 성립한다고 보았습니다. 이에 따라 법원은 피고인에게 벌금 2,000,000원을 선고하였습니다.",
+        "originwordCnt": "820",
+        "labelwordCnt": "31"
+    }
+}

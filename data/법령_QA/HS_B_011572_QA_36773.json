@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011572",
+        "promulgDate": "20240403",
+        "effectDate": "20240403",
+        "promulgNum": "01075",
+        "title": "검사의 국선변호사 선정 등에 관한 규칙",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "확정된 국선변호사명부는 어디에 비치해야 하나요?",
+        "output": "검사의 국선변호사 선정 등에 관한 규칙 제6조에 따르면, 검사장 또는 지청장은 동규칙 제5조에 따라 확정된 국선변호사명부를 해당 지방검찰청 또는 지청에 갖추어 두어야 합니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "23"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "238991",
+        "caseName": "사기·횡령",
+        "caseNum": "2023도4371",
+        "sentenceDate": "2023.07.13",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "동일한 피해자에 대해 동일한 방법으로 여러 차례 기망행위를 하여 금원을 편취한 경우, 사기죄의 죄수는 어떻게 산정되나요?",
+        "output": "사기죄에서 동일한 피해자에 대해 단일한 범의와 동일한 방법으로 수회에 걸쳐 기망행위를 한 경우, 이는 포괄일죄로 보아야 합니다. 형법 제37조에 따라 이러한 범죄는 여러 개의 행위가 있더라도 단일한 범죄로 처벌됩니다.",
+        "originwordCnt": "72",
+        "labelwordCnt": "29"
+    }
+}

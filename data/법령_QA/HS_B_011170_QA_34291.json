@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011170",
+        "promulgDate": "20210112",
+        "effectDate": "20220113",
+        "promulgNum": "17893",
+        "title": "공공감사에 관한 법률",
+        "ministry": "감사원",
+        "fullText": "N",
+        "smClass": "제23조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "불합리한 규제의 개선을 위해 적극적으로 업무를 처리한 결과에 대한 책임을 물을 수 있습니까?",
+        "output": "공공감사에 관한 법률 제23조의2 제1항에 따르면 공공의 이익을 위해 적극적으로 업무를 처리한 결과, 고의나 중대한 과실이 없는 경우에는 징계 요구나 문책 요구 등 책임을 묻지 않습니다.",
+        "originwordCnt": "51",
+        "labelwordCnt": "26"
+    }
+}

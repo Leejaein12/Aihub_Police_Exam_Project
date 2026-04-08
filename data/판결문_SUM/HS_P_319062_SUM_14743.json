@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319062",
+        "caseName": "공무집행방해등",
+        "caseNum": "2023고단3425",
+        "sentenceDate": "2023.11.09",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술에 취해 재물을 손괴하고, 이를 제지하던 경찰관들을 폭행하여 공무집행을 방해한 혐의로 기소되었습니다. 법원은 형법 제369조 제1항과 제366조, 제136조 제1항을 적용하여 책임이 가볍지 않다고 판단했습니다. 그러나 범행을 인정하고 반성하며 피해자들과 합의한 점을 참작하여 벌금 1,500만 원을 선고하였습니다.",
+        "originwordCnt": "536",
+        "labelwordCnt": "36"
+    }
+}

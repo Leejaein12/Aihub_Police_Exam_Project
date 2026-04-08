@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78267",
+        "caseName": "관세법위반",
+        "caseNum": "2005노2648",
+        "sentenceDate": "2006.03.16",
+        "courtName": "인천지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인의 양형부당 주장은 받아들여졌나요?",
+        "output": "피고인은 전과가 없고, 이 사건 손목시계의 시가 및 범행 경위 등을 참작하였지만, 원심이 선고한 벌금형과 몰수형은 적절한 형량으로 판단되었습니다. 따라서 피고인의 양형부당 주장은 이유 없으며, 피고인의 항소는 기각되었습니다",
+        "originwordCnt": "619",
+        "labelwordCnt": "28"
+    }
+}

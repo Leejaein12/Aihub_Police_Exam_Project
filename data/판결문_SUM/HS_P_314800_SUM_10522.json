@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314800",
+        "caseName": "사기",
+        "caseNum": "2023고단493",
+        "sentenceDate": "2023.07.06",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.152%의 술에 취한 상태로 약 23km를 운전하였습니다. 이는 도로교통법 제148조의2 제3항 제2호 및 제44조 제1항에 해당하는 음주운전 입니다. 그러나 법원은 범행을 인정하고 반성하는 점, 과거 음주운전으로 벌금형을 받은 전력이 있는 점 등을 고려하여 벌금을 처하였습니다.",
+        "originwordCnt": "189",
+        "labelwordCnt": "36"
+    }
+}

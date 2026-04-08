@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000583",
+        "promulgDate": "20200331",
+        "effectDate": "20200701",
+        "promulgNum": "17142",
+        "title": "담배사업법",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제25조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "제조업자 또는 수입판매업자가 행하는 공익사업에 관한 기본적인 사항은 어떻게 결정되나요?",
+        "output": "담배사업법 제25조의3 제3항에 따르면 기획재정부장관은 제조업자 또는 수입판매업자가 행하는 사업에 관한 기본적인 사항에 관하여 관계 중앙행정기관의 장과 협의하여야 합니다.",
+        "originwordCnt": "115",
+        "labelwordCnt": "19"
+    }
+}

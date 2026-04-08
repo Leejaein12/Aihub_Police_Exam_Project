@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "240417",
+        "caseName": "사문서변조·사문서변조행사",
+        "caseNum": "77도1736",
+        "sentenceDate": "1977.07.12",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "2인 이상의 작성명의자가 된 문서에 한 명의자가 타 명의자와 합의 없이 가필한 경우 사문서변조죄가 성립하나요?",
+        "output": "형법 제231조에 따르면, 2인 이상의 작성명의자가 있는 문서에 대해 명의자 중 한 사람이 타 명의자와 합의 없이 그 문서 내용을 행사할 목적으로 변경한 경우 사문서변조죄가 성립합니다.",
+        "originwordCnt": "37",
+        "labelwordCnt": "26"
+    }
+}

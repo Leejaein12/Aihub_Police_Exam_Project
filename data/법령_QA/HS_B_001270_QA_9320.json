@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001270",
+        "promulgDate": "20220111",
+        "effectDate": "20230112",
+        "promulgNum": "18755",
+        "title": "법률구조법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제2조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가는 국민의 법률복지 증진을 위해 어떤 책무를 지고 있습니까?",
+        "output": "법률구조법 제2조의2제1항에 따르면 국가는 국민의 법률복지 증진을 위하여 법률구조 체제를 구축ㆍ운영하고, 법률구조 관련 법령의 정비와 각종 정책을 수립ㆍ시행하며, 이에 필요한 재원을 조달할 책무를 집니다.",
+        "originwordCnt": "36",
+        "labelwordCnt": "24"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001861",
+        "promulgDate": "20211221",
+        "effectDate": "20220622",
+        "promulgNum": "18601",
+        "title": "석탄산업법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제27조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "광업시설 개선을 위한 시설비 보조에는 어떤 조건이 붙을 수 있나요?",
+        "output": "석탄산업법 제27조 제3항에 따르면, 산업통상자원부장관이 광업시설 개선을 위한 시설비를 보조할 때에는 대통령령으로 정하는 광업시설의 경우 보조금의 전부 또는 일부를 상환하도록 조건을 붙일 수 있습니다.",
+        "originwordCnt": "132",
+        "labelwordCnt": "24"
+    }
+}

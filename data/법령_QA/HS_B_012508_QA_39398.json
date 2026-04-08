@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012508",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19580",
+        "title": "국민보호와 공공안전을 위한 테러방지법",
+        "ministry": "국가정보원,국무조정실",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가테러대책위원회의 구성 및 운영에 필요한 사항은 어떻게 정해지나요?",
+        "output": "국민보호와 공공안전을 위한 테러방지법 제5조 제4항에 따르면, 대책위원회의 구성 및 운영 등에 필요한 사항은 대통령령으로 정해집니다.",
+        "originwordCnt": "79",
+        "labelwordCnt": "16"
+    }
+}

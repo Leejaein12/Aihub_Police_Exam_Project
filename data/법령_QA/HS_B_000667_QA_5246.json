@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000667",
+        "promulgDate": "20240206",
+        "effectDate": "20240209",
+        "promulgNum": "20240",
+        "title": "약관의 규제에 관한 법률",
+        "ministry": "공정거래위원회",
+        "fullText": "N",
+        "smClass": "제31조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공정거래위원회는 어떤 경우에 자문위원을 위촉할 수 있나요?",
+        "output": "약관의 규제에 관한 법률 제31조의2 제1항에 따르면, 공정거래위원회는 이 법에 따른 약관 심사 업무를 수행하기 위하여 필요하다고 인정하면 자문위원을 위촉할 수 있습니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "22"
+    }
+}

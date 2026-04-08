@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010000",
+        "promulgDate": "20221115",
+        "effectDate": "20221115",
+        "promulgNum": "19022",
+        "title": "공유재산 및 물품 관리법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제32조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "일시에 통합 징수된 대부료가 대부기간 중에 증가 또는 감소되면 어떻게 처리됩니까?",
+        "output": "대부료를 일시에 통합 징수하는 경우에 대부기간 중의 대부료가 증가 또는 감소되더라도 대부료를 추가로 징수하거나 반환하지 않습니다. 이는 공유재산 및 물품 관리법 제32조 4항에 근거합니다.",
+        "originwordCnt": "111",
+        "labelwordCnt": "25"
+    }
+}

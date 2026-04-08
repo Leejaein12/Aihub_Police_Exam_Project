@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "326903",
+        "caseName": "공직선거법위반",
+        "caseNum": "2022고합144",
+        "sentenceDate": "2022.11.14.",
+        "courtName": "대전지방법원 천안지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "제20대 대통령선거의 후보자를 지칭하며 미성년자강간을 하였다는 허위내용의 문자메시지를 3회에 걸쳐 66명에게 전송하였습니다. 재판부는 진위검증의 여부, 정치 및 선거에 관한 피고인의 관심 등을 종합하여 피고인에게 허위사실의 공표에 고의가 있었음을 인정하였습니다. 따라서 피고인에게 벌금 500만원을 선고하였습니다.",
+        "originwordCnt": "1324",
+        "labelwordCnt": "34"
+    }
+}

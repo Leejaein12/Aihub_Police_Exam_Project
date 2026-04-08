@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014070",
+        "promulgDate": "20230711",
+        "effectDate": "20240112",
+        "promulgNum": "19518",
+        "title": "스토킹범죄의 처벌 등에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "지방법원 판사는 어떤 경우에 긴급응급조치를 승인할 수 있나요?",
+        "output": "스토킹범죄의 처벌 등에 관한 법률 제5조 제3항에 따르면, 지방법원 판사는 스토킹행위가 지속적 또는 반복적으로 행하여지는 것을 예방하기 위하여 필요하다고 인정하는 경우에는 청구된 긴급응급조치를 승인할 수 있습니다.",
+        "originwordCnt": "98",
+        "labelwordCnt": "26"
+    }
+}

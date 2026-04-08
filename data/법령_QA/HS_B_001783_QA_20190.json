@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001783",
+        "promulgDate": "20230418",
+        "effectDate": "20240419",
+        "promulgNum": "19359",
+        "title": "약사법",
+        "ministry": "보건복지부,식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제39조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "위해 의약품의 회수 절차와 관련된 사항은 어떻게 정해지나요?",
+        "output": "약사법 제39조 제3항에 따르면, 의약품 등의 회수에 필요한 위해성 등급 및 평가 기준, 회수 계획 또는 회수 절차, 회수된 의약품의 폐기 및 사후조치 등에 필요한 사항은 총리령으로 정한다고 규정되어 있습니다.",
+        "originwordCnt": "164",
+        "labelwordCnt": "30"
+    }
+}

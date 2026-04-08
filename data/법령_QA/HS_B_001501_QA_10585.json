@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001501",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19753",
+        "title": "수의사법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제20조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "동물병원 개설자는 발급수수료를 어떻게 처리해야 합니까?",
+        "output": "수의사법 제20조의2 제2항에 따라, 동물병원 개설자는 동물소유자등으로부터 징수하는 진단서 등 발급수수료를 농림축산식품부령으로 정하는 바에 따라 고지ㆍ게시하여야 합니다.",
+        "originwordCnt": "44",
+        "labelwordCnt": "17"
+    }
+}

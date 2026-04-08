@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "239247",
+        "caseName": "마약류관리에관한법률위반(향정)·마약류관리에관한법률위반(대마)",
+        "caseNum": "2021도5723",
+        "sentenceDate": "2024.01.04",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "범죄행위에 제공한 물건의 의미는 무엇인가요?",
+        "output": "구 형법 제48조 제1항 제1호의 ‘범죄행위에 제공한 물건’은 범죄의 실행행위 자체에 사용한 물건뿐만 아니라, 실행행위 착수 전 또는 종료 후에 사용된 물건 중 범죄행위의 수행에 실질적으로 기여한 물건도 포함합니다.",
+        "originwordCnt": "283",
+        "labelwordCnt": "29"
+    }
+}

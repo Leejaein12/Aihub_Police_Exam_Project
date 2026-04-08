@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335278",
+        "caseName": "업무상배임",
+        "caseNum": "2023노1838",
+        "sentenceDate": "2024.02.07",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "대표이사 지시에 따라 계약 관련 업무를 수행하였으며, 배임 공모 사실에 대해 알지 못했다고 주장했습니다. 그러나 원심은 피고인의 주장을 검토한 후 증거에 따라 이를 배척하고 사실오인이 없다고 판단하였습니다. 항소심에서도 원심의 판단이 정당하다고 인정되어, 피고인의 항소는 이유 없다고 보아 형사소송법 제364조 제4항에 따라 기각되었습니다.",
+        "originwordCnt": "125",
+        "labelwordCnt": "42"
+    }
+}

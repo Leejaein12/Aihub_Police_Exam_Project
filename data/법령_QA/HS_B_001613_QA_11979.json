@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001613",
+        "promulgDate": "20230321",
+        "effectDate": "20240322",
+        "promulgNum": "19245",
+        "title": "공연법",
+        "ministry": "문화체육관광부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공연장운영자는 등록 변경 사유가 있을 때 어떤 절차를 따라야 하나요?",
+        "output": "공연법 제9조제2항에 보면 공연장운영자는 문화체육관광부령으로 정하는 등록 변경 사유가 있을 때에는 특별자치시장, 특별자치도지사, 시장, 군수, 구청장에게 변경등록을 하여야 합니다.",
+        "originwordCnt": "94",
+        "labelwordCnt": "19"
+    }
+}

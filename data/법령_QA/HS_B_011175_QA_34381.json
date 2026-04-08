@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011175",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19886",
+        "title": "국민영양관리법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제20조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보건기관에서 업무를 종사하는 영양사는 어떤 교육을 받아야 하나요?",
+        "output": "국민영양관리법 제20조 제1항 규정에 따르면 보건기관ㆍ의료기관ㆍ집단급식소 등에서 각각 그 업무에 종사하는 영양사는 영양관리수준 및 자질 향상을 위하여 보수교육을 받아야 합니다.",
+        "originwordCnt": "30",
+        "labelwordCnt": "20"
+    }
+}

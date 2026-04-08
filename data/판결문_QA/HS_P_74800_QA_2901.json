@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "74800",
+        "caseName": "특정범죄가중처벌등에관한법률위반등피고사건",
+        "caseNum": "78노577",
+        "sentenceDate": "1980.11.20",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 비거주자에게 이미 지급한 외국환을 몰수할 수 없게 된 경우, 그 가액을 피고인으로부터 추징할 수 있나요?",
+        "output": "외국환관리법 제36조의 2에 따르면, 피고인이 비거주자에게 이미 외국환을 지급하여 몰수할 수 없는 경우에도 그 가액을 피고인으로부터 추징할 수는 없습니다.",
+        "originwordCnt": "95",
+        "labelwordCnt": "19"
+    }
+}

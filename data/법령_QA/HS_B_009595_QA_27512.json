@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009595",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19763",
+        "title": "공공주택 특별법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제40조의9",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "주차장의 설치기준을 완화하는 경우 어떻게 해야 하나요?",
+        "output": "공공주택 특별법 제40조의9 제2항 규정에 따르면 제1항제5호에 따라 주차장의 설치기준을 완화하는 경우 제33조에도 불구하고 도시교통정비 촉진법 제17조제1항에 따른 교통영향평가심의위원회의 심의를 받아야 합니다.",
+        "originwordCnt": "112",
+        "labelwordCnt": "22"
+    }
+}

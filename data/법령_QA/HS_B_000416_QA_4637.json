@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000416",
+        "promulgDate": "20220104",
+        "effectDate": "20220705",
+        "promulgNum": "18690",
+        "title": "비료관리법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "농업환경을 보호하기 위한 비료 개발과 품질 개선은 어떻게 이루어지나요?",
+        "output": "비료관리법 제6조에 따르면, 농업환경 및 토양을 보호하고 농업 생산성 및 경쟁력을 높이기 위한 지역별, 작물별 비료의 개발 촉진과 품질 개선 등에 필요한 사항은 대통령령으로 정한다고 되어 있습니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "27"
+    }
+}

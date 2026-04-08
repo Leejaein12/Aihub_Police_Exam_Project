@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337090",
+        "caseName": "경범죄처벌법위반",
+        "caseNum": "2024고정83",
+        "sentenceDate": "2024.05.14",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "건축물의 구조를 철근콘크리트조에서 목구조로 변경하면서도 피고인 A는 변경신고를 하지 않고 사용승인을 받기 전 건축물을 사용하게 한 혐의로 기소되었습니다. 피고인 B 주식회사도 A의 위반 행위에 대한 책임을 함께 물었습니다. 법원은 건축법 제111조와 제110조 등을 적용하여 이들에게 각 벌금 500만 원을 선고하였습니다.",
+        "originwordCnt": "386",
+        "labelwordCnt": "40"
+    }
+}

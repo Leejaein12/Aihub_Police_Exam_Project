@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001872",
+        "promulgDate": "20210518",
+        "effectDate": "20211119",
+        "promulgNum": "18176",
+        "title": "근로기준법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제74조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "임산부의 출산전후휴가 종료되면 사업주는 어떤 의무가 있나요?",
+        "output": "근로기준법 제74조 제6항에 명시된 바에 의하면, 사업주는 제1항에 따른 출산전후휴가 종료 후에는 휴가 전과 동일한 업무 또는 동등한 수준의 임금을 지급하는 직무에 복귀시켜야 합니다.",
+        "originwordCnt": "332",
+        "labelwordCnt": "24"
+    }
+}

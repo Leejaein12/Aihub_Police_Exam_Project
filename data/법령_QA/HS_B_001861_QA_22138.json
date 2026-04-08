@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001861",
+        "promulgDate": "20211221",
+        "effectDate": "20220622",
+        "promulgNum": "18601",
+        "title": "석탄산업법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제39조의6",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "광업권이 소멸된 구역에 대해 새로운 광업권 설정의 출원을 할 수 있나요?",
+        "output": "석탄산업법 제39조의6 제1항에 따르면, 제39조의3 제1항 또는 제3항에 따라 광업권이 소멸된 구역에 대해서는 석탄 및 이와 같은 광상에 묻혀 있는 다른 광물을 대상으로 하는 광업권 설정의 출원을 할 수 없습니다.",
+        "originwordCnt": "57",
+        "labelwordCnt": "30"
+    }
+}

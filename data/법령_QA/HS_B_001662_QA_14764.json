@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001662",
+        "promulgDate": "20201020",
+        "effectDate": "20210421",
+        "promulgNum": "17505",
+        "title": "소년법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소년법 관련해서 조사 방침은 어떻게 되는가요?",
+        "output": "소년법 제9조에 따르면, 조사는 의학ㆍ심리학ㆍ교육학ㆍ사회학이나 그 밖의 전문적인 지식을 활용하여 소년과 보호자 또는 참고인의 품행, 경력, 가정 상황, 그 밖의 환경 등을 밝히도록 노력하여야 합니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "25"
+    }
+}

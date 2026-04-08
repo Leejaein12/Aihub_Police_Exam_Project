@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "233679",
+        "caseName": "강간치상피고사건",
+        "caseNum": "70노218",
+        "sentenceDate": "1970.06.23",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "상소 포기 후 변호인이 제출한 항소가 부적법하게 된 이유는 무엇인가요?",
+        "output": "형사소송법 제341조에 따르면, 상소를 포기한 이후에 변호인이 피고인의 명확한 의사에 반하여 항소를 제출한 경우, 해당 항소는 부적법하게 됩니다. 상소를 포기한 피고인의 의사를 존중해야 하므로 변호인의 항소는 효력이 인정되지 않았습니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "29"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011187",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19743",
+        "title": "성폭력범죄의 처벌 등에 관한 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제49조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법무부장관은 성폭력범죄에 관한 등록정보의 고지와 관련하여 어떤 역할을 하나요?",
+        "output": "성폭력범죄의 처벌 등에 관한 특례법 제49조 제3항에 따라, 법무부장관은 등록정보의 고지에 필요한 정보를 여성가족부장관에게 송부해야 합니다.",
+        "originwordCnt": "37",
+        "labelwordCnt": "16"
+    }
+}

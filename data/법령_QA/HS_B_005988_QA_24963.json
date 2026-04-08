@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005988",
+        "promulgDate": "20211231",
+        "effectDate": "20220101",
+        "promulgNum": "03016",
+        "title": "형사소송규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제25조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "경정결정은 재판서의 원본과 등본에 덧붙여 적나요?",
+        "output": "형사소송규칙 제25조제2항에 따르면 경정결정은 재판서의 원본과 등본에 덧붙여 적어야 합니다. 다만, 등본에 덧붙여 적을 수 없을 때에는 경정결정의 등본을 작성하여 재판서의 등본을 송달받은 자에게 송달하여야 합니다.",
+        "originwordCnt": "68",
+        "labelwordCnt": "26"
+    }
+}

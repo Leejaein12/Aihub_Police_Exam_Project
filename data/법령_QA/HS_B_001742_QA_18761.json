@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001742",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19134",
+        "title": "선박안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제30조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "무선설비가 선박위치발신장치의 기능을 가지는 경우 어떻게 되나요?",
+        "output": "선박안전법 제30조 제2항에 따르면, 제29조 제1항 또는 제2항의 규정에 따른 무선설비가 선박위치발신장치의 기능을 가지고 있는 때에는 선박위치발신장치를 갖춘 것으로 봅니다.",
+        "originwordCnt": "77",
+        "labelwordCnt": "20"
+    }
+}

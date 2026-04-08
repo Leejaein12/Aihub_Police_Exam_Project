@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000240",
+        "promulgDate": "20211207",
+        "effectDate": "20220608",
+        "promulgNum": "18552",
+        "title": "골재채취법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제29조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시장ㆍ군수 또는 구청장은 골재채취구역을 복구 등이 완료되었을 때에는 어떤 검사를 하여야 합니까?",
+        "output": "골재채취법 제29조 제4항에 명시된 바와 같이, 시장ㆍ군수 또는 구청장은 제1항이나 제3항에 따라 복구 등이 완료되었을 때에는 복구준공검사를 하여야 합니다.",
+        "originwordCnt": "237",
+        "labelwordCnt": "19"
+    }
+}

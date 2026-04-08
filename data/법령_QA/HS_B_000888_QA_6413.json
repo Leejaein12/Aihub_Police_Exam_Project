@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000888",
+        "promulgDate": "20221213",
+        "effectDate": "20230614",
+        "promulgNum": "19066",
+        "title": "사립학교법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제20조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "1어떤 경우에 관할청은 임원의 직무를 정지시킬 수 있나요?",
+        "output": "1사립학교법 제20조의3 제1항에 따르면, 관할청은 특정 사유가 발생할 경우 임원의 직무를 60일의 범위에서 정지시킬 수 있습니다. 부득이한 사유가 있을 때는 그 기간을 연장할 수 있습니다.",
+        "originwordCnt": "79",
+        "labelwordCnt": "26"
+    }
+}

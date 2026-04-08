@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72726",
+        "caseName": "폭력행위등처벌에관한법률피고사건",
+        "caseNum": "70노510",
+        "sentenceDate": "1970.11.26",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "상해행위가 단 한 번 일어났더라도 상습범으로 처벌될 수 있나요?",
+        "output": "상해행위가 단 한 번에 그쳤더라도 손괴행위가 짧은 기간 안에 반복적으로 수행되었다면, 두 행위는 모두 폭력행위등처벌에관한법률 제2조에 규정된 동일한 죄질을 가지므로 상해행위도 상습범으로 처벌할 수 있습니다.",
+        "originwordCnt": "32",
+        "labelwordCnt": "25"
+    }
+}

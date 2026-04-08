@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001638",
+        "promulgDate": "20230418",
+        "effectDate": "20240101",
+        "promulgNum": "19357",
+        "title": "도로교통법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제78조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "교통안전교육기관의 운영을 정지하려면 어떻게 해야 하나요?",
+        "output": "도로교통법 제78조에 따르면 교통안전교육기관의 장은 해당 교통안전교육기관의 운영을 1개월 이상 정지하거나 폐지하려면 정지 또는 폐지하려는 날의 7일 전까지 행정안전부령으로 정하는 바에 따라 시·도경찰청장에게 신고하여야 합니다.",
+        "originwordCnt": "33",
+        "labelwordCnt": "25"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001112",
+        "promulgDate": "20210105",
+        "effectDate": "20210105",
+        "promulgNum": "17827",
+        "title": "범죄인 인도법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제33조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "범죄인 인도법 규정상, 검사가 결정서 등본을 송달받았을 때 해야 할 조치는 무엇인가요?",
+        "output": "범죄인 인도법 제33조에 따르면 검사는 제15조제4항에 따른 결정서 등본을 송달받았을 때 지체 없이 그 결정서 등본에 관계 서류를 첨부하여 법무부장관에게 송부하여야 합니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "22"
+    }
+}

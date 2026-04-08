@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336007",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단2322",
+        "sentenceDate": "2023.12.07",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "도로교통법위반(음주운전)으로 벌금형이 확정된 이후, 혈중알코올농도 0.149%의 술에 취한 상태로 약 3.2km 구간을 운전하여 도로교통법을 재차 위반한 사실이 인정됩니다. 도로교통법 제148조의2 제1항 제3호, 제44조 제1항에 의거하여 법원은 피고인에게 벌금 1,500만 원을 선고하였습니다.",
+        "originwordCnt": "153",
+        "labelwordCnt": "31"
+    }
+}

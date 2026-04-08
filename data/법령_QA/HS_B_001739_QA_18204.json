@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001739",
+        "promulgDate": "20230725",
+        "effectDate": "20240126",
+        "promulgNum": "19573",
+        "title": "선박직원법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국내 조선소에서 건조 또는 개조되는 선박의 시운전에 대해 어떤 규정이 적용됩니까?",
+        "output": "선박직원법 제3조 제3항에 따르면, 국내의 조선소에서 건조 또는 개조되는 선박을 진수 시부터 인도 시까지 시운전하는 경우에는 제11조 및 제13조부터 제15조까지의 규정만 적용됩니다.",
+        "originwordCnt": "66",
+        "labelwordCnt": "22"
+    }
+}

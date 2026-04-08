@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000890",
+        "promulgDate": "20211228",
+        "effectDate": "20220629",
+        "promulgNum": "18640",
+        "title": "학교보건법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "교육부장관은 대기오염에 대응하기 위해 어떤 조치를 취해야 하나요?",
+        "output": "'학교보건법' 제5조 제1항에 따르면, 교육부장관은 대기오염에 효과적으로 대응하기 위하여 환경부장관과의 협의를 거쳐 「대기환경보전법」 제7조의2에 따른 대기오염도 예측결과에 따른 대응 매뉴얼을 작성ㆍ배포하여야 합니다.",
+        "originwordCnt": "76",
+        "labelwordCnt": "22"
+    }
+}

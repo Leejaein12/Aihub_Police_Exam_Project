@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155569",
+        "caseName": "공무상비밀누설",
+        "caseNum": "70도562",
+        "sentenceDate": "1970.06.30",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 직무상 알게 된 구술시험 문제를 타인에게 알린 행위는 어떤 범죄에 해당하나요?",
+        "output": "피고인이 직무상 알게 된 구술시험 문제를 타인에게 알린 행위는 형법 제127조에 따른 공무상 비밀누설죄이며, 동시에 형법 제131조 제1항에 규정된 부정한 행위를 한 때에 해당합니다.",
+        "originwordCnt": "571",
+        "labelwordCnt": "24"
+    }
+}

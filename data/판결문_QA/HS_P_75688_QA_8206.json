@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "75688",
+        "caseName": "무고피고사건",
+        "caseNum": "83노524",
+        "sentenceDate": "1984.03.16",
+        "courtName": "수원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "무고죄에서 허위 사실 신고는 어떤 경우에 해당하지 않나요?",
+        "output": "형법 제156조에 따르면, 무고죄에서 허위의 사실이라 함은 단순히 사실에 대한 정황을 과장하여 표현하거나 주관적인 법률적 평가를 덧붙인 것만으로는 해당되지 않습니다. 이러한 경우는 허위 사실을 신고한 것으로 보지 않는다고 판시하였습니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "29"
+    }
+}

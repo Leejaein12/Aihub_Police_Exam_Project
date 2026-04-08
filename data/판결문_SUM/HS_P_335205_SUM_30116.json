@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335205",
+        "caseName": "병역법위반",
+        "caseNum": "2023고단114",
+        "sentenceDate": "2023.06.27",
+        "courtName": "수원지방법원 여주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "병무청으로부터 재신체검사를 받으라는 통지서를 직접 수령하고도 정당한 사유 없이 해당 일자에 검사를 받지 않아 병역법을 위반하였습니다. 이에 따라 재판부는 피고인에게 징역 4개월을 선고하였으나, 1년간 집행유예를 부여하고 보호관찰을 명령하였습니다. 피고인이 범행을 인정하고 반성하며, 형사처벌 전력이 없는 점을 고려하였습니다.",
+        "originwordCnt": "165",
+        "labelwordCnt": "37"
+    }
+}

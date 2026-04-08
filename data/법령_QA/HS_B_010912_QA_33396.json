@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010912",
+        "promulgDate": "20240130",
+        "effectDate": "20240130",
+        "promulgNum": "20172",
+        "title": "한국환경공단법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국환경공단의 설립은 어떻게 이루어지나요?",
+        "output": "한국환경공단법 제5조 제1항에 따르면, 한국환경공단은 주된 사무소의 소재지에서 설립등기를 함으로써 성립합니다.",
+        "originwordCnt": "18",
+        "labelwordCnt": "11"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009371",
+        "promulgDate": "20210924",
+        "effectDate": "20220325",
+        "promulgNum": "18469",
+        "title": "기술의 이전 및 사업화 촉진에 관한 법률",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "정부는 기술이전과 사업화를 촉진하기 위해 어떤 역할을 해야 하나요?",
+        "output": "기술의 이전 및 사업화 촉진에 관한 법률 제3조 제1항에 따르면, 정부는 기술이전과 사업화를 촉진하기 위한 시책을 수립하고 시행하여 이 법의 목적이 달성될 수 있도록 하여야 합니다.",
+        "originwordCnt": "43",
+        "labelwordCnt": "26"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제43조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에 따르면 불복신청은 언제까지 할 수 있습니까?",
+        "output": "제41조 제2항의 결정에 대해 불복이 있는 이의신청인이나 관계인은 그 통지를 받은 날의 다음 날까지 관할구 시 군선거관리위원회에 서면으로 불복을 신청할 수 있습니다. 공직선거법 제42조 제1항에 규정되어 있습니다.",
+        "originwordCnt": "82",
+        "labelwordCnt": "27"
+    }
+}

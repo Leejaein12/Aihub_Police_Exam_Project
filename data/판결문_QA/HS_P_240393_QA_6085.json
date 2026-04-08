@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "240393",
+        "caseName": "사문서위조·사문서위조행사",
+        "caseNum": "73도3432",
+        "sentenceDate": "1975.06.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 위조된 영화제작승낙서를 행사한 경우, 사문서위조 및 행사죄가 성립하나요?",
+        "output": "피고인이 위조된 영화제작승낙서를 검열당국에 제출하여 행사한 경우, 사문서위조 및 동 행사죄가 성립합니다. 피고인의 상고는 이유가 없으므로 기각되었습니다.",
+        "originwordCnt": "80",
+        "labelwordCnt": "17"
+    }
+}

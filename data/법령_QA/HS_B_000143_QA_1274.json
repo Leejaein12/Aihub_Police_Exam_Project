@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000143",
+        "promulgDate": "20210105",
+        "effectDate": "20210706",
+        "promulgNum": "17864",
+        "title": "노동조합 및 노동관계조정법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제24조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "근로시간 면제 한도를 초과하는 단체협약 또는 사용자의 동의는 어떻게 처리되나요?",
+        "output": "노동조합 및 노동관계조정법 제24조 제4항에 따르면, 근로시간 면제 한도를 초과하는 내용을 정한 단체협약 또는 사용자의 동의는 그 부분에 한정하여 무효로 처리됩니다.",
+        "originwordCnt": "124",
+        "labelwordCnt": "21"
+    }
+}

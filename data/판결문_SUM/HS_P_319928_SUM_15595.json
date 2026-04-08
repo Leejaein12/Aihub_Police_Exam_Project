@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319928",
+        "caseName": "정보통신망이용촉진및정보보호등에관한법률위반(음란물유포)",
+        "caseNum": "2023고단2565",
+        "sentenceDate": "2024.04.24",
+        "courtName": "수원지방법원 안산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "범행은 얼굴 사진을 이용해 음란한 문언과 사진을 SNS에 게시하는 방식으로 이루어졌습니다. 주거지에서 SNS 계정을 사용해 얼굴 사진과 음란한 글을 여러 차례 게시하였으며, 법원은 범행을 인정하고 별다른 처벌 전력이 없다는 점을 고려하여 징역 6월을 선고하되, 1년간 집행을 유예하며 압수된 휴대전화를 몰수하기로 결정하였습니다.",
+        "originwordCnt": "418",
+        "labelwordCnt": "41"
+    }
+}

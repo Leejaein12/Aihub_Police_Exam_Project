@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311271",
+        "caseName": "상해등",
+        "caseNum": "2023노3653",
+        "sentenceDate": "2023.12.13",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "항소심 법원은 제1심에서 선고된 징역 8개월 형은 양형의 조건에 비추어 적정하며, 원심의 양형이 재량의 합리적인 범위를 벗어나지 않았다고 판단하였습니다. 피고인의 연령, 성행, 환경, 범행 동기 등 양형의 여러 조건을 종합적으로 고려하였고, 원심 판결 이후 새로운 정상이나 사정변경이 없었기 때문에 항소는 모두 기각되었습니다.",
+        "originwordCnt": "209",
+        "labelwordCnt": "42"
+    }
+}

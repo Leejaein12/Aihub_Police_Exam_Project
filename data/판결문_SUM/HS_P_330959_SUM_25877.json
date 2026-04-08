@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "330959",
+        "caseName": "사기등",
+        "caseNum": "2023고단2063",
+        "sentenceDate": "2023.12.12",
+        "courtName": "부산지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "고용안정장려금을 허위로 신청해 총 81,850,000원을 편취한 사건에 대해 판결하였습니다. 고용보험 재정에 부정적인 영향을 미친 점이 고려되어 피고인 A는 징역 6개월에 집행유예 2년을 선고받았고, 피고인 B와 주식회사 C는 각각 벌금형에 처해졌습니다.",
+        "originwordCnt": "1332",
+        "labelwordCnt": "30"
+    }
+}

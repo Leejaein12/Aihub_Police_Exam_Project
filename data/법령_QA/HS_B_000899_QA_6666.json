@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000899",
+        "promulgDate": "20230609",
+        "effectDate": "20230710",
+        "promulgNum": "19430",
+        "title": "고등교육법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제19조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "학교가 설치한 대학평의원회의 의장은 학생인 평의원도 호선될 수 있습니까?",
+        "output": "고등교육법 제19조의2 제3항에 의하면 대학평의원회에 의장과 부의장 각각 1명을 두며, 평의원 중에서 호선합니다. 이 경우 의장은 학생이 아닌 평의원 중에서 호선합니다.",
+        "originwordCnt": "246",
+        "labelwordCnt": "21"
+    }
+}

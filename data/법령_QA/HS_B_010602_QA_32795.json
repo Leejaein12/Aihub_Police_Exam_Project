@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010602",
+        "promulgDate": "20230620",
+        "effectDate": "20240621",
+        "promulgNum": "19499",
+        "title": "수산생물질병 관리법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제58조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "범칙행위에 대한 수사는 누가 전속적으로 행하나요?",
+        "output": "수산생물질병 관리법 제58조 제4항에 따르면, 범칙행위에 대한 수사는 검사와 「사법경찰관리의 직무를 행할 자와 그 직무범위에 관한 법률」에 따라 지명을 받은 공무원이 전속적으로 행합니다.",
+        "originwordCnt": "88",
+        "labelwordCnt": "23"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001514",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19746",
+        "title": "농약관리법",
+        "ministry": "농림축산식품부,농촌진흥청",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "품목변경등록과 관련된 서류 검토 및 재발급 절차는 어떻게 이루어지나요?",
+        "output": "농약관리법 제13조 제3항에 따르면, 제1항에 따른 품목변경등록에 관련된 품목등록 신청서류 등의 검토 및 반려 등과 품목등록증의 재발급에 관하여는 제9조와 제10조를 준용합니다.",
+        "originwordCnt": "91",
+        "labelwordCnt": "21"
+    }
+}

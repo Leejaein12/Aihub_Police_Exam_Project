@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312191",
+        "caseName": "폭행",
+        "caseNum": "2024고정5",
+        "sentenceDate": "2024.05.10",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "교차로에서 좌회전 중 직진하던 피해자와 사고가 발생할 위험을 초래하였고, 이에 항의하는 피해자의 목을 오른손으로 1회 잡아 폭행하였습니다. 법원은 피고인의 행위가 형법 제260조 제1항에 해당하는 폭행죄를 구성한다고 판단하였고, 벌금 50만 원을 선고하였습니다.",
+        "originwordCnt": "142",
+        "labelwordCnt": "31"
+    }
+}

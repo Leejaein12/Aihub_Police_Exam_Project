@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000912",
+        "promulgDate": "20200204",
+        "effectDate": "20200204",
+        "promulgNum": "16927",
+        "title": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제45조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "전화통화 허가의 범위와 통화내용 청취ㆍ녹음에 관한 세부 사항은 어떻게 정해지나요?",
+        "output": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 제45조 제5항에 따라 전화통화 허가의 범위와 통화내용의 청취ㆍ녹음에 관한 사항은 대통령령으로 정해집니다.",
+        "originwordCnt": "63",
+        "labelwordCnt": "20"
+    }
+}

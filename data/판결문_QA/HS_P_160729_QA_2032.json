@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "160729",
+        "caseName": "강제 추행 상해",
+        "caseNum": "2011노2082",
+        "sentenceDate": "2011.10.13",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인의 신상정보를 공개·고지하지 않아야 할 특별한 사정이 있을 때, 법원은 어떻게 판단해야 하나요?",
+        "output": "법원은 아동·청소년의 성보호에 관한 법률 제38조 제1항 및 제38조의2 제1항에 따라, 피고인의 신상정보를 공개·고지하지 않아야 할 특별한 사정이 있는 경우에는 공개·고지명령을 선고하지 않을 수 있습니다.",
+        "originwordCnt": "702",
+        "labelwordCnt": "25"
+    }
+}

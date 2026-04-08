@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001708",
+        "promulgDate": "20210105",
+        "effectDate": "20210105",
+        "promulgNum": "17828",
+        "title": "변호사법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제69조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "지방변호사회에는 어떤 임원들이 있나요?",
+        "output": "변호사법 제69조 제1항에 따르면 지방변호사회에는 다음 각 호의 임원을 둡니다.1. 회장  2. 부회장  3. 상임이사  4. 이사  5. 감사",
+        "originwordCnt": "35",
+        "labelwordCnt": "28"
+    }
+}

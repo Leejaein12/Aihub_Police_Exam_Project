@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000794",
+        "promulgDate": "20230406",
+        "effectDate": "20230406",
+        "promulgNum": "19326",
+        "title": "방송법",
+        "ministry": "과학기술정보통신부,방송통신위원회",
+        "fullText": "N",
+        "smClass": "제59조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "결산서에 첨부해야 할 서류는 무엇입니까?",
+        "output": "방송법 제59조 제2항에 따르면, 결산서에는 다음 각호의 서류를 첨부하여야 합니다.1. 재무제표와 그 부속서류2. 그 밖에 결산의 내용을 명확하게 함에 필요한 서류로서 대통령령으로 정하는 서류",
+        "originwordCnt": "114",
+        "labelwordCnt": "26"
+    }
+}

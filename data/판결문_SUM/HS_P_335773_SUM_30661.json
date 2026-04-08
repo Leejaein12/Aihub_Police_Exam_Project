@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335773",
+        "caseName": "업무방해",
+        "caseNum": "2023고정1310",
+        "sentenceDate": "2024.05.02",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술에 취해 주점에서 다른 손님들에게 욕설을 하고 시비를 걸며 소란을 피우다가 피해자의 관리 업무를 방해하였습니다. 경찰이 출동해 피고인을 밖으로 데리고 나왔으나 다시 주점으로 들어가 큰소리로 폭언을 하는 등 약 30분 동안 피해자의 업무를 지속적으로 방해한 사실이 인정되었습니다. 법원은 피고인에게 벌금 150만 원을 선고하였습니다.",
+        "originwordCnt": "204",
+        "labelwordCnt": "43"
+    }
+}

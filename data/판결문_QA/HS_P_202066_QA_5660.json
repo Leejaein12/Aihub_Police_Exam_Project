@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "202066",
+        "caseName": "집행유예취소인용결정에대한즉시항고",
+        "caseNum": "2018로34",
+        "sentenceDate": "2018.06.01",
+        "courtName": "서울동부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "원심이 피고인의 집행유예 선고를 취소한 이유는 무엇인가요?",
+        "output": "원심은 피고인이 보호관찰관의 명령을 위반하였고 그 위반의 정도가 무겁다고 판단하여 집행유예의 선고를 취소하였습니다. 기록에 비추어 원심의 판단은 정당하다고 보아 항고를 기각하였습니다.",
+        "originwordCnt": "70",
+        "labelwordCnt": "21"
+    }
+}

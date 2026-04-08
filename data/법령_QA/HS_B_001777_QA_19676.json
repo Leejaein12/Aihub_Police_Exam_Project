@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001777",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "노인복지법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제39조의7",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "노인학대 피해자 등을 조사할 때 어떤 조치가 필요하나요?",
+        "output": "노인복지법 제39조의7 제4항에 따르면, 노인보호전문기관의 직원이나 사법경찰관은 피해자·신고자·목격자 등이 자유롭게 진술할 수 있도록 노인학대행위자로부터 분리된 곳에서 조사하는 등 필요한 조치를 하여야 합니다.",
+        "originwordCnt": "220",
+        "labelwordCnt": "22"
+    }
+}

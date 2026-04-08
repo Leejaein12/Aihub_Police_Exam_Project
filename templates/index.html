@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>형사법 퀴즈</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700;900&family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #0d0f18;
+            --surface: #161922;
+            --surface2: #1e2130;
+            --border: #2a2f45;
+            --gold: #c9a84c;
+            --gold-light: #e8c97a;
+            --text: #e2e4ec;
+            --text-muted: #5a6080;
+            --correct: #1a4a2e;
+            --correct-border: #2ecc71;
+            --correct-text: #a8f0c6;
+            --wrong: #4a1a1a;
+            --wrong-border: #e74c3c;
+            --wrong-text: #f0a8a8;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Noto Sans KR', sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        /* 배경 패턴 */
+        body::before {
+            content: '';
+            position: fixed;
+            inset: 0;
+            background-image: 
+                linear-gradient(rgba(201,168,76,0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(201,168,76,0.03) 1px, transparent 1px);
+            background-size: 40px 40px;
+            pointer-events: none;
+        }
+
+        .wrap {
+            width: 100%;
+            max-width: 680px;
+            padding: 2rem 1.5rem;
+            position: relative;
+        }
+
+        /* 헤더 */
+        .header {
+            text-align: center;
+            margin-bottom: 2.5rem;
+            animation: fadeDown 0.6s ease;
+        }
+
+        .header-badge {
+            display: inline-block;
+            font-size: 0.7rem;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            color: var(--gold);
+            border: 1px solid var(--gold);
+            padding: 4px 14px;
+            border-radius: 20px;
+            margin-bottom: 1rem;
+        }
+
+        .header h1 {
+            font-family: 'Noto Serif KR', serif;
+            font-size: 2.2rem;
+            font-weight: 900;
+            color: var(--text);
+            letter-spacing: -1px;
+            line-height: 1.2;
+        }
+
+        .header h1 span { color: var(--gold); }
+
+        .header p {
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            margin-top: 0.5rem;
+        }
+
+        /* 카테고리 탭 */
+        .category-tabs {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 0.4rem;
+            animation: fadeUp 0.6s ease 0.1s both;
+        }
+
+        .tab-btn {
+            flex: 1;
+            padding: 0.6rem 0.5rem;
+            border: none;
+            border-radius: 7px;
+            background: transparent;
+            color: var(--text-muted);
+            font-family: 'Noto Sans KR', sans-serif;
+            font-size: 0.82rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-weight: 500;
+        }
+
+        .tab-btn:hover { color: var(--text); background: var(--surface2); }
+
+        .tab-btn.active {
+            background: var(--gold);
+            color: #0d0f18;
+            font-weight: 700;
+        }
+
+        /* 퀴즈 카드 */
+        .quiz-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            animation: fadeUp 0.6s ease 0.2s both;
+        }
+
+        .quiz-card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.8rem 1.4rem;
+            border-bottom: 1px solid var(--border);
+            background: var(--surface2);
+        }
+
+        .q-num {
+            font-size: 0.72rem;
+            letter-spacing: 2px;
+            color: var(--gold);
+            text-transform: uppercase;
+        }
+
+        .q-category {
+            font-size: 0.7rem;
+            background: var(--border);
+            color: var(--text-muted);
+            padding: 3px 10px;
+            border-radius: 20px;
+        }
+
+        .q-law {
+            font-size: 0.68rem;
+            color: var(--text-muted);
+        }
+
+        .question-text {
+            padding: 1.6rem 1.4rem;
+            font-size: 1rem;
+            line-height: 1.8;
+            color: var(--text);
+            border-bottom: 1px solid var(--border);
+            min-height: 100px;
+        }
+
+        /* 보기 */
+        .choices {
+            padding: 1rem 1rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .choice-btn {
+            width: 100%;
+            padding: 0.85rem 1.1rem;
+            background: var(--surface2);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            color: var(--text);
+            font-family: 'Noto Sans KR', sans-serif;
+            font-size: 0.88rem;
+            text-align: left;
+            cursor: pointer;
+            transition: all 0.2s;
+            line-height: 1.6;
+            display: flex;
+            gap: 0.8rem;
+            align-items: flex-start;
+        }
+
+        .choice-btn:hover:not(:disabled) {
+            border-color: var(--gold);
+            background: #1e2235;
+        }
+
+        .choice-label {
+            color: var(--gold);
+            font-weight: 700;
+            min-width: 18px;
+            font-size: 0.9rem;
+        }
+
+        .choice-btn.correct {
+            background: var(--correct);
+            border-color: var(--correct-border);
+            color: var(--correct-text);
+        }
+
+        .choice-btn.correct .choice-label { color: var(--correct-border); }
+
+        .choice-btn.wrong {
+            background: var(--wrong);
+            border-color: var(--wrong-border);
+            color: var(--wrong-text);
+        }
+
+        .choice-btn.wrong .choice-label { color: var(--wrong-border); }
+
+        .choice-btn.dimmed {
+            opacity: 0.35;
+        }
+
+        /* 결과 메시지 */
+        .result-msg {
+            margin: 0 1rem 0.5rem;
+            padding: 0.7rem 1rem;
+            border-radius: 8px;
+            font-size: 0.88rem;
+            font-weight: 500;
+            display: none;
+            animation: fadeUp 0.3s ease;
+        }
+
+        .result-msg.correct {
+            background: var(--correct);
+            border: 1px solid var(--correct-border);
+            color: var(--correct-text);
+            display: block;
+        }
+
+        .result-msg.wrong {
+            background: var(--wrong);
+            border: 1px solid var(--wrong-border);
+            color: var(--wrong-text);
+            display: block;
+        }
+
+        /* 다음 버튼 */
+        .next-btn {
+            width: calc(100% - 2rem);
+            margin: 0.5rem 1rem 1rem;
+            padding: 0.85rem;
+            background: var(--gold);
+            border: none;
+            border-radius: 8px;
+            color: #0d0f18;
+            font-family: 'Noto Sans KR', sans-serif;
+            font-size: 0.92rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s;
+            display: none;
+        }
+
+        .next-btn:hover { background: var(--gold-light); }
+        .next-btn.show { display: block; animation: fadeUp 0.3s ease; }
+
+        /* 스코어 */
+        .score-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.8rem 1.2rem;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            margin-top: 1rem;
+            animation: fadeUp 0.6s ease 0.3s both;
+        }
+
+        .score-label { font-size: 0.78rem; color: var(--text-muted); }
+
+        .score-nums {
+            display: flex;
+            gap: 1.5rem;
+        }
+
+        .score-item {
+            text-align: center;
+        }
+
+        .score-item .num {
+            font-family: 'Noto Serif KR', serif;
+            font-size: 1.4rem;
+            font-weight: 700;
+        }
+
+        .score-item .num.correct { color: var(--correct-border); }
+        .score-item .num.wrong { color: var(--wrong-border); }
+        .score-item .num.total { color: var(--gold); }
+
+        .score-item .lbl {
+            font-size: 0.65rem;
+            color: var(--text-muted);
+            display: block;
+        }
+
+        /* 로딩 */
+        .loading {
+            text-align: center;
+            padding: 3rem;
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        .loading::after {
+            content: '';
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 2px solid var(--border);
+            border-top-color: var(--gold);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            margin-left: 0.5rem;
+            vertical-align: middle;
+        }
+
+        @keyframes spin { to { transform: rotate(360deg); } }
+        @keyframes fadeDown { from { opacity: 0; transform: translateY(-15px); } to { opacity: 1; transform: translateY(0); } }
+        @keyframes fadeUp { from { opacity: 0; transform: translateY(15px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+</head>
+<body>
+<div class="wrap">
+
+    <!-- 헤더 -->
+    <div class="header">
+        <div class="header-badge">경찰 공무원 시험 대비</div>
+        <h1>형사법 <span>퀴즈</span></h1>
+        <p>법령 · 판결문 · 판결 요약 문제</p>
+    </div>
+
+    <!-- 카테고리 탭 -->
+    <div class="category-tabs">
+        <button class="tab-btn active" data-cat="전체">전체</button>
+        <button class="tab-btn" data-cat="법령">📚 법령</button>
+        <button class="tab-btn" data-cat="판결문">⚖️ 판결문</button>
+        <button class="tab-btn" data-cat="요약">📝 판결문 요약</button>
+    </div>
+
+    <!-- 퀴즈 카드 -->
+    <div class="quiz-card" id="quizCard">
+        <div class="loading">문제 불러오는 중</div>
+    </div>
+
+    <!-- 결과 메시지 -->
+    <div class="result-msg" id="resultMsg"></div>
+
+    <!-- 다음 버튼 -->
+    <button class="next-btn" id="nextBtn" onclick="loadQuiz()">다음 문제 →</button>
+
+    <!-- 스코어 -->
+    <div class="score-bar">
+        <span class="score-label">현재 점수</span>
+        <div class="score-nums">
+            <div class="score-item">
+                <span class="num correct" id="correctCount">0</span>
+                <span class="lbl">정답</span>
+            </div>
+            <div class="score-item">
+                <span class="num wrong" id="wrongCount">0</span>
+                <span class="lbl">오답</span>
+            </div>
+            <div class="score-item">
+                <span class="num total" id="totalCount">0</span>
+                <span class="lbl">총 문제</span>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<script>
+    let currentCategory = '전체';
+    let currentCorrectIdx = -1;
+    let score = { correct: 0, wrong: 0, total: 0 };
+    let answered = false;
+    const labels = ['①', '②', '③', '④'];
+
+    // 카테고리 탭
+    document.querySelectorAll('.tab-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            currentCategory = btn.dataset.cat;
+            loadQuiz();
+        });
+    });
+
+    async function loadQuiz() {
+        answered = false;
+        const card = document.getElementById('quizCard');
+        const resultMsg = document.getElementById('resultMsg');
+        const nextBtn = document.getElementById('nextBtn');
+
+        resultMsg.className = 'result-msg';
+        nextBtn.classList.remove('show');
+        card.innerHTML = '<div class="loading">문제 불러오는 중</div>';
+
+        try {
+            const url = currentCategory === '전체'
+                ? '/quiz'
+                : `/quiz?category=${encodeURIComponent(currentCategory)}`;
+
+            const res = await fetch(url);
+            const data = await res.json();
+
+            if (data.error) {
+                card.innerHTML = `<div class="loading">${data.error}</div>`;
+                return;
+            }
+
+            currentCorrectIdx = data.correct_idx;
+            renderQuiz(data);
+
+        } catch (e) {
+            card.innerHTML = '<div class="loading">문제를 불러오지 못했어요</div>';
+        }
+    }
+
+    function renderQuiz(data) {
+        const card = document.getElementById('quizCard');
+
+        const choicesHTML = data.choices.map((choice, i) => `
+            <button class="choice-btn" onclick="selectAnswer(${i})" data-idx="${i}">
+                <span class="choice-label">${labels[i]}</span>
+                <span>${choice}</span>
+            </button>
+        `).join('');
+
+        card.innerHTML = `
+            <div class="quiz-card-header">
+                <span class="q-num">Question</span>
+                <span class="q-category">${data.category}</span>
+                <span class="q-law">${data.law || ''}</span>
+            </div>
+            <div class="question-text">${data.question}</div>
+            <div class="choices">${choicesHTML}</div>
+        `;
+    }
+
+    function selectAnswer(selectedIdx) {
+        if (answered) return;
+        answered = true;
+
+        const btns = document.querySelectorAll('.choice-btn');
+        const resultMsg = document.getElementById('resultMsg');
+        const nextBtn = document.getElementById('nextBtn');
+
+        btns.forEach((btn, i) => {
+            btn.disabled = true;
+            if (i === currentCorrectIdx) {
+                btn.classList.add('correct');
+            } else if (i === selectedIdx && selectedIdx !== currentCorrectIdx) {
+                btn.classList.add('wrong');
+            } else {
+                btn.classList.add('dimmed');
+            }
+        });
+
+        score.total++;
+
+        if (selectedIdx === currentCorrectIdx) {
+            score.correct++;
+            resultMsg.className = 'result-msg correct';
+            resultMsg.textContent = '✅ 정답입니다!';
+        } else {
+            score.wrong++;
+            resultMsg.className = 'result-msg wrong';
+            resultMsg.textContent = `❌ 오답입니다. 정답은 ${labels[currentCorrectIdx]} 입니다.`;
+        }
+
+        nextBtn.classList.add('show');
+        updateScore();
+    }
+
+    function updateScore() {
+        document.getElementById('correctCount').textContent = score.correct;
+        document.getElementById('wrongCount').textContent = score.wrong;
+        document.getElementById('totalCount').textContent = score.total;
+    }
+
+    // 초기 로드
+    loadQuiz();
+</script>
+</body>
+</html>

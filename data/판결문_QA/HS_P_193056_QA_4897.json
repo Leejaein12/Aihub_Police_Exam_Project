@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "193056",
+        "caseName": "외국환거래법위반",
+        "caseNum": "2014노4498",
+        "sentenceDate": "2015.04.03",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "거주자가 설립한 해외 현지법인이 자회사를 설립할 경우 신고 의무가 발생하나요?",
+        "output": "거주자가 설립한 해외 현지법인이 자회사를 설립하는 경우, 외국환거래법 제18조 제1항에 따른 신고 의무가 없다고 볼 수 있으므로, 무죄를 선고한 원심판결은 정당하다고 판단됩니다. 검사의 항소는 이유 없으므로 이를 기각합니다.",
+        "originwordCnt": "807",
+        "labelwordCnt": "28"
+    }
+}

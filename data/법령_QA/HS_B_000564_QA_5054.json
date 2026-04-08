@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000564",
+        "promulgDate": "20200331",
+        "effectDate": "20200331",
+        "promulgNum": "17143",
+        "title": "독립공채상환에 관한 특별조치법",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "대한민국 재외공관에 신고한 독립공채 상환 신청은 어떻게 처리되나요?",
+        "output": "「독립공채상환에 관한 특별조치법」 제3조 제2항에 따르면, 재외공관의 장은 신고를 받은 즉시 그 신고서를 기획재정부장관에게 송부하여야 합니다.",
+        "originwordCnt": "62",
+        "labelwordCnt": "16"
+    }
+}

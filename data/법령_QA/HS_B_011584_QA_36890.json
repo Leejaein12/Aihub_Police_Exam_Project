@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011584",
+        "promulgDate": "20230111",
+        "effectDate": "20230111",
+        "promulgNum": "01108",
+        "title": "군검찰 압수물 사무규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제29조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검찰서기는 군검사로부터 국고납입 처분명령이 적힌 압수표를 받으면 어떻게 해야 하나요?",
+        "output": "검찰서기는 군검사로부터 국고납입 처분명령이 적힌 압수표를 받았을 때 공매절차를 밟아야 합니다. 이는 군검찰 압수물 사무규칙 제29조 제2항의 규정에 따릅니다.",
+        "originwordCnt": "150",
+        "labelwordCnt": "19"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000160",
+        "promulgDate": "20221213",
+        "effectDate": "20230114",
+        "promulgNum": "19090",
+        "title": "토양환경보전법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "토양오염 조사를 위해 타인의 토지에 출입하려는 공무원은 관계인에게 무엇을 보여주어야 하나요?",
+        "output": "토양환경보전법 제11조 제5항에 따르면, 타인의 토지에 출입하려는 공무원은 그 권한을 나타내는 증표를 지니고 이를 관계인에게 보여주어야 합니다.",
+        "originwordCnt": "199",
+        "labelwordCnt": "17"
+    }
+}

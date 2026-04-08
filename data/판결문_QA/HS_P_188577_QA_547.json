@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "188577",
+        "caseName": "마약류관리에관한법률위반(향정)",
+        "caseNum": "2015고단7911",
+        "sentenceDate": "2016.06.16",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "공소사실이 특정되기 위해 필요한 조건은 무엇인가요?",
+        "output": "공소사실이 특정되기 위해서는 범죄의 시일, 장소, 방법이 명확하게 기재되어야 하며, 이를 통해 다른 사실과 식별이 가능해야 합니다. 또한, 피고인의 방어권 행사에 지장이 없도록 범죄 구성요건에 해당하는 구체적 사실이 기재되어야 합니다.",
+        "originwordCnt": "1251",
+        "labelwordCnt": "30"
+    }
+}

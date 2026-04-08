@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014391",
+        "promulgDate": "20230609",
+        "effectDate": "20240118",
+        "promulgNum": "19430",
+        "title": "전북특별자치도 설치 등에 관한 특별법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "전북특별자치도 설치 등에 관한 특별법 규정상, 공무원의 인사교류에 필요한 사항은 무엇으로 정합니까?",
+        "output": "전북특별자치도 설치 등에 관한 특별법 제14조 제2항에 따르면, 제1항에 따른 인사교류의 기준, 방법 및 교류대상자에 대한 지원 등에 필요한 사항은 도조례로 정합니다.",
+        "originwordCnt": "85",
+        "labelwordCnt": "22"
+    }
+}

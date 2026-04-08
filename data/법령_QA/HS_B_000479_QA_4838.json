@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000479",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19877",
+        "title": "농지법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "농지취득자격증명 발급에 관한 민원 처리는 어떤 법률에 따라 이루어지나요?",
+        "output": "농지법 제8조 제7항에 따르면, 농지취득자격증명의 발급에 관한 민원의 처리는 이 조에서 규정한 사항을 제외하고 「민원 처리에 관한 법률」에 따른다고 명시되어 있습니다.",
+        "originwordCnt": "312",
+        "labelwordCnt": "21"
+    }
+}

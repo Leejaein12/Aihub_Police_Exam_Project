@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313920",
+        "caseName": "근로기준법위반",
+        "caseNum": "2023고단7406",
+        "sentenceDate": "2024.04.23",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "근로기준법 제36조에 따라 퇴직 근로자에게 퇴직일로부터 14일 이내에 임금을 지급할 의무가 있음에도 불구하고, 지급기일 연장에 대한 합의 없이 근로자 C의 임금을 지급하지 않았습니다. 그러나 근로자가 처벌을 원하지 않는다는 의사를 표시하였으므로, 근로기준법 제109조 제2항에 따른 반의사불벌죄로서 공소가 기각되었습니다.",
+        "originwordCnt": "150",
+        "labelwordCnt": "37"
+    }
+}

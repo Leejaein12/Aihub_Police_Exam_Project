@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333026",
+        "caseName": "사기등",
+        "caseNum": "2022고단4003",
+        "sentenceDate": "2023.11.07",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A는 노래방에서 피해자 C의 엉덩이를 손으로 움켜쥐어 강제추행하였고, 이를 목격한 피해자의 배우자 B는 피고인 A를 밀치고 목을 조르는 등 폭행하였습니다. 법원은 피고인 A에게 벌금 500만 원과 성폭력 치료프로그램 이수 40시간을 명령하고, 피고인 B에게는 벌금 30만 원을 선고하였습니다. 또한, 피고인 A는 신상정보 등록 의무가 있으며, 범행 후 태도와 범죄 전력을 고려해 각 형을 결정하였습니다.",
+        "originwordCnt": "574",
+        "labelwordCnt": "53"
+    }
+}

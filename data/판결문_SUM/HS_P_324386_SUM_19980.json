@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "324386",
+        "caseName": "사기등",
+        "caseNum": "2022고단1334",
+        "sentenceDate": "2022.11.24",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "보이스피싱 조직에 가담하여 중계기 관리 역할을 수행한 사건으로, 피고인은 중고 스마트폰에 유심칩을 장착하고 특정 기능을 활성화하여, 금융기관 직원을 사칭한 전화를 통해 불특정 다수의 피해자로부터 금전을 편취하였습니다. 결과적으로 피고인은 징역 1년 6개월에 처해지며, 판결 확정일부터 집행이 유예되고 압수된 증거는 몰수되었습니다.",
+        "originwordCnt": "1552",
+        "labelwordCnt": "39"
+    }
+}

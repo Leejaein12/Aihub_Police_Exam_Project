@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "98540",
+        "caseName": "상소권회복청구기각결정에 대한재항고",
+        "caseNum": "83모50",
+        "sentenceDate": "1983.11.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 불출석한 상태에서 항소심 판결이 확정되고 교도소에 수감된 후 상소권 회복청구가 제출되었을 때, 그 청구가 인정될 수 있습니까?",
+        "output": "피고인이 불출석한 상태에서 확정된 항소심 판결로 교도소에 수감된 후 상당한 기간이 지난 후 제출된 상소권 회복청구는 귀책사유와 관계없이 이유가 없어 인정될 수 없습니다.",
+        "originwordCnt": "251",
+        "labelwordCnt": "23"
+    }
+}

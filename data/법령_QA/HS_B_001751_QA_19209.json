@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001751",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "도시철도법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제22조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "정부는 어떤 경우에 지방자치단체나 도시철도공사에 재정적 지원을 할 수 있나요?",
+        "output": "정부는 지방자치단체나 도시철도공사가 시행하는 도시철도건설사업을 위하여 재정적 지원이 필요하다고 인정되면 소요자금의 일부를 보조하거나 융자할 수 있습니다. 이는 도시철도법 제22조 제1항에 근거합니다.",
+        "originwordCnt": "144",
+        "labelwordCnt": "21"
+    }
+}

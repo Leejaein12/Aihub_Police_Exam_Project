@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336707",
+        "caseName": "폭행치상",
+        "caseNum": "2024고단90",
+        "sentenceDate": "2024.05.10",
+        "courtName": "창원지방법원 마산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "성매매알선 영업에 가담한 피고인은 성매매 여성과 손님을 연결하고 성매매 대금을 수금하는 역할을 했습니다. 다른 피고인은 성매매 장소에서 성매매 대금을 받고 유사 성교행위를 하였습니다. 법원은 피고인들에게 징역 및 벌금을 선고하였습니다. 징역형의 경우 2년간 집행을 유예하였으며, 압수물 중 일부를 각 몰수하였습니다.",
+        "originwordCnt": "611",
+        "labelwordCnt": "39"
+    }
+}

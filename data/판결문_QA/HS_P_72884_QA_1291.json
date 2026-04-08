@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72884",
+        "caseName": "살인피고사건",
+        "caseNum": "71노253",
+        "sentenceDate": "1971.10.28",
+        "courtName": "광주고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "소년인 피고인에게 살인죄로 무기징역형을 감경하여 부정기형을 선고할 수 있나요?",
+        "output": "소년법 제54조에 따르면, 소년인 피고인에게 무기징역형을 감경하여 부정기형을 선고하는 것은 허용되지 않습니다. 무기징역을 감경한 경우에는 정기형을 선고해야 하며, 부정기형을 선고할 여지가 없습니다.",
+        "originwordCnt": "53",
+        "labelwordCnt": "22"
+    }
+}

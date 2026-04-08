@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312608",
+        "caseName": "전자금융거래법위반등",
+        "caseNum": "2023고단3792",
+        "sentenceDate": "2024.01.31",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공범들과 함께 타인 명의 계좌와 유심을 모집하여 범죄조직에 대포통장과 대포폰으로 유통하고 대가를 받는 범행을 저질렀습니다. 11개의 접근매체를 유통하고 1개를 보관하였으며, 총 10개의 유심을 도박사이트 운영자에게 제공하였습니다. 전자금융거래법 및 전기통신사업법을 위반한 피고인은 징역 1년에 처해졌습니다.",
+        "originwordCnt": "552",
+        "labelwordCnt": "34"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001719",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "국가공무원법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "행정기관 소속 공무원의 징계처분에 대한 소청은 누구에게 심사ㆍ결정되나요?",
+        "output": "국가공무원법 제9조 제1항에 따르면 행정기관 소속 공무원의 징계처분, 그 밖에 불리한 처분이나 부작위에 대한 소청은 인사혁신처에 설치된 소청심사위원회에서 심사하고 결정합니다.",
+        "originwordCnt": "118",
+        "labelwordCnt": "20"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002016",
+        "promulgDate": "20240220",
+        "effectDate": "20240220",
+        "promulgNum": "20334",
+        "title": "환경영향평가법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가와 지방자치단체는 정책이나 계획을 수립할 때 어떤 책무가 있나요?",
+        "output": "'환경영향평가법' 제3조제1항에 따르면, 국가, 지방자치단체 및 사업자는 정책이나 계획을 수립하거나 사업을 시행할 때 환경오염과 환경 훼손을 최소화하기 위하여 필요한 방안을 마련하여야 합니다.",
+        "originwordCnt": "63",
+        "labelwordCnt": "22"
+    }
+}

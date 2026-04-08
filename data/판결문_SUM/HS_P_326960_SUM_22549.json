@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "326960",
+        "caseName": "사기등",
+        "caseNum": "2023고단1931",
+        "sentenceDate": "2023.10.27.",
+        "courtName": "대전지방법원 천안지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "식당에서 음식값을 지불할 의사 없이 기망하였고, 술집에서 다른 손님이 째려봤다는 이유로 해당 손님에게 21일의 치료가 필요한 상해를 가하였고, 다른 피해자가 이를 말린다는 이유로 얼굴을 수회 때려 폭행하였습니다. 피고인에게 징역 이상의 처벌전력이 있으며 재범의 위험성이 트다는 점을 종합하여 피고인에게 징역 1년 6월을 선고하였습니다.",
+        "originwordCnt": "363",
+        "labelwordCnt": "42"
+    }
+}

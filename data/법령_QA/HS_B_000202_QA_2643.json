@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000202",
+        "promulgDate": "20240123",
+        "effectDate": "20240424",
+        "promulgNum": "20098",
+        "title": "사회복지사업법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제47조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사회복지사업 또는 사회복지업무에 종사하는 사람은 업무 과정에서 알게 된 비밀을 어떻게 처리해야 하나요?",
+        "output": "사회복지사업법 제47조에 따르면, 사회복지사업 또는 사회복지업무에 종사하였거나 종사하고 있는 사람은 그 업무 수행 과정에서 알게 된 다른 사람의 비밀을 누설하여서는 아니 됩니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "22"
+    }
+}

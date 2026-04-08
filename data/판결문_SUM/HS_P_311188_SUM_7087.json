@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311188",
+        "caseName": "마약류관리에관한법률위반(향정)등",
+        "caseNum": "2024고단235",
+        "sentenceDate": "2024.03.26",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "마약류 취급자가 아님에도 불구하고 메트암페타민 및 대마를 취급하여 마약류관리법을 위반하였습니다. 필로폰을 매도하고 투약한 사실이 있으며, 대마를 흡연하고 소지한 점에서 범죄 사실이 인정됩니다. 법원은 피고인에게 징역 2년과 40시간의 약물중독 재활교육 프로그램 이수를 명령하였습니다.",
+        "originwordCnt": "488",
+        "labelwordCnt": "32"
+    }
+}

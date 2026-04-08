@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "215325",
+        "caseName": "농지개혁법위반·업무방해·상해",
+        "caseNum": "4287형상118",
+        "sentenceDate": "1955.02.15",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "농지를 타인에게 일시적으로 경작시키는 경우에도 농지개혁법에 따라 경작자에게 분배되나요?",
+        "output": "농지를 타인에게 경작시키는 경우, 그것이 일시적일지라도 농지개혁법 실시 당시의 경작자에게 농지가 분배되는 것이 농지개혁법 제2조 제1항과 제11조에 따른 해석상 당연합니다.",
+        "originwordCnt": "38",
+        "labelwordCnt": "20"
+    }
+}

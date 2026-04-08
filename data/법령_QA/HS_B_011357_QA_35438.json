@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011357",
+        "promulgDate": "20230314",
+        "effectDate": "20240315",
+        "promulgNum": "19234",
+        "title": "개인정보 보호법",
+        "ministry": "개인정보보호위원회",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "다른 법률을 제정하거나 개정할 때 어떤 기준에 맞춰야 합니까?",
+        "output": "개인정보의 처리 및 보호에 관한 다른 법률을 제정하거나 개정하는 경우 이 법의 목적과 원칙에 맞도록 하여야 합니다. 개인정보 보호법 제6조 제2항에 규정되어 있습니다.",
+        "originwordCnt": "44",
+        "labelwordCnt": "23"
+    }
+}

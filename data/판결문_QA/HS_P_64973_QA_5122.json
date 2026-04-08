@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "64973",
+        "caseName": "교통사고처리특례법위반·도로교통법위반(음주운전)",
+        "caseNum": "2008노1424",
+        "sentenceDate": "2008.06.12",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "음주측정 절차에 대한 주장은 왜 받아들여지지 않았나요?",
+        "output": "음주측정 절차가 잘못되었다는 주장은 증거에 의해 혈중알코올농도가 확인되었기 때문에 받아들여지지 않았습니다. 이에 따라 항소는 이유 없으므로 기각되었습니다.",
+        "originwordCnt": "120",
+        "labelwordCnt": "17"
+    }
+}

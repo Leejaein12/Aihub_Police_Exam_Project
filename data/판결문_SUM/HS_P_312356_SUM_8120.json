@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312356",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고정698",
+        "sentenceDate": "2023.09.12",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 6월, 혈중알코올농도 0.067% 상태로 약 300m 구간에서 차량을 운전한 피고인은 도로교통법을 위반한 혐의로 기소되었습니다. 법원은 피고인의 음주운전 전력이 2001년과 2010년에 있었던 점, 혈중알코올농도와 운행거리를 고려하여 피고인에게 벌금 500만 원을 선고하였습니다.",
+        "originwordCnt": "184",
+        "labelwordCnt": "31"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "308033",
+        "caseName": "화장품법위반",
+        "caseNum": "2020고정595",
+        "sentenceDate": "2020. 10. 29.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "기능성화장품이 아닌 제품을 광고하면서, 제품 설명에 탈모 개선 효과가 있다는 구매 후기를 편집하여 게시하여 기능성화장품으로 오인할 우려가 있는 광고를 하였습니다. 법원은 피고인이 제품의 효능을 부각시켜 광고한 행위가 화장품법 위반에 해당한다고 판단하였으며, 화장품법 제37조 제1항에 따라 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "320",
+        "labelwordCnt": "39"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001814",
+        "promulgDate": "20230816",
+        "effectDate": "20240217",
+        "promulgNum": "19686",
+        "title": "주차장법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "주차환경개선지구 지정 후 관리에 대한 목표와 실태는 어떻게 점검하나요?",
+        "output": "'주차장법' 제4조제3항에 따르면, 시장ㆍ군수 또는 구청장은 주차환경개선지구를 지정한 후, 연차별 목표를 설정하고 매년 주차장 수급 실태의 개선 효과를 분석해야 합니다.",
+        "originwordCnt": "121",
+        "labelwordCnt": "20"
+    }
+}

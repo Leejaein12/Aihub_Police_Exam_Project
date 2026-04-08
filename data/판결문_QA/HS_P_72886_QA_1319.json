@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72886",
+        "caseName": "보건범죄단속에관한특별조치법위반피고사건",
+        "caseNum": "71노52",
+        "sentenceDate": "1971.11.01",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "보건범죄단속에관한특별조치법 제5조에서 말하는 '영리의 목적'은 무엇을 의미하나요?",
+        "output": "보건범죄단속에관한특별조치법 제5조에서 말하는 '영리의 목적'이란, 반대급부를 받고 가료행위를 하는 것을 의미하며, 그 반대급부가 자신에게 전액 귀속되는 경우에만 해당하는 것은 아닙니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "20"
+    }
+}

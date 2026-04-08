@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310119",
+        "caseName": "사기",
+        "caseNum": "2022고단2975",
+        "sentenceDate": "2023.08.10",
+        "courtName": "서울서부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "전화금융사기 조직의 일부로서 피해자들로부터 현금을 수거하여 조직이 지정한 계좌에 입금하는 등 보이스피싱 범행에 가담하였습니다. 피고인은 범행 당시 이를 인식하고 있었으며, 전화금융사기 조직원의 지시에 따라 피해자를 기망하여 금전을 편취하는 역할을 수행하였습니다. 법원은 징역 2년에 집행유예 3년을 선고하였습니다.",
+        "originwordCnt": "723",
+        "labelwordCnt": "36"
+    }
+}

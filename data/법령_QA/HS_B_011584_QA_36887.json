@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011584",
+        "promulgDate": "20230111",
+        "effectDate": "20230111",
+        "promulgNum": "01108",
+        "title": "군검찰 압수물 사무규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제27조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검찰서기가 개봉된 군검찰 압수물을 반환받은 후 해야 할 일은 무엇인가요?",
+        "output": "검찰서기가 개봉된 압수물을 반환받았을 때에는 개봉한 군검사 또는 다른 검찰서기의 참여하에 다시 봉인해야 합니다. 이는 군검찰 압수물 사무규칙 제27조 제2항에 따릅니다.",
+        "originwordCnt": "41",
+        "labelwordCnt": "21"
+    }
+}

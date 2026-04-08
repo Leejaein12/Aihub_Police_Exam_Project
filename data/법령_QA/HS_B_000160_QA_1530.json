@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000160",
+        "promulgDate": "20221213",
+        "effectDate": "20230114",
+        "promulgNum": "19090",
+        "title": "토양환경보전법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제10조의9",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "토양정화자문위원회는 어디에 설치되며, 그 역할은 무엇인가요?",
+        "output": "토양환경보전법 제10조의9 제1항에 의하면, 동법 제10조의4 제3항에 따른 시ㆍ도지사 또는 시장ㆍ군수ㆍ구청장의 자문에 응하기 위하여 환경부에 토양정화자문위원회를 둡니다.",
+        "originwordCnt": "33",
+        "labelwordCnt": "17"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "324138",
+        "caseName": "사기등",
+        "caseNum": "2023노2388",
+        "sentenceDate": "2023.11.22",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "기존 판결의 형이 지나치게 무겁다고 주장하며 항소하였으나, 원심에서는 피고인의 범행 전력, 피해 금액의 규모, 피해 회복 미비 등을 종합적으로 고려하여 형을 정하였습니다. 항소심에서는 피고인의 가정 상황과 경제적 어려움 등을 참작하더라도 원심 판결이 합리적인 범위를 벗어난 것으로 보이지 않으므로, 피고인의 항소를 받아들이지 않고 기각하였습니다.",
+        "originwordCnt": "357",
+        "labelwordCnt": "43"
+    }
+}

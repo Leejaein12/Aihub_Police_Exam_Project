@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "321636",
+        "caseName": "업무방해등",
+        "caseNum": "2021노3463",
+        "sentenceDate": "2022.11.03.",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "허위 법인을 설립하고 계좌 접근매체를 양도한 범죄로 기소되었으며, 해당 계좌가 사기에 이용된 점은 인정되지만, 피고인이 범행을 인정하고 편취액이 적은 점 등을 고려해 원심의 형량이 적절하다고 판단되었습니다. 따라서 검사의 양형부당 주장은 받아들여지지 않았으며, 검사의 항소는 기각되었습니다.",
+        "originwordCnt": "176",
+        "labelwordCnt": "35"
+    }
+}

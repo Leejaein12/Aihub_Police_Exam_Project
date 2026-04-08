@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155199",
+        "caseName": "관세법위반",
+        "caseNum": "71도158",
+        "sentenceDate": "1971.03.23",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "관세법에 따른 추징의 성질은 무엇인가요?",
+        "output": "관세법 제198조 제1항에 따른 추징은 관세법 위반에 대한 제재로, 몰수할 수 없는 물품의 범칙 당시 국내 도매가격에 상당하는 금액을 징벌적으로 추징하는 성질을 가집니다. 이는 민법상의 분할 원칙을 적용할 수 없는 특별한 성격을 가지며, 형법상의 추징과 구별됩니다.",
+        "originwordCnt": "10",
+        "labelwordCnt": "36"
+    }
+}

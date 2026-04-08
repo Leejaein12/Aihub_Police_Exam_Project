@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314077",
+        "caseName": "보험사기방지특별법위반",
+        "caseNum": "2023고정94",
+        "sentenceDate": "2023.07.12",
+        "courtName": "수원지방법원 안산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "교통사고를 고의로 유발하고 이를 보험사에 허위로 접수하여 보험금을 편취한 혐의로 기소되었습니다. 이들은 공모하여 교통사고를 발생시켰으며, 보험사에 제출된 진술 내용은 허위로 확인되었습니다. 결과적으로 보험사기방지 특별법 제8조를 위반한 것으로 인정되어 벌금형을 처하였고, 가납 명령도 함께 이루어졌습니다.",
+        "originwordCnt": "473",
+        "labelwordCnt": "34"
+    }
+}

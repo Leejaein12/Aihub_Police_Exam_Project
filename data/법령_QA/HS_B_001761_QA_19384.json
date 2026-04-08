@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001761",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19591",
+        "title": "고용보험법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제37조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "실업급여수급계좌의 해당 금융기관은 실업급여를 어떻게 관리해야 하나요?",
+        "output": "실업급여수급계좌의 해당 금융기관은 이 법에 따른 실업급여만이 실업급여수급계좌에 입금되도록 관리하여야 합니다. 고용보험법 제37조의2 제2항에 규정되어 있습니다.",
+        "originwordCnt": "69",
+        "labelwordCnt": "16"
+    }
+}

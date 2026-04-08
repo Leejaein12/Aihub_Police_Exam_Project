@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312863",
+        "caseName": "사기",
+        "caseNum": "2022고단686",
+        "sentenceDate": "2023.08.10",
+        "courtName": "대전지방법원 천안지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공장을 신축하여 재생에너지 사업을 할 것처럼 피해자에게 거짓말하여 금전을 차용하였으나, 실제로는 사업비를 조달할 능력이 없었고 변제할 의사도 없었습니다. 이후에도 투자자가 나타나 공사가 진행될 것처럼 속여 피해자로 하여금 펜스 설치 공사를 하게 하고 이익을 취득하였습니다. 법원은 피고인의 사기죄를 인정하고 징역 10월을 선고하였습니다.",
+        "originwordCnt": "548",
+        "labelwordCnt": "41"
+    }
+}

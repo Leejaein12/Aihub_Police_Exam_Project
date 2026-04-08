@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001486",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "수산업법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "개발계획 수립 시 다른 법령과 충돌하는 경우 어떻게 해야 하나요?",
+        "output": "개발계획 수립 시 다른 법령에 따라 어업행위가 제한되거나 금지된 수면에 대해서는 관계 행정기관의 장의 승인이나 협의를 미리 받아야 합니다. 이는 '수산자원관리법' 제4조 제4항에 따른 절차입니다.",
+        "originwordCnt": "176",
+        "labelwordCnt": "25"
+    }
+}

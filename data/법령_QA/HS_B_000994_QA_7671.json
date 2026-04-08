@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000994",
+        "promulgDate": "20221115",
+        "effectDate": "20230516",
+        "promulgNum": "19028",
+        "title": "온천법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제3조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "온천발전종합계획 수립 후 행정안전부장관이 5년마다 해야 하는 일은 무엇입니까?",
+        "output": "행정안전부장관은 종합계획이 수립된 날부터 5년마다 그 타당성을 검토하여 필요한 경우에는 이를 변경하여야 합니다. 이는 온천법 제3조의2 제2항에 명시되어 있습니다.",
+        "originwordCnt": "150",
+        "labelwordCnt": "19"
+    }
+}

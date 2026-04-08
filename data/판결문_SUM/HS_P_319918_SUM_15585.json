@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319918",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단1681",
+        "sentenceDate": "2023.11.30",
+        "courtName": "수원지방법원 안산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 5월 4일혈중알코올농도 0.176%의 상태로 약 600m 구간을 운전한 사실이 인정되었습니다. 법원은 도로교통법 제148조의2 제3항 제2호와 제44조 제1항을 적용하여 벌금형을 선택하였으며, 운전 중 교통사고가 발생한 점과 과거 음주운전 처벌 전력이 있는 점을 고려하여 형을 결정하였습니다.",
+        "originwordCnt": "189",
+        "labelwordCnt": "35"
+    }
+}

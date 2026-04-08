@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "156344",
+        "caseName": "반공법위반,외국환관리법위반,관세법위반",
+        "caseNum": "67도1087",
+        "sentenceDate": "1967.09.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "반공법 제8조 불고지죄가 성립하기 위한 요건은 무엇인가요?",
+        "output": "반공법 제8조 불고지죄가 성립하려면 본범이 우리나라 안에서 반공법 제3조 내지 제7조의 죄를 범했거나, 우리나라 밖에서 같은 죄를 범하고 우리나라 안에 들어와 있음을 인지한 것이 요건입니다.",
+        "originwordCnt": "451",
+        "labelwordCnt": "25"
+    }
+}

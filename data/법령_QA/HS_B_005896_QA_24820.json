@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005896",
+        "promulgDate": "20161129",
+        "effectDate": "20161201",
+        "promulgNum": "02696",
+        "title": "소년심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제15조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소년분류심사원이 소년을 호송하는 경우, 그 소년은 어떻게 처리되나요?",
+        "output": "소년심판규칙 제15조 제2항에 명시된 바와 같이, 소년분류심사원 소속 공무원은 소년을 호송하고 당일의 조사 또는 심리가 종료될 때까지 소년부 청사 안에서 소년을 감호하여야 합니다.",
+        "originwordCnt": "59",
+        "labelwordCnt": "23"
+    }
+}

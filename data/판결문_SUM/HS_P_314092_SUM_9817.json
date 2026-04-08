@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314092",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고정442",
+        "sentenceDate": "2024.07.25",
+        "courtName": "수원지방법원 안산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2024년 2월 16일, 한 지역에서 혈중알코올농도 0.130% 상태로 차량을 후진하여 운전한 사례에 대한 판결이 있었습니다. 음주운전 범행을 인정한 당사자는 당시 상황을 설명하며 선처를 호소하였습니다. 그러나, 범행 후의 태도와 과거 음주운전 전과가 반영되어 벌금형이 선고되었습니다.",
+        "originwordCnt": "409",
+        "labelwordCnt": "34"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010107",
+        "promulgDate": "20240206",
+        "effectDate": "20240507",
+        "promulgNum": "20190",
+        "title": "방위사업법",
+        "ministry": "국방부,방위사업청,산업통상자원부",
+        "fullText": "N",
+        "smClass": "제14조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사업타당성조사와 관련된 사항은 어떻게 정해집니까?",
+        "output": "방위사업법 제14조의2 제5항에 따르면, 제1항에 따른 사업타당성조사의 대상사업, 선정기준, 조사방법, 절차 및 제3항에 따른 수행기관의 지정 등에 관한 사항은 기획재정부장관이 정합니다.",
+        "originwordCnt": "204",
+        "labelwordCnt": "21"
+    }
+}

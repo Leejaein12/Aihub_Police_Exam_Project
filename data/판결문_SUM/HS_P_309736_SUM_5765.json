@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "309736",
+        "caseName": "상해",
+        "caseNum": "2013고정313",
+        "sentenceDate": "2013. 5. 9.",
+        "courtName": "청주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "함께 술을 마시며 서로 때리는 게임을 하다가, 상대방이 그만두겠다고 하자 갑자기 넘어뜨리고 주먹으로 얼굴을 수차례 때리고 발로 몸을 밟아 약 2주간의 치료를 요하는 상해를 입혔습니다. 법원은 상해 행위를 형법 제257조 제1항에 따라 인정하고, 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "143",
+        "labelwordCnt": "37"
+    }
+}

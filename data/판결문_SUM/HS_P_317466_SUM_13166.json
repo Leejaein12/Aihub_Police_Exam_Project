@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317466",
+        "caseName": "폭행등",
+        "caseNum": "2023고정121",
+        "sentenceDate": "2023.11.15",
+        "courtName": "창원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 2월 9일, 사기죄로 징역 8개월이 선고되었으며, 그 판결은 2023년 3월 24일 확정되었습니다. 2022년 8월 29일 한 주점에서 충분한 현금이나 다른 지불 수단이 없으면서도, 마치 정상적으로 대금을 지급할 것처럼 행세하며 술과 안주를 주문하여 총 70,000원 상당의 재물을 편취하였습니다. 이에 따라 벌금을 처하였습니다.",
+        "originwordCnt": "181",
+        "labelwordCnt": "42"
+    }
+}

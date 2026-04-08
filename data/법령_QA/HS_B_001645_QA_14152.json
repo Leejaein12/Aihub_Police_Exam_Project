@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001645",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19329",
+        "title": "새마을금고법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "새마을금고 대의원의 재선거 또는 보궐선거로 선임된 대의원의 임기는 어떻게 결정되나요?",
+        "output": "새마을금고법 제16조 제3항에 따르면, 재선거의 경우 재선거 실시 전에 실시한 선거로 선출된 대의원의 남은 임기를 따르고, 보궐선거의 경우 전임자의 남은 임기를 따릅니다.",
+        "originwordCnt": "108",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315149",
+        "caseName": "절도",
+        "caseNum": "2024고단865",
+        "sentenceDate": "2024.06.27",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "C건물과 피해자 B가 운영하는 'F'에서 물품을 절취한 범죄 사실로 기소되었습니다. 각 절도 범행은 직원들의 감시가 소홀한 틈을 타 발생하였습니다. 법원은 피고인의 동종 범죄 전력이 있음을 감안하여 징역 6월을 선고하고, 집행을 2년간 유예하며 보호관찰을 명하는 결정을 내렸습니다. 배상신청은 각하되었습니다.",
+        "originwordCnt": "471",
+        "labelwordCnt": "38"
+    }
+}

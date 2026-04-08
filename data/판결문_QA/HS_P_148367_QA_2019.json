@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "148367",
+        "caseName": "경범죄처벌법위반",
+        "caseNum": "2008노1546",
+        "sentenceDate": "2008.07.24",
+        "courtName": "대구지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "즉결심판 절차에서 경찰서장이 사건 관련 서류를 법원에 제출하는 것이 공소장일본주의를 위반하는지요?",
+        "output": "즉결심판 절차에서 경찰서장이 사건 관련 서류를 법원에 제출하는 것은 공소장일본주의를 위반하는 것이 아니며, 이는 공소제기가 아닌 단순한 증거서류 및 증거물의 송부에 불과합니다.",
+        "originwordCnt": "327",
+        "labelwordCnt": "22"
+    }
+}

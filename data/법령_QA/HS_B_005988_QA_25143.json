@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005988",
+        "promulgDate": "20211231",
+        "effectDate": "20220101",
+        "promulgNum": "03016",
+        "title": "형사소송규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제96조의20",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "지방법원 판사는 구속영장이 청구된 피의자와 변호인의 심문 전 접견에 대해 검사 또는 사법경찰관에게 어떤 조치를 요구할 수 있습니까?",
+        "output": "형사소송규칙 제96조의20제3항에 따르면 지방법원 판사는 검사 또는 사법경찰관에게 제96조의20제1항의 접견에 필요한 조치를 요구할 수 있습니다.",
+        "originwordCnt": "43",
+        "labelwordCnt": "15"
+    }
+}

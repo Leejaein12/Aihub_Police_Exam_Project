@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "건축물과 관련한 유통업자란 누구를 말하나요?",
+        "output": "유통업자는 건축물의 건축, 대수선, 용도변경, 건축설비의 설치 또는 공작물의 축조에 필요한 건축자재를 판매하거나 공사현장에 납품하는 사람을 의미한다고 건축법 제2조 제1항 제12호의3에 명시되어 있습니다.",
+        "originwordCnt": "690",
+        "labelwordCnt": "23"
+    }
+}

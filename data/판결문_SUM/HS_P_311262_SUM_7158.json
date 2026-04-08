@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311262",
+        "caseName": "전기통신사업법위반",
+        "caseNum": "2023고정441",
+        "sentenceDate": "2023.07.18",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "성명불상자의 제안에 따라 신분증과 개인정보를 제공하여 총 3개의 선불 유심을 개통한 후 타인이 이를 사용하도록 하여 전기통신사업법을 위반한 사실이 인정되었습니다. 법원은 이러한 행위가 전기통신사업법 제97조 제7호 및 제30조에 해당한다고 판단하고 벌금 500만 원을 선고하였습니다.",
+        "originwordCnt": "317",
+        "labelwordCnt": "34"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "306822",
+        "caseName": "컴퓨터등사용사기",
+        "caseNum": "2015고단1594",
+        "sentenceDate": "2015. 10. 28.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "재무설계사로 근무하던 피고인은 피해자의 투자증권 계좌 정보를 이용해 2010년부터 2011년까지 총 6,558만 원을 자신의 계좌로 무단 이체하여 개인적인 부동산 투자에 사용하였습니다. 피고인의 행위는 컴퓨터 등 사용 사기에 해당하며, 형법 제347조에 따라 징역 8개월이 선고되었습니다.",
+        "originwordCnt": "277",
+        "labelwordCnt": "34"
+    }
+}

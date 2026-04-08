@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "74144",
+        "caseName": "특정범죄가중처벌등에관한법률위반·뇌물수수피고사건",
+        "caseNum": "76노284",
+        "sentenceDate": "1976.05.27",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "특정범죄가중처벌등에관한법률에 따른 뇌물죄의 가중처벌 요건은 어떻게 판단되나요?",
+        "output": "특정범죄가중처벌등에관한법률 제2조 제1항 제2호에 따른 뇌물죄의 가중처벌은 단순일죄로 처단되는 뇌물죄 또는 포괄하여 하나의 뇌물죄가 성립하는 경우에 그 수뢰액이 50만 원을 초과할 때 적용",
+        "originwordCnt": "121",
+        "labelwordCnt": "23"
+    }
+}

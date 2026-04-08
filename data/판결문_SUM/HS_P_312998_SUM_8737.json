@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312998",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고정1376",
+        "sentenceDate": "2024.05.31",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.047%의 상태로 약 2.9km 구간을 운전한 혐의로 기소된 피고인에 대해 법원은 음주운전 행위가 도로교통법을 위반한 것임을 인정하고, 벌금 300만 원을 선고했습니다. 만일 피고인이 벌금을 납부하지 않을 경우, 하루에 10만 원씩 환산하여 노역장에 유치하며, 벌금에 상당하는 금액의 가납을 명했습니다.",
+        "originwordCnt": "119",
+        "labelwordCnt": "39"
+    }
+}

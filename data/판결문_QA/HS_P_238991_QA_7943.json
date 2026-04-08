@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "238991",
+        "caseName": "사기·횡령",
+        "caseNum": "2023도4371",
+        "sentenceDate": "2023.07.13",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "포괄일죄 범행 중에 별종의 범죄로 인해 확정판결이 이루어진 경우, 포괄적 범죄가 두 개로 나뉘게 되나요?",
+        "output": "포괄일죄 범행 중에 별종의 범죄로 인한 확정판결이 있었다 하더라도, 포괄적 범죄가 두 개로 나뉘지는 않습니다. 확정판결 후의 범죄로서 형법 제37조 후단에 따라 그 이후의 범행은 별도로 다루어집니다.",
+        "originwordCnt": "707",
+        "labelwordCnt": "27"
+    }
+}

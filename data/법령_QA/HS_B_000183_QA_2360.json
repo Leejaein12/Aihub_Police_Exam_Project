@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000183",
+        "promulgDate": "20240206",
+        "effectDate": "20240206",
+        "promulgNum": "20215",
+        "title": "모자보건법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제28조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "모자보건법에 따른 인공임신중절수술을 받은 자와 수술을 한 자는 처벌받나요?",
+        "output": "모자보건법 제28조에 따르면 이 법에 따른 인공임신중절수술을 받은 자와 수술을 한 자는 「형법」 제269조제1항ㆍ제2항 및 제270조제1항에도 불구하고 처벌하지 아니합니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "19"
+    }
+}

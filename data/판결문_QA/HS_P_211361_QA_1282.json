@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "211361",
+        "caseName": "폭행·모욕",
+        "caseNum": "2019고정1468",
+        "sentenceDate": "2019.09.26",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 경찰관을 모욕한 행위는 어떤 상황에서 발생했나요?",
+        "output": "피고인은 현행범으로 체포되어 경찰서에 대기하던 중, 경찰관이 자신의 행동을 제지하자 화를 내며 '야 이 씹새끼야'라고 소리쳐 경찰관을 모욕하였습니다. 이로 인해 법원은 피고인에게 벌금 300만 원을 부과했습니다.",
+        "originwordCnt": "192",
+        "labelwordCnt": "26"
+    }
+}

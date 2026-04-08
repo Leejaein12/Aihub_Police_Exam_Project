@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000202",
+        "promulgDate": "20240123",
+        "effectDate": "20240424",
+        "promulgNum": "20098",
+        "title": "사회복지사업법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제5조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가와 지방자치단체는 사회복지서비스의 품질 향상과 원활한 제공을 위해 어떤 시책을 마련해야 하나요?",
+        "output": "사회복지사업법 제5조의2 제3항에 따르면, 국가와 지방자치단체는 사회복지서비스의 품질향상과 원활한 제공을 위하여 필요한 시책을 마련하여야 합니다.",
+        "originwordCnt": "138",
+        "labelwordCnt": "15"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005988",
+        "promulgDate": "20211231",
+        "effectDate": "20220101",
+        "promulgNum": "03016",
+        "title": "형사소송규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제126조의10",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "재판장이 전문심리위원에게 준비지시를 내린 경우 법원사무관 등은 누구에게 통지해야 하나요?",
+        "output": "형사소송규칙 제126조의10제2항에 따르면 재판장이 제126조의10제1항의 준비를 지시한 때에는 법원사무관등은 검사, 피고인 또는 변호인에게 그 취지를 통지하여야 합니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "17"
+    }
+}

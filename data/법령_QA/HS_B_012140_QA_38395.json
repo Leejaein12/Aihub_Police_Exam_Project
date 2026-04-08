@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012140",
+        "promulgDate": "20240125",
+        "effectDate": "20240131",
+        "promulgNum": "03126",
+        "title": "아동보호심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제55조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "아동학대범죄의 보호처분의 변경, 취소, 종료의 청구는 어떤 형식으로 해야 하나요?",
+        "output": "아동보호심판규칙 제55조 제2항에 따라 동조 제1항의 청구는 서면으로 해야 하고, 그 서면에는 보호처분을 변경, 취소, 종료할 상당한 이유를 기재하고 이를 소명해야 합니다.",
+        "originwordCnt": "84",
+        "labelwordCnt": "22"
+    }
+}

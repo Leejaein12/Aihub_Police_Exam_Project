@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "94028",
+        "caseName": "산림법위반",
+        "caseNum": "78도1585",
+        "sentenceDate": "1978.10.10",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "시업신고필증상의 벌채량을 초과한 벌채 행위가 법적으로 문제가 되나요?",
+        "output": "시업신고필증상의 벌채량이 영림계획상의 벌채량과 일치할 경우, 이를 초과하여 벌채한 행위는 산림법 제8조 제3항에 위배된다고 볼 수 있습니다.",
+        "originwordCnt": "140",
+        "labelwordCnt": "17"
+    }
+}

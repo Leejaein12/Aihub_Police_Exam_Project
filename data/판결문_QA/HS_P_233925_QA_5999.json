@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "233925",
+        "caseName": "사기·전자금융거래법위반·전기통신사업법위반",
+        "caseNum": "2020고단8570",
+        "sentenceDate": "2020.11.13",
+        "courtName": "인천지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 타인 명의의 이동통신단말장치를 이용한 행위는 어떤 죄책을 지게 되나요?",
+        "output": "피고인이 자금을 제공하여 타인 명의의 이동통신단말장치를 개통하고 이를 사용한 행위는 전기통신사업법 위반에 해당하며, 이에 대해 피고인은 징역 8월의 형을 선고받았습니다.",
+        "originwordCnt": "455",
+        "labelwordCnt": "20"
+    }
+}

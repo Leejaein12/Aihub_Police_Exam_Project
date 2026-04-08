@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "306162",
+        "caseName": "명예훼손",
+        "caseNum": "2013고단6707",
+        "sentenceDate": "2014. 3. 13.",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자신의 주거지와 관련된 소유권 분쟁에서 피해자 회사의 시설경비업무에 불만을 품은 피고인은, 허위사실을 유포하여 명예를 훼손하였습니다. 2013년 5월경 피해자가 딸을 감금하거나 집단강간을 시도했다는 거짓 내용이 포함된 유인물을 공인중개사 사무실 등 여러 곳에 배포한 사실이 인정되었습니다. 법원은 피고인에게 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "227",
+        "labelwordCnt": "40"
+    }
+}

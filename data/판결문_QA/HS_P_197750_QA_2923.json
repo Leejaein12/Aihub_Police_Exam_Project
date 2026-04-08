@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "197750",
+        "caseName": "명예훼손·업무방해",
+        "caseNum": "2016노1342",
+        "sentenceDate": "2017.07.06",
+        "courtName": "울산지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "공동으로 경영하는 사업체의 업무가 업무방해죄의 보호대상이 될 수 있나요?",
+        "output": "공동으로 경영하는 사업체라 하더라도, 해당 업무는 공동 경영자뿐만 아니라 각 구성원에게도 귀속되므로, 그 업무는 업무방해죄의 보호대상에 해당합니다. 따라서 피해자가 수행하던 업무는 업무방해죄의 보호대상인 업무에 포함됩니다.",
+        "originwordCnt": "1837",
+        "labelwordCnt": "25"
+    }
+}

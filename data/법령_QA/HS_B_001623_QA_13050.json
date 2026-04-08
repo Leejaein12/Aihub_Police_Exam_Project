@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제154조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "압수ㆍ수색영장에는 어떤 내용이 적혀야 하나요?",
+        "output": "군사법원법 제154조 제1항에 따르면 압수ㆍ수색영장에는 피고인의 성명, 죄명, 압수할 물건, 수색할 장소ㆍ신체ㆍ물건, 발부 연월일 및 유효기간과 그 기간이 지나면 집행을 시작하지 못하며 영장을 반환하여야 한다는 취지가 적혀야 합니다.",
+        "originwordCnt": "36",
+        "labelwordCnt": "28"
+    }
+}

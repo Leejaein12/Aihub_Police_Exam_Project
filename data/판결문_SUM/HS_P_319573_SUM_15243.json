@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319573",
+        "caseName": "근로기준법위반",
+        "caseNum": "2024고단636",
+        "sentenceDate": "2024.05.09",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자상거래를 경영하는 회사의 대표이사로서 근로자의 퇴직 시 14일 이내에 임금 및 퇴직금을 지급해야 하는 근로기준법을 위반하여, 두 명의 근로자에게 퇴직 후 14일 내에 임금과 퇴직합의금을 지급하지 않았습니다. 사건의 진행 중 피해근로자들이 처벌을 원하지 않는다는 의사를 밝혀 형사소송법 제327조 제6호에 따라 공소기각 판결이 내려졌습니다.",
+        "originwordCnt": "191",
+        "labelwordCnt": "43"
+    }
+}

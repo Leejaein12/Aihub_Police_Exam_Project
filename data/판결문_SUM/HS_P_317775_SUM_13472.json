@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317775",
+        "caseName": "사기",
+        "caseNum": "2024고단808",
+        "sentenceDate": "2024.05.14",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "온라인 게시판에 허위로 '아이폰 13 pro' 판매글을 게시하고, 피해자에게 택배 발송을 거짓으로 알리며 대금을 송금하도록 기망하였습니다. 피고인은 물품을 보낼 의사나 능력이 없었음에도 불구하고, 피해자로부터 135만 원을 송금받았습니다. 이로 인해 형법 제347조 제1항에 따른 사기죄가 성립되어 벌금 500,000원의 형이 선고되었습니다.",
+        "originwordCnt": "173",
+        "labelwordCnt": "39"
+    }
+}

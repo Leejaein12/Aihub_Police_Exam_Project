@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93463",
+        "caseName": "보건범죄단속에관한특별조치법위반",
+        "caseNum": "77도1705",
+        "sentenceDate": "1977.07.12",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "유해하지 않은 식품이라도 허가 없이 제조하여 판매하면 법에 위배되나요?",
+        "output": "유해하지 않은 식품이라도 허가 없이 식용으로 제조하여 판매하는 행위는 식품위생법 제23조에 위배됩니다. 인체에 해롭지 않더라도 허가를 받지 않은 제조는 불법입니다.",
+        "originwordCnt": "348",
+        "labelwordCnt": "20"
+    }
+}

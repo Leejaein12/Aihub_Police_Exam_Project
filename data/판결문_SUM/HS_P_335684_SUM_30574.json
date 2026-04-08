@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335684",
+        "caseName": "산지관리법위반등",
+        "caseNum": "2023고정60",
+        "sentenceDate": "2023.10.25",
+        "courtName": "대구지방법원 안동지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "관할관청의 허가 없이 국유림에서 산지전용과 입목을 무단으로 벌채하여 산지관리법 및 산림자원의 조성 및 관리에 관한 법률을 위반하였습니다. 법원은 피고인이 범행을 인정하고 반성하며, 원상복구를 완료한 점과 초범인 점 등을 고려하여 피고인에 대한 형의 선고를 유예하였습니다.",
+        "originwordCnt": "257",
+        "labelwordCnt": "34"
+    }
+}

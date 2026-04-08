@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "323714",
+        "caseName": "업무상횡령",
+        "caseNum": "2022노2719",
+        "sentenceDate": "2024.03.20",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사찰 B의 법적 성격과 피고인의 재산 사용이 업무상횡령에 해당하는지가 쟁점이었습니다. 원심은 B가 독립된 조직이 아닌 개인 소유로 판단했으며, 피고인이 주지 승려 F와 경제공동체 관계로 지내며 재산을 사용한 것이 F의 허락 하에 이루어진 것일 가능성이 있다고 보아 횡령죄 성립을 부정했습니다. 항소심 역시 원심 판단에 법리적 오류가 없다고 보아 검사의 항소를 기각했습니다.",
+        "originwordCnt": "662",
+        "labelwordCnt": "50"
+    }
+}

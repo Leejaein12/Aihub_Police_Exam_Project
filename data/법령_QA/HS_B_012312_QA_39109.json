@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012312",
+        "promulgDate": "20240123",
+        "effectDate": "20240123",
+        "promulgNum": "20129",
+        "title": "수산종자산업육성법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제28조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "수산식물종자를 생산하거나 수입하기 위해 신고하는 품종은 어떤 조건을 가져야 하나요?",
+        "output": "수산종자산업육성법 제28조제3항에 따르면, 수산식물종자를 생산하거나 수입하기 위해 신고하는 품종은 1개의 고유한 품종명칭을 가져야 합니다.",
+        "originwordCnt": "97",
+        "labelwordCnt": "14"
+    }
+}

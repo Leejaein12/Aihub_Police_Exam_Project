@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317743",
+        "caseName": "폭행등",
+        "caseNum": "2023고단63",
+        "sentenceDate": "2023.07.06",
+        "courtName": "수원지방법원 안양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "정부 업무와 LH 업무에 관여하고 있다는 거짓말로, LH 아파트 분양을 주선하거나 조달청 공매 투자를 통해 고수익을 보장하겠다고 속여 금전을 편취하였습니다. 피고인은 다수의 사기 전력이 있고, 누범기간 중에 범행을 저질렀으며, 피해 회복이나 합의가 이루어지지 않아 징역 2년의 실형을 선고받았습니다.",
+        "originwordCnt": "642",
+        "labelwordCnt": "38"
+    }
+}

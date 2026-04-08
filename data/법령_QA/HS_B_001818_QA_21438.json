@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001818",
+        "promulgDate": "20240130",
+        "effectDate": "20240130",
+        "promulgNum": "20172",
+        "title": "수도법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제39조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "일반수도사업자가 수돗물 공급을 거절하려면 어떤 절차를 따라야 하나요?",
+        "output": "수도법 제39조제3항에 따르면, 일반수도사업자는 수돗물의 공급을 거절하려는 경우 2개월 이상의 유예기간을 두고 공급 거절의 사유와 이를 시정하지 아니하면 수돗물의 공급을 거절한다는 사실을 서면으로 통지하여야 합니다.",
+        "originwordCnt": "60",
+        "labelwordCnt": "25"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000143",
+        "promulgDate": "20210105",
+        "effectDate": "20210706",
+        "promulgNum": "17864",
+        "title": "노동조합 및 노동관계조정법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "노동조합의 조합원은 어떤 경우에 차별대우를 받지 않나요?",
+        "output": "노동조합 및 노동관계조정법 제9조에 따르면 노동조합의 조합원은 어떠한 경우에도 인종, 종교, 성별, 연령, 신체적 조건, 고용형태, 정당 또는 신분에 의하여 차별대우를 받지 않습니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "23"
+    }
+}

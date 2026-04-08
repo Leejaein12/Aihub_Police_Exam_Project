@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005988",
+        "promulgDate": "20211231",
+        "effectDate": "20220101",
+        "promulgNum": "03016",
+        "title": "형사소송규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제84조의7",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법원은 비디오 등 중계장치의 조작과 증인신문 절차를 누가 보조하게 할 수 있습니까?",
+        "output": "형사소송규칙 제84조의7제2항에 따르면 법원은 법원 직원이나 비디오 등 중계장치에 의한 중계시설을 관리하는 사람으로 하여금 비디오 등 중계장치의 조작과 증인신문 절차를 보조하게 할 수 있습니다.",
+        "originwordCnt": "59",
+        "labelwordCnt": "24"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328662",
+        "caseName": "스토킹범죄의처벌등에관한법률위반",
+        "caseNum": "2022고정1339",
+        "sentenceDate": "2023.06.22.",
+        "courtName": "서울북부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "관계 종료 후에도 지속적으로 스토킹 행위를 한 혐의로 기소되었습니다. 피해자는 피고인이 자신의 주거지에 들어가 기다리거나, 여러 차례 메시지를 보내는 등 정당한 이유 없이 접근한 사실을 주장했습니다. 그러나 피해자는 공소 제기 이후 처벌을 원하지 않는 의사를 밝혔으며, 이로 인해 법원은 공소를 기각했습니다.",
+        "originwordCnt": "225",
+        "labelwordCnt": "41"
+    }
+}

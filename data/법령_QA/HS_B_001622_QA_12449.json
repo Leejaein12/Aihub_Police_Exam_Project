@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001622",
+        "promulgDate": "20240206",
+        "effectDate": "20240507",
+        "promulgNum": "20191",
+        "title": "병역법",
+        "ministry": "국방부,병무청",
+        "fullText": "N",
+        "smClass": "제23조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "승선근무예비역으로 편입될 사람은 어떤 서약서를 제출해야 하나요?",
+        "output": "병역법 제23조의2 제3항에 따르면, 승선근무예비역으로 편입될 사람은 제1항의 의무복무기간 중 성실히 복무하겠다는 서약서를 관할 지방병무청장에게 제출하여야 한다고 명시되어 있습니다.",
+        "originwordCnt": "81",
+        "labelwordCnt": "19"
+    }
+}

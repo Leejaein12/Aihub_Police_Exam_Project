@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314759",
+        "caseName": "상해",
+        "caseNum": "2023노866",
+        "sentenceDate": "2024.02.02",
+        "courtName": "창원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "실랑이 도중 멱살을 잡아 흔들었으나, 상해는 고의적 행위로 인한 것으로 인정되지 않아 상해 혐의 부분은 사실오인으로 원심판결이 파기되었습니다. 용서를 받지 못하였으나, 우발적 범행 및 동종 범죄 전력 등을 고려하여 형량이 정해졌습니다. 그러나 폭행 혐의는 인정되어 벌금 50만 원을 선고하였습니다.",
+        "originwordCnt": "1066",
+        "labelwordCnt": "39"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001692",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19582",
+        "title": "형법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제151조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "친족이나 동거 가족이 범인 은닉을 도운 경우에는 어떤 처벌을 받나요?",
+        "output": "친족 또는 동거의 가족이 본인을 위하여 벌금 이상의 형에 해당하는 죄를 범한 자를 은닉 또는 도피하게 한 경우에는 처벌하지 아니합니다. 이는 형법 제151조 제2항에 명시되어 있습니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "26"
+    }
+}

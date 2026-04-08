@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014194",
+        "promulgDate": "20230304",
+        "effectDate": "20230605",
+        "promulgNum": "19228",
+        "title": "국립국가폭력트라우마치유센터의 설립 및 운영에 관한 법률",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제15조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국립국가폭력트라우마치유센터의 업무 처리를 위해 어떤 조직을 두어야 합니까?",
+        "output": "치유센터에 사무처를 둡니다. 이는 국립국가폭력트라우마치유센터의 설립 및 운영에 관한 법률 제15조 제1항에 명시되어 있습니다.",
+        "originwordCnt": "15",
+        "labelwordCnt": "14"
+    }
+}

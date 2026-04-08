@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "144240",
+        "caseName": "강간상해·감금·간음유인·부착명령",
+        "caseNum": "2009고합104",
+        "sentenceDate": "2009.10.22",
+        "courtName": "광주지방법원목포지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 피해자를 차량에 감금하고 협박한 경우, 어떠한 법적 처벌이 따를 수 있나요?",
+        "output": "피고인이 피해자를 차량에 감금하고 협박한 행위는 감금죄에 해당하며, 피고인의 행위가 강간상해와 관련이 있는 경우, 강간상해죄와 감금죄는 상상적 경합으로 처벌됩니다.",
+        "originwordCnt": "1267",
+        "labelwordCnt": "19"
+    }
+}

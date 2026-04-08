@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000179",
+        "promulgDate": "20200129",
+        "effectDate": "20200730",
+        "promulgNum": "16881",
+        "title": "재해구호법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제28조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "모집자와 모집종사자는 모집기간 동안 무엇을 작성하고 갖추어 두어야 하나요?",
+        "output": "재해구호법 제28조 1항에 따르면 , 모집기간 동안 대통령령으로 정하는 바에 따라 의연금품의 모집 상황 및 목록을 나타내는 장부ㆍ서류 등을 작성하고 갖추어 두어야 합니다.",
+        "originwordCnt": "106",
+        "labelwordCnt": "23"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "151448",
+        "caseName": "살인",
+        "caseNum": "62도151",
+        "sentenceDate": "1962.11.08",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "부역행위 특별처리법에 따라 공소시효가 적용되려면 자수는 어떤 요건을 충족해야 하나요?",
+        "output": "부역행위 특별처리법 제2조 제4호에 의한 형의 감경이나 면제를 받기 위해서는 범죄자가 대통령이 정한 자수 기간 내에 자수하고, 범죄지의 수복일로부터 90일의 공소시효기간이 지나기 전에 자수해야 합니다.",
+        "originwordCnt": "74",
+        "labelwordCnt": "25"
+    }
+}

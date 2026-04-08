@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "197765",
+        "caseName": "준항고",
+        "caseNum": "2016보3",
+        "sentenceDate": "2017.01.13",
+        "courtName": "인천지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "법원은 어떤 이유로 압수물 가환부거부처분을 취소하였나요?",
+        "output": "법원은 압수된 자동차가 증거로만 사용될 목적이며, 준항고인이 그 소유자임을 인정할 수 있고, 준항고인이 이를 사용할 필요성이 있다고 판단하여 가환부거부처분을 취소하고 압수물을 준항고인에게 가환부하도록 결정하였습니다.",
+        "originwordCnt": "192",
+        "labelwordCnt": "24"
+    }
+}

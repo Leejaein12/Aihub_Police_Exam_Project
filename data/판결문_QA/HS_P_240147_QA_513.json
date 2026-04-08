@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "240147",
+        "caseName": "법령127호위반",
+        "caseNum": "4284형상76",
+        "sentenceDate": "1952.05.27",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "범죄행위 시와 재판 시의 법령 개폐로 형의 변경이 있는 경우, 어떤 법령을 적용해야 하나요?",
+        "output": "범죄행위 당시와 재판 시의 중간에 법령의 개폐로 형의 변경이 있는 경우, 형법 제6조에 따라 개폐된 법령 전부를 비교하여 그중 가장 형이 경한 법령을 적용해야 합니다.",
+        "originwordCnt": "60",
+        "labelwordCnt": "25"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010207",
+        "promulgDate": "20221230",
+        "effectDate": "20221230",
+        "promulgNum": "00360",
+        "title": "범죄피해자 보호법 시행규칙",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "유족구조금 또는 긴급구조금의 신청인이 두 명 이상일 경우에는 어떤 서류를 첨부해야 하나요?",
+        "output": "신청인이 두 명 이상일 경우에는 범죄피해자 보호법 시행규칙 제6조 제3항에 따라 별지 제10호서식의 신청인 표시표를 첨부해야 합니다.",
+        "originwordCnt": "209",
+        "labelwordCnt": "17"
+    }
+}

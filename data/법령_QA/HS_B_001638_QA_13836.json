@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001638",
+        "promulgDate": "20230418",
+        "effectDate": "20240101",
+        "promulgNum": "19357",
+        "title": "도로교통법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제36조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "경찰서장이나 시장 등은 차의 견인 및 보관업무 등을 대행하는 법인에게 무엇을 명할 수 있나요?",
+        "output": "도로교통법 제36조 제3항에 따르면 경찰서장이나 시장등은 제36조 제1항에 따라 차의 견인ㆍ보관 및 반환 업무를 대행하게 하는 경우에는 그 업무의 수행에 필요한 조치와 교육을 명할 수 있습니다.",
+        "originwordCnt": "106",
+        "labelwordCnt": "26"
+    }
+}

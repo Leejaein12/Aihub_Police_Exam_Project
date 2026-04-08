@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001215",
+        "promulgDate": "20240116",
+        "effectDate": "20240417",
+        "promulgNum": "20006",
+        "title": "소송촉진 등에 관한 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제29조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "신청인이 공판기일을 통지받고도 출석하지 아니하였을 때에는 신청인의 진술 없이 재판할 수 있습니까?",
+        "output": "소송촉진 등에 관한 특례법 제29조 제2항에 명시된 바와 같이, 신청인이 공판기일을 통지받고도 출석하지 아니하였을 때에는 신청인의 진술 없이 재판할 수 있습니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "21"
+    }
+}

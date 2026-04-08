@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제124조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "여자의 신체에 대한 수색 시 필요한 절차는 무엇인가요?",
+        "output": "형사소송법 제124조에 따르면 여자의 신체에 대하여 수색할 때에는 성년의 여자를 참여하게 하여야 합니다.",
+        "originwordCnt": "13",
+        "labelwordCnt": "13"
+    }
+}

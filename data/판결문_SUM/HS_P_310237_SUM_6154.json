@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310237",
+        "caseName": "특정범죄가중처벌등에관한법률위반(운전자폭행등)",
+        "caseNum": "2024고정532",
+        "sentenceDate": "2024.08.13",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "버스 정류장에서 운전자가 문을 열어주지 않고 계속 운행한 것에 화가 나 버스 운전자인 피해자의 다리 부분을 돌로 던지고, 피해자를 발로 차는 등의 폭행을 한 사건입니다. 법원은 피고인의 범행이 특정범죄 가중처벌 등에 관한 법률에 해당하는 운전자 폭행으로 판단하였고, 이에 따라 벌금 70만 원을 선고하였습니다.",
+        "originwordCnt": "153",
+        "labelwordCnt": "43"
+    }
+}

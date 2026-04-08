@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012508",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19580",
+        "title": "국민보호와 공공안전을 위한 테러방지법",
+        "ministry": "국가정보원,국무조정실",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "대테러활동에 관한 정책의 중요사항을 심의·의결하기 위해 설치된 기구는 무엇인가요?",
+        "output": "국민보호와 공공안전을 위한 테러방지법 제5조 제1항에 따르면, 대테러활동에 관한 정책의 중요사항을 심의·의결하기 위하여 국가테러대책위원회가 설치됩니다.",
+        "originwordCnt": "79",
+        "labelwordCnt": "15"
+    }
+}

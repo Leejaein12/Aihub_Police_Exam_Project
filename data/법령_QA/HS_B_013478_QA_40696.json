@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013478",
+        "promulgDate": "20230418",
+        "effectDate": "20230719",
+        "promulgNum": "19367",
+        "title": "건축물관리법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제34조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "건축물관리법에서 건축물이 멸실된 경우, 관리자는 언제까지 멸실신고서를 제출해야 합니까?",
+        "output": "건축물관리법 제34조 제1항 규정에 따르면 관리자는 해당 건축물이 멸실된 날부터 30일 이내에 건축물 멸실신고서를 허가권자에게 제출해야 합니다.",
+        "originwordCnt": "40",
+        "labelwordCnt": "17"
+    }
+}

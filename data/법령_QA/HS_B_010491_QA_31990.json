@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010491",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19117",
+        "title": "급경사지 재해예방에 관한 법률",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제27조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "급경사지 재해예방을 위한 성능검사대행자는 성능검사 시 어떠한 수수료를 받을 수 있습니까?",
+        "output": "급경사지 재해예방을 위한 성능검사대행자는 성능검사를 할 때 검사수수료를 징수할 수 있습니다. 이는 급경사지 재해예방에 관한 법률 제27조 2항에 명시된 내용입니다.",
+        "originwordCnt": "53",
+        "labelwordCnt": "20"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337849",
+        "caseName": "컴퓨터등사용사기등",
+        "caseNum": "2023노207",
+        "sentenceDate": "2023.05.04.",
+        "courtName": "서울서부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "지방법원에서는 피고인 A에 대한 원심의 형이 지나치게 가볍다는 검사의 항소를 기각하였습니다. 검사가 주장하는 양형부당 사유는 원심이 이미 고려한 사항으로, 이후 양형의 조건에 변화가 없음을 확인하였습니다. 따라서 원심의 양형이 재량의 합리적인 범위 내에서 이루어진 것으로 판단하여, 검사의 주장은 이유가 없다고 결론지었습니다.",
+        "originwordCnt": "182",
+        "labelwordCnt": "40"
+    }
+}

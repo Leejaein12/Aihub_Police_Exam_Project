@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001550",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "한국은행법",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제77조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "정부대행기관은 어떤 일을 합니까?",
+        "output": "한국은행법 제77조 제2항에 명시된 바와 같이, 제1항에서 정부대행기관이란 생산ㆍ구매ㆍ판매 또는 배급에 있어서 정부를 위하여 공공의 사업 또는 기능을 수행하는 법인으로서 정부가 지정한 법인을 말합니다.",
+        "originwordCnt": "53",
+        "labelwordCnt": "24"
+    }
+}

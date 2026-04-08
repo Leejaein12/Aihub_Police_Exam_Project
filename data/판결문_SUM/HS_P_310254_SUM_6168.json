@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310254",
+        "caseName": "특정범죄가중처벌등에관한법률위반(절도)",
+        "caseNum": "2024도5358",
+        "sentenceDate": "2024.06.17",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "특정범죄가중처벌등에관한법률을 위반한 절도 혐의로 유죄 판결을 받은 피고인은 대법원에 상고하였습니다. 대법원은 원심이 관련 법리를 적법하게 적용하고 증거를 충분히 검토하였으며, 형사소송법 제383조 제4호에 따라 양형부당 주장이 인정되지 않는다고 판단하여 상고를 기각하였습니다.",
+        "originwordCnt": "187",
+        "labelwordCnt": "30"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317083",
+        "caseName": "폭행",
+        "caseNum": "2024고정287",
+        "sentenceDate": "2024.07.04",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "카페에서 피해자와 시비가 되어 폭행을 한 혐의로 기소되었습니다. 피고인은 피해자의 멱살을 잡고 얼굴을 2~3회 때리는 등의 폭행을 가한 사실이 인정되었으며, 법원은 이에 형법 제260조 제1항을 적용하여 벌금 70만 원을 선고하였습니다.",
+        "originwordCnt": "181",
+        "labelwordCnt": "30"
+    }
+}

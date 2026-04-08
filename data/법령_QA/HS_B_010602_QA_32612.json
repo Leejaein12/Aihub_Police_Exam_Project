@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010602",
+        "promulgDate": "20230620",
+        "effectDate": "20240621",
+        "promulgNum": "19499",
+        "title": "수산생물질병 관리법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제19조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "발굴이 금지된 토지에는 어떤 표지판을 설치해야 하나요?",
+        "output": "수산생물질병 관리법 제19조제2항에 따르면, 특별자치시장, 특별자치도지사, 시장, 군수, 구청장은 발굴이 금지된 토지에 해양수산부령으로 정하는 표지판을 설치하여야 합니다.",
+        "originwordCnt": "44",
+        "labelwordCnt": "17"
+    }
+}

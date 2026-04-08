@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310251",
+        "caseName": "주거침입등",
+        "caseNum": "2024도4239",
+        "sentenceDate": "2024.06.17",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "성폭력범죄의처벌등에관한특례법을 위반한 주거침입강제추행과 감금 혐의로 유죄 판결을 받은 사건에서, 원심은 형을 선고하며 아동․청소년 관련기관 및 장애인관련기관에 5년간 취업제한을 명령하였습니다. 상고심에서는 자유심증주의와 형사소송법 제383조 제4호에 따른 양형부당 주장이 인정되지 않아 상고가 기각되었습니다.",
+        "originwordCnt": "189",
+        "labelwordCnt": "31"
+    }
+}

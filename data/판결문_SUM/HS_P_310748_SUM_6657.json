@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310748",
+        "caseName": "폭행",
+        "caseNum": "2024고정288",
+        "sentenceDate": "2024.06.20",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "게임 어플을 통해 알게 된 상대방에게 게임머니 20만 SP를 30만 원에 구매하겠다고 제안하였으나, 실제로는 그 금액을 지불할 의사나 능력이 없었습니다. 이와 같은 방법으로 상대방을 속여 20만 SP의 게임머니를 받은 후, 현금 30만 원 상당의 재산상 이익을 취득한 행위가 인정되었습니다. 법원은 이를 사기로 판단하여 형법 제347조 제1항을 적용, 벌금형을 처하였습니다.",
+        "originwordCnt": "140",
+        "labelwordCnt": "49"
+    }
+}

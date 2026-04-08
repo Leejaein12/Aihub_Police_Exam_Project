@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "153803",
+        "caseName": "장물취득,홍삼전매법위반",
+        "caseNum": "66도1565",
+        "sentenceDate": "1969.03.31",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "전매지청장의 고발 없이 공소가 제기된 후에 고발이 이루어지면 공소절차의 무효가 치유되나요?",
+        "output": "전매지청장의 고발 없이 공소가 제기된 후에 고발이 이루어지더라도, 형사소송법 제327조 제2호와 홍삼전매법 제26조에 따라 공소절차의 무효는 치유되지 않습니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "18"
+    }
+}

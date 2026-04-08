@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "173316",
+        "caseName": "배임수재·배임증재",
+        "caseNum": "2012고단527",
+        "sentenceDate": "2013.04.30",
+        "courtName": "춘천지방법원영월지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인 2가 징역형을 선고받은 이유는 무엇인가요?",
+        "output": "피고인 2는 공소외 1 법인의 이사장으로 재직하며, 망 공소외 5와 함께 피고인 1로부터 공소외 1 법인 관리운영권을 양도하는 대가로 16억 5,000만 원을 수수한 것에 해당하여 징역 1년의 형을 선고받았습니다.",
+        "originwordCnt": "3594",
+        "labelwordCnt": "29"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000123",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19965",
+        "title": "고용정책 기본법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제42조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "대량 고용변동의 신고 규정을 위반하여 신고를 하지 아니하거나 거짓으로 신고한 자는 어떤 처벌을 받습니까?",
+        "output": "고용정책 기본법 제42조제1항제1호에 따르면 제33조제1항을 위반하여 신고를 하지 아니하거나 거짓으로 신고한 자에게는 300만원 이하의 과태료를 부과합니다.",
+        "originwordCnt": "64",
+        "labelwordCnt": "16"
+    }
+}

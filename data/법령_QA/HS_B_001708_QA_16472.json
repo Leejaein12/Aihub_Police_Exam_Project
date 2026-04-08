@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001708",
+        "promulgDate": "20210105",
+        "effectDate": "20210105",
+        "promulgNum": "17828",
+        "title": "변호사법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제35조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "변호사나 그 사무직원은 사건 유치를 위해 어떤 행위를 해서는 안 되나요?",
+        "output": "변호사법 제35조에 따르면 변호사나 그 사무직원은 법률사건이나 법률사무를 유상으로 유치할 목적으로 법원, 수사기관, 교정기관 및 병원에 출입하거나 다른 사람을 파견하거나 출입 또는 주재하게 하여서는 안 됩니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "26"
+    }
+}

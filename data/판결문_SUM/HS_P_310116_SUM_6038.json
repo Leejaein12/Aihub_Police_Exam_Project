@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310116",
+        "caseName": "식품위생법위반",
+        "caseNum": "2024고정131",
+        "sentenceDate": "2024.05.30",
+        "courtName": "수원지방법원 성남지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "고속도로에서 앞서 가던 차량이 느리게 운전한다는 이유로 급히 진로를 변경하고 제동하는 방식으로 피해자를 위협하였습니다. 이는 자동차를 이용한 특수협박에 해당하며, 법원은 벌금 200만 원을 선고하였습니다. 법원은 약식명령의 벌금액이 적정하다고 판단하여 이를 유지하였습니다.",
+        "originwordCnt": "184",
+        "labelwordCnt": "31"
+    }
+}

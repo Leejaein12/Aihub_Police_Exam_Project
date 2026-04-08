@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337194",
+        "caseName": "업무상과실치상",
+        "caseNum": "2022고단3323",
+        "sentenceDate": "2023.11.21",
+        "courtName": "의정부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "제설창고에서 호이스트 크레인을 조종하던 중 피해자가 보이지 않는 상태에서 소금 포대를 이동시켜 충격, 추락하게 하여 약 12주간의 치료가 필요한 상해를 입혔습니다. 크레인을 조작할 때 작업 반경의 시야를 확보하지 않은 과실이 인정되었습니다. 형법 제268조에 따라 업무상과실치상죄로 벌금 150만 원이 선고되었습니다.",
+        "originwordCnt": "811",
+        "labelwordCnt": "39"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311648",
+        "caseName": "공무집행방해",
+        "caseNum": "2024고단97",
+        "sentenceDate": "2024.03.22",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술에 취한 상태에서 소방관과 경찰관의 공무를 방해하며 폭행하였습니다. 법원은 이러한 행위가 형법 제136조 제1항에 해당한다고 판단하여 징역 10개월을 선고하였으나, 잘못을 인정하고 반성한 점, 범행이 단기간에 종료된 점을 참작하여 형법 제62조 제1항에 따라 2년 6개월간 집행을 유예하고, 120시간의 사회봉사와 보호관찰을 명하였습니다.",
+        "originwordCnt": "377",
+        "labelwordCnt": "40"
+    }
+}

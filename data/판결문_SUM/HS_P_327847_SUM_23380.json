@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "327847",
+        "caseName": "사기등",
+        "caseNum": "2022노2413",
+        "sentenceDate": "2022.11.11.",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심에서 선고받은 징역 1년이 부당하다고 주장하며 항소했으나, 당심에서 원심의 형량을 변경할 새로운 사정이 나타나지 않았으며, 원심과 당심 변론을 통해 확인된 피고인의 나이, 성행, 범행 경위, 범행 후 정황, 범죄 전력 등 양형 조건을 종합적으로 고려할 때 원심이 선고한 형은 적절하다고 판단되었습니다. 이에 따라 피고인의 항소를 기각하였습니다.",
+        "originwordCnt": "160",
+        "labelwordCnt": "46"
+    }
+}

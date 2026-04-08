@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000160",
+        "promulgDate": "20221213",
+        "effectDate": "20230114",
+        "promulgNum": "19090",
+        "title": "토양환경보전법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제26조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "토양오염과 관련된 행정처분의 세부적인 기준은 무엇을 고려하여 정해지나요?",
+        "output": "토양환경보전법 제26조의4에 따르면, 동법 제23조의6 및 제23조의10에 따른 행정처분의 세부적인 기준은 그 위반행위의 종류와 위반 정도 등을 고려하여 환경부령으로 정합니다.",
+        "originwordCnt": "18",
+        "labelwordCnt": "20"
+    }
+}

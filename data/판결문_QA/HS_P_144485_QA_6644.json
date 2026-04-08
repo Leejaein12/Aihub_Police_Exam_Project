@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "144485",
+        "caseName": "공직선거법위반",
+        "caseNum": "2009노2997",
+        "sentenceDate": "2010.01.14",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "검사의 항소가 기각된 이유는 무엇인가요?",
+        "output": "형사소송법 제364조 제4항에 따라 검사의 항소는 이유 없다고 판단되어 기각되었습니다. 검사는 피고인이 형사처벌을 피하기 위해 도피했다고 주장하였으나, 법원은 피고인에게 도피의사나 도피상태가 있었다고 인정할 만한 증거가 없다고 보았습니다.",
+        "originwordCnt": "1017",
+        "labelwordCnt": "27"
+    }
+}

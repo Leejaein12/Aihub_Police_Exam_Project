@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005630",
+        "promulgDate": "20200805",
+        "effectDate": "20200805",
+        "promulgNum": "30909",
+        "title": "형의 집행 및 수용자의 처우에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제82조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "미결수용자로서 자유형이 확정된 사람에 대하여는 언제부터 수형자로 처우할 수 있나요?",
+        "output": "형의 집행 및 수용자의 처우에 관한 법률 시행령 제82조 제1항에 따르면 소장은 검사의 집행 지휘서가 도달된 때부터 수형자로 처우할 수 있습니다.",
+        "originwordCnt": "37",
+        "labelwordCnt": "21"
+    }
+}

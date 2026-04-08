@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "144271",
+        "caseName": "업무방해교사",
+        "caseNum": "2009노1440",
+        "sentenceDate": "2009.08.13",
+        "courtName": "부산지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법인 등의 업무를 방해하는 위계행위의 상대방에 법인을 포함할 수 있나요?",
+        "output": "위계에 의한 업무방해죄에서 법인 등의 업무를 방해하는 경우, 위계행위의 상대방에 법인을 포함하기 어렵습니다. 위계행위의 상대방은 해당 업무를 현실적으로 담당하는 자연인에 국한됩니다.",
+        "originwordCnt": "2264",
+        "labelwordCnt": "21"
+    }
+}

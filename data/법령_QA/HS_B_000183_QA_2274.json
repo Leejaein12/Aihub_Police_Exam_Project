@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000183",
+        "promulgDate": "20240206",
+        "effectDate": "20240206",
+        "promulgNum": "20215",
+        "title": "모자보건법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제11조의6",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보건복지부장관이 난임극복 지원을 위해 수행해야 하는 통계관리의 내용은 무엇인가요?",
+        "output": "모자보건법 제11조의6 제1항에 따르면, 보건복지부장관은 난임극복 지원을 효율적으로 하기 위해 난임시술현황 및 그에 따른 임신ㆍ출산 등에 대한 통계와 정보를 수집, 분석하고 이를 관리하여야 합니다.",
+        "originwordCnt": "133",
+        "labelwordCnt": "24"
+    }
+}

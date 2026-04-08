@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "331038",
+        "caseName": "보험사기방지특별법위반",
+        "caseNum": "2022고정1562",
+        "sentenceDate": "2023.02.14",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "보험사기방지특별법 위반 사건에서 피고인들은 고의로 교통사고를 일으켜 보험금을 부정하게 취득하기로 공모하였습니다. 이들은 교통법규를 위반하는 차량을 상대로 의도적으로 사고를 일으키고, 피해를 과장하여 병원 진료를 받으며 보험사에 사고를 접수하는 방식으로 합의금을 확보하였습니다. 법원은 피고인 A, B에게 각 벌금을 부과하였습니다.",
+        "originwordCnt": "1551",
+        "labelwordCnt": "37"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011633",
+        "promulgDate": "20191210",
+        "effectDate": "20200611",
+        "promulgNum": "16785",
+        "title": "식물신품종 보호법",
+        "ministry": "농림축산식품부,해양수산부",
+        "fullText": "N",
+        "smClass": "제26조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "품종보호를 받을 수 있는 권리가 공유인 경우, 지분을 양도하려면 어떻게 해야 하나요?",
+        "output": "식물신품종 보호법 제26조 제3항에 따르면, 품종보호를 받을 수 있는 권리가 공유인 경우 각 공유자는 다른 공유자의 동의를 받지 않으면 그 지분을 양도할 수 없습니다.",
+        "originwordCnt": "47",
+        "labelwordCnt": "24"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제236조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "피의자가 조서에 적힌 내용을 확인하고 이의를 제기할 경우 어떻게 처리하나요?",
+        "output": "피의자에게 조서를 열람하게 하거나 읽어주어 이의를 제기하면 그 내용을 조서에 추가로 적어야 합니다. 이 경우 이의 제기한 부분은 읽을 수 있도록 남겨두어야 합니다. 군사법원법 제236조 제2항에 명시하고 있습니다.",
+        "originwordCnt": "74",
+        "labelwordCnt": "28"
+    }
+}

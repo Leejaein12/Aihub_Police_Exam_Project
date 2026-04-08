@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "74365",
+        "caseName": "관세법위반등피고사건",
+        "caseNum": "76노833",
+        "sentenceDate": "1977.05.26",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "범칙물품이 당국에 의해 압수되어 국고에 귀속된 경우에도 그 가액을 추징할 수 있나요?",
+        "output": "범칙물품이 당국에 의해 적발되어 압수된 후 국고에 귀속된 경우, 그 물품의 가액을 피고인으로부터 추징하는 것은 추징에 관한 법리를 오해한 것입니다. 이러한 경우, 관세법 제198조에 따라 물품가액 상당을 추징할 수 없습니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "30"
+    }
+}

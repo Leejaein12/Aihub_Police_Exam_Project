@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011358",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19590",
+        "title": "공익신고자 보호법",
+        "ministry": "국민권익위원회",
+        "fullText": "N",
+        "smClass": "제25조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보호조치에 필요한 협조와 원조 요청을 받은 관계 행정기관이나 관련 단체는 어떻게 해야 합니까?",
+        "output": "공익신고자 보호법 제25조 제2항에 따르면 동조 제1항의 요청을 받은 관계 행정기관, 상담소 또는 의료기관, 그 밖의 관련 단체 등은 정당한 사유가 없는 한 이에 응하여야 합니다.",
+        "originwordCnt": "54",
+        "labelwordCnt": "26"
+    }
+}

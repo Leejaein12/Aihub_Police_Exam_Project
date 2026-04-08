@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "215193",
+        "caseName": "살인·배임·업무상횡령",
+        "caseNum": "4287형상113",
+        "sentenceDate": "1955.01.18",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "군법회의 재심판결에 대한 관계장관의 승인은 어떤 효력을 가지나요?",
+        "output": "군법회의 재심판결에 대한 관계장관의 승인 또는 확인은 판결 집행의 요건으로 작용합니다. 이는 재심판결의 집행을 위해 필요한 절차일 뿐, 재심판결의 확정성을 변경하지는 않습니다.",
+        "originwordCnt": "129",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000240",
+        "promulgDate": "20211207",
+        "effectDate": "20220608",
+        "promulgNum": "18552",
+        "title": "골재채취법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제39조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "골재협회를 설립하기 위한 절차는 어떻게 됩니까?",
+        "output": "골재채취법 제39조 제1항에 명시된 바와 같이, 협회를 설립할 때에는 골재채취업자 50인 이상이 발기인이 되어 정관을 작성하여 창립총회의 의결을 거친 후 국토교통부장관의 인가를 받아야 합니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "24"
+    }
+}

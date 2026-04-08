@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319301",
+        "caseName": "협박",
+        "caseNum": "2023고정811",
+        "sentenceDate": "2024.07.12",
+        "courtName": "서울북부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "지하철 개찰구 앞에서 피해자와의 시비 중 피해자에게 욕설과 함께 폭력을 암시하는 위협적인 발언을 하였습니다. 피해자는 수사기관과 법정에서 일관되게 피고인의 협박을 진술하였고, CCTV 영상에서도 피고인이 피해자를 밀치는 장면이 확인되었습니다. 이에 따라 법원은 피고인이 피해자를 협박한 사실이 인정된다고 판단하여, 피고인에게 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "259",
+        "labelwordCnt": "42"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011144",
+        "promulgDate": "20200609",
+        "effectDate": "20201210",
+        "promulgNum": "17354",
+        "title": "약식절차 등에서의 전자문서 이용 등에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "피의자가 약식절차에 동의한 후 이를 철회하려면 어떤 절차를 거쳐야 하나요?",
+        "output": "약식절차 등에서의 전자문서 이용 등에 관한 법률 제4조 제3항에 따르면, 피의자가 약식절차에 동의한 후 이를 철회하려면 약식명령 청구 전까지 종이문서나 전자문서로 철회서를 제출해야 합니다.",
+        "originwordCnt": "101",
+        "labelwordCnt": "24"
+    }
+}

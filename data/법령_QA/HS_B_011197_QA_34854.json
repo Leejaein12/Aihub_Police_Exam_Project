@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011197",
+        "promulgDate": "20121227",
+        "effectDate": "20130101",
+        "promulgNum": "02441",
+        "title": "약식절차에서의 전자문서 이용 등에 관한 규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "약식사건 기록의 열람 및 출력에 관한 규정이 없을 경우, 어떤 법령이 적용되나요?",
+        "output": "약식절차에서의 전자문서 이용 등에 관한 규칙 제11조 제3항에 의하면, 사건기록의 열람, 출력에 관하여 이 규칙에 특별한 규정이 없으면 재판기록 열람ㆍ복사 규칙을 준용합니다.",
+        "originwordCnt": "104",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "307707",
+        "caseName": "상해",
+        "caseNum": "2019고단5318",
+        "sentenceDate": "2020. 7. 1.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술을 마신 후 주점에서 피해자와 일행의 발언에 화가 나 피해자를 폭행하여 28일간의 치료가 필요한 상해를 입혔습니다. 법원은 피고인이 범행을 인정하고 형사 처벌 전력이 없다는 유리한 점과, 피해자와 합의하지 못한 점 및 피해의 중한 정도를 불리한 점으로 고려하였습니다. 이러한 사정을 종합하여 징역 6월을 선고하였습니다.",
+        "originwordCnt": "242",
+        "labelwordCnt": "43"
+    }
+}

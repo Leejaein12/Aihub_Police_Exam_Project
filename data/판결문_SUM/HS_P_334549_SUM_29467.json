@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334549",
+        "caseName": "강제추행",
+        "caseNum": "2023고단98",
+        "sentenceDate": "2023.04.26",
+        "courtName": "수원지방법원 안양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "택시를 함께 타고 있던 피해자를 추행한 혐의로 기소되었으며, 법원은 이를 유죄로 인정하여 징역 8월을 선고하고, 집행유예 2년을 명령하였습니다. 또한 피고인에게 120시간의 사회봉사와 40시간의 성폭력 치료 강의 수강을 명하고, 아동·청소년 관련기관 및 장애인복지시설 취업을 5년간 제한하였습니다.",
+        "originwordCnt": "338",
+        "labelwordCnt": "35"
+    }
+}

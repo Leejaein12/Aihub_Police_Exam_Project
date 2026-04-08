@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "224033",
+        "caseName": "업무상횡령등피고사건",
+        "caseNum": "84노138",
+        "sentenceDate": "1984.04.24",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형법 제250조 제1항에 따라 살인죄의 성립 요건은 무엇인가요?",
+        "output": "형법 제250조 제1항에 따르면, 사람을 살해한 자는 살인죄가 성립하며, 이는 사람의 생명을 고의적으로 박탈한 행위에 대해 적용됩니다. 이 조항에 근거하여 살인죄가 성립할 경우 중형에 처해질 수 있습니다.",
+        "originwordCnt": "444",
+        "labelwordCnt": "27"
+    }
+}

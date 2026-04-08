@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012140",
+        "promulgDate": "20240125",
+        "effectDate": "20240131",
+        "promulgNum": "03126",
+        "title": "아동보호심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제73조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "피해아동은 행위자의 동의 없이 본인이 청구를 취하할 수 있습니까?",
+        "output": "아동보호심판규칙 제73조 제1항에 따라 피해아동은 그 법정대리인의 동의를 얻어 제1심의 피해아동보호명령의 결정이 있을 때까지 행위자의 동의 없이 청구를 취하할 수 있습니다.",
+        "originwordCnt": "113",
+        "labelwordCnt": "21"
+    }
+}

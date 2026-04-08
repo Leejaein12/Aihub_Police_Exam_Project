@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335592",
+        "caseName": "특수절도",
+        "caseNum": "2023고단363",
+        "sentenceDate": "2023.07.12",
+        "courtName": "전주지방법원 군산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "매장에서 금품을 절취하기로 공모한 후, 출입문 열쇠와 무인경비 시스템 카드를 이용하여 뒷문을 열고 2층 사무실의 현금을 가져갔습니다. 피고인들은 이전에 사기죄로 형이 확정된 전력이 있으며, 이번 범행의 죄질이 나쁘나, 모두 범행을 인정하고 반성하며 피해자와 합의한 점, 경합범 처리를 고려하여 징역 6개월의 형을 선고하였습니다.",
+        "originwordCnt": "292",
+        "labelwordCnt": "42"
+    }
+}

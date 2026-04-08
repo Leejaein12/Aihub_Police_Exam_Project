@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009681",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19761",
+        "title": "청소년복지 지원법",
+        "ministry": "여성가족부",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가 및 지방자치단체는 위기청소년의 가족 및 보호자에게 어떤 지원을 할 수 있나요?",
+        "output": "청소년복지 지원법 제13조 제1항에 따르면, 국가 및 지방자치단체는 위기청소년에게 효율적이고 적합한 지원을 하기 위하여 위기청소년의 가족 및 보호자에 대한 상담 및 교육을 실시할 수 있습니다.",
+        "originwordCnt": "71",
+        "labelwordCnt": "25"
+    }
+}

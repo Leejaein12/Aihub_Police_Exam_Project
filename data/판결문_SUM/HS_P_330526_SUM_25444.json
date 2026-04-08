@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "330526",
+        "caseName": "업무상횡령",
+        "caseNum": "2022노1072",
+        "sentenceDate": "2023.03.24",
+        "courtName": "춘천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "형법 제356조, 제355조 제1항 등에 따라 근린공원 개발사업과 관련해 피해자로부터 받은 자금을 개인적 용도로 사용한 점을 유죄로 인정하였습니다. 피고인 A는 1억 3천만 원을, 피고인 B는 4,980만 원을 임의로 사용하여 횡령한 것으로 판단하였으며, 피고인 A에 대해서는 집행유예 2년과 사회봉사 160시간을 명했습니다.",
+        "originwordCnt": "2460",
+        "labelwordCnt": "40"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001525",
+        "promulgDate": "20210615",
+        "effectDate": "20210916",
+        "promulgNum": "18244",
+        "title": "외국환거래법",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "기획재정부장관은 외국환거래를 어떻게 관리해야 하나요?",
+        "output": "'외국환거래법' 제4조제1항에 따르면, 기획재정부장관은 이 법에 따른 제한을 필요한 최소한의 범위에서 함으로써 외국환거래나 그 밖의 대외거래가 원활하게 이루어질 수 있도록 노력하여야 합니다.",
+        "originwordCnt": "40",
+        "labelwordCnt": "22"
+    }
+}

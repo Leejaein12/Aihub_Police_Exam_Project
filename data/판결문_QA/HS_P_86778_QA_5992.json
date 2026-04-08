@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86778",
+        "caseName": "업무상횡령",
+        "caseNum": "4294형상396",
+        "sentenceDate": "1961.10.15",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "업무상 보관책임이 없는 자가 보관책임이 있는 자와 공모하여 국고보조금을 횡령한 경우, 어떻게 처단되나요?",
+        "output": "업무상 보관책임이 없는 자가 보관책임이 있는 자와 공모하여 국고보조금을 횡령한 경우, 업무상 보관임무가 없는 자에 대해서는 형법 제355조 제1항에 따라 단순횡령죄로 처단해야 합니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "23"
+    }
+}

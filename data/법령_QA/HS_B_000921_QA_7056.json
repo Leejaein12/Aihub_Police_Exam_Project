@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000921",
+        "promulgDate": "20170726",
+        "effectDate": "20170726",
+        "promulgNum": "14839",
+        "title": "계엄법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "계엄지역이 2개 이상의 도에 걸치는 경우, 계엄사령관은 어떤 조치를 할 수 있나요?",
+        "output": "계엄지역이 2개 이상의 도에 걸치는 경우, 계엄사령관은 그 직무를 보조할 지구계엄사령부와 지구계엄사령부의 직무를 보조하는 지역계엄사령부를 둘 수 있습니다. 이는 계엄법 제5조 제3항에 명시되어 있습니다.",
+        "originwordCnt": "63",
+        "labelwordCnt": "24"
+    }
+}

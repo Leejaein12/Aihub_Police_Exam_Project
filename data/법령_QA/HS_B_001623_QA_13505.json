@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제341조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "증거물 또는 증거 될 서류의 조사를 신청할 때 어떤 절차를 따라야 하나요?",
+        "output": "군검사, 피고인 또는 변호인이 증거물 또는 증거 될 서류의 조사를 신청할 때에는 미리 상대방에게 열람할 기회를 주어야 합니다. 다만, 상대방의 이의가 없을 때에는 그러하지 아니합니다. 군사법원법 제341조에 명시하고 있습니다.",
+        "originwordCnt": "29",
+        "labelwordCnt": "29"
+    }
+}

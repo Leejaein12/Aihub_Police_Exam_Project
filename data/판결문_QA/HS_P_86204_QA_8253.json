@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86204",
+        "caseName": "공정증서불실기재,업무상횡령",
+        "caseNum": "4289형상1",
+        "sentenceDate": "1956.04.20",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "신앙단체의 결사의 자유에 대한 제한이 헌법에 저촉되는지요?",
+        "output": "신앙단체의 결사의 자유는 그 단체의 주요 구성원을 자유롭게 선정할 권리를 포함하는 바, 이를 제한하는 사찰령 시행규칙 제2조 제2항은 헌법 제12조에 저촉됩니다. 이에 따라, 헌법 제100조에 의해 헌법이 공포되어 시행됨과 동시에 효력을 상실하였습니다.",
+        "originwordCnt": "57",
+        "labelwordCnt": "32"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "171370",
+        "caseName": "사기·횡령",
+        "caseNum": "2007고단815",
+        "sentenceDate": "2009.12.17",
+        "courtName": "수원지방법원여주지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "횡령과 사기죄를 경합범으로 처리하는 데 어떤 법률이 적용되었나요?",
+        "output": "횡령과 사기죄는 경합범으로 처리되었으며, 형법 제37조 전단과 후단에 따라 경합범 가중 처벌이 이루어졌습니다. 법원은 이에 근거하여 징역형을 선택하였습니다.",
+        "originwordCnt": "287",
+        "labelwordCnt": "18"
+    }
+}

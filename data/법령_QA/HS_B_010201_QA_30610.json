@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010201",
+        "promulgDate": "20240611",
+        "effectDate": "20240611",
+        "promulgNum": "34560",
+        "title": "범죄피해자 보호법 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제41조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "범죄피해자 지원법인이 법에 따른 지원을 받기 위해 보유해야 하는것은 무엇이 있습니까?",
+        "output": "범죄피해자 보호법 시행령 제41조 제1항 제3호에 따르면 범죄피해자의 보호ㆍ지원업무를 위한 목적사업을 수행하는 데에 필요한 사무실과 시설 등 자산을 보유해야 합니다.",
+        "originwordCnt": "220",
+        "labelwordCnt": "20"
+    }
+}

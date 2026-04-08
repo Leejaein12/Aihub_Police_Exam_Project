@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312826",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단426",
+        "sentenceDate": "2024.02.16",
+        "courtName": "대전지방법원 공주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.087% 상태로 40km를 운전한 혐의로 기소되었습니다. 피고인은 이미 음주운전으로 벌금형 처벌을 받은 전력이 있으며, 단독 교통사고를 일으켜 도로교통 안전을 심각하게 위협하였습니다. 법원은 피고인에게 징역 1년에 집행유예 3년, 준법운전강의 40시간 수강 명령을 선고하였습니다.",
+        "originwordCnt": "282",
+        "labelwordCnt": "33"
+    }
+}

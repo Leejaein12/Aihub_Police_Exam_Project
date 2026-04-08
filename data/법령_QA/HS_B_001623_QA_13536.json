@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제354조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인과 변호인은 의견을 어떻게 진술할 수 있나요?",
+        "output": "군사법원법 제354조 제2항에 따르면 피고인과 변호인은 의견을 진술할 수 있고 최종적으로 진술할 기회를 가집니다.",
+        "originwordCnt": "40",
+        "labelwordCnt": "14"
+    }
+}

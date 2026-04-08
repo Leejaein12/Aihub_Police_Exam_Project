@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "77712",
+        "caseName": "군무이탈·특수절도·초병수소이탈",
+        "caseNum": "2005노152",
+        "sentenceDate": "2005.11.01",
+        "courtName": "고등군사법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "초병수소이탈죄의 주체가 되기 위해 어떤 조건이 필요한가요?",
+        "output": "초병수소이탈죄의 주체가 되기 위해서는 초병이 지정된 시간에 수소에 임하여 경계근무를 시작하여야 합니다. 피고인들이 근무 시작 전 군무를 이탈한 경우는 초병의 신분을 취득하기 전의 행위로, 원심판결은 피고인들에게 무죄를 선고했습니다.",
+        "originwordCnt": "1107",
+        "labelwordCnt": "28"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001723",
+        "promulgDate": "20160529",
+        "effectDate": "20161130",
+        "promulgNum": "14184",
+        "title": "국민투표법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제30조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국민투표와 관련하여 방송시설 이용일시가 서로 중첩되는 경우, 어떻게 처리되나요?",
+        "output": "국민투표와 관련된 방송시설 이용일시가 서로 중첩되는 경우, 중앙선거관리위원회가 모든 정당에게 공평하게 그 일시와 순서를 정하여야 합니다. 이는 국민투표법 제30조 제5항에 규정되어 있습니다.",
+        "originwordCnt": "151",
+        "labelwordCnt": "22"
+    }
+}

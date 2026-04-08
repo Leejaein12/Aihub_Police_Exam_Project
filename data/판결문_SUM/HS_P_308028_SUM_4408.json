@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "308028",
+        "caseName": "업무방해",
+        "caseNum": "2020고정534",
+        "sentenceDate": "2020. 9. 23.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "회사를 운영하며 피해자와 임대차계약이 종료된 후에도 피해자가 계속 영업하고 월세와 전기세를 체납하자, 2019년 8월 31일 전기담당 직원에게 전기를 끊도록 지시하여 피해자의 정비업무를 방해하였습니다. 법원은 피고인이 위력을 사용하여 업무를 방해한 사실을 인정하고, 형법 제314조 제1항에 따라 벌금 300만 원을 선고하였습니다.",
+        "originwordCnt": "265",
+        "labelwordCnt": "39"
+    }
+}

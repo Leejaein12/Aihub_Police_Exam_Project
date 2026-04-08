@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "330521",
+        "caseName": "사기등",
+        "caseNum": "2022고단4023",
+        "sentenceDate": "2023.06.08",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "전화금융사기와 관련된 범행에서 피고인은 성명불상의 조직원들과 협력하여 현금 수거를 담당하였습니다. 그러나 재판 과정에서 피고인은 범죄 사실을 인식하지 못한 것으로 보이며, 공소사실에 대한 증명이 부족하여 유죄로 판단할 수 없었습니다. 이에 따라 법원은 피고인에게 무죄를 선고하고, 배상신청은 이유 없다고 판단하였습니다.",
+        "originwordCnt": "2439",
+        "labelwordCnt": "38"
+    }
+}

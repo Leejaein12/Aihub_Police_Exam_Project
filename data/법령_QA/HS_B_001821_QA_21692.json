@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001821",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19587",
+        "title": "도로법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제75조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "도로에 대해 어떤 행위를 해서는 안 되나요?",
+        "output": "도로법 제75조에 따르면, 누구든지 정당한 사유 없이 도로에 대하여 다음 각 호의 행위를 하여서는 아니 됩니다.1. 도로를 파손하는 행위2. 도로에 토석, 입목ㆍ죽(竹) 등 장애물을 쌓아놓는 행위3. 그 밖에 도로의 구조나 교통에 지장을 주는 행위",
+        "originwordCnt": "38",
+        "labelwordCnt": "37"
+    }
+}

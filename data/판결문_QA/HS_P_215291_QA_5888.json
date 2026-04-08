@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "215291",
+        "caseName": "국가보안법위반및간첩미수피고",
+        "caseNum": "4286형상181",
+        "sentenceDate": "1953.11.09",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "간첩예비죄에서 구 형법 제88조만을 인용하고 제85조를 인용하지 않은 경우, 의율에 위법이 있나요?",
+        "output": "국가보안법 제3조와 구 형법 제88조에 따르면, 간첩예비죄에서 구 형법 제88조만을 인용하더라도 제85조가 그 내용이 되는 것이므로, 제85조를 인용하지 않았다고 하여 의율에 위법이 있다고 할 수 없습니다.",
+        "originwordCnt": "81",
+        "labelwordCnt": "26"
+    }
+}

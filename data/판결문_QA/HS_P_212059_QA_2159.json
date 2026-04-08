@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "212059",
+        "caseName": "부정수표단속법위반·강제집행면탈",
+        "caseNum": "81도588",
+        "sentenceDate": "1981.06.23",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "강제집행면탈죄에서 강제집행을 면탈할 객관적 상태는 무엇을 의미하나요?",
+        "output": "강제집행면탈죄에서 강제집행을 면탈할 객관적 상태란, 민사소송법에 의한 강제집행 또는 이를 준용하는 가압류, 가처분 등의 집행을 당할 구체적인 염려가 있는 상태를 의미합니다. 이는 형법 제327조에 따른 것입니다.",
+        "originwordCnt": "30",
+        "labelwordCnt": "26"
+    }
+}

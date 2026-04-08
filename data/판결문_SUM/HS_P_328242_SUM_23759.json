@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328242",
+        "caseName": "스토킹범죄의처벌등에관한법률위반등",
+        "caseNum": "2023고정161",
+        "sentenceDate": "2023.06.23.",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "주거지 아파트에 허락 없이 들어가 인터폰으로 호출하고, 피해자에게 만나자고 하여 주거침입으로 형법 제319조 제1항을 위반하였습니다. 그러나 이러한 스토킹 행위에 대해서는 피해자가 처벌불원의 의사를 밝혔기에 형사소송법 제327조 제6호에 따라 공소기각되었습니다. 법원은 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "357",
+        "labelwordCnt": "34"
+    }
+}

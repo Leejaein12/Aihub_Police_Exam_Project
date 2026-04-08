@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000184",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19340",
+        "title": "한부모가족지원법",
+        "ministry": "여성가족부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한부모가족지원법에서 '아동'이란 무엇을 의미하나요?",
+        "output": "한부모가족지원법 제4조 제5호에 따르면 18세 미만이며 취학 중인 경우에는 22세 미만을 말하되, 병역법에 따른 병역의무를 이행하고 취학 중인 경우에는 병역의무를 이행한 기간을 가산한 연령 미만인 자를 말한다.",
+        "originwordCnt": "160",
+        "labelwordCnt": "27"
+    }
+}

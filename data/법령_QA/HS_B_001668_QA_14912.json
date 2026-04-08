@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001668",
+        "promulgDate": "20221227",
+        "effectDate": "20221227",
+        "promulgNum": "19105",
+        "title": "형의 집행 및 수용자의 처우에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제19조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소장은 수용 중인 사람에게 사진촬영 등의 조치를 취할 수 있습니까?",
+        "output": "제19조 제2항에 따르면, 소장은 수용목적상 필요하면 수용 중인 사람에 대하여도 제1항에서 언급된 사진촬영, 지문채취, 수용자 번호지정 등 필요한 조치를 할 수 있습니다.",
+        "originwordCnt": "42",
+        "labelwordCnt": "22"
+    }
+}

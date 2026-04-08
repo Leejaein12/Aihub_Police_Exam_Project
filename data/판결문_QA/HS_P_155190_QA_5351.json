@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155190",
+        "caseName": "상법위반등",
+        "caseNum": "71도326",
+        "sentenceDate": "1971.04.13",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "부정한 행위에는 어떤 것들이 포함되나요?",
+        "output": "상법 제630조에서 말하는 부정한 행위란 법령에 뚜렷이 위배된 행위 외에도 회사의 사무처리규칙에 위배된 중요한 사항을 위반한 행위까지 포함됩니다.",
+        "originwordCnt": "581",
+        "labelwordCnt": "18"
+    }
+}

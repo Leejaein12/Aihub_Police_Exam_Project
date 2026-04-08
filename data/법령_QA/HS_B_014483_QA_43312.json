@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014483",
+        "promulgDate": "20230914",
+        "effectDate": "20240126",
+        "promulgNum": "19725",
+        "title": "해상교통안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제60조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "해사안전감독관이 지도·감독을 실시할 때 반드시 지켜야 할 절차는 무엇입니까?",
+        "output": "해상교통안전법 제60조제4항에 따르면 제60조제1항에 따라 지도ㆍ감독을 실시하는 해사안전감독관은 그 권한을 표시하는 증표를 지니고 이를 관계인에게 내보여야 합니다.",
+        "originwordCnt": "234",
+        "labelwordCnt": "17"
+    }
+}

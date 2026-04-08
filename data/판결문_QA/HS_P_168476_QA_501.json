@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "168476",
+        "caseName": "사회봉사신청 기각에 대한 이의 인용에 대한 즉시 항고",
+        "caseNum": "2010로152",
+        "sentenceDate": "2010.12.29",
+        "courtName": "부산지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "벌금 미납자의 사회봉사 신청이 납부명령일로부터 30일이 경과한 후에 이루어졌다면, 그 신청이 적법한가요?",
+        "output": "벌금 미납자의 사회봉사 신청이 납부명령일로부터 30일이 경과한 후에 이루어진 경우라도, 납부명령서의 송달일이 명확하지 않다면, 그 신청이 적법한 것으로 판단될 수 있습니다.",
+        "originwordCnt": "556",
+        "labelwordCnt": "21"
+    }
+}

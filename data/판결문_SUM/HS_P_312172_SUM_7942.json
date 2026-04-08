@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312172",
+        "caseName": "재물손괴",
+        "caseNum": "2023고정97",
+        "sentenceDate": "2023.09.07",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "아파트 주차장에서 피해자의 차량 본네트 위에 주차금지 입간판을 올려놓고 이를 밀어 차량에 흠집을 내어 수리비 약 70만 원 상당의 손해를 입혔습니다. 법원은 피고인이 초범이고 재물손괴의 고의가 확정적이지 않으며, 피해 정도가 경미한 점을 고려하여 벌금 50만 원을 선고하였으나 1년간 집행을 유예하였습니다.",
+        "originwordCnt": "186",
+        "labelwordCnt": "40"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제49조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "군검사나 피고인이 재판관의 기피를 신청할 수 있는 경우는 어떤 경우입니까?",
+        "output": "군사법원법 제49조 제1항에 따르면, 다음 각 호의 경우에 재판관의 기피를 신청할 수 있습니다.1. 재판관이 제48조의 각 호에 해당될 때2. 재판관이 불공평한 재판을 할 우려가 있을 때",
+        "originwordCnt": "50",
+        "labelwordCnt": "28"
+    }
+}

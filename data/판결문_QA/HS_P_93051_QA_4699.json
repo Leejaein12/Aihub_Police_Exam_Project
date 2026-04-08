@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93051",
+        "caseName": "군무이탈·폭력행위등처벌에관한법률위반",
+        "caseNum": "76도1342",
+        "sentenceDate": "1976.06.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "군형법 제30조에 따른 군무이탈죄는 언제 성립되나요?",
+        "output": "군형법 제30조의 군무이탈죄는 군무를 이탈할 목적으로 부대 또는 직무를 이탈한 순간 성립하며, 휴가 허가 기간 종료 후 군무를 기피할 목적으로 귀대하지 않은 경우에도 군무이탈죄는 성립합니다. 이후부터는 군무이탈의 위법 상태가 계속되는 것에 불과합니다.",
+        "originwordCnt": "168",
+        "labelwordCnt": "32"
+    }
+}

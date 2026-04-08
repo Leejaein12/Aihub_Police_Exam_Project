@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제272조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법원이 공무소에 대한 조회 신청을 기각할 때 어떤 방식으로 해야 하나요?",
+        "output": "형사소송법 제272조제2항에 따르면 제272조제1항의 신청을 기각함에는 결정으로 하여야 합니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "9"
+    }
+}

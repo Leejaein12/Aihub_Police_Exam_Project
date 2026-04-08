@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310460",
+        "caseName": "야간주거침입절도",
+        "caseNum": "2024고단225",
+        "sentenceDate": "2024.06.05",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "주거에 침입하여 시가 27만 원 상당의 자전거를 절취하였습니다. 법원은 야간에 타인의 주거에 침입하여 절도를 저지른 점을 중하게 보았으나, 피해자가  처벌을 원하지 않는 점, 범행이 실내 주거공간이 아닌 곳에서 이루어진 점 등을 참작하여 징역 4개월을 선고하였습니다. 다만, 형법 제62조 제1항에 따라 형의 집행을 2년간 유예하였습니다.",
+        "originwordCnt": "219",
+        "labelwordCnt": "45"
+    }
+}

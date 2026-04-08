@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001761",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19591",
+        "title": "고용보험법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "고용보험위원회는 어떤 사항을 심의하나요?",
+        "output": "고용보험위원회는 보험제도 및 보험사업의 개선에 관한 사항, 보험료율의 결정에 관한 사항, 보험사업의 평가에 관한 사항, 기금운용 계획의 수립 및 운용 결과에 관한 사항 등을 심의합니다. 고용보험법 제7조제2항에 규정되어 있습니다.",
+        "originwordCnt": "149",
+        "labelwordCnt": "29"
+    }
+}

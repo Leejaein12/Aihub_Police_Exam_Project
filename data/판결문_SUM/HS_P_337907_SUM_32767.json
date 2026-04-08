@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337907",
+        "caseName": "사기등",
+        "caseNum": "2023노869",
+        "sentenceDate": "2023.10.19.",
+        "courtName": "서울서부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "소송비용 명목으로 금품을 받은 후 변호사 자격 없이 법률상담과 문서작성을 한 혐의로 기소되었습니다. 피고인은 금품 수수의 목적을 차용금이라 주장하며 사기죄와 변호사법위반죄가 동시에 성립할 수 없다고 항소하였으나, 법원은 두 죄의 보호 목적이 다르다고 보고 모두 성립한다고 판단했습니다. 항소 이유가 없어 기각되었습니다.",
+        "originwordCnt": "519",
+        "labelwordCnt": "40"
+    }
+}

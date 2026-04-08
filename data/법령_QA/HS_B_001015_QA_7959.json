@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001015",
+        "promulgDate": "20230214",
+        "effectDate": "20240215",
+        "promulgNum": "19225",
+        "title": "유선 및 도선 사업법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제37조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "유선 및 도선 사업법 규정상, 관할관청이 유선 및 도선 사업의 면허취소를 명하려면 어떤 절차를 거쳐야 합니까?",
+        "output": "유선 및 도선 사업법 제37조에 따르면, 관할관청은 제9조제1항에 따라 유ㆍ도선사업의 면허취소ㆍ사업폐쇄 또는 사업정지를 명하려면 청문을 하여야 합니다.",
+        "originwordCnt": "14",
+        "labelwordCnt": "17"
+    }
+}

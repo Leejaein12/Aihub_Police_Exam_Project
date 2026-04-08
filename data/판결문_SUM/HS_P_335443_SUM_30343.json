@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335443",
+        "caseName": "사기",
+        "caseNum": "2023고단103",
+        "sentenceDate": "2023.08.10",
+        "courtName": "광주지방법원 장흥지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "위조된 택지 분양권 매매계약서를 보여주며 저렴하게 팔겠다고 속여 금전을 편취하였습니다. 피고인은 과거에도 사기죄로 징역 10년을 선고받은 전력이 있으며, 이번 사건 또한 사기죄와 경합범 관계에 있었습니다. 법원은 피고인에게 징역 1년을 선고하였으나, 3년간 집행을 유예하였습니다.",
+        "originwordCnt": "290",
+        "labelwordCnt": "33"
+    }
+}

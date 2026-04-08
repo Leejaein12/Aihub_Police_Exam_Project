@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001988",
+        "promulgDate": "20230725",
+        "effectDate": "20240126",
+        "promulgNum": "19573",
+        "title": "수상레저안전법",
+        "ministry": "해양경찰청",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "수상레저안전법  제3조 1항에 해당하는 경우에도 수상레저안전법이 적용되는 상황이 있나요?",
+        "output": "수상레저안전법  제3조 2항에 따르면 제1항에 해당하는 경우에도 다른 법률에서 제5조의 조종면허를 자격요건으로 규정한 경우에는 수상레저안전법의 제16조 및 제17조가 적용됩니다.",
+        "originwordCnt": "69",
+        "labelwordCnt": "20"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009505",
+        "promulgDate": "20230411",
+        "effectDate": "20240412",
+        "promulgNum": "19330",
+        "title": "소방기본법",
+        "ministry": "소방청",
+        "fullText": "N",
+        "smClass": "제17조의6",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "청소년에게 소방안전에 관한 올바른 이해와 안전의식을 함양하기 위해 어떤 단체를 설립하나요?",
+        "output": "청소년에게 소방안전에 관한 올바른 이해와 안전의식을 함양시키기 위하여 한국119청소년단을 설립합니다. 이는 소방기본법 제17조의6 제1항에 근거합니다.",
+        "originwordCnt": "105",
+        "labelwordCnt": "15"
+    }
+}

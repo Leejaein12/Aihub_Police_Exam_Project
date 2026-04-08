@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "338313",
+        "caseName": "업무방해등",
+        "caseNum": "2022고단5963",
+        "sentenceDate": "2023.03.29.",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2022년 10월 술에 취한 상태에서 주점 내 유리잔을 파손하고 종업원을 위협한 사건에 대해 판단하였습니다. 또한 경찰관의 정당한 직무를 방해한 행위와 관공서에서 주정 및 소란을 피운 점도 고려되었습니다. 범죄의 성질과 피해의 정도를 감안하여, 징역 8개월과 벌금 30만 원을 부과하며, 징역형의 집행은 2년간 유예하기로 하였습니다.",
+        "originwordCnt": "457",
+        "labelwordCnt": "43"
+    }
+}

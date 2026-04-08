@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000980",
+        "promulgDate": "20221115",
+        "effectDate": "20230516",
+        "promulgNum": "19021",
+        "title": "경비업법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "경비지도사 자격을 취득하기 위한 조건은 무엇인가요?",
+        "output": "경비지도사는 경비업법 제10조제1항 각호의 1에 해당하지 아니하는 자로서 경찰청장이 시행하는 경비지도사시험에 합격하고 행정안전부령으로 정하는 교육을 받은 자이어야 합니다. 이는 경비업법 제11조 제1항에 명시되어 있습니다.",
+        "originwordCnt": "66",
+        "labelwordCnt": "24"
+    }
+}

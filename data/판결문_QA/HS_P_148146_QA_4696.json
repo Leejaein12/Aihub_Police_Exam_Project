@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "148146",
+        "caseName": "사기·도박",
+        "caseNum": "2010고단613",
+        "sentenceDate": "2010.04.30",
+        "courtName": "대전지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "도박 행위에 대한 처벌 기준은 어떻게 적용되나요?",
+        "output": "도박 행위에 대해서는 형법 제246조 제1항에 따라 처벌이 이루어지며, 도박이 단순한 경우 벌금형을 선택할 수 있지만, 기망 행위가 동반된 경우 형법 제347조 제1항 및 제30조에 따라 징역형을 선택하여 가중처벌할 수 있습니다.",
+        "originwordCnt": "1433",
+        "labelwordCnt": "31"
+    }
+}

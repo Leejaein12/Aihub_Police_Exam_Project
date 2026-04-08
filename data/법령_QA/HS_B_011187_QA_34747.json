@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011187",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19743",
+        "title": "성폭력범죄의 처벌 등에 관한 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제35조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "성폭력범죄 피해자에 대한 진술조력인의 자격이 취소되면 자격증을 어떻게 처리하나요?",
+        "output": "성폭력범죄의 처벌 등에 관한 특례법 제35조의3 제5항에 따르면, 자격이 취소된 진술조력인은 자격증을 반납해야 하며, 그에 관한 사항은 법무부령으로 정해집니다.",
+        "originwordCnt": "194",
+        "labelwordCnt": "19"
+    }
+}

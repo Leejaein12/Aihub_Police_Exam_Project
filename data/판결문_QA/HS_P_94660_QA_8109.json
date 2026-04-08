@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "94660",
+        "caseName": "도박",
+        "caseNum": "79도1715",
+        "sentenceDate": "1979.11.13",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "약 40분간 10여 회에 걸쳐 소액의 민화투를 친 경우, 이를 도박죄로 볼 수 있나요?",
+        "output": "약 40분 동안 10여 회에 걸쳐 판돈이 합계 700원 정도인 민화투를 친 경우, 이는 일시적인 오락의 정도에 불과하다고 판단됩니다. 따라서 형법 제246조에 해당하는 도박죄로 보기 어렵습니다.",
+        "originwordCnt": "44",
+        "labelwordCnt": "26"
+    }
+}

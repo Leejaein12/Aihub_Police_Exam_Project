@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "238269",
+        "caseName": "할부거래에관한법률위반",
+        "caseNum": "2020도14049",
+        "sentenceDate": "2022.12.15",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "항소이유의 철회는 어떤 경우에 효력이 있나요?",
+        "output": "형사소송법 제364조에 따르면, 항소이유의 철회는 명백히 이루어져야만 효력이 인정되며, 명확한 의사표시가 없는 경우에는 철회의 효력이 발생하지 않습니다.",
+        "originwordCnt": "1228",
+        "labelwordCnt": "17"
+    }
+}

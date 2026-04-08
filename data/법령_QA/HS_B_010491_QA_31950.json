@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010491",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19117",
+        "title": "급경사지 재해예방에 관한 법률",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "급경사지 재해예방에 관한 법률에 따르면 붕괴위험지역에 관리기관이 해야 할 의무는 무엇인가요?",
+        "output": "관리기관은 붕괴위험지역에 위험을 알리는 표지를 설치하여야 합니다. 이는 급경사지 재해예방에 관한 법률 제11조 제1항에 명시되어 있는 의무입니다.",
+        "originwordCnt": "43",
+        "labelwordCnt": "17"
+    }
+}

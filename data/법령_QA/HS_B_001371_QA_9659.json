@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001371",
+        "promulgDate": "20201215",
+        "effectDate": "20240101",
+        "promulgNum": "17646",
+        "title": "국가정보원법",
+        "ministry": "국가정보원",
+        "fullText": "N",
+        "smClass": "제24조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가정보원 직원의 정치관여죄, 적법한 절차를 따르지 않은 위치추적에 죄에 대한 공소시효는 몇 년인가요?",
+        "output": "국가정보원법 제24조에 의하면 제21조와 제23조제2항의 죄에 대한 공소시효의 기간은 형사소송법 제249조제1항에도 불구하고 10년으로 합니다.",
+        "originwordCnt": "14",
+        "labelwordCnt": "14"
+    }
+}

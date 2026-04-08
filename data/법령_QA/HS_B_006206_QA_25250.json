@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "006206",
+        "promulgDate": "20230821",
+        "effectDate": "20230821",
+        "promulgNum": "01058",
+        "title": "자유형등에 관한 검찰집행사무규칙",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "자유형등의 집행사무에서 집행사무담당직원이 재판결과통지서를 보고한 후 어떤 절차가 필요한가요?",
+        "output": "자유형등에 관한 검찰집행사무규칙 제2조 규정에 따르면 집행사무담당직원은 재판결과통지서를 보고한 후, 별지 제1호서식의 집행원부에 정해진 사항을 기재해야 합니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "17"
+    }
+}

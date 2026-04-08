@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001645",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19329",
+        "title": "새마을금고법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제62조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "새마을금고 중앙회의 감사위원회는 중앙회의 재산과 업무 집행상황에 대하여 얼마나 자주 감사를 해야 하나요?",
+        "output": "새마을금고법 제62조 제1항에 따르면 감사위원회는 중앙회의 재산과 업무 집행상황에 대하여 분기마다 1회 이상 감사하고, 그 결과를 총회와 이사회에 보고하여야 합니다.",
+        "originwordCnt": "71",
+        "labelwordCnt": "20"
+    }
+}

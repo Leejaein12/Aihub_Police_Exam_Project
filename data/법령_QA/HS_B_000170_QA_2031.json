@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000170",
+        "promulgDate": "20210401",
+        "effectDate": "20210401",
+        "promulgNum": "17985",
+        "title": "환경분쟁 조정법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사무국의 심사관은 어떤 사무를 담당합니까?",
+        "output": "환경분쟁 조정법 제13조 제2항에 따르면 사무국의 심사관은 분쟁 조정에 필요한 사실조사와 인과관계의 규명, 환경피해액의 산정 및 산정기준의 연구ㆍ개발, 그 밖에 위원장이 지정하는 사항을 담당합니다.",
+        "originwordCnt": "60",
+        "labelwordCnt": "24"
+    }
+}

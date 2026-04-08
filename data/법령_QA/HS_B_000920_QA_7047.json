@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000920",
+        "promulgDate": "20240116",
+        "effectDate": "20240116",
+        "promulgNum": "20026",
+        "title": "통합방위법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "정부는 통합방위사태 선포에 따른 국가방위요소의 동원 비용을 어떻게 지원하나요?",
+        "output": "'통합방위법' 제3조 제4항에 따르면, 정부는 통합방위사태의 선포에 따른 국가방위요소의 동원 비용을 대통령령으로 정하는 바에 따라 예산의 범위에서 해당 지방자치단체에 지원할 수 있습니다.",
+        "originwordCnt": "59",
+        "labelwordCnt": "22"
+    }
+}

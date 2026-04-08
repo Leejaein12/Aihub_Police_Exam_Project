@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000866",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19095",
+        "title": "자격기본법",
+        "ministry": "고용노동부,교육부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "정부는 국가직무능력표준의 활용을 위해 어떤 노력을 해야 하나요?",
+        "output": "'자격기본법' 제5조 제3항에 따르면, 정부는 교육훈련과정, 국가자격의 검정 및 출제기준, 민간자격의 공인기준 등이 국가직무능력표준에 따라 마련되도록 노력하여야 합니다.",
+        "originwordCnt": "60",
+        "labelwordCnt": "18"
+    }
+}

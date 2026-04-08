@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318168",
+        "caseName": "보험사기방지특별법위반",
+        "caseNum": "2023고단1389",
+        "sentenceDate": "2023.11.29",
+        "courtName": "창원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.197%의 술에 취한 상태로 약 4km 구간을 운전한 혐의로 기소되었습니다. 법원은 피고인의 종전 음주운전 전력과 높은 음주 수치를 고려하였으나, 최근에 동종 범죄로 처벌받은 적이 없고, 운전 구간 및 범행 경위, 그리고 자녀 4명을 부양하는 가장이라는 점 등을 종합적으로 참작하여 징역 1년에 집행유예 2년을 선고하였습니다.",
+        "originwordCnt": "143",
+        "labelwordCnt": "45"
+    }
+}

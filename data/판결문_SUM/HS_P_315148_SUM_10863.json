@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315148",
+        "caseName": "도박",
+        "caseNum": "2024고단612",
+        "sentenceDate": "2024.07.04",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "아파트에서 인터넷 불법도박사이트에 접속하여 '미니게임 홀짝' 도박을 하며 총 14,139,100원을 입금한 혐의가 확인되었습니다. 추가로 다른 사이트에서도 2,964,300원을 입금하며 같은 범행을 저질렀습니다. 법원은 도박액이 상당하나, 피고인이 초범이며 자수한 점을 고려하여 벌금 50만 원을 선고하였습니다.",
+        "originwordCnt": "283",
+        "labelwordCnt": "33"
+    }
+}

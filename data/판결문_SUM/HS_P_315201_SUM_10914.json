@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315201",
+        "caseName": "도로교통법위반(음주측정거부)",
+        "caseNum": "2023고단349",
+        "sentenceDate": "2024.03.12",
+        "courtName": "전주지방법원 남원지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주운전 중 교통사고를 일으킨 후, 음주측정 요구에 응하지 않아 기소되었습니다. 피고인은 경찰 신분으로 음주 상태에서 운전하다 사고를 냈고, 경찰관의 음주측정 요구에 정당한 이유 없이 불응하였습니다. 법원은 도로교통법 제148조의2 제2항 및 제44조 제2항을 적용하여 벌금 1,000만 원을 선고하였습니다.",
+        "originwordCnt": "375",
+        "labelwordCnt": "37"
+    }
+}

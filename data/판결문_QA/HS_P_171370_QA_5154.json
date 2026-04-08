@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "171370",
+        "caseName": "사기·횡령",
+        "caseNum": "2007고단815",
+        "sentenceDate": "2009.12.17",
+        "courtName": "수원지방법원여주지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "금액을 보관 중에 임의로 사용한 것이 어떻게 횡령죄로 인정되었나요?",
+        "output": "금액을 보관하던 중에 리베이트 비용 및 접대비 명목으로 임의로 사용한 행위는 본래 목적에 맞게 사용되지 않았기 때문에 횡령죄로 인정되었습니다. 법원은 이를 범죄로 판단하고 징역형을 선고하였습니다.",
+        "originwordCnt": "287",
+        "labelwordCnt": "25"
+    }
+}

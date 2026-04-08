@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86076",
+        "caseName": "수뢰피고",
+        "caseNum": "4288형상22",
+        "sentenceDate": "1955.06.21",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "계약이 상사의 지시에 따라 결정된 경우, 금품을 제공한 사실이 수뢰죄로 성립할 수 있나요?",
+        "output": "계약이 임의로 성립된 것이 아니라 상사의 지령에 의해 결정된 것이고, 금품을 제공할 필요가 없는 상황에서 동정하여 금품을 제공한 경우, 이는 직무에 관한 금품수뢰로 볼 수 없으므로 수뢰죄로 성립하지 않습니다. 이는 형법 제129조 제1항에 따른 것입니다.",
+        "originwordCnt": "42",
+        "labelwordCnt": "35"
+    }
+}

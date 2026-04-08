@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319088",
+        "caseName": "폭행",
+        "caseNum": "2023고정220",
+        "sentenceDate": "2023.08.08",
+        "courtName": "대전지방법원 천안지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원동기장치자전거 면허를 받지 않고 혈중알코올농도 0.085%의 상태에서 약 1km 구간을 운전한 혐의로 기소되었습니다. 법원은 도로교통법 제148조의2 제3항 제2호 및 제44조 제1항에 따라 음주운전 혐의, 도로교통법 제154조 제2호 및 제43조에 따라 무면허운전 혐의를 인정하여 벌금 650만 원을 선고하였습니다.",
+        "originwordCnt": "147",
+        "labelwordCnt": "37"
+    }
+}

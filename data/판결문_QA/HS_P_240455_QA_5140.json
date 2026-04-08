@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "240455",
+        "caseName": "절도·축산물가공처리법위반",
+        "caseNum": "77도405",
+        "sentenceDate": "1977.09.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "염소를 도살하거나 해체하는 행위가 축산물가공처리법을 위반한 것에 해당하나요?",
+        "output": "축산물가공처리법 제2조 제1항에 규정된 '수축'의 범주에 '염소'는 포함되지 않습니다. 이 법에서는 '양'이 포함되지만, '염소'는 명시되어 있지 않으므로 염소 도살은 축산물가공처리법 위반으로 처벌되지 않습니다.",
+        "originwordCnt": "25",
+        "labelwordCnt": "23"
+    }
+}

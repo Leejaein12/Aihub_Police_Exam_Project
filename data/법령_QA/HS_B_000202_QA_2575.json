@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000202",
+        "promulgDate": "20240123",
+        "effectDate": "20240424",
+        "promulgNum": "20098",
+        "title": "사회복지사업법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제33조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "중앙협의회와 시ㆍ도협의회, 시ㆍ군ㆍ구협의회는 어떤 법적 지위를 가지나요?",
+        "output": "사회복지사업법 제33조 제2항에 따르면, 중앙협의회, 시ㆍ도협의회 및 시ㆍ군ㆍ구협의회는 이 법에 따른 사회복지법인으로 하되, 제23조 제1항은 적용하지 아니합니다.",
+        "originwordCnt": "127",
+        "labelwordCnt": "17"
+    }
+}

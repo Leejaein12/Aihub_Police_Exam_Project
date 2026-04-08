@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "305829",
+        "caseName": "특수절도",
+        "caseNum": "2022고단3818",
+        "sentenceDate": "2024. 5. 22.",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피해자의 현금을 절취하기로 공모하여, A가 지시하고 B, D가 캐리어 가방을 운반하며 C가 이를 운반하는 역할을 수행하였습니다. 이들은 34억 원 상당의 현금을 절취하였으며, 피고인 A는 징역 2년, 피고인 B는 징역 1년 6월, 피고인 C는 징역 1년에 집행유예 3년이 선고되었습니다. 피고인 D와 E는 무죄 판결을 받았고, 배상 신청인 F의 배상 신청은 각하되었습니다.",
+        "originwordCnt": "3018",
+        "labelwordCnt": "50"
+    }
+}

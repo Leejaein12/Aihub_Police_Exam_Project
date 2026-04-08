@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "309251",
+        "caseName": "살인, 사체은닉",
+        "caseNum": "2015고합24",
+        "sentenceDate": "2015. 5. 28.",
+        "courtName": "제주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "내연 관계에 있던 여성이 자신을 무시한다고 생각하여 격분한 상태에서 폭행한 후 목을 졸라 살해하였습니다. 이후 사체를 은닉하기 위해 여러 차례 옮기고 흙으로 덮는 등의 행위를 하였습니다. 법원은 형법 제250조 제1항에 따른 살인죄와 형법 제161조 제1항에 따른 사체은닉죄를 인정하였고, 범행 경위와 잔혹성을 고려하여 징역 25년을 선고하였습니다.",
+        "originwordCnt": "1141",
+        "labelwordCnt": "45"
+    }
+}

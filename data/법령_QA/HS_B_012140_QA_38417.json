@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012140",
+        "promulgDate": "20240125",
+        "effectDate": "20240131",
+        "promulgNum": "03126",
+        "title": "아동보호심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제66조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "아동학대범죄의 항고법원으로부터 사건을 이송받은 법원의 판사는 이송받은 사건에 관해 할 수 있는것은 무엇인가요?",
+        "output": "아동보호심판규칙 제66조 제1항에 따르면 항고법원으로부터 사건을 환송 또는 이송받은 법원의 판사는 환송 또는 이송받은 사건에 관하여 다시 심리해야 합니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "19"
+    }
+}

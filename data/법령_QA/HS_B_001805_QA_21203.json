@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001805",
+        "promulgDate": "20240213",
+        "effectDate": "20240514",
+        "promulgNum": "20307",
+        "title": "식품위생법",
+        "ministry": "식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제60조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공무원이 공제회 조사를 할 때 지켜야 할 절차는 무엇인가요?",
+        "output": "식품위생법 제60조의4 제2항에 따르면, 조사 또는 검사를 하는 공무원은 권한을 표시하는 증표 및 조사기간, 조사범위, 조사담당자, 관계 법령 등이 기재된 서류를 가지고 이를 관계인에게 보여주어야 합니다.",
+        "originwordCnt": "117",
+        "labelwordCnt": "26"
+    }
+}

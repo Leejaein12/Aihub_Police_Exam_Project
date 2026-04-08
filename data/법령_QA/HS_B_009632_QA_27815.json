@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009632",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19589",
+        "title": "복권 및 복권기금법",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제32조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "복권관련정보와 복권기금 운용실태의 공개와 관련된 구체적인 사항은 어떻게 정해지나요?",
+        "output": "복권 및 복권기금법 제32조 제3항에 따르면, 복권관련정보와 복권기금 운용실태의 공개방법, 공개시기 및 공개절차 등에 관하여 필요한 사항은 대통령령으로 정하게 되어 있습니다.",
+        "originwordCnt": "81",
+        "labelwordCnt": "21"
+    }
+}

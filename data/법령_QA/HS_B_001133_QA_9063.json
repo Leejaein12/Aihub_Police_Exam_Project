@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001133",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19743",
+        "title": "특정강력범죄의 처벌에 관한 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "재판장은 특정강력범죄사건 증인의 신변안전과 관련해 어떤 역할을 할 수 있나요?",
+        "output": "재판장은 특정강력범죄의 처벌에 관한 특례법 제7조 제3항에 따라, 증인의 신변안전을 위해 검사가 필요한 조치를 하도록 요청할 수 있습니다.",
+        "originwordCnt": "67",
+        "labelwordCnt": "18"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001821",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19587",
+        "title": "도로법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제62조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "도로관리청은 주요지하매설물이 설치된 도로에서 굴착공사를 허가할 때 누구에게 알려야 하나요?",
+        "output": "도로법 제62조 제4항에 따르면, 도로관리청은 주요지하매설물이 설치된 도로에 굴착공사가 따르는 도로점용허가를 할 때, 그 주요지하매설물의 관리자에게 이를 알려야 합니다.",
+        "originwordCnt": "225",
+        "labelwordCnt": "19"
+    }
+}

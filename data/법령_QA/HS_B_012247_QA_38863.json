@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012247",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19915",
+        "title": "수입식품안전관리 특별법",
+        "ministry": "식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제26조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "교육명령의 세부 절차와 교육 방법 등은 무엇에 따라 정해지나요?",
+        "output": "수입식품안전관리 특별법 제26조 제3항에 따르면, 제1항에 따른 교육명령의 세부 절차, 교육기관, 교육 방법 및 내용 등에 필요한 사항은 총리령으로 정합니다.",
+        "originwordCnt": "115",
+        "labelwordCnt": "20"
+    }
+}

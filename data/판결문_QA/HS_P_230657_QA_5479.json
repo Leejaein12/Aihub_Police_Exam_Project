@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "230657",
+        "caseName": "재물손괴",
+        "caseNum": "2006고단5204",
+        "sentenceDate": "2007.01.26",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "조합장이 일부 조합원의 동의 없이 아파트를 철거한 행위는 어떤 범죄에 해당하나요?",
+        "output": "조합장이 일부 조합원의 동의 없이 포크레인 등 장비를 사용하여 아파트를 임의로 철거한 행위는 형법 제366조에 따라 손괴죄에 해당합니다.",
+        "originwordCnt": "537",
+        "labelwordCnt": "18"
+    }
+}

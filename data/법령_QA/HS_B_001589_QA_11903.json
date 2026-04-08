@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001589",
+        "promulgDate": "20230620",
+        "effectDate": "20231221",
+        "promulgNum": "19511",
+        "title": "소비자기본법",
+        "ministry": "공정거래위원회",
+        "fullText": "N",
+        "smClass": "제49조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "중앙행정기관의 장의 권고, 권고의 수락 및 공표의 절차에 관한 사항은 어떻게 정해지나요?",
+        "output": "중앙행정기관의 장의 권고, 권고의 수락 및 공표의 절차에 관한 필요한 사항은 대통령령으로 정합니다. 이는 소비자기본법 제49조 제5항에 근거합니다.",
+        "originwordCnt": "105",
+        "labelwordCnt": "18"
+    }
+}

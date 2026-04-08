@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001118",
+        "promulgDate": "20231229",
+        "effectDate": "20231229",
+        "promulgNum": "19857",
+        "title": "형사보상 및 명예회복에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제22조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "형사보상금을 받을 수 있는 사람이 여러 명일 때, 한 명에게 지급하면 어떤 효력이 발생하나요?",
+        "output": "형사보상 및 명예회복에 관한 법률 제22조에 따르면, 보상금을 받을 수 있는 자가 여러 명인 경우에는 그 중 1명에 대한 보상금 지급은 그 모두에 대하여 효력이 발생합니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "26"
+    }
+}

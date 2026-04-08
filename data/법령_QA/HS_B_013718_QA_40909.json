@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013718",
+        "promulgDate": "20240206",
+        "effectDate": "20240517",
+        "promulgNum": "20194",
+        "title": "전기안전관리법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "산업통상자원부장관은 전기안전자문기구의 운영을 위해 어떤 지원을 할 수 있나요?",
+        "output": "전기안전관리법 제6조 제2항에 따르면 산업통상자원부장관은 전기안전자문기구가 원활하게 운영될 수 있도록 필요한 행정적ㆍ재정적 지원을 할 수 있습니다.",
+        "originwordCnt": "45",
+        "labelwordCnt": "16"
+    }
+}

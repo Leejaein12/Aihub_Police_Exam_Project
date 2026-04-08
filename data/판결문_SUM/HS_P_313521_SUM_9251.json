@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313521",
+        "caseName": "사기",
+        "caseNum": "2023고정1168",
+        "sentenceDate": "2024.04.25",
+        "courtName": "서울북부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공범과 함께 술값을 지불할 의사나 능력이 없으면서도 정상적으로 결제할 것처럼 가장하여 유흥주점에서 83만 원 상당의 술과 음식, 노래 서비스를 제공받아 재산상 이득을 취득한 혐의로 기소되었습니다. 법원은 피고인이 동종 전과가 다수 있고 범행에서 주도적인 역할을 한 점을 들어 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "220",
+        "labelwordCnt": "41"
+    }
+}

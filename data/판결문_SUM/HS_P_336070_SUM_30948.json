@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336070",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고단202",
+        "sentenceDate": "2024.07.19",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.109%의 술에 취한 상태로 약 5.7km 구간에서 그랜저 승용차를 운전한 혐의로 기소되었습니다. 피고인은 음주운전으로 벌금형 처벌을 받은 전력이 있습니다. 법원은 피고인이 법정에서 잘못을 인정하고 반성하는 모습을 보였음을 고려하여 징역 1년에 대해 2년간 집행유예를 부여하고, 준법운전 강의 수강을 명령하였습니다.",
+        "originwordCnt": "183",
+        "labelwordCnt": "39"
+    }
+}

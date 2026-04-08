@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000980",
+        "promulgDate": "20221115",
+        "effectDate": "20230516",
+        "promulgNum": "19021",
+        "title": "경비업법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "경찰청장은 어떤 절차를 통해 경비지도사 자격증을 교부하나요?",
+        "output": "경찰청장은 경비업법 제10조제1항의 규정에 의한 교육을 받은 자에게 행정안전부령으로 정하는 바에 따라 경비지도사자격증을 교부하여야 합니다. 이는 경비업법 제11조 제2항에 근거합니다.",
+        "originwordCnt": "66",
+        "labelwordCnt": "20"
+    }
+}

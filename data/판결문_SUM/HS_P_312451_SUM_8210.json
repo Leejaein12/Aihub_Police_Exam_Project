@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312451",
+        "caseName": "자동차관리법위반",
+        "caseNum": "2023고정278",
+        "sentenceDate": "2023.10.05",
+        "courtName": "의정부지방법원 남양주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "다이너스티 자동차의 점유자인 피고인은 2018년 11월 30일부터 2019년 10월 29일까지 정당한 사유 없이 타인의 토지에 차량을 무단으로 방치한 혐의로 기소되었습니다. 법원은 피고인의 법정 진술 및 관련 증거를 바탕으로 자동차관리법 제81조 제8호와 제26조 제1항 제3호를 적용하여 벌금 50만 원을 선고하였습니다.",
+        "originwordCnt": "150",
+        "labelwordCnt": "39"
+    }
+}

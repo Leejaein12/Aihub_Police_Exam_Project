@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000165",
+        "promulgDate": "20240130",
+        "effectDate": "20240130",
+        "promulgNum": "20172",
+        "title": "먹는물관리법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제23조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "허가를 받은 자가 정해진 기간 내에 시설을 갖추지 않은 경우, 시ㆍ도지사는 어떤 조치를 취할 수 있습니까?",
+        "output": "먹는물관리법 제23조 제2항에 따르면, 시ㆍ도지사는 허가를 받은 자가 정당한 사유 없이 정해진 기간 내에 시설을 갖추지 않은 경우, 허가를 취소하여야 합니다.",
+        "originwordCnt": "38",
+        "labelwordCnt": "21"
+    }
+}

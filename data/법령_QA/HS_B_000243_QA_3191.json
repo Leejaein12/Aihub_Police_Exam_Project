@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000243",
+        "promulgDate": "20230816",
+        "effectDate": "20240217",
+        "promulgNum": "19680",
+        "title": "민간임대주택에 관한 특별법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제5조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "부기등기는 언제 해야 하나요?",
+        "output": "민간임대주택에 관한 특별법 제5조의2 제2항에 따르면, 제1항에 따른 부기등기는 임대사업자의 등록 후 지체 없이 하여야 합니다. 다만, 임대사업자로 등록한 이후에 소유권보존등기를 하는 경우에는 소유권보존등기와 동시에 하여야 합니다.",
+        "originwordCnt": "60",
+        "labelwordCnt": "27"
+    }
+}

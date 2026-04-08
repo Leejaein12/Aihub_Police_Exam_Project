@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334059",
+        "caseName": "업무상횡령",
+        "caseNum": "2023고단2427",
+        "sentenceDate": "2024.03.21",
+        "courtName": "인천지방법원 부천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "업무상횡령 혐의로 기소된 사건에서, 2020년부터 2022년까지 피해자의 경리업무를 담당하며 허위로 직원들의 일비를 지급하는 것처럼 가장해 총 112,460,647원을 횡령한 사실을 확인하였습니다. 법원은 피고인의 반성과 피해금액 반환 등을 고려하여 징역 8개월을 선고하고, 집행을 유예하였습니다.",
+        "originwordCnt": "394",
+        "labelwordCnt": "32"
+    }
+}

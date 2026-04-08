@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011175",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19886",
+        "title": "국민영양관리법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보건복지부장관은 국민건강증진과 삶의 질 향상을 위하여 어떻게 해야 하나요?",
+        "output": "국민영양관리법 제14조 제3항 규정에 따르면 보건복지부장관은 국민건강증진과 삶의 질 향상을 위하여 질병별ㆍ생애주기별 특성 등을 고려한 식생활 지침을 제정하고 정기적으로 개정ㆍ보급하여야 합니다.",
+        "originwordCnt": "129",
+        "labelwordCnt": "21"
+    }
+}

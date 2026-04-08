@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "240145",
+        "caseName": "위조문서행사변사기급위증사기",
+        "caseNum": "4285형상26",
+        "sentenceDate": "1952.09.02",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공판에 입회하지 않은 서기가 작성한 공판조서의 효력은 어떻게 되나요?",
+        "output": "공판에 입회하지 아니한 서기가 작성한 공판조서는 무효입니다. 이는 형사소송법상 공판조서의 작성에 있어서 서기의 입회가 필수적이기 때문입니다.",
+        "originwordCnt": "16",
+        "labelwordCnt": "16"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001123",
+        "promulgDate": "20210720",
+        "effectDate": "20220121",
+        "promulgNum": "18299",
+        "title": "보호관찰 등에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제93조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국법무보호복지공단의 임직원은 어떤 경우에 공무원으로 간주되나요?",
+        "output": "보호관찰 등에 관한 법률 제93조에 따르면, 공단의 임직원은 형법과 그 밖의 법률에 따른 벌칙을 적용할 때에는 공무원으로 간주됩니다. 이는 공단 임직원이 법률 위반 시 공무원과 동일한 처벌을 받는다는 의미입니다.",
+        "originwordCnt": "17",
+        "labelwordCnt": "29"
+    }
+}

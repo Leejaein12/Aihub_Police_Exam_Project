@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001645",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19329",
+        "title": "새마을금고법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제35조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "새마을금고는 손실이 발생한 경우 이를 어떻게 보전할 수 있나요?",
+        "output": "금고는 사업연도 결산 결과 손실이 발생한 경우에는 새마을금고법 제35조 제5항에 따라, 특별적립금과 임의적립금의 순으로 이를 보전하되, 잔여손실금이 있으면 이를 다음 사업연도에 이월한다고 규정하고 있습니다.",
+        "originwordCnt": "234",
+        "labelwordCnt": "24"
+    }
+}

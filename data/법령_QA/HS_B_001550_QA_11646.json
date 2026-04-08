@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001550",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "한국은행법",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제62조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국은행에 보유된 지급준비금은 결제자금으로 사용할 수 있습니까?",
+        "output": "한국은행법 제62조에 명시된 바와 같이, 한국은행에 보유된 지급준비금은 금융통화위원회가 정하는 바에 따라 한국은행 또는 다른 금융기관에 대한 결제자금으로 사용할 수 있습니다.",
+        "originwordCnt": "18",
+        "labelwordCnt": "21"
+    }
+}

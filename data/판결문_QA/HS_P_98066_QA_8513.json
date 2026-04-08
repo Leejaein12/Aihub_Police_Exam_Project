@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "98066",
+        "caseName": "보호감호(특정범죄가중처벌등에관한법률위반)",
+        "caseNum": "83감도283",
+        "sentenceDate": "1983.08.23",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법원은 이 사건에서 어떤 결론을 내렸습니까?",
+        "output": "법원은 상고를 기각한다는 결론을 내렸습니다. 이는 원심의 판단이 정당하다고 보고, 피감호청구인의 재범의 위험성이 없다는 점을 인정한 결과로 해석됩니다. 법원의 이러한 판단은 사회보호법 제5조 제2항의 기준을 충실히 반영한 것입니다.",
+        "originwordCnt": "42",
+        "labelwordCnt": "28"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "67826",
+        "caseName": "횡령",
+        "caseNum": "2005도7610",
+        "sentenceDate": "2006.01.12",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 피해자의 몫인 주식양도대금을 보관하는 자로 판단된 이유는 무엇인가요?",
+        "output": "피고인은 주식양도대금 3억 원을 수령하면서 피해자의 몫이 포함된 금액을 받은 것이므로, 사무관리 내지 신의칙상의 위탁관계에 따라 피해자의 몫인 1억 원을 보관하는 자의 지위에 있었다고 판단되었습니다. 이는 형법 제355조 제1항에 근거한 것입니다.",
+        "originwordCnt": "1510",
+        "labelwordCnt": "31"
+    }
+}

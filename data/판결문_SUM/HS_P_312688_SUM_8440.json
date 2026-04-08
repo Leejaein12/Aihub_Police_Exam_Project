@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312688",
+        "caseName": "공무집행방해",
+        "caseNum": "2024고단1101",
+        "sentenceDate": "2024.07.10",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주 의심 신고를 받고 출동한 경찰관이 음주 측정을 요구하자, 폭력을 행사하여 경찰의 정당한 직무집행을 방해한 것으로 판단되었습니다. 이에 따라 피고인에게 형법 제136조 제1항에 따라 벌금 400만 원이 선고되었습니다. 피고인은 피해 경찰관으로부터 용서받지 못하였으나, 초범이고 조현병을 앓고 있는 점이 참작되었습니다.",
+        "originwordCnt": "229",
+        "labelwordCnt": "39"
+    }
+}

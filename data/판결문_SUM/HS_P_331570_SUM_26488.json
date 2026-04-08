@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "331570",
+        "caseName": "강제추행",
+        "caseNum": "2023고합39",
+        "sentenceDate": "2023.04.14",
+        "courtName": "수원지방법원 평택지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2022. 8. 28. 07:30경부터 같은 날 11:33경까지 피고인은 아동·청소년성착취물 동영상 배포하고, 다운로드 받아 2022. 10. 11.경까지 외장하드에 저장하여 소지하였습니다. 피고인은 이 사건 범행을 자백하고, 형사처벌 받은 전력이 없으므로 이에 법원은 피고인을 징역 1년 6월에 2년간 위 형의 집행을 유예하였습니다.",
+        "originwordCnt": "744",
+        "labelwordCnt": "39"
+    }
+}

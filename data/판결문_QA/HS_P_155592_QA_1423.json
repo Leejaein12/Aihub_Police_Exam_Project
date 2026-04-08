@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155592",
+        "caseName": "공정증서원본불실기재,강제집행면탈",
+        "caseNum": "70도643",
+        "sentenceDate": "1970.05.12",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "강제집행면탈죄가 성립하려면 어떤 조건이 필요한가요?",
+        "output": "강제집행면탈죄가 성립하려면 최소한 민사소송이 제기되어 구체적으로 강제집행을 받을 우려가 있고, 또한 그 집행을 면탈할 목적이 있어야 합니다. 이는 형법 제327조에 따른 요건입니다.",
+        "originwordCnt": "381",
+        "labelwordCnt": "22"
+    }
+}

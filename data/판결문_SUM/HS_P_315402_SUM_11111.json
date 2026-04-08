@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315402",
+        "caseName": "실화",
+        "caseNum": "2023고단321",
+        "sentenceDate": "2023.09.06",
+        "courtName": "대구지방법원 안동지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주운전으로 다섯 차례 처벌받은 전력이 있는 피고인은 혈중알코올농도 0.129%의 상태로 약 9.9km 구간을 운전하여 도로교통법을 위반하였습니다. 법원은 피고인이 음주운전으로 징역형의 집행유예를 받은 적이 있으며, 이번 음주운전의 수치와 운전 거리도 상당하다는 점 등을 고려하여 징역 1년을 선고하였습니다.",
+        "originwordCnt": "212",
+        "labelwordCnt": "36"
+    }
+}

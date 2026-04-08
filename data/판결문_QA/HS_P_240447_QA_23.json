@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "240447",
+        "caseName": "상법위반·조세범처벌법위반",
+        "caseNum": "76도4133",
+        "sentenceDate": "1977.09.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "정범을 방조할 때, 정범이 누구인지 정확히 알아야 방조범이 성립하나요?",
+        "output": "형법 제32조에 따르면, 방조범이 성립하기 위해서는 정범의 범행을 알면서 실행행위를 용이하게 한 사실만으로 충분하며, 정범이 누구인지 확정할 필요는 없습니다.",
+        "originwordCnt": "246",
+        "labelwordCnt": "19"
+    }
+}

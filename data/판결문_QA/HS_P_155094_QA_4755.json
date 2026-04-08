@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155094",
+        "caseName": "살인등",
+        "caseNum": "70도923",
+        "sentenceDate": "1970.09.14",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "군법회의에서 분실된 기록을 재현한 서류들에 대해 증거조사를 거치지 않고 판결한 것이 위법한가요?",
+        "output": "군법회의법 제438조와 제439조에 따르면, 군법회의에서 분실된 기록을 재현한 서류들에 대해 증거조사를 거치지 않고 심리를 다하지 않은 채 유죄 판결을 선고한 것은 위법합니다. 이는 판결의 정당성을 해치는 중대한 문제로 간주됩니다.",
+        "originwordCnt": "474",
+        "labelwordCnt": "29"
+    }
+}

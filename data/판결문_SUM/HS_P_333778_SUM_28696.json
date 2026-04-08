@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333778",
+        "caseName": "사기등",
+        "caseNum": "2023고단95",
+        "sentenceDate": "2023.05.25",
+        "courtName": "춘천지방법원 강릉지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "성폭력범죄의처벌등에관한특례법에 따른 신상정보 등록대상자로서, 차량 매도 후 20일 이내에 경찰관서에 변경된 정보를 제출하지 않아 처벌받게 되었습니다. 피고인은 이전에도 음주운전 및 성폭력 관련 범죄로 처벌받은 전력이 있으며, 법원은 피고인의 범행 인정, 성행, 환경, 범행 후 정황 등을 고려하여 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "290",
+        "labelwordCnt": "41"
+    }
+}

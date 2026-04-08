@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "324629",
+        "caseName": "업무방해등",
+        "caseNum": "2022노249",
+        "sentenceDate": "2023.08.18",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "D 시합의 심판감독관의 결정에 대해 항의하며 경기장에 난입하여 심판업무를 방해한 사실이 인정됩니다. 이에 따라 원심판결이 사실오인을 하였으므로 파기되었으며, 피고인 A에게는 100만 원의 벌금과 10만 원에 해당하는 노역장 유치가 명령되었습니다. 피고인 B는 형의 선고가 유예되었습니다. 최종적으로 피고인 A에게는 벌금형이 부과되고, 피고인 B는 형의 선고가 유예되었습니다.",
+        "originwordCnt": "1025",
+        "labelwordCnt": "44"
+    }
+}

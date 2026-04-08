@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001015",
+        "promulgDate": "20230214",
+        "effectDate": "20240215",
+        "promulgNum": "19225",
+        "title": "유선 및 도선 사업법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "유선 및 도선 사업법 규정상, 유·도선 사업자의 시설기준의 법적 근거는 무엇입니까?",
+        "output": "유ㆍ도선사업자는 사업의 종류별로 대통령령으로 정하는 기준에 적합한 선박과 시설ㆍ장비ㆍ인력을 갖추고 이를 유지ㆍ관리하여야 합니다. 이는 유선 및 도선 사업법 제4조에 명시되어 있습니다.",
+        "originwordCnt": "15",
+        "labelwordCnt": "21"
+    }
+}

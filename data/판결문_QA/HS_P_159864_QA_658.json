@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "159864",
+        "caseName": "근로 기준법 위반",
+        "caseNum": "2009고정6355",
+        "sentenceDate": "2010.06.04",
+        "courtName": "인천지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "근로자가 퇴직금 중간정산을 요구한 경우, 그 요구는 어떤 조건을 충족해야 유효한가요?",
+        "output": "근로자가 퇴직금 중간정산을 요구한 경우, 그 요구는 근로자퇴직급여 보장법 제8조 제2항에 따라 단순히 묵시적이거나 소극적인 방법이 아닌, 적극적이고 명시적인 방법으로 이루어져야만 유효합니다.",
+        "originwordCnt": "969",
+        "labelwordCnt": "22"
+    }
+}

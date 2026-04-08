@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334076",
+        "caseName": "강제추행",
+        "caseNum": "2022고정925",
+        "sentenceDate": "2023.07.07",
+        "courtName": "부산지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2022년 7월 식당에서 저녁 식사 중인 사람에게 강제로 신체 접촉을 한 사건이 있었습니다. 피고인은 피해자의 신뢰를 악용해 추행하고도 범행을 부인했으나, 피해자의 증언 이후 범행을 인정하고 반성하였습니다. 법원은 피고인의 초범 여부와 피해자의 용서 의사 등을 고려해 벌금형을 선고하였으며, 성폭력 치료 프로그램 이수를 명령하였습니다.",
+        "originwordCnt": "349",
+        "labelwordCnt": "42"
+    }
+}

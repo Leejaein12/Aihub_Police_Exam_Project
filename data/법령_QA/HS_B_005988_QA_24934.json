@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005988",
+        "promulgDate": "20211231",
+        "effectDate": "20220101",
+        "promulgNum": "03016",
+        "title": "형사소송규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제13조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "대표변호인의 지정, 지정의 철회 또는 변경의 신청은 서면으로 해야 하나요?",
+        "output": "형사소송규칙 제13조의2에 따르면 대표변호인의 지정, 지정의 철회 또는 변경의 신청은 그 사유를 기재한 서면으로 합니다. 다만, 공판기일에서는 구술로 할 수 있습니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "21"
+    }
+}

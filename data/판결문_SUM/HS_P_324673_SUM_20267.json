@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "324673",
+        "caseName": "스토킹범죄의처벌등에관한법률위반",
+        "caseNum": "2023고단1022",
+        "sentenceDate": "2023.11.01",
+        "courtName": "춘천지방법원 원주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "스토킹범죄의 처벌 등에 관한 법률을 위반한 사건에서, 피고인은 법원으로부터의 잠정조치 결정에도 불구하고 피해자의 주거지에 접근하여 법의 명령을 위반한 것으로 나타났습니다. 법원은 피고인이 잠정조치를 위반한 점과 스토킹 범죄의 특성을 고려하여 300만 원의 벌금형을 부과하였습니다.",
+        "originwordCnt": "274",
+        "labelwordCnt": "33"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317821",
+        "caseName": "도로교통법위반(음주측정거부)",
+        "caseNum": "2023고단278",
+        "sentenceDate": "2023.08.23",
+        "courtName": "광주지방법원 순천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술에 취한 상태에서 화물차를 운전한 혐의로 경찰의 음주측정 요구를 받았으나, 정당한 사유 없이 이를 거부하였습니다. 피고인의 범행 시인과 반성, 그리고 과거 1회의 벌금 전력 등을 고려하여 벌금 800만 원이 부과되었습니다.",
+        "originwordCnt": "212",
+        "labelwordCnt": "30"
+    }
+}

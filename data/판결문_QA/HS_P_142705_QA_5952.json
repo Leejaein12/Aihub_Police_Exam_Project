@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "142705",
+        "caseName": "사기·사기미수·여신전문금융업법위반",
+        "caseNum": "2009노1841",
+        "sentenceDate": "2009.10.08",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 무죄를 선고받은 이유는 무엇인가요?",
+        "output": "피고인이 무죄를 선고받은 이유는 이 사건 공소사실이 범죄의 증명이 없는 경우에 해당하기 때문입니다. 법원은 피고인에게 범죄를 저질렀다는 명확한 증거가 부족하다고 판단하여, 형사소송법 제325조 후단에 따라 피고인에게 무죄를 선고했습니다.",
+        "originwordCnt": "4454",
+        "labelwordCnt": "28"
+    }
+}

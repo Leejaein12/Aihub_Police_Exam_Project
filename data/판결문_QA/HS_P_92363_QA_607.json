@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "92363",
+        "caseName": "법률사무취급단속법위반",
+        "caseNum": "74도1798",
+        "sentenceDate": "1974.10.08",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "강제집행면탈죄가 성립하려면 어떤 요건이 필요한가요?",
+        "output": "강제집행면탈죄가 성립하려면 형법 제327조에 따라 행위자가 주관적으로 강제집행을 피하려는 의도가 있어야 하고, 객관적으로도 실제로 강제집행을 면탈할 상태에 있어야 합니다.",
+        "originwordCnt": "14",
+        "labelwordCnt": "19"
+    }
+}

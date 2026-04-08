@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000899",
+        "promulgDate": "20230609",
+        "effectDate": "20230710",
+        "promulgNum": "19430",
+        "title": "고등교육법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "교육부장관은 무엇을 위하여 학교에 장에게 관련 자료를 요구할 수 있습니까?",
+        "output": "고등교육법 제5조 제2항에 의하면 교육부장관은 학교를 지도ㆍ감독하기 위하여 필요하면 대통령령으로 정하는 바에 따라 학교의 장에게 관련 자료를 제출하도록 요구할 수 있습니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "21"
+    }
+}

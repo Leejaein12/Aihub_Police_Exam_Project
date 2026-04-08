@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313527",
+        "caseName": "폭행",
+        "caseNum": "2023고정1374",
+        "sentenceDate": "2024.05.01",
+        "courtName": "서울북부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피고인은 법원 복도에서 피해자가 민사 소송 증인으로 출석한 이유로 피해자의 정강이를 발로 1회 차 폭행한 혐의를 받았습니다. 그러나 사건 이후 피해자와 피고인 간에 합의가 이루어졌고, 피해자가 처벌을 원하지 않는다는 의사를 밝혀 법원은 피고인이 피해자를 폭행한 사건에 대해 공소를 기각하였습니다.",
+        "originwordCnt": "106",
+        "labelwordCnt": "39"
+    }
+}

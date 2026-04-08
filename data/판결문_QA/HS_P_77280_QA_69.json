@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "77280",
+        "caseName": "건축법위반",
+        "caseNum": "2002고단6393",
+        "sentenceDate": "2003.02.04",
+        "courtName": "서울지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인들이 건축 설계를 변경한 후 관할 관청의 설계 변경 허가를 받지 않고 공사를 계속 진행한 행위는 어떤 처벌을 받게 되나요?",
+        "output": "피고인들이 설계 변경 허가를 받지 않고 오피스텔의 철골 공사 등을 진행한 행위는 건축법 위반에 해당하며, 이에 따라 피고인들은 각각 벌금 900,000원의 처벌을 받게 됩니다.",
+        "originwordCnt": "284",
+        "labelwordCnt": "24"
+    }
+}

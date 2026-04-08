@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "98283",
+        "caseName": "특정범죄가중처벌등에관한법률위반·관세법위반·방위세법위반·외국환관리법위반",
+        "caseNum": "83도1942",
+        "sentenceDate": "1983.10.11",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "금괴 밀수 행위에 대해 적용되는 법률은 무엇인가요?",
+        "output": "금괴 밀수 행위는 외국환관리법이 아닌 관세법의 적용을 받아야 하므로, 관세포탈죄로 공소가 제기된 경우 관세법 제180조를 적용하는 것이 타당합니다.",
+        "originwordCnt": "192",
+        "labelwordCnt": "18"
+    }
+}

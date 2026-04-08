@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001748",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "화물자동차 운수사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제5조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "화물자동차 안전운임위원회는 어떤 목적을 위해 설치되었나요?",
+        "output": "화물자동차 운수사업법 제5조의2 제1항에 따르면 화물자동차 안전운임위원회는 화물자동차 안전운송원가 및 안전운임의 결정과 조정, 운송품목 및 차량 종류에 관한 사항을 심의·의결하기 위해 설치되었습니다.",
+        "originwordCnt": "180",
+        "labelwordCnt": "22"
+    }
+}

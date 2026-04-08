@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "128277",
+        "caseName": "공직선거법위반",
+        "caseNum": "2008노293",
+        "sentenceDate": "2008.11.27",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "금품을 운반한 피고인들의 행위가 공직선거법에 위반된다고 본 이유는 무엇인가요?",
+        "output": "피고인들이 운반한 금품이 다수의 선거인에게 배부될 목적으로 구분된 형태로 소지된 점, 피고인들이 선거와 관련하여 금품을 수수하고 이를 배부할 의도로 운반한 행위가 공직선거법에 위반된다고 판단되었습니다.",
+        "originwordCnt": "4710",
+        "labelwordCnt": "24"
+    }
+}

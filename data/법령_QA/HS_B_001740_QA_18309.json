@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001740",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19772",
+        "title": "선원법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "선장은 조난을 알았을 때 어떤 조치를 취해야 합니까?",
+        "output": "선원법 제13조에 따르면, 선장은 다른 선박 또는 항공기의 조난을 알았을 때 인명을 구조하는 데 필요한 조치를 다하여야 합니다. 다만, 자기가 지휘하는 선박에 급박한 위험이 있는 경우 등 해양수산부령으로 정하는 경우에는 그러하지 아니합니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "32"
+    }
+}

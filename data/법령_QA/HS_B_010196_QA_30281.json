@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010196",
+        "promulgDate": "20230321",
+        "effectDate": "20240322",
+        "promulgNum": "19242",
+        "title": "게임산업진흥에 관한 법률",
+        "ministry": "문화체육관광부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "정부는 게임물 및 게임상품의 불법복제품 방지를 위해 노력할 의무가 있나요?",
+        "output": "정부는 게임물 및 게임상품의 품질향상과 불법복제품 및 사행성게임물의 유통방지를 위한 시책을 수립하고 추진하여야 합니다. 이는 게임산업 진흥에 관한 법률 제9조 제2항에 명시되어 있습니다.",
+        "originwordCnt": "94",
+        "labelwordCnt": "23"
+    }
+}

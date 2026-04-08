@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "97547",
+        "caseName": "집회및시위에관한법률위반",
+        "caseNum": "83도420",
+        "sentenceDate": "1983.04.12",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "누범가중 규정이 헌법상 평등권에 위배되는지요?",
+        "output": "형법 제35조에 따른 누범가중 규정은 헌법 제10조의 평등권에 위배되지 않는다고 판단되었습니다. 이는 형법 규정이 국민의 평등권을 침해하지 않는다는 판결 요지에 따른 것입니다.",
+        "originwordCnt": "29",
+        "labelwordCnt": "22"
+    }
+}

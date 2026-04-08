@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012140",
+        "promulgDate": "20240125",
+        "effectDate": "20240131",
+        "promulgNum": "03126",
+        "title": "아동보호심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제48조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "아동보호심판규칙에 따라 사회봉사와 수강명령이 보호관찰에 병과되어 부과된 경우, 언제 집행할 수 있나요?",
+        "output": "아동보호심판규칙 제48조 제2항에 따르면 사회봉사와 수강명령이 보호관찰에 병과하여 부과된 때에는 보호관찰기간 내에 이를 집행해야 합니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "15"
+    }
+}

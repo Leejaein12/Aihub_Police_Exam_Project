@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001988",
+        "promulgDate": "20230725",
+        "effectDate": "20240126",
+        "promulgNum": "19573",
+        "title": "수상레저안전법",
+        "ministry": "해양경찰청",
+        "fullText": "N",
+        "smClass": "제28조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "어떤 상태에서 동력수상레저기구를 조종할 수 없나요?",
+        "output": "수상레저안전법 제28조에 따르면 누구든지 마약, 향정신성의약품, 대마의 영향이나 환각물질의 영향, 또는 그 밖의 사유로 인해 정상적으로 조종하지 못할 우려가 있는 상태에서 동력수상레저기구를 조종해서는 안 됩니다.",
+        "originwordCnt": "33",
+        "labelwordCnt": "25"
+    }
+}

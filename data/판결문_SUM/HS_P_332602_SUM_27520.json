@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332602",
+        "caseName": "게임산업진흥에관한법률위반",
+        "caseNum": "2022고단2840",
+        "sentenceDate": "2023.05.16",
+        "courtName": "수원지방법원 평택지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "게임장에서 피고인 A는 손님이 게임을 통해 획득한 점수를 현금으로 환전해 주며 사행성을 조장한 혐의로 징역형을 선고받았으나, 범행을 인정하고 형사처벌 전력이 없는 점을 고려해 징역 6월에 집행유예 및 사회봉사를 선고하였고, 피고인 B는 같은 게임장에서 A의 불법 환전을 돕는 역할을 했고, 범행을 인정한 점 등을 참작하여 벌금형을 처하였습니다.",
+        "originwordCnt": "691",
+        "labelwordCnt": "46"
+    }
+}

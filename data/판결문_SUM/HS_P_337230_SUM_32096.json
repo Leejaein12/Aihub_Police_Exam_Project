@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337230",
+        "caseName": "교통사고처리특례법위반(치상)등",
+        "caseNum": "2023고정793",
+        "sentenceDate": "2024.07.26",
+        "courtName": "의정부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주 상태에서 운전 중 교차로에서 주시 의무를 소홀히 하여 다른 차량과 충돌해 경추 및 요추의 염좌 등의 상해를 입혔습니다. 교통사고처리특례법 제3조 제1항 및 도로교통법 제148조의2 제3항에 따라 음주운전과 업무상 과실이 인정되어 벌금 800만 원이 선고되었습니다.",
+        "originwordCnt": "286",
+        "labelwordCnt": "35"
+    }
+}

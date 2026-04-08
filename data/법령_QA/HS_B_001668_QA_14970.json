@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001668",
+        "promulgDate": "20221227",
+        "effectDate": "20221227",
+        "promulgNum": "19105",
+        "title": "형의 집행 및 수용자의 처우에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제50조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "여성수용자의 건강검진 시 부인과질환 검사도 포함됩니까?",
+        "output": "형의 집행 및 수용자의 처우에 관한 법률 제50조 제2항에 따르면, 소장은 여성수용자에 대하여 건강검진을 실시할 때 나이와 건강 상태 등을 고려하여 부인과질환에 관한 검사를 포함시켜야 합니다.",
+        "originwordCnt": "45",
+        "labelwordCnt": "26"
+    }
+}

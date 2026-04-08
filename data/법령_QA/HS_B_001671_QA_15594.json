@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제214조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보증금 납입 조건으로 석방할 때 법원이 부가할 수 있는 조건은 무엇인가요?",
+        "output": "형사소송법 제214조의2제6항에 따르면 제214조의2제5항의 석방 결정을 하는 경우에는 주거의 제한, 법원 또는 검사가 지정하는 일시ㆍ장소에 출석할 의무, 그 밖의 적당한 조건을 부가할 수 있습니다.",
+        "originwordCnt": "389",
+        "labelwordCnt": "24"
+    }
+}

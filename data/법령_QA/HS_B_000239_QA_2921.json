@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000239",
+        "promulgDate": "20230418",
+        "effectDate": "20231019",
+        "promulgNum": "19365",
+        "title": "건설기계관리법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제20조의6",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "건설기계제작결함심사평가위원회의 구성ㆍ운영 및 업무 위탁에 필요한 사항은 무엇으로 정합니까?",
+        "output": "건설기계관리법 제20조의6 제7항에 명시된 바와 같이, 그 밖에 건설기계제작결함심사평가위원회의 구성ㆍ운영 및 업무 위탁에 필요한 사항은 대통령령으로 정합니다.",
+        "originwordCnt": "167",
+        "labelwordCnt": "17"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "240179",
+        "caseName": "상해",
+        "caseNum": "4288형상230",
+        "sentenceDate": "1955.09.16",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "항소심에서 출석 요구를 받은 피고인이 2회 불출석한 경우, 피고인의 진술 없이 판결할 수 있나요?",
+        "output": "형사소송법 제365조 및 제383조에 따르면, 항소심에서 정식 출석 요구를 받은 피고인이 2회 불출석한 경우에는 피고인의 진술 없이도 판결이 가능합니다. 이는 법이 규정한 절차에 따른 것이므로 원심 판결에 대한 비난 사유가 되지 않습니다.",
+        "originwordCnt": "30",
+        "labelwordCnt": "32"
+    }
+}

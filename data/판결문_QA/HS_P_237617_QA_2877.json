@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "237617",
+        "caseName": "업무방해",
+        "caseNum": "2021노363",
+        "sentenceDate": "2022.05.20",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "입학사정 업무에서 확인서의 허위 기재가 업무방해죄 성립에 영향을 미친 이유는 무엇인가요?",
+        "output": "입학사정 업무는 지원자가 제출한 서류의 진실성을 전제로 하여 이루어지므로, 허위로 기재된 확인서는 심사위원들이 오인하거나 착각하게 하여 공정한 입학사정 업무를 방해할 위험성을 초래한다고 판단하였습니다.",
+        "originwordCnt": "2582",
+        "labelwordCnt": "23"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제222조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국어가 통하지 않는 사람의 진술은 어떻게 처리해야 하나요?",
+        "output": "군사법원법 제222조에 따르면 국어가 통하지 아니하는 사람의 진술은 통역인이 통역하게 하여야 합니다.",
+        "originwordCnt": "10",
+        "labelwordCnt": "12"
+    }
+}

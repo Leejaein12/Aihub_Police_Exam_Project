@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312180",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고단682",
+        "sentenceDate": "2024.05.29",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "과거 음주운전으로 3차례 벌금형을 받은 전력이 있으며, 혈중알코올농도 0.184% 상태로 약 22km를 운전하였습니다. 법원은 도로교통법 제148조의2 제1항 제3호 및 제44조 제1항에 따라 피고인에게 징역 1년을 선고하였으나, 2년간 집행을 유예하고 80시간의 사회봉사와 40시간의 준법운전강의 수강을 명령하였습니다.",
+        "originwordCnt": "237",
+        "labelwordCnt": "35"
+    }
+}

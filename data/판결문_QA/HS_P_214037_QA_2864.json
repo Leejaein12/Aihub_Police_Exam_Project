@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "214037",
+        "caseName": "저작권법위반",
+        "caseNum": "79도1482",
+        "sentenceDate": "1979.12.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "민속도감이나 도록에 수록된 도형도 저작물로 보호받을 수 있나요?",
+        "output": "개인의 편저 또는 수집작인 민속도감이나 도록에 수록된 도형들은 그 대상이 전통 문양이라 하더라도 소재의 선택 및 배열과 표현기법에 있어 개인의 정신적 노력을 바탕으로 한 창작물이므로 저작물로 보호받을 수 있습니다. 저작권법 제2조에 의해 창작적 표현물로 인정됩니다.",
+        "originwordCnt": "350",
+        "labelwordCnt": "35"
+    }
+}

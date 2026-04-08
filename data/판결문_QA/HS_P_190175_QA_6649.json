@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "190175",
+        "caseName": "상습특수절도등피고사건",
+        "caseNum": "79노1211",
+        "sentenceDate": "1979.10.31",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "검사가 항소장에서 유죄 부분에 대해서만 항소한 것으로 인정된 이유는 무엇인가요?",
+        "output": "형사소송법 제342조에 따르면, 검사가 항소장의 원심판결 주문란에 유죄 부분만을 기재하고 불복 범위에 대해 양형부당을 명시했다면 이는 유죄 판결의 양형만을 다투고 무죄 부분에는 불복하지 않은 것으로 해석됩니다.",
+        "originwordCnt": "30",
+        "labelwordCnt": "26"
+    }
+}

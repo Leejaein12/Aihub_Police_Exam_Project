@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000798",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19597",
+        "title": "저작권법",
+        "ministry": "문화체육관광부",
+        "fullText": "N",
+        "smClass": "제101조의7",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "프로그램의 이용허락을 받았다면 원시코드 및 기술정보를 임치할 수 있나요?",
+        "output": "저작권법 제101조의7제1항에 따르면 프로그램의 저작재산권자와 프로그램의 이용허락을 받은 자는 대통령령으로 정하는자와 서로 합의하여 프로그램의 원시코드 및 기술정보 등을 수치인에게 임치할 수 있습니다.",
+        "originwordCnt": "49",
+        "labelwordCnt": "22"
+    }
+}

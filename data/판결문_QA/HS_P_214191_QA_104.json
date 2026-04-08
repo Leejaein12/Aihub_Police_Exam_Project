@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "214191",
+        "caseName": "군용물분실ㆍ초령위반",
+        "caseNum": "77도2978",
+        "sentenceDate": "1978.02.14",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "초병 교체행위에 대한 군형법 제40조의 적용 범위는 어떻게 해석되나요?",
+        "output": "군형법 제40조에서 말하는 초병 교체행위는 이미 확정된 규칙에 의하지 않고 초병을 교체시킨 경우에 해당합니다. 따라서 지휘관의 근무편성행위가 규칙에 위반되더라도, 이는 군형법 제40조의 교체행위에 포함되지 않습니다.",
+        "originwordCnt": "289",
+        "labelwordCnt": "25"
+    }
+}

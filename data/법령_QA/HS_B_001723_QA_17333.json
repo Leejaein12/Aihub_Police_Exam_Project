@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001723",
+        "promulgDate": "20160529",
+        "effectDate": "20161130",
+        "promulgNum": "14184",
+        "title": "국민투표법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제62조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국민투표의 투표참관인은 정당별로 몇 명을 선정하여 언제까지 신고해야 하나요?",
+        "output": "투표참관인은 정당별로 3인을 투표권자 중에서 각각 선정하여 투표일 전 3일까지 투표구선거관리위원회에 신고하여야 합니다. 이는 국민투표법 제62조 제2항에 따라 규정됩니다.",
+        "originwordCnt": "226",
+        "labelwordCnt": "19"
+    }
+}

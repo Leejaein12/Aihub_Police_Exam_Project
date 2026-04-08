@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "220475",
+        "caseName": "특정경제범죄가중처벌등에관한법률위반(횡령)",
+        "caseNum": "2007노179",
+        "sentenceDate": "2007.07.12",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "명의신탁 약정이 명시적으로 이루어지지 않은 경우에도 묵시적인 명의신탁 약정을 인정할 수 있나요?",
+        "output": "명의신탁 약정이 명시적으로 이루어지지 않았고, 관련자들 사이에서 명의신탁 약정을 인정할 수 있는 명확한 정황이 없다면, 묵시적인 명의신탁 약정이 있었다고 단정할 수 없습니다.",
+        "originwordCnt": "6035",
+        "labelwordCnt": "22"
+    }
+}

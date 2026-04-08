@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001692",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19582",
+        "title": "형법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제58조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "피해자의 청구가 있는 경우에 판결공시의 취지를 선고할 수 있는 경우는 무엇인가요?",
+        "output": "형법 제58조 제1항에 의거하여, 피해자의 이익을 위하여 필요하다고 인정할 때에는 피해자의 청구가 있는 경우에 한하여 피고인의 부담으로 판결공시의 취지를 선고할 수 있습니다.",
+        "originwordCnt": "64",
+        "labelwordCnt": "22"
+    }
+}

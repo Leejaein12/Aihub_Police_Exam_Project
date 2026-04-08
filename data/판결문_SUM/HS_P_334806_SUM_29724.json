@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334806",
+        "caseName": "강제추행",
+        "caseNum": "2023고정341",
+        "sentenceDate": "2024.05.22",
+        "courtName": "제주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사기죄로 집행유예 판결을 받은 후 신상정보 등록대상자로 지정되었으나, 신상정보 변경사항인 휴대전화번호와 차량번호를 변경일로부터 20일 이내에 신고하지 않아 성폭력범죄의 처벌 등에 관한 특례법 위반으로 기소되었습니다. 법원은 피고인에게 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "194",
+        "labelwordCnt": "30"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "153537",
+        "caseName": "위증",
+        "caseNum": "66도863",
+        "sentenceDate": "1966.09.13",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "위증죄가 성립하기 위해서는 허위 진술이 판결에 영향을 미쳤어야 하나요?",
+        "output": "형법 제152조에 따르면, 위증죄는 선서한 증인이 고의로 허위 진술을 함으로써 성립하며, 그 허위 진술이 당해 사건의 판결에 어떠한 영향을 미쳤는지는 위증죄의 성립에 아무런 관계가 없습니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "25"
+    }
+}

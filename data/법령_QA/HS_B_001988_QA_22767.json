@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001988",
+        "promulgDate": "20230725",
+        "effectDate": "20240126",
+        "promulgNum": "19573",
+        "title": "수상레저안전법",
+        "ministry": "해양경찰청",
+        "fullText": "N",
+        "smClass": "제37조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "수상레저사업자는 등록 사항에 변경이 있을 경우 어떤 절차를 따라야 합니까?",
+        "output": "수상레저안전법 제37조 제2항에 따라, 제1항에 따라 등록을 한 수상레저사업자는 등록 사항에 변경이 있으면 해양수산부령으로 정하는 바에 따라 변경등록을 하여야 합니다.",
+        "originwordCnt": "150",
+        "labelwordCnt": "20"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010379",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19779",
+        "title": "해양환경관리법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "해양환경공정시험기준을 정할 때 어떤 기준을 따르나요?",
+        "output": "해양환경관리법 제10조에 따르면, 해양환경공정시험기준과 관련하여 「산업표준화법」 제12조 제1항에 따른 한국산업표준이 고시되어 있는 경우, 특별한 사유가 없으면 고시된 한국산업표준의 내용을 따릅니다.",
+        "originwordCnt": "46",
+        "labelwordCnt": "20"
+    }
+}

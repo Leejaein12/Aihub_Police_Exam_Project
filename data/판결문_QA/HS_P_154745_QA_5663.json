@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "154745",
+        "caseName": "장물취득",
+        "caseNum": "71도2296",
+        "sentenceDate": "1972.02.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 참조 법령을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "장물이란 무엇을 의미하나요?",
+        "output": "장물이란 형법 제362조에 따라 영득죄에 의하여 취득한 물건 그 자체를 의미합니다. 영득죄로 얻은 물건만이 장물로 인정됩니다.",
+        "originwordCnt": "27",
+        "labelwordCnt": "16"
+    }
+}

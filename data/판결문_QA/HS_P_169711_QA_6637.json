@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "169711",
+        "caseName": "업무상횡령·배상명령신청",
+        "caseNum": "2009노892",
+        "sentenceDate": "2010.02.11",
+        "courtName": "전주지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "검사의 항소와 배상명령신청이 각각 기각된 이유는 무엇인가요?",
+        "output": "검사의 항소가 기각되면서 원심판결이 그대로 유지되었습니다. 또한, 배상명령신청은 적법하게 유지될 요건을 갖추지 못한 것으로 판단되어 각하되었습니다.",
+        "originwordCnt": "1514",
+        "labelwordCnt": "16"
+    }
+}

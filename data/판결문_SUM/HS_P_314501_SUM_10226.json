@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314501",
+        "caseName": "현존건조물방화미수",
+        "caseNum": "2023고합515",
+        "sentenceDate": "2024.07.11",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "인테리어 공사 중인 건물의 세입자로서 불상의 이유로 라이터를 사용해 가재도구에 불을 붙여 방화하려 하였으나, 화재경보를 듣고 나온 이웃 주민의 소화기로 인해 불이 확산되지 않고 미수에 그쳤습니다. 법원은 피고인에게 징역 1년 6개월을 선고하고 3년간 집행을 유예하며, 압수된 라이터를 몰수하였습니다.",
+        "originwordCnt": "380",
+        "labelwordCnt": "38"
+    }
+}

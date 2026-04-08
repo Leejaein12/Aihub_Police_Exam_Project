@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334721",
+        "caseName": "병역법위반",
+        "caseNum": "2023고단5860",
+        "sentenceDate": "2023.11.30",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "대한민국 병역의무자로 보충역 판정을 받기 위해 체중을 인위적으로 감량하여 병역판정검사에서 신체등급 4급을 받아 사회복무요원 판정을 받았습니다. 법원은 이러한 행위가 병역법 제86조에서 정한 병역의무 감면 목적의 신체 손상 및 속임수에 해당한다고 보아 징역 6개월을 선고하고, 형법 제62조 제1항에 따라 1년간 집행유예를 명했습니다.",
+        "originwordCnt": "314",
+        "labelwordCnt": "41"
+    }
+}

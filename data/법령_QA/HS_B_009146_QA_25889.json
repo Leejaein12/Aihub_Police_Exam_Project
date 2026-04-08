@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009146",
+        "promulgDate": "20220426",
+        "effectDate": "20230427",
+        "promulgNum": "18846",
+        "title": "국가인권위원회법",
+        "ministry": "국가인권위원회",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국제인권규약에 따라 정부보고서를 작성할 때 국가인권위원회의 의견을 반영해야 합니까?",
+        "output": "네, 국제인권규약에 따라 관계 국가행정기관이 정부보고서를 작성할 때에는 국가인권위원회의 의견을 들어야 합니다. 근거 조문은 국가인권위원회법 제21조입니다.",
+        "originwordCnt": "17",
+        "labelwordCnt": "16"
+    }
+}

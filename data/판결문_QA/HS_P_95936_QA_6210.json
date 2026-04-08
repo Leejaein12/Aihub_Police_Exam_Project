@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "95936",
+        "caseName": "횡령",
+        "caseNum": "81도1237",
+        "sentenceDate": "1981.07.14",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "농지에 대한 명의신탁 약정은 유효한가요?",
+        "output": "농지개혁법 제17조에 따르면, 농지에 대한 명의신탁 약정은 농지개혁법에 반하여 무효로, 그 약정에 따라 소유권이전등기를 이행할 의무도 발생하지 않습니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "18"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010458",
+        "promulgDate": "20170726",
+        "effectDate": "20170726",
+        "promulgNum": "14839",
+        "title": "국민의 형사재판 참여에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국민참여재판에 지방법원 지원 합의부가 회부결정을 한 사건에 대해 관할권을 가지는 법원은 어디인가요?",
+        "output": "국민의 형사재판 참여에 관한 법률 제10조 제2항에 따라 지방법원 지원 합의부가 심판권을 가지는 사건 중 회부결정을 한 사건에 대하여는 지방법원 본원 합의부가 관할권을 가집니다.",
+        "originwordCnt": "52",
+        "labelwordCnt": "24"
+    }
+}

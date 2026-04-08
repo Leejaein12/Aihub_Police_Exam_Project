@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334821",
+        "caseName": "횡령",
+        "caseNum": "2022고정224",
+        "sentenceDate": "2023.01.11",
+        "courtName": "창원지방법원 진주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "경매로 취득한 포터 화물차와 SM3 승용차를 각각 950만 원과 100만 원에 판매한 후 일부 금액을 반환하지 않고 개인 용도로 소비하여 횡령한 혐의로 기소되었습니다. 법원은 피고인의 횡령 행위가 형법 제355조 제1항을 위반한 것으로 판단하고, 피고인에게 벌금 200만 원을 선고하였습니다.",
+        "originwordCnt": "301",
+        "labelwordCnt": "38"
+    }
+}

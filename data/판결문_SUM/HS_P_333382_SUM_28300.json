@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333382",
+        "caseName": "업무방해등",
+        "caseNum": "2022고단4651",
+        "sentenceDate": "2023.07.21",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "식당에서 소란을 피우며 피해자의 업무를 방해하고, 이를 제지하려는 경찰관을 폭행하여 업무방해와 공무집행방해 혐의로 기소되었습니다. 법원은 피고인이 피해자와 합의하고 일부 피해배상을 공탁한 점, 범행을 뉘우치고 있는 점 등을 고려하여 징역 8개월에 집행유예 2년을 선고하고, 보호관찰과 사회봉사 및 알코올치료 강의를 명했습니다.",
+        "originwordCnt": "353",
+        "labelwordCnt": "39"
+    }
+}

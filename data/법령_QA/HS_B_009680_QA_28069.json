@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009680",
+        "promulgDate": "20230328",
+        "effectDate": "20230929",
+        "promulgNum": "19310",
+        "title": "악취방지법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "신고대상시설 운영자는 개선명령을 받은 경우 어떤 조치를 취해야 하나요?",
+        "output": "악취방지법 제10조 제2항에 따르면, 신고대상시설 운영자는 개선명령을 받은 경우, 환경부령으로 정하는 바에 따라 시ㆍ도지사 또는 대도시의 장에게 개선명령을 이행하기 위한 계획을 제출하여야 합니다.",
+        "originwordCnt": "62",
+        "labelwordCnt": "23"
+    }
+}

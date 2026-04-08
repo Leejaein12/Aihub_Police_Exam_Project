@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002966",
+        "promulgDate": "20220630",
+        "effectDate": "20220701",
+        "promulgNum": "32737",
+        "title": "군검찰사무 운영규정",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제15조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군검사가 작성한 구속 취소 청구서나 결정서에는 어떤 내용이 포함되어야 하나요?",
+        "output": "청구서 또는 결정서에는 구속이 취소될 사람의 인적사항, 죄명, 구속일시 및 장소와 청구 이유 또는 결정 이유를 적고 서명날인해야 합니다. 이는 군검찰사무 운영규정 제15조 제2항에 따릅니다.",
+        "originwordCnt": "89",
+        "labelwordCnt": "25"
+    }
+}

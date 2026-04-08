@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314440",
+        "caseName": "절도",
+        "caseNum": "2023고단2830",
+        "sentenceDate": "2023.08.24",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "무인빨래방에서 피해자가 맡겨둔 의류 약 100만 원 상당을 절취한 혐의로 기소되었습니다. 법원은 피고인의 범행이 인정되며, 이를 근거로 벌금 100만 원을 선고하였습니다. 피고인이 벌금을 납부하지 않을 경우, 1일당 10만 원씩 노역장에 유치할 것을 명하였고, 벌금 상당액의 가납을 명령하였습니다.",
+        "originwordCnt": "112",
+        "labelwordCnt": "37"
+    }
+}

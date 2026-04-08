@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313949",
+        "caseName": "강간치상",
+        "caseNum": "2023고합586",
+        "sentenceDate": "2023.10.25",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술을 마시며 노래방에 있던 중 피고인이 피해자의 옷을 벗기려 하고 강제로 신체 접촉을 시도하였으나, 피해자의 저항으로 인해 강간미수에 그쳤으며 그 과정에서 피해자에게 상해를 입혔습니다. 법원은 피고인이 이전에 동종 범죄로 처벌받은 전력이 있고, 피해자로부터 용서받지 못한 점 등을 고려하여 징역 3년을 선고하였습니다.",
+        "originwordCnt": "571",
+        "labelwordCnt": "41"
+    }
+}

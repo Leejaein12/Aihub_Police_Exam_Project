@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334174",
+        "caseName": "사기등",
+        "caseNum": "2023고단788",
+        "sentenceDate": "2023.07.12",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피해 종중의 대표로서 재산을 성실히 관리해야 할 의무가 있음에도, 유사회의 결의 없이 개인적 용도로 지인에게 종중 자금 9,000만 원을 대여하여 횡령하였습니다. 법원은 피고인이 자신의 잘못을 인정하고, 종중 자금을 반환해 피해를 회복한 점, 종중으로부터 해당 대여에 대한 추인을 받은 점을 참작하여 징역 8월에 처하되, 2년간 집행을 유예하였습니다.",
+        "originwordCnt": "246",
+        "labelwordCnt": "46"
+    }
+}

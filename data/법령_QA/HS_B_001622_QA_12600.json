@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001622",
+        "promulgDate": "20240206",
+        "effectDate": "20240507",
+        "promulgNum": "20191",
+        "title": "병역법",
+        "ministry": "국방부,병무청",
+        "fullText": "N",
+        "smClass": "제44조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "병력동원소집 대상자는 누구인가요?",
+        "output": "병역법 제44조에 따르면 병력동원소집은 전시ㆍ사변 또는 이에 준하는 국가비상사태에 부대편성이나 작전수요를 위하여 다음 각 호의 사람을 대상으로 합니다.1.예비역2.군사교육소집을 마친 보충역3.제66조에 따라 보충역에 편입된 사람",
+        "originwordCnt": "35",
+        "labelwordCnt": "27"
+    }
+}

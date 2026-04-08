@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013041",
+        "promulgDate": "20171219",
+        "effectDate": "20180620",
+        "promulgNum": "15276",
+        "title": "부동산서비스산업 진흥법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "부동산서비스사업자의 의무는 무엇인가요?",
+        "output": "부동산서비스산업 진흥법 제4조 제3항에 따르면 부동산서비스사업자는 건전하고 투명한 부동산시장의 조성과 소비자의 신뢰 형성을 위하여 노력하여야 하고, 정부의 시책에 적극 협력하여야 합니다.",
+        "originwordCnt": "48",
+        "labelwordCnt": "21"
+    }
+}

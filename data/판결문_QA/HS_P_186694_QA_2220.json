@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "186694",
+        "caseName": "위계공무집행방해",
+        "caseNum": "2011노1429",
+        "sentenceDate": "2011.11.29",
+        "courtName": "서울동부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "허위 증거를 제출해 가처분 신청이 인용된 경우, 법원의 가처분 결정 업무가 방해되었다고 볼 수 있나요?",
+        "output": "허위 증거 제출로 가처분 신청이 인용된 경우, 법원의 가처분 결정 업무의 적정성이 일부 침해될 수는 있으나, 이는 법원의 구체적이고 현실적인 직무집행을 방해한 것으로 볼 수 없다고 판단됩니다.",
+        "originwordCnt": "463",
+        "labelwordCnt": "27"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000996",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19117",
+        "title": "농어촌도로 정비법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "농어촌도로 정비법에서 농어촌도로란 무엇을 의미합니까?",
+        "output": "농어촌도로 정비법 제2조 제1항에 따르면 농어촌도로는 도로법에 규정되지 않은 도로로서 읍 또는 면 지역의 도로만 해당하며, 농어촌지역 주민의 교통 편익과 생산 및 유통활동 등에 공용되는 공로 중 고시된 도로를 의미합니다.",
+        "originwordCnt": "46",
+        "labelwordCnt": "30"
+    }
+}

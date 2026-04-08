@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014137",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19117",
+        "title": "2023 순천만국제정원박람회 지원 및 사후활용에 관한 특별법",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제36조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "제32조를 어기고 휘장 등을 사용했을 때 어떤 벌칙이 적용되나요?",
+        "output": "순천만정원박람회법 제36조에 따르면, 제32조 박람회 휘장 등의 사용을 위반하여 휘장 등을 사용한 자는 2천만원 이하의 벌금에 처합니다.",
+        "originwordCnt": "11",
+        "labelwordCnt": "17"
+    }
+}

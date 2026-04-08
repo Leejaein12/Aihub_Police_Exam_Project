@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010109",
+        "promulgDate": "20170314",
+        "effectDate": "20170314",
+        "promulgNum": "14583",
+        "title": "범죄피해자 보호법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제24조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "범죄피해구조 본부심의회는 어떤 사항들을 심의하고 결정합니까?",
+        "output": "범죄피해자 보호법 제24조 제3항에 따라 본부심의회는 다음 각 호의 사항을 심의·결정합니다.1. 동법 제27조에 따른 재심신청사건2. 그 밖에 법령에 따라 그 소관에 속하는 사항",
+        "originwordCnt": "99",
+        "labelwordCnt": "25"
+    }
+}

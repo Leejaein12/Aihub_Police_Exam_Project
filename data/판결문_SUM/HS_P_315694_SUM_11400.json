@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315694",
+        "caseName": "가축분뇨의관리및이용에관한법률위반",
+        "caseNum": "2024고정70",
+        "sentenceDate": "2024.06.13",
+        "courtName": "부산지방법원 동부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "가축 제한구역에서 가축 사육 시설을 운영하다가 사용 중지 명령을 받았음에도 이를 이행하지 않고 배출시설을 계속 운영한 혐의로 기소되었습니다. 법원은 피고인이 문제가 된 시설을 철거한 점과 참작할 만한 사정이 있음을 고려하여 벌금 1,000,000원의 선고를 유예하였습니다.",
+        "originwordCnt": "225",
+        "labelwordCnt": "34"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "159991",
+        "caseName": "유기 치사·의료법 위반(예비적·업무 방해)",
+        "caseNum": "79도1387",
+        "sentenceDate": "1980.09.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "의료법상 '의료기관을 점거한 자'의 의미는 무엇인가요?",
+        "output": "의료법 제66조 제2호의 '의료기관을 점거한 자'란 통상 진료실이나 병실을 사실상 지배하여 의료인의 진료를 방해할 수 있는 정도의 물리적 지배를 하는 자를 의미하며, 반드시 의료기관 전체를 점거한 경우에만 해당하는 것은 아닙니다",
+        "originwordCnt": "62",
+        "labelwordCnt": "30"
+    }
+}

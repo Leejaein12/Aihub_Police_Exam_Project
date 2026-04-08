@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "156367",
+        "caseName": "상관모욕",
+        "caseNum": "67도1019",
+        "sentenceDate": "1967.09.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "사석에서 상관의 면전에서 한 발언도 상관모욕죄가 성립할 수 있나요?",
+        "output": "네, 군형법 제64조에 따르면 상관모욕죄는 공석에서의 직무상 발언뿐만 아니라, 사석에서 상관의 면전에서 이루어진 발언도 성립할 수 있습니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "17"
+    }
+}

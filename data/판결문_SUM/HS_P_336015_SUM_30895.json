@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336015",
+        "caseName": "재물손괴등",
+        "caseNum": "2023고단3003",
+        "sentenceDate": "2024.02.23",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "도로에서 피해자 차량이 끼어들자 화를 참지 못하고 차에서 내려 발로 피해자 차량의 운전석 범퍼 부분을 두 차례 걷어차 수리비가 발생할 정도로 손괴하였습니다. 이에 대해 재판부는 벌금 1,000,000원을 선고하였습니다. 협박 부분은 피해자의 처벌 불원 의사에 따라 공소를 기각했습니다.",
+        "originwordCnt": "394",
+        "labelwordCnt": "37"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "188989",
+        "caseName": "자동차운수사업법위반",
+        "caseNum": "74도95",
+        "sentenceDate": "1977.10.11",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "항만운송사업자가 항만 밖에서 화물을 운송할 때 따로 자동차운송사업 면허가 필요한지요?",
+        "output": "항만운송사업자가 위탁받은 화물을 항만 밖에서 운송할 경우, 자동차운송사업 면허를 가진 사업자의 차량을 이용하여 화물을 이송한다면, 따로 자동차운송사업의 면허를 받을 필요는 없습니다.",
+        "originwordCnt": "29",
+        "labelwordCnt": "21"
+    }
+}

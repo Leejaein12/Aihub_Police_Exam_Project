@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001662",
+        "promulgDate": "20201020",
+        "effectDate": "20210421",
+        "promulgNum": "17505",
+        "title": "소년법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제30조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소년범죄 관련하여 언제 보조인이 소년 보호사건의 기록과 증거물을 판사의 허가 필요없이 열람할 수 있나요?",
+        "output": "소년법 제30조의2에 따르면, 보조인이 심리 개시 결정 후에 소년 보호사건의 기록과 증거물을 열람하는 경우에는 소년부 판사의 허가 없이도 열람할 수 있습니다.",
+        "originwordCnt": "33",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319059",
+        "caseName": "위계공무집행방해",
+        "caseNum": "2023고단3154",
+        "sentenceDate": "2024.01.24",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "34회에 걸쳐 성매매가 이루어지지 않은 장소에 허위신고를 하여 경찰관들이 출동하게 함으로써 경찰의 직무집행을 방해하였습니다. 법원은 공무집행방해의 정도가 중하고, 시민들에게도 상당한 피해를 입혔다고 판단하여 형법 제137조를 적용해 징역 1년에 집행유예 2년을 선고하였습니다. 또한, 40시간의 사회봉사를 명령하였습니다.",
+        "originwordCnt": "426",
+        "labelwordCnt": "35"
+    }
+}

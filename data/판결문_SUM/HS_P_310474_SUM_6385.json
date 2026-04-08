@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310474",
+        "caseName": "절도",
+        "caseNum": "2024노417",
+        "sentenceDate": "2024.06.18",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "절도죄로 기소되어 형법 제329조에 따라 1심에서 징역 6개월을 선고받았으나, 항소심에서는 나이, 피해 물품의 반환, 합의 등을 참작하여 형이 과중하다고 판단되었습니다. 동종 전과와 집행유예 기간 중 범행이 재차 발생한 불리한 사정에도 불구하고, 반성과 피해 경미성 등을 고려하여 원심을 파기하고 징역 4개월을 선고하며, 항소를 이유 있어 받아들였습니다.",
+        "originwordCnt": "250",
+        "labelwordCnt": "45"
+    }
+}

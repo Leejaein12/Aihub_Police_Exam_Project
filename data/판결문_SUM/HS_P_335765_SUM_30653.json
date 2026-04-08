@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335765",
+        "caseName": "사기",
+        "caseNum": "2023고단4226",
+        "sentenceDate": "2023.12.20",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "아들의 사고와 기존 채무 정산을 이유로 1,600만 원을 빌려달라는 거짓말을 하여 1,400만 원을 송금받아 편취하였습니다. 피고인은 대출을 받을 의사나 능력이 없었고, 변제할 의사도 없었습니다. 법원은 피고인이 일부 피해 변제를 하였으며, 피해자가 처벌을 원하지 않는다는 점을 고려하여 징역 6개월을 선고하되 1년간 집행을 유예하였습니다.",
+        "originwordCnt": "242",
+        "labelwordCnt": "42"
+    }
+}

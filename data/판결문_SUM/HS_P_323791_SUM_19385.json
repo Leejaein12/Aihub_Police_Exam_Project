@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "323791",
+        "caseName": "사기등",
+        "caseNum": "2023고단1344",
+        "sentenceDate": "2023.10.18",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "전화금융사기 조직에서 현금수거책 역할을 맡아 피해자를 기망한 행위에 대한 내용으로, 피고인은 금융기관 직원인 척하며 위조된 서류를 피해자에게 건네 현금을 받아내는 등 사기 및 사문서위조와 범죄수익 은닉 행위를 했습니다. 피고인은 범행을 인정하고 피해자와 합의한 점이 고려되어, 징역 8개월에 처하되, 2년간 집행을 유예하였습니다.",
+        "originwordCnt": "950",
+        "labelwordCnt": "41"
+    }
+}

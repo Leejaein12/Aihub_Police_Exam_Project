@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335669",
+        "caseName": "교통사고처리특례법위반(치사)",
+        "caseNum": "2023고단137",
+        "sentenceDate": "2023.07.05",
+        "courtName": "대구지방법원 상주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "포터 화물차를 운전하던 중 신호등이 없는 도로에서 보행 중이던 피해자를 충격하여 사망에 이르게 하였습니다. 피고인은 도로의 통행량과 주간 상황을 고려할 때 안전 운전에 필요한 주의 의무를 다하지 않았습니다. 법원은 피고인에게 벌금 10,000,000원을 부과하였습니다.",
+        "originwordCnt": "308",
+        "labelwordCnt": "33"
+    }
+}

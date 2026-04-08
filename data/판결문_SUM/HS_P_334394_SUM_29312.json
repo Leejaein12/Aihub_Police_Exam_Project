@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334394",
+        "caseName": "강제추행",
+        "caseNum": "2023고단571",
+        "sentenceDate": "2023.05.26",
+        "courtName": "수원지방법원 성남지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자의 가슴을 만지고 끌어안는 등의 행위를 한 사실을 인정하였습니다. 추행의 정도가 가볍지 않지만, 피고인에게 동종 전과가 없는 점을 참작하여 징역 8개월에 집행유예 2년을 선고하고, 40시간의 성폭력 치료강의 수강을 명령하였습니다. 또한, 취업제한명령과 신상정보 공개 및 고지명령은 피고인의 상황과 예방 효과 등을 고려해 면제되었습니다.",
+        "originwordCnt": "363",
+        "labelwordCnt": "42"
+    }
+}

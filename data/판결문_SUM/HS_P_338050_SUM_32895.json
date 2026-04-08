@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "338050",
+        "caseName": "사기등",
+        "caseNum": "2021노2215",
+        "sentenceDate": "2022.11.17.",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "제기한 형량이 부당하다는 주장을 검토한 결과, 원심의 징역 6개월 형이 적절하다고 판단하였습니다. 제1심의 양형은 존중되어야 하며, 항소심에서 이를 바꿀 새로운 자료가 없었고, 피해자들의 손해가 회복되지 않은 점 등 여러 조건을 고려할 때 원심의 형이 재량 범위를 벗어나지 않았다고 보았습니다. 따라서, 항소를 기각하였습니다.",
+        "originwordCnt": "257",
+        "labelwordCnt": "42"
+    }
+}

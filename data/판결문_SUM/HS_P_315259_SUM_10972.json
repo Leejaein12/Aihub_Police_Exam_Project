@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315259",
+        "caseName": "재물은닉",
+        "caseNum": "2024고정79",
+        "sentenceDate": "2024.06.25",
+        "courtName": "대구지방법원 포항지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자신이 운영하는 인형뽑기 매장 앞에 피해자 D가 자전거를 세워두자 화가 난 피고인은, 피해자의 시가 40만 원 상당의 자전거를 매장 맞은편 풀숲에 던져 피해자가 찾지 못하게 하여 재물을 은닉하였습니다. 법원은 피고인에게 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "143",
+        "labelwordCnt": "34"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "305281",
+        "caseName": "의료법위반",
+        "caseNum": "2019고정81",
+        "sentenceDate": "2019. 6. 13.",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "시·도지사로부터 안마사 자격을 받지 않고 마사지 업소를 운영하며 안마시술소를 개설하고, 방문한 손님들에게 허리와 다리 등을 주물러 주고 대가를 받았습니다. 이는 의료법 제87조 제1항 제2호, 제82조 제3항, 제33조 제2항 제1호에 따라 불법이며, 피고인은 이 같은 범행으로 인해 벌금 500만 원의 형을 선고받았습니다.",
+        "originwordCnt": "196",
+        "labelwordCnt": "41"
+    }
+}

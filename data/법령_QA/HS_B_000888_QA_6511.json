@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000888",
+        "promulgDate": "20221213",
+        "effectDate": "20230614",
+        "promulgNum": "19066",
+        "title": "사립학교법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제38조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "채권자가 합병에 대해 이의를 제기하지 않으면 어떤 것으로 간주되나요?",
+        "output": "사립학교법 제38조 제1항에 따라 채권자가 제37조제2항의 기간 내에 합병에 대하여 이의를 제기하지 아니하면 합병 후 존속하거나 합병으로 설립된 학교법인의 채무인수를 승인한 것으로 봅니다.",
+        "originwordCnt": "38",
+        "labelwordCnt": "23"
+    }
+}

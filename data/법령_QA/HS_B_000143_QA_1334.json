@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000143",
+        "promulgDate": "20210105",
+        "effectDate": "20210706",
+        "promulgNum": "17864",
+        "title": "노동조합 및 노동관계조정법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제42조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "쟁의행위 시 폭력이나 파괴행위를 할 수 있나요?",
+        "output": "노동조합 및 노동관계조정법 제42조 제1항에 따르면, 쟁의행위는 폭력이나 파괴행위 또는 생산 및 주요업무에 관련된 시설과 이에 준하는 시설을 점거하는 형태로 행할 수 없습니다.",
+        "originwordCnt": "100",
+        "labelwordCnt": "23"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "305284",
+        "caseName": "소방기본법위반",
+        "caseNum": "2022고단1517",
+        "sentenceDate": "2022. 6.",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "새벽에 열상을 입고 발견되어 119에 의해 병원으로 후송되던 중, 병원 응급실 도착 직후 구급대원을 폭행하여 구급활동을 방해하였습니다. 이에 법원은 소방기본법 제50조 제1호 다목과 제16조 제2항을 근거로 피고인에게 징역 8월을 선고하되, 3년간 집행을 유예하고 보호관찰과 80시간의 알코올 치료 강의 수강을 명했습니다.",
+        "originwordCnt": "297",
+        "labelwordCnt": "40"
+    }
+}

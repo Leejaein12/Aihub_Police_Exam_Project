@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337011",
+        "caseName": "도로교통법위반(음주측정거부)등",
+        "caseNum": "2023고단3713",
+        "sentenceDate": "2024.04.05",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "동네 친구 및 지인들과 공모하여 고의로 교통사고를 유발하고 보험사에 거짓으로 보험금을 청구하여 보험사기방지 특별법 제8조 및 형법 제30조를 위반한 혐의로 기소되었습니다. 여러 번 범행에 가담하였으나 실제 취득한 이득이 없고 초범인 점을 고려하여 벌금 350만 원을 선고하였습니다.",
+        "originwordCnt": "610",
+        "labelwordCnt": "36"
+    }
+}

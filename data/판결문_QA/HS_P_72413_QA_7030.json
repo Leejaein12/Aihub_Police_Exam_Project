@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72413",
+        "caseName": "강간치사사건",
+        "caseNum": "68노268",
+        "sentenceDate": "1968.08.29",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "특수체질로 인한 사망의 경우 행위자가 책임을 져야 하나요?",
+        "output": "피해자가 특수체질로 인해 일반인의 경우 발생하지 않을 쇼크로 사망한 경우, 행위자는 그 체질상의 특수성을 알 수 없었다면 사망을 예견하기 어려워 책임을 지기 어렵습니다. 형법 제15조에 따르면, 예견할 수 없는 특수체질로 인한 사망에 대해서는 책임이 경감되거나 인정되지 않습니다.",
+        "originwordCnt": "61",
+        "labelwordCnt": "37"
+    }
+}

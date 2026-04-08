@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001748",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "화물자동차 운수사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제20조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "운송사업자가 되돌려 받은 자동차등록번호판을 다시 사용하기 위해서는 어떤 절차를 거쳐야 하나요?",
+        "output": "화물자동차 운수사업법 제20조 제3항에 따르면 운송사업자는 제2항에 따라 자동차등록번호판을 되돌려 받은 후, 이를 해당 화물자동차에 부착하고 시ㆍ도지사의 봉인을 받아야 합니다.",
+        "originwordCnt": "106",
+        "labelwordCnt": "20"
+    }
+}

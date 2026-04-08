@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "156112",
+        "caseName": "상습야간주거침입절도",
+        "caseNum": "69도1627",
+        "sentenceDate": "1969.12.09",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "주민등록증이 절도죄의 객체가 될 수 있나요?",
+        "output": "형법 제329조에 따르면, 주민등록증은 재물로서 절도죄의 객체가 될 수 있습니다. 주민등록증은 재물의 성격을 가지므로, 이를 무단으로 취득하는 행위는 절도죄로 처벌될 수 있습니다.",
+        "originwordCnt": "14",
+        "labelwordCnt": "22"
+    }
+}

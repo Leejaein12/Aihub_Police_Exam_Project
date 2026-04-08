@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155031",
+        "caseName": "권리행사방해",
+        "caseNum": "71도926",
+        "sentenceDate": "1971.06.29",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "타인의 변소를 사용하는 승낙을 받은 사람이 그 변소를 손괴했을 때, 권리행사방해죄가 성립할 수 있나요?",
+        "output": "형법 제323조에 따르면, 타인의 변소를 사용하는 권리는 채권적인 사용관계에 해당하며, 점유권을 내용으로 하는 것이 아니기 때문에 해당 변소를 손괴하더라도 권리행사방해죄는 성립하지 않습니다.",
+        "originwordCnt": "43",
+        "labelwordCnt": "22"
+    }
+}

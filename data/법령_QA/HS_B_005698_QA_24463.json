@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005698",
+        "promulgDate": "20240125",
+        "effectDate": "20240131",
+        "promulgNum": "03125",
+        "title": "가정보호심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "가정폭력범죄와 관련된 유치집행 또는 위탁집행이 되지 않은 기간은 집행기간에 포함되나요?",
+        "output": "가정보호심판규칙 제9조 제3항에 따르면, 가정폭력범죄의 처벌 등에 관한 특례법 및 이 규칙에 따라 유치집행 또는 위탁집행이 되지 아니한 기간은 집행기간에 산입하지 아니합니다.",
+        "originwordCnt": "67",
+        "labelwordCnt": "22"
+    }
+}

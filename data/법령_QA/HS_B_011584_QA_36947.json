@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011584",
+        "promulgDate": "20230111",
+        "effectDate": "20230111",
+        "promulgNum": "01108",
+        "title": "군검찰 압수물 사무규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제53조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검찰서기는 군검찰 압수물을 우송할 때 어떤 절차를 따라야 하나요?",
+        "output": "검찰서기는 압수물을 우송할 때 군검찰 압수물 사무규칙 제53조 제2항에 따라, 별지 제39호서식의 압수물건 송부서를 작성하여 환부할 압수물과 함께 우편으로 발송하여야 합니다.",
+        "originwordCnt": "131",
+        "labelwordCnt": "21"
+    }
+}

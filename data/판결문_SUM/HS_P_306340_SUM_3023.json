@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "306340",
+        "caseName": "절도",
+        "caseNum": "2017고정3447",
+        "sentenceDate": "2018. 2. 19.",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A마트에서 일반 형광등 포장지에 LED 램프를 바꿔치기하여 시가 37,000원 상당의 물품을 절취한 혐의로 재판을 받은 피고인은 과거에도 절도 범행으로 벌금형을 받은 전력이 있었으며, 생계형 범행으로 보기 어려운 점, 교묘한 방법으로 범행을 반복한 점이 고려되었습니다. 법원은 이러한 사정을 종합하여 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "228",
+        "labelwordCnt": "42"
+    }
+}

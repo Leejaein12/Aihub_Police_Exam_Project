@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000994",
+        "promulgDate": "20221115",
+        "effectDate": "20230516",
+        "promulgNum": "19028",
+        "title": "온천법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제28조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "온천법에 따라 대도시의 시장이 특별자치시장 및 특별자치도지사로 간주되는 경우는 무엇인가요?",
+        "output": "온천법 제28조에 의거하여, 동법 제5조, 제9조 및 제10조를 적용할 때 특별시와 광역시를 제외한 인구 50만 이상의 대도시의 시장은 특별자치시장 및 특별자치도지사로 봅니다.",
+        "originwordCnt": "23",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제197조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사법경찰관은 피의자를 신문하기 전에 무엇을 알려주어야 합니까?",
+        "output": "형사소송법 제197조의3제8항에 따르면 사법경찰관은 피의자를 신문하기 전에 수사과정에서 법령위반, 인권침해 또는 현저한 수사권 남용이 있는 경우 검사에게 구제를 신청할 수 있음을 피의자에게 알려주어야 합니다.",
+        "originwordCnt": "162",
+        "labelwordCnt": "24"
+    }
+}

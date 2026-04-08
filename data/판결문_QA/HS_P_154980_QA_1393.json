@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "154980",
+        "caseName": "공문서위조",
+        "caseNum": "70도2238",
+        "sentenceDate": "1970.11.30",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공문서위조죄에서 행사의 목적은 언제 존재해야 하나요?",
+        "output": "공문서위조죄에 있어서 행사의 목적은 해당 공문서를 위조할 때에 존재하면 충분합니다. 이는 형법 제225조에 근거한 것입니다.",
+        "originwordCnt": "20",
+        "labelwordCnt": "15"
+    }
+}

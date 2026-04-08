@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005698",
+        "promulgDate": "20240125",
+        "effectDate": "20240131",
+        "promulgNum": "03125",
+        "title": "가정보호심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "가정보호사건과 관련된 기관은 해당 내용의 조회에 응할 수 있나요?",
+        "output": "가정보호심판규칙 제15조에 따르면, 가정보호사건과 관계있는 기관은 그 사건내용에 관하여 재판, 수사 또는 다른 법률에 규정된 경우를 제외하고는 어떠한 조회에도 응하여서는 아니 됩니다.",
+        "originwordCnt": "20",
+        "labelwordCnt": "22"
+    }
+}

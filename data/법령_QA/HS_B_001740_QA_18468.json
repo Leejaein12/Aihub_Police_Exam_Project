@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001740",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19772",
+        "title": "선원법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제64조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "여객의 안전관리에 필요한 자격요건을 갖춘 선원은 어떤 경우에 승무해야 하나요?",
+        "output": "선원법 제64조 제5항에 따르면 대통령령으로 정하는 선박의 소유자는 해양수산부령으로 정하는 여객의 안전관리에 필요한 자격요건을 갖춘 선원을 승무시켜야 합니다.",
+        "originwordCnt": "124",
+        "labelwordCnt": "18"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001147",
+        "promulgDate": "20200218",
+        "effectDate": "20200519",
+        "promulgNum": "17006",
+        "title": "밀항단속법",
+        "ministry": "법무부,해양경찰청",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "밀항단속법 제3조 제1항의 행위를 직계혈족을 위해 방조한 경우, 그 사람은 어떤 처벌을 받게 되나요?",
+        "output": "밀항단속법 제3조 제1항의 행위를 직계혈족, 배우자, 동거친족 또는 그 배우자를 위하여 방조한 경우, 그 사람은 벌하지 아니합니다. 법적 근거는 밀항단속법 제6조 제2항입니다.",
+        "originwordCnt": "45",
+        "labelwordCnt": "22"
+    }
+}

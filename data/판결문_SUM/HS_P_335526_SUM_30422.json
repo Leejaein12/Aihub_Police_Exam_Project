@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335526",
+        "caseName": "도로교통법위반",
+        "caseNum": "2023고정881",
+        "sentenceDate": "2024.01.11",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "무한궤도식 굴착기의 운전업무에 종사하는 사람으로, 교차로에서 후진하던 중 주차된 차량을 충격하여 약 8백만 원 상당의 손해를 입혔습니다. 피고인은 도로교통법에 따른 주의 의무를 다하지 않아 사고를 발생시켰으며, 이에 법원은 피고인에게 벌금 200만 원을 선고하였습니다.",
+        "originwordCnt": "227",
+        "labelwordCnt": "33"
+    }
+}

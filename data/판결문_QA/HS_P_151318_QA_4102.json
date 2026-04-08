@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "151318",
+        "caseName": "무고·교사",
+        "caseNum": "64도57",
+        "sentenceDate": "1964.04.07",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "면소판결에 대해 실체판결을 구하여 상소하는 것이 허용되지 않는 이유는 무엇인가요?",
+        "output": "면소판결에 대해서는 실체판결을 구하여 상소할 수 없습니다. 피고인에게 실체판결 청구권이 인정되지 않기 때문에 상소는 부적법한 것으로 판단되며, 이에 따라 상고가 기각되었습니다. 참조 법령으로는 형사소송법 제326조, 제371조, 제383조가 있습니다.",
+        "originwordCnt": "16",
+        "labelwordCnt": "28"
+    }
+}

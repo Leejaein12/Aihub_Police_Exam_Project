@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005630",
+        "promulgDate": "20200805",
+        "effectDate": "20200805",
+        "promulgNum": "30909",
+        "title": "형의 집행 및 수용자의 처우에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "교도관은 계호상 독거수용자를 어떻게 시찰해야 하나요?",
+        "output": "형의 집행 및 수용자의 처우에 관한 법률 시행령 제6조 제1항에 따르면 교도관은 계호상 독거수용자를 수시로 시찰하여 건강상 또는 교화상 이상이 없는지 살펴야 합니다.",
+        "originwordCnt": "100",
+        "labelwordCnt": "23"
+    }
+}

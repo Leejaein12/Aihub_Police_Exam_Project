@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "320927",
+        "caseName": "절도",
+        "caseNum": "2023고단878",
+        "sentenceDate": "2024.02.06",
+        "courtName": "창원지방법원 마산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "경제적 어려움을 이용해 돈을 빌려 갚을 의사나 능력 없이 속인 사기 사건에 대해 1,000만 원의 벌금을 선고하였습니다. 과거 유사 범죄 전력이 있고, 합의나 피해 회복이 이루어지지 않은 점이 불리한 사유로 작용하였습니다. 경합범 관계를 고려하여 형량을 정했으며, 배상 신청은 책임 범위가 명확하지 않아 각하되었습니다.",
+        "originwordCnt": "428",
+        "labelwordCnt": "43"
+    }
+}

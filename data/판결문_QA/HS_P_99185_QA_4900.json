@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "99185",
+        "caseName": "관세법위반",
+        "caseNum": "83도2363",
+        "sentenceDate": "1984.04.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "관세법에 따른 '국내도매가격'은 무엇을 의미하나요?",
+        "output": "관세법 제198조 제3항에 따른 '국내도매가격'은 수입지의 도착원가에 관세 등의 제세금과 비용, 이윤 등이 첨가된 국내도매물가 시세인 가격을 의미합니다.",
+        "originwordCnt": "410",
+        "labelwordCnt": "18"
+    }
+}

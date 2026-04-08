@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "169798",
+        "caseName": "집회 및 시위에 관한 법률 위반",
+        "caseNum": "2010노4341",
+        "sentenceDate": "2011.01.19",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법리오해와 관련된 주장은 어떻게 판단되었나요?",
+        "output": "관할경찰서장에게 신고하지 않고 10여 명과 함께 명동예술극장 앞에서 퍼포먼스를 개최한 사실이 인정되며, 이는 「집회 및 시위에 관한 법률」상의 신고 대상인 옥외 집회에 해당한다고 보아 법리오해 주장은 이유가 없습니다.",
+        "originwordCnt": "179",
+        "labelwordCnt": "28"
+    }
+}

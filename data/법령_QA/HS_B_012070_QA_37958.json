@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012070",
+        "promulgDate": "20220203",
+        "effectDate": "20220804",
+        "promulgNum": "18819",
+        "title": "어린이제품 안전 특별법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가는 어린이제품의 안전을 위해 어떤 제도적 장치를 마련해야 하나요?",
+        "output": "국가는 어린이제품의 안전을 위하여 필요한 제도적 장치를 마련하고 이에 필요한 재원을 확보하도록 노력하여야 합니다. 이는 어린이제품 안전 특별법 제3조 제3항에 근거합니다.",
+        "originwordCnt": "72",
+        "labelwordCnt": "21"
+    }
+}

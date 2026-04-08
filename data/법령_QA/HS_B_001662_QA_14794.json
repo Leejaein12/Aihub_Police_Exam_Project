@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001662",
+        "promulgDate": "20201020",
+        "effectDate": "20210421",
+        "promulgNum": "17505",
+        "title": "소년법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제22조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소년부 판사가 심리 기일을 변경할 때 누가 신청할 수 있으며, 변경 사실은 누구에게 알려야 하나요?",
+        "output": "소년법 제22조에 따르면, 소년부 판사는 심리 기일을 변경할 때 직권으로 하거나 사건 본인, 보호자 또는 보조인의 청구에 의해 변경할 수 있으며, 변경 사실을 사건 본인, 보호자 또는 보조인에게 알려야 합니다.",
+        "originwordCnt": "29",
+        "labelwordCnt": "30"
+    }
+}

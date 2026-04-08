@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335354",
+        "caseName": "근로기준법위반",
+        "caseNum": "2023고단586",
+        "sentenceDate": "2024.06.05",
+        "courtName": "춘천지방법원 강릉지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "상시 근로자 5명을 사용하여 분양대행업을 운영하는 사용자로, 퇴직한 근로자 F에게 임금을 지급기일 연장에 관한 합의 없이 퇴직 후 14일 이내에 지급하지 않았습니다. 이에 따라 근로기준법 제109조 제1항과 제36조를 적용하여 피고인에게 벌금 200만 원을 선고하였습니다.",
+        "originwordCnt": "171",
+        "labelwordCnt": "34"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335779",
+        "caseName": "가정폭력범죄의처벌등에관한특례법위반",
+        "caseNum": "2023고정324",
+        "sentenceDate": "2023.08.29",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "가정폭력 사건과 관련하여 피해자에게 접근하지 말라는 임시조치 결정을 받았으나, 이를 위반하고 피해자의 직장에 방문하였습니다. 법원은 피고인의 임시조치 위반 사실을 인정하고, 가정폭력범죄의 처벌 등에 관한 특례법에 따라 벌금 50만 원을 선고하였습니다.",
+        "originwordCnt": "152",
+        "labelwordCnt": "30"
+    }
+}

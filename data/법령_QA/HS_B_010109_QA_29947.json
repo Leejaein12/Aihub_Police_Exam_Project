@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010109",
+        "promulgDate": "20170314",
+        "effectDate": "20170314",
+        "promulgNum": "14583",
+        "title": "범죄피해자 보호법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국민은 범죄피해자의 명예와 사생활을 보호하기 위해 어떻게 해야 하나요?",
+        "output": "범죄피해자 보호법 제6조에 따라 국민은 범죄피해자의 명예와 사생활의 평온을 해치지 아니하도록 유의하여야 하고, 국가 및 지방자치단체가 실시하는 범죄피해자를 위한 정책의 수립과 추진에 최대한 협력하여야 합니다.",
+        "originwordCnt": "23",
+        "labelwordCnt": "25"
+    }
+}

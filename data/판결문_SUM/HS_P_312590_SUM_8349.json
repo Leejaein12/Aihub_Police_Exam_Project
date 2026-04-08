@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312590",
+        "caseName": "도로교통법위반(음주운전)등",
+        "caseNum": "2023고단1933",
+        "sentenceDate": "2023.07.20",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "면허 없이 혈중알콜농도 0.154% 상태로 승합차를 운전한 혐의로 기소되었습니다. 법원은 도로교통법 위반(음주운전 및 무면허운전) 혐의를 인정하여 피고인에게 징역 1년 4개월을 선고하였으나, 형의 집행은 3년간 유예되었습니다. 또한, 피고인에게 보호관찰과 120시간의 사회봉사를 명령하였습니다.",
+        "originwordCnt": "226",
+        "labelwordCnt": "31"
+    }
+}

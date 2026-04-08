@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "307836",
+        "caseName": "상해",
+        "caseNum": "2020고단1142",
+        "sentenceDate": "2020. 7. 15.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "편의점 앞에서 피해자에게 시비를 걸다가, 피해자가 반응한 것에 화가 나 주먹으로 피해자의 얼굴을 때려 약 8주간의 치료를 요하는 부상을 입혔습니다. 이에 법원은 피고인이 범행을 인정하고 피해자와 합의한 점, 동종 범죄 전력이 없는 점을 유리한 사정으로 참작하였으나, 피해자의 부상 정도가 중하다는 점을 불리하게 보아 피고인에게 벌금 400만 원을 선고했습니다.",
+        "originwordCnt": "202",
+        "labelwordCnt": "48"
+    }
+}

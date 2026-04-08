@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "152856",
+        "caseName": "공무상비밀표시무효",
+        "caseNum": "65도495",
+        "sentenceDate": "1965.09.25",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "부동산 인도의 강제집행 후 집달리가 세운 표목을 손상한 경우, 공무상 비밀표시무효죄가 성립하나요?",
+        "output": "부동산 인도의 강제집행이 완료된 후 집달리가 세운 표목은 법률상 효력이 없으므로, 이를 손상하거나 제거하더라도 형법 제140조에 따른 공무상 비밀표시무효죄가 성립하지 않습니다.",
+        "originwordCnt": "54",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "188423",
+        "caseName": "업무상배임(인정된죄명:배임)",
+        "caseNum": "2013고단2839",
+        "sentenceDate": "2015.09.03",
+        "courtName": "서울동부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 배임죄가 성립하지 않는다고 주장한 이유는 무엇인가요?",
+        "output": "피고인은 자신이 유치물보관자 신분이 아니었고, 이미 피해자들에 의해 아파트에서 강제퇴거 당했기 때문에 배임죄가 성립할 수 없다고 주장했습니다. 그러나 법원은 이러한 주장을 받아들이지 않았습니다.",
+        "originwordCnt": "816",
+        "labelwordCnt": "23"
+    }
+}

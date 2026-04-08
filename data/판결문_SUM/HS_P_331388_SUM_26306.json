@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "331388",
+        "caseName": "사기등",
+        "caseNum": "2023고단1679",
+        "sentenceDate": "2023.10.25",
+        "courtName": "부산지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "한 사람이 다른 사람의 주민등록번호를 부정하게 사용해 병원 진료를 받으며 건강보험 급여비용을 편취하고, 구치소 내에서 폭행을 저지른 사건이 있었습니다. 과거 유사 범죄로 처벌받은 전력이 있는 이 사람은 범행을 인정하며, 편취한 금액이 크지 않다는 점 등이 고려되어 징역 6개월의 형이 선고되었습니다.",
+        "originwordCnt": "656",
+        "labelwordCnt": "40"
+    }
+}

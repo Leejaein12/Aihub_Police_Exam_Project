@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010941",
+        "promulgDate": "20210420",
+        "effectDate": "20211021",
+        "promulgNum": "18079",
+        "title": "한국연구재단법",
+        "ministry": "과학기술정보통신부,교육부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국연구재단은 수익사업을 할 수 있나요?",
+        "output": "한국연구재단법 제5조 제2항에 따르면, 재단은 교육부장관과 과학기술정보통신부장관의 승인을 받아 제1항에 따른 사업 외에도 제1조의 목적을 달성하기 위해 필요한 수익사업을 할 수 있습니다.",
+        "originwordCnt": "91",
+        "labelwordCnt": "22"
+    }
+}

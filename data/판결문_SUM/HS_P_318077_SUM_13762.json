@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318077",
+        "caseName": "약사법위반",
+        "caseNum": "2024고정33",
+        "sentenceDate": "2024.03.20",
+        "courtName": "의정부지방법원 남양주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "인터넷 종합 쇼핑몰에 입점하여 중국 생활용품을 구매대행하는 쇼핑몰을 운영하였고, 의약품의 판매를 알선하는 행위를 하였습니다. 식품의약품안전처장의 허가나 신고 없이 의약품을 광고한 점이 확인되었으며, 이로 인해 약사법 제95조 및 관련 법령을 위반한 사실이 인정되었습니다. 따라서 피고인은 벌금 50만 원에 처했습니다.",
+        "originwordCnt": "214",
+        "labelwordCnt": "38"
+    }
+}

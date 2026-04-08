@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335133",
+        "caseName": "사기등",
+        "caseNum": "2023노527",
+        "sentenceDate": "2023.04.28",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사기 및 공문서부정행사 혐의로 기소되어 징역 6월을 선고받은 피고인이 항소했으나, 법원은 피고인의 동종 전력과 누범인 점을 불리한 요소로, 반성하고 피해자와 합의한 점을 유리한 요소로 고려해 원심의 판단이 적정하다고 보았습니다. 따라서 원심의 양형이 재량의 범위를 벗어나지 않았고, 특별한 사정변경이 없으므로 피고인의 항소는 기각되었습니다.",
+        "originwordCnt": "213",
+        "labelwordCnt": "42"
+    }
+}

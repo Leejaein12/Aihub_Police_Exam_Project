@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001739",
+        "promulgDate": "20230725",
+        "effectDate": "20240126",
+        "promulgNum": "19573",
+        "title": "선박직원법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "선박직원이 되려는 사람은 무엇을 받아야 합니까?",
+        "output": "선박직원법 제4조 제1항에 따르면, 선박직원이 되려는 사람은 해양수산부장관의 해기사 면허를 받아야 합니다.",
+        "originwordCnt": "575",
+        "labelwordCnt": "12"
+    }
+}

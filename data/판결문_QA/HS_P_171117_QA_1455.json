@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "171117",
+        "caseName": "절도·국외이송약취·피약취자 국외이송",
+        "caseNum": "2010고합24",
+        "sentenceDate": "2010.07.28",
+        "courtName": "대전지방법원공주지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 피해자를 데리고 베트남으로 출국한 행위는 국외이송약취죄로 인정되었나요?",
+        "output": "법원은 피고인이 피해자를 데리고 베트남으로 출국한 행위가 약취행위에 해당하지 않는다고 판단하였습니다. 이에 따라 이 부분에 대해서는 범죄의 증명이 부족하다고 보아 무죄를 선고하였습니다.",
+        "originwordCnt": "711",
+        "labelwordCnt": "22"
+    }
+}

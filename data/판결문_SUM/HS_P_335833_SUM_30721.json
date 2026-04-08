@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335833",
+        "caseName": "위증교사",
+        "caseNum": "2024고단337",
+        "sentenceDate": "2024.04.30",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "무면허 의료행위로 수사 및 기소된 상황에서 사건의 증인인 피고인 B에게 허위 진술을 요구하였고, 이후 B가 법정에서 실제 사실과 다른 증언을 하게 함으로써 위증을 교사하였습니다. 이에 따라 피고인 A는 징역 8개월을 선고받았으나 2년간 집행이 유예되었고, 사회봉사 160시간이 명령되었습니다. 피고인 B는 벌금 300만 원을 선고받았습니다.",
+        "originwordCnt": "649",
+        "labelwordCnt": "43"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014483",
+        "promulgDate": "20230914",
+        "effectDate": "20240126",
+        "promulgNum": "19725",
+        "title": "해상교통안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제89조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "밀고 있는 선박과 밀려가고 있는 선박이 하나의 복합체를 이룬 경우 어떤 규정을 적용하나요?",
+        "output": "해상교통안전법 제89조제8항에 따르면 밀고 있는 선박과 밀려가고 있는 선박이 단단하게 연결되어 하나의 복합체를 이룬 경우에는 이를 1척의 동력선으로 보고 제88조를 적용합니다.",
+        "originwordCnt": "400",
+        "labelwordCnt": "21"
+    }
+}

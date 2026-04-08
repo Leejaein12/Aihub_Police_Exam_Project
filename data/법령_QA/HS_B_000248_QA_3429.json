@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000248",
+        "promulgDate": "20181218",
+        "effectDate": "20190119",
+        "promulgNum": "16001",
+        "title": "사도법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사도가 공공교통에 크게 도움이 된다고 인정되면 어떤 지원을 받을 수 있나요?",
+        "output": "사도법 제14조에 따르면, 시장, 군수, 구청장은 사도가 사도로서의 효용을 넘어 공공교통에 크게 도움이 된다고 인정할 경우, 예산의 범위에서 설치비와 관리비의 전부 또는 일부를 보조할 수 있습니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "26"
+    }
+}

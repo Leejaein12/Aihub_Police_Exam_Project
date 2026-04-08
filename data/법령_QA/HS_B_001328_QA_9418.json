@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001328",
+        "promulgDate": "20230304",
+        "effectDate": "20230605",
+        "promulgNum": "19228",
+        "title": "독립유공자예우에 관한 법률",
+        "ministry": "국가보훈부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "유족 중 같은 순위자가 2명 이상일 때 생활조정수당은 어떻게 지급되나요?",
+        "output": "독립유공자예우에 관한 법률 제14조 제2항에 따르면, 유족 중 같은 순위자가 2명 이상일 때는 제6조 제1항에 따른 등록신청 순위를 준용하여 생활조정수당을 지급합니다.",
+        "originwordCnt": "77",
+        "labelwordCnt": "21"
+    }
+}

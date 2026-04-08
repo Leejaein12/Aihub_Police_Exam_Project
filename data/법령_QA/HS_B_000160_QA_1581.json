@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000160",
+        "promulgDate": "20221213",
+        "effectDate": "20230114",
+        "promulgNum": "19090",
+        "title": "토양환경보전법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제15조의5",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "토양오염물질에 대한 위해성평가의 항목, 방법 등에 관한 사항을 규정한 법령의 형식은 무엇일까요?",
+        "output": "토양환경보전법 제15조의5 제4항에 따르면, 위해성평가의 항목ㆍ방법 및 그 밖에 필요한 사항과 위해성평가 결과의 검증 절차와 방법 등은 환경부령으로 정합니다.",
+        "originwordCnt": "166",
+        "labelwordCnt": "19"
+    }
+}

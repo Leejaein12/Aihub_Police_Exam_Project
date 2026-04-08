@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "236569",
+        "caseName": "특정범죄가중처벌등에관한법률위반피고사건",
+        "caseNum": "77노209",
+        "sentenceDate": "1977.09.09",
+        "courtName": "광주고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "관세를 포탈하는 행위를 방조한 자에게 법률상 감경이 가능한가요?",
+        "output": "특정범죄가중처벌등에관한법률 제6조 제6항은 방조범 역시 정범과 동일한 기준으로 처벌하도록 규정하고 있습니다. 따라서 관세를 포탈하는 행위를 방조한 경우에도 법률상 감경이 불가능합니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "20"
+    }
+}

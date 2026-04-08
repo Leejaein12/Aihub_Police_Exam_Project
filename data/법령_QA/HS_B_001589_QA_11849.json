@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001589",
+        "promulgDate": "20230620",
+        "effectDate": "20231221",
+        "promulgNum": "19511",
+        "title": "소비자기본법",
+        "ministry": "공정거래위원회",
+        "fullText": "N",
+        "smClass": "제30조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소비자단체가 거짓 그 밖의 부정한 방법으로 등록을 한 경우, 어떤 조치가 취해지나요?",
+        "output": "소비자단체가 거짓 그 밖의 부정한 방법으로 제29조의 규정에 따른 등록을 한 경우, 공정거래위원회 또는 지방자치단체의 장은 등록을 취소하여야 합니다. 이는 소비자기본법 제30조 제1항에 근거합니다.",
+        "originwordCnt": "52",
+        "labelwordCnt": "24"
+    }
+}

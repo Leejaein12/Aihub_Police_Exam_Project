@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001805",
+        "promulgDate": "20240213",
+        "effectDate": "20240514",
+        "promulgNum": "20307",
+        "title": "식품위생법",
+        "ministry": "식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제12조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "유전자변형식품의 표시가 없는 제품을 판매할 수 있나요?",
+        "output": "식품위생법 제12조의2 제2항에 따르면, 유전자변형식품임을 표시하지 않은 유전자변형식품은 판매하거나 판매할 목적으로 수입ㆍ진열ㆍ운반하거나 영업에 사용하여서는 안 됩니다.",
+        "originwordCnt": "95",
+        "labelwordCnt": "16"
+    }
+}

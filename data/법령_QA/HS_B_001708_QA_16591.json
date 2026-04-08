@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001708",
+        "promulgDate": "20210105",
+        "effectDate": "20210105",
+        "promulgNum": "17828",
+        "title": "변호사법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제70조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "총회의 결의를 거쳐야 하는 사항에는 무엇이 있나요?",
+        "output": "변호사법 제70조 제3항에 따르면 다음 각 호의 사항은 총회의 결의를 거쳐야 합니다.1. 회칙의 변경2. 예산 및 결산",
+        "originwordCnt": "42",
+        "labelwordCnt": "19"
+    }
+}

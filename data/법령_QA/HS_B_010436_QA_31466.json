@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010436",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19888",
+        "title": "노인장기요양보험법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "장기요양인정을 신청할 수 있는 자격을 갖추려면 어떤 조건을 만족해야 하나요?",
+        "output": "노인복지법 제12조에 따르면, 장기요양인정을 신청할 수 있는 자는 노인등으로서 다음의 자격을 갖추어야 합니다.1. 장기요양보험가입자 또는 그 피부양자2. 의료급여법 제3조제1항에 따른 수급권자",
+        "originwordCnt": "30",
+        "labelwordCnt": "23"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000170",
+        "promulgDate": "20210401",
+        "effectDate": "20210401",
+        "promulgNum": "17985",
+        "title": "환경분쟁 조정법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제45조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "재정위원회는 어떤 경우에 재정절차를 중지할 수 있나요?",
+        "output": "환경분쟁조정법 제45조 제3항에 따르면 재정위원회는 재정이 신청된 사건과 같은 원인으로 다수인이 관련되는 같은 종류의 사건 또는 유사한 사건에 대한 소송이 진행 중인 경우, 결정으로 재정절차를 중지할 수 있습니다.",
+        "originwordCnt": "117",
+        "labelwordCnt": "28"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335364",
+        "caseName": "절도등",
+        "caseNum": "2023고단282",
+        "sentenceDate": "2024.02.06",
+        "courtName": "창원지방법원 거창지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "반복적으로 타인의 주거지에 침입하여 현금과 귀금속 등을 절취한 혐의로 기소되었으며, 범행의 죄질이 매우 불량하고 피해 회복이 이루어지지 않았습니다. 피고인은 이전에도 절도죄 등으로 수차례 처벌을 받은 전력이 있으며, 수사 중인 상태에서 추가 범행을 저질렀습니다. 법원은 피고인에게 징역 1년 6개월을 선고하였습니다.",
+        "originwordCnt": "725",
+        "labelwordCnt": "39"
+    }
+}

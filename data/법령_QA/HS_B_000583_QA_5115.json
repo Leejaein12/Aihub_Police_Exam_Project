@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000583",
+        "promulgDate": "20200331",
+        "effectDate": "20200701",
+        "promulgNum": "17142",
+        "title": "담배사업법",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제25조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "담배 성분 측정을 의뢰하는 주체와 시기는 어떻게 되나요?",
+        "output": "담배사업법 제25조의2 제2항에 따르면 제조업자와 수입판매업자는 판매 중인 담배에 대하여 분기마다 분기가 시작된 후 1개월 이내에 기획재정부장관이 지정하는 측정기관에 품목별로 담배 성분 측정을 의뢰하여야 합니다.",
+        "originwordCnt": "105",
+        "labelwordCnt": "25"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000308",
+        "promulgDate": "20230328",
+        "effectDate": "20230929",
+        "promulgNum": "19289",
+        "title": "부정경쟁방지 및 영업비밀보호에 관한 법률",
+        "ministry": "특허청",
+        "fullText": "N",
+        "smClass": "제9조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "원본증명기관 지정의 기준 및 절차에 필요한 사항은 무엇으로 정합니까?",
+        "output": "원본증명기관 지정의 기준 및 절차에 필요한 사항은 대통령령으로 정합니다. 이는 부정경쟁방지 및 영업비밀보호에 관한 법률 제9조의3 제5항에 명시되어 있습니다.",
+        "originwordCnt": "114",
+        "labelwordCnt": "19"
+    }
+}

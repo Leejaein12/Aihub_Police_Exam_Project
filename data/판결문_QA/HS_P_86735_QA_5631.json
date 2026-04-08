@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86735",
+        "caseName": "건조물침입,업무방해,명예훼손",
+        "caseNum": "4293형상864",
+        "sentenceDate": "1961.02.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공유자 중 한 사람이 단독으로 경영하는 다방의 영업장소에 침입한 경우, 어떤 죄책이 발생하나요?",
+        "output": "공유자 중 한 사람이 단독으로 경영하는 다방의 영업장소에 침입하여 고성으로 악담을 반복하거나 기물을 반입하는 등의 행위를 한 경우, 이는 형법 제314조에 따른 업무방해죄에 해당할 수 있습니다.",
+        "originwordCnt": "46",
+        "labelwordCnt": "26"
+    }
+}

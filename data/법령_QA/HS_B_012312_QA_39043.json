@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012312",
+        "promulgDate": "20240123",
+        "effectDate": "20240123",
+        "promulgNum": "20129",
+        "title": "수산종자산업육성법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "전문인력 양성기관의 지정 기준 및 지원 등에 관한 사항은 어떻게 정해지나요?",
+        "output": "수산종자산업육성법 제8조제5항에 따르면, 제2항에 따른 전문인력 양성기관의 지정 기준 및 방법과 제3항에 따른 지원 등에 필요한 사항은 대통령령으로 정합니다.",
+        "originwordCnt": "162",
+        "labelwordCnt": "19"
+    }
+}

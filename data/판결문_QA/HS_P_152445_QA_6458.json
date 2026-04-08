@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "152445",
+        "caseName": "상습존속폭행",
+        "caseNum": "64도687",
+        "sentenceDate": "1965.01.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "상습존속폭행죄에 형법 제260조 제3항이 적용되지 않는 이유는 무엇인가요?",
+        "output": "형법 제264조는 상습존속폭행죄에 대한 특별규정이므로, 형법 제260조 제3항에서 규정한 피해자의 명시한 의사에 반하여 논할 수 없다는 규정은 상습존속폭행죄에 적용되지 않습니다.",
+        "originwordCnt": "127",
+        "labelwordCnt": "20"
+    }
+}

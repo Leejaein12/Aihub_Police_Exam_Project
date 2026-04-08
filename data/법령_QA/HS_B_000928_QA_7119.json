@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000928",
+        "promulgDate": "20221213",
+        "effectDate": "20221213",
+        "promulgNum": "19076",
+        "title": "군사기밀 보호법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "일반 국민의 요청에 따른 군사기밀의 공개는 국방부장관의 군사기밀의 공개 규정을 따릅니까?",
+        "output": "군사기밀 보호법 제9조 제2항에 따르면 모든 국민의 군사기밀 공개 요청에 관하여는 군사기밀 보호법 제7조 국방부장관 또는 방위사업청장의 군사기밀의 제공 및 설명 규정을 준용합니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "23"
+    }
+}

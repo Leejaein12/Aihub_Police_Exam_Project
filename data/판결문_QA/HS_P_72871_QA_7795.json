@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72871",
+        "caseName": "보건범죄단속에관한특별조치법위반피고사건",
+        "caseNum": "71노629",
+        "sentenceDate": "1971.09.16",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "낙태수술 등의 의료행위가 조산원의 정당한 업무행위에 속할 수 있습니까?",
+        "output": "낙태행위는 조산원의 정당한 업무행위에 속하지 않습니다. 조산원은 정상분만의 조산만을 업무로 하며, 낙태수술과 같은 의료행위는 의료법 제25조에 의해 금지되어 있기 때문에, 조산원의 업무에 낙태수술이 포함될 수 없습니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "26"
+    }
+}

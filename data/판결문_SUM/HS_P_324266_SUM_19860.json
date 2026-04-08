@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "324266",
+        "caseName": "업무상횡령",
+        "caseNum": "2024고단1606",
+        "sentenceDate": "2024.05.23",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피해 회사에서 주류 납품 대금을 피해 회사 계좌에 입금하지 않고 개인 계좌로 입금하거나 일부만 입금한 후 나머지 금액을 사적으로 사용한 혐의로 공소가 제기되었습니다. 피고인이 공소 제기일 이전에 사망한 사실이 인정되므로 형사소송법 제327조 제2호에 따라 공소제기 절차가 법률의 규정에 위반하여 무효로 판단되었습니다. 공소를 기각합니다.",
+        "originwordCnt": "157",
+        "labelwordCnt": "43"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001638",
+        "promulgDate": "20230418",
+        "effectDate": "20240101",
+        "promulgNum": "19357",
+        "title": "도로교통법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제40조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "차의 사용자, 정비책임자 또는 운전자가 운전해서는 안 되는 차량은 어떤 차량인가요?",
+        "output": "도로교통법 제40조에 따르면 모든 차의 사용자, 정비책임자 또는 운전자는 자동차관리법, 건설기계관리법이나 그 법에 따른 명령에 의한 장치가 정비되어 있지 아니한 차를 운전하도록 시키거나 운전하여서는 아니 됩니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "26"
+    }
+}

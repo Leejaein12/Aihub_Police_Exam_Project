@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337416",
+        "caseName": "사기",
+        "caseNum": "2023고정88",
+        "sentenceDate": "2023.09.06",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피해자에게 차량을 담보로 돈을 빌려주면 이자를 지급하겠다고 속여 1,000만 원을 송금받아 재산상 이익을 취했습니다. 그러나 피고인은 차량에 대한 처분권이 없었으며, 금전을 변제할 능력도 없었습니다. 이에 대해 법원은 형법 제347조 제1항에 따라 사기죄를 인정하고, 피고인에게 벌금 400만 원을 선고했습니다.",
+        "originwordCnt": "164",
+        "labelwordCnt": "38"
+    }
+}

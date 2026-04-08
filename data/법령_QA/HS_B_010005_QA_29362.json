@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010005",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19882",
+        "title": "산림자원의 조성 및 관리에 관한 법률",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "산림의 기능을 구분할 때, 산림청장은 어떤 절차를 밟아야 하나요?",
+        "output": "산림자원의 조성 및 관리에 관한 법률 제8조에 따르면, 산림청장은 산림의 기능을 구분할 때 기능구분도 초안을 14일 이상 인터넷 홈페이지 등에 게시하여 지방자치단체의 장 및 산림소유자 등의 의견을 들어야 합니다.",
+        "originwordCnt": "119",
+        "labelwordCnt": "29"
+    }
+}

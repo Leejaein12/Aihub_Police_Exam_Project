@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334626",
+        "caseName": "전자금융거래법위반",
+        "caseNum": "2023고단636",
+        "sentenceDate": "2023.09.13",
+        "courtName": "의정부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "대출을 받기 위해 신용도를 높여야 한다는 성명불상자의 제안에 따라, 자신의 C은행 및 D은행 계좌와 연결된 공인인증서, 체크카드, OTP 등을 대가 약속 하에 대여하였습니다. 법원은 피고인이 대여한 접근매체가 불법적인 용도로 악용된 점을 불리한 정상으로 보았으나, 피고인이 자백하고 반성하며 범죄 전력이 없는 점을 유리한 정상으로 참작하여 벌금 400만 원을 선고하였습니다",
+        "originwordCnt": "354",
+        "labelwordCnt": "48"
+    }
+}

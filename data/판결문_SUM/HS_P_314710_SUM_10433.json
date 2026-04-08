@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314710",
+        "caseName": "재물손괴등",
+        "caseNum": "2023고단2647",
+        "sentenceDate": "2024.05.03",
+        "courtName": "창원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "아파트 경비실에서 피해자 C와 시비 중 의자를 파손하고 이를 이용해 C와 D에게 상해를 입히는 등 폭행하였습니다. 형법 제258조의2 제1항, 제261조, 제366조 등을 위반하였으며, 피해자 C와는 합의했으나 피해자 D는 처벌을 원하고 있습니다. 법원은 죄질이 좋지 않으나, 피해 정도가 중하지 않은 점과 피고인의 전과를 고려해 징역 6개월에 집행유예 1년을 선고하였습니다.",
+        "originwordCnt": "315",
+        "labelwordCnt": "48"
+    }
+}

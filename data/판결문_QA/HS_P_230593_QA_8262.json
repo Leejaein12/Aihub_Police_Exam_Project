@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "230593",
+        "caseName": "재판의변경청구",
+        "caseNum": "2006보2",
+        "sentenceDate": "2006.11.22",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "검사의 준항고가 기각된 이유는 무엇인가요?",
+        "output": "검사의 준항고는 서울중앙지방법원의 2006년 11월 16일자 재판에 따라 기각되었습니다. 이는 본 사건의 주문에 따른 결정 사항입니다.",
+        "originwordCnt": "1748",
+        "labelwordCnt": "16"
+    }
+}

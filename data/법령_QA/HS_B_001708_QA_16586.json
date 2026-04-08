@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001708",
+        "promulgDate": "20210105",
+        "effectDate": "20210105",
+        "promulgNum": "17828",
+        "title": "변호사법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제68조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "등록이 취소된 변호사는 지방변호사회에서 어떻게 되나요?",
+        "output": "변호사법 제68조 제3항에 따르면 제18조에 따라 등록이 취소된 변호사는 소속 지방변호사회를 당연히 탈퇴하게 됩니다.",
+        "originwordCnt": "40",
+        "labelwordCnt": "14"
+    }
+}

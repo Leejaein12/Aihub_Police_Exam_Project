@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335680",
+        "caseName": "협박",
+        "caseNum": "2023고단552",
+        "sentenceDate": "2023.11.22",
+        "courtName": "대구지방법원 안동지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "과거 자신에게 상해를 가한 피해자에게 사과를 받지 못하자, 피해자에게 전화하여 폭언을 하며 생명과 신체에 해를 가할 것처럼 협박하였습니다. 법원은 피고인이 범행을 인정하고 반성하고 있으며, 범행 경위에도 참작할 사정이 있다고 보았습니다. 법원은 피고인에게 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "357",
+        "labelwordCnt": "36"
+    }
+}

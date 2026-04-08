@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "153136",
+        "caseName": "횡령",
+        "caseNum": "2009노3180",
+        "sentenceDate": "2010.12.09",
+        "courtName": "대전지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공동주택건립사업권 계약금 중 일부를 대표이사의 승낙 없이 사용한 경우 횡령죄가 성립하는지 궁금합니다.",
+        "output": "공동주택건립사업권 계약금 중 일부를 대표이사의 사전 승낙 없이 사용한 경우, 해당 금액은 위임된 목적과 용도에 따라 보관된 것이므로 임의로 소비할 경우 횡령죄가 성립합니다.",
+        "originwordCnt": "674",
+        "labelwordCnt": "23"
+    }
+}

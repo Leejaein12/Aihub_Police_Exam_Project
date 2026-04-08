@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001805",
+        "promulgDate": "20240213",
+        "effectDate": "20240514",
+        "promulgNum": "20307",
+        "title": "식품위생법",
+        "ministry": "식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제48조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "인증 유효기간 연장 여부는 어떻게 결정되나요?",
+        "output": "식품위생법 제48조의2 제3항에 따르면, 식품의약품안전처장은 제2항에 따른 연장신청을 받았을 때 안전관리인증기준에 적합하다고 인정하는 경우 3년의 범위에서 그 기간을 연장할 수 있습니다.",
+        "originwordCnt": "58",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "330438",
+        "caseName": "사기등",
+        "caseNum": "2022고단876",
+        "sentenceDate": "2023.06.30",
+        "courtName": "제주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "중고거래 모바일 앱과 사기 수법을 이용해 총 9,900만 원을 편취하였습니다. 이미 사기죄로 집행유예를 받은 상태에서 재범하였으며, 컴퓨터를 이용해 피해자 명의로 허위 대출을 받는 등 범행을 저질렀습니다. 형법 제347조와 제347조의2에 따라 징역 4개월 및 2년이 각각 선고되었으며, 일부 피해자들에게 편취 금액을 배상하라는 명령도 내려졌습니다.",
+        "originwordCnt": "1945",
+        "labelwordCnt": "43"
+    }
+}

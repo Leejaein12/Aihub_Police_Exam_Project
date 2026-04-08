@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "94148",
+        "caseName": "특정범죄가중처벌등에관한법률위반",
+        "caseNum": "78도2448",
+        "sentenceDate": "1978.12.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "과세당국이 결정한 과세표준액을 납부했더라도 조세포탈의 죄책을 면할 수 없는 경우는 어떤 경우인가요?",
+        "output": "과세당국이 결정한 과세표준액을 납부했더라도, 그 과세표준액이 실제 매상고에 부족되는 경우에는 그 차액에 따른 세금에 대해 조세범처벌법 제9조 제1항 제3호에 따른 조세포탈의 죄책을 면할 수 없습니다.",
+        "originwordCnt": "73",
+        "labelwordCnt": "25"
+    }
+}

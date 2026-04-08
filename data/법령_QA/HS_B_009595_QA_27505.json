@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009595",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19763",
+        "title": "공공주택 특별법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제40조의8",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시ㆍ도지사는 도심 공공주택 복합사업계획을 승인하기 전에 어떤 절차를 거쳐야 하나요?",
+        "output": "공공주택 특별법 제40조의8 제2항 규정에 따르면 시ㆍ도지사는 도심 공공주택 복합사업계획을 승인하기 전에 국토교통부장관과 미리 협의하여야 합니다.",
+        "originwordCnt": "930",
+        "labelwordCnt": "16"
+    }
+}

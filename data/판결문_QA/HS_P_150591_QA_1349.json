@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "150591",
+        "caseName": "형집행이의신립기각결정에대한즉시항고",
+        "caseNum": "4294형항45",
+        "sentenceDate": "1962.06.07",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형사소송법 제489조에서 언급된 '재판을 선고한 법원'이란 무엇을 의미하나요?",
+        "output": "형사소송법 제489조에서 언급된 '재판을 선고한 법원'이란 해당 재판의 집행에 대한 이의신청을 처리할 관할 법원으로서, 최초로 유죄 판결을 선고한 법원을 의미합니다.",
+        "originwordCnt": "14",
+        "labelwordCnt": "20"
+    }
+}

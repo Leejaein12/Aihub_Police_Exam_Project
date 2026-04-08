@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334876",
+        "caseName": "강제추행",
+        "caseNum": "2023고단1143",
+        "sentenceDate": "2023.11.03",
+        "courtName": "청주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "한 휴게실에서 쉬고 있던 아르바이트생 피해자가 거부 의사를 밝혔음에도 불구하고 피고인이 강제로 추행한 사실이 인정됩니다. 법원은 피고인이 사건 범행에 대한 책임을 인정한 점, 피해자와 합의한 점, 과거에 동종 범죄로 처벌받은 전력이 없는 점 등을 양형에 고려하여 피고인을 벌금 4,000,000원에 처하였습니다.",
+        "originwordCnt": "374",
+        "labelwordCnt": "40"
+    }
+}

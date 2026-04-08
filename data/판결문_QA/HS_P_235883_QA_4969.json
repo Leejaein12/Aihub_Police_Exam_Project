@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "235883",
+        "caseName": "공문서변조·동행사·사문서변조피고사건",
+        "caseNum": "72노1342",
+        "sentenceDate": "1973.02.15",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "변조된 사문서의 전자복사한 사본을 행사한 경우에도 변조사문서 행사죄가 성립되나요?",
+        "output": "변조된 사문서 그 자체를 제출한 것이 아니고, 변조된 사문서를 전자복사한 사본 그 자체를 타인에게 행사한 경우에는 형법 제231조 및 제234조에 따라 변조사문서 행사죄에 해당되지 않습니다.",
+        "originwordCnt": "30",
+        "labelwordCnt": "25"
+    }
+}

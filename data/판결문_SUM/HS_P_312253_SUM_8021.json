@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312253",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023재고단14",
+        "sentenceDate": "2024.01.10",
+        "courtName": "광주지방법원 순천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.078%의 술에 취한 상태로 약 150m 구간을 운전한 사실이 인정되어 도로교통법 위반으로 기소되었습니다. 구 도로교통법 제148조의2 제3항 제3호 및 제44조 제1항에 따라 벌금형이 선택되었으며, 피고인에게 벌금 500만 원이 부과되었습니다.",
+        "originwordCnt": "172",
+        "labelwordCnt": "30"
+    }
+}

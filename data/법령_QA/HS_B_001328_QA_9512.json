@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001328",
+        "promulgDate": "20230304",
+        "effectDate": "20230605",
+        "promulgNum": "19228",
+        "title": "독립유공자예우에 관한 법률",
+        "ministry": "국가보훈부",
+        "fullText": "N",
+        "smClass": "제43조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "독립유공자 지원을 명목으로 영리 목적의 단체를 조직한 사람은 어떤 처벌을 받습니까?",
+        "output": "독립유공자예우에 관한 법률 제43조 제3항에 따르면, 제40조 제1항을 위반하여 영리 목적의 단체를 조직한 사람은 3년 이하의 징역 또는 3천만 원 이하의 벌금에 처합니다.",
+        "originwordCnt": "82",
+        "labelwordCnt": "23"
+    }
+}

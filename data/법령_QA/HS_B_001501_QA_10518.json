@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001501",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19753",
+        "title": "수의사법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "면허증에 관해 금지된 행위는 무엇입니까?",
+        "output": "수의사법 제6조 제2항에 따라, 면허증은 다른 사람에게 빌려주거나 빌려서는 아니 되며, 이를 알선하여서도 아니 됩니다.",
+        "originwordCnt": "47",
+        "labelwordCnt": "15"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제232조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "긴급체포 후 석방된 사람 또는 그 가족 등은 어떤 권리를 가질 수 있나요?",
+        "output": "긴급체포 후 석방된 사람 또는 그 변호인, 법정대리인, 배우자, 직계친족, 형제자매는 통지서와 관련 서류를 열람하거나 복사할 수 있습니다. 군사법원법 제232조의4 제5항에 근거하고 있습니다.",
+        "originwordCnt": "165",
+        "labelwordCnt": "23"
+    }
+}

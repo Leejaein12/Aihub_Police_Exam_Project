@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317306",
+        "caseName": "공무집행방해",
+        "caseNum": "2024고단595",
+        "sentenceDate": "2024.05.22",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "112 신고를 받고 출동하여 택시 요금 결제를 안내하자 이에 화가 나 경찰관을 폭행하여 공무집행을 방해하였습니다. 법원은 행위가 경찰의 정당한 직무 집행을 방해한 중대한 범죄로 판단하였으나, 폭력 전과가 없는 점과 형법 제136조 제1항을 적용하여 벌금 500만 원을 선고하였습니다.",
+        "originwordCnt": "203",
+        "labelwordCnt": "37"
+    }
+}

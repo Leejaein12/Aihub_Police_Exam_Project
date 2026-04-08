@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011620",
+        "promulgDate": "20210817",
+        "effectDate": "20220218",
+        "promulgNum": "18425",
+        "title": "목재의 지속가능한 이용에 관한 법률",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제32조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "목구조기술자는 어떤 업무를 수행하나요?",
+        "output": "목재의 지속가능한 이용에 관한 법률 제32조 제3항에 따르면 목구조기술자는 다음 각 호의 업무를 수행합니다. 1. 목재 구조물의 설치 및 관리 2. 목조주택 및 목조건축물 시공과 관리 3. 그 밖에 대통령령으로 정하는 사항",
+        "originwordCnt": "219",
+        "labelwordCnt": "35"
+    }
+}

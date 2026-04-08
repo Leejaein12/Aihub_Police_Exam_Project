@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "327645",
+        "caseName": "사기등",
+        "caseNum": "2022노1183",
+        "sentenceDate": "2022.11.17.",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사기, 공인중개사법 위반, 전자금융거래법 위반 혐의로 각각의 사건에서 징역 3년과 1년 2월을 선고받은 피고인이 항소하였습니다. 항소심 법원은 제1, 2 원심이 별도로 선고한 형이 형법상 경합범 관계에 해당한다고 판단하여, 형법 제38조 제1항에 따른 경합범 가중 규정을 적용해 원심 판결들을 파기하고 징역 3년 6월의 단일 형을 선고하였습니다.",
+        "originwordCnt": "339",
+        "labelwordCnt": "45"
+    }
+}

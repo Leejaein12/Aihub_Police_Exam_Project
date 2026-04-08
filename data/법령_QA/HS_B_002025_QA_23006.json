@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002025",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19889",
+        "title": "마약류 관리에 관한 법률",
+        "ministry": "보건복지부,식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제36조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "대마재배자는 재배 면적과 생산 현황을 어디에 보고해야 합니까?",
+        "output": "마약류 관리에 관한 법률 제36조 제1항에 따르면 대마재배자는 총리령으로 정하는 바에 따라 대마초의 재배 면적과 생산 현황 및 수량을 특별자치시장, 시장, 군수 또는 구청장에게 보고해야 합니다.",
+        "originwordCnt": "60",
+        "labelwordCnt": "26"
+    }
+}

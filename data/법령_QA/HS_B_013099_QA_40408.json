@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013099",
+        "promulgDate": "20240319",
+        "effectDate": "20240620",
+        "promulgNum": "20399",
+        "title": "공무원 재해보상법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제42조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공무원 재해보상에 관해 재난으로 인한 피해의 범위와 부조금액은 어떠한 법령으로 정합니까?",
+        "output": "공무원 재해보상에 관해 재난으로 인한 피해의 범위 및 피해 정도별 부조금액 등은 대통령령으로 정해집니다. 이는 공무원 재해보상법 제42조 제2항에 명시되어 있습니다.",
+        "originwordCnt": "36",
+        "labelwordCnt": "21"
+    }
+}

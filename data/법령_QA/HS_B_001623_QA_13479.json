@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제331조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군검사의 모두진술이 끝난 뒤 피고인은 어떤 진술을 해야 하나요?",
+        "output": "피고인은 군검사의 모두진술이 끝난 뒤에 공소사실을 인정하는지를 진술하여야 합니다. 다만, 피고인이 진술거부권을 행사하는 경우에는 그러하지 아니합니다. 군사법원법 제331조 제1항에 명시하고 있습니다.",
+        "originwordCnt": "30",
+        "labelwordCnt": "21"
+    }
+}

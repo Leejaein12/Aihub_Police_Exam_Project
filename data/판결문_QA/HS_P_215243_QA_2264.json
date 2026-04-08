@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "215243",
+        "caseName": "간통·무고·증회·도주",
+        "caseNum": "4285형상114",
+        "sentenceDate": "1955.03.04",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "위헌의 법률도 헌법위원회의 위헌결정이 없으면 여전히 효력이 있는 것인가요?",
+        "output": "헌법 제107조에 따라 위헌으로 의심되는 법률이라 하더라도, 헌법위원회의 위헌결정이 내려지지 않은 경우에는 그 법률은 여전히 효력을 가지며, 이에 따라 법적 판단과 처벌이 이루어질 수 있습니다.",
+        "originwordCnt": "29",
+        "labelwordCnt": "25"
+    }
+}

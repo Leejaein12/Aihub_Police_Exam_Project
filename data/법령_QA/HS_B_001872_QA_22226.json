@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001872",
+        "promulgDate": "20210518",
+        "effectDate": "20211119",
+        "promulgNum": "18176",
+        "title": "근로기준법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제26조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사용자가 근로자를 해고하려면 얼마 전에 예고를 해야 합니까?",
+        "output": "사용자는 근로자를 해고하려면 적어도 30일 전에 예고를 해야 합니다. 만약 30일 전에 예고를 하지 않았다면, 30일분 이상의 통상임금을 지급해야 합니다. 이는 근로기준법 제26조 제1항에 명시되어 있습니다.",
+        "originwordCnt": "75",
+        "labelwordCnt": "26"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332996",
+        "caseName": "사기등",
+        "caseNum": "2022고단2839",
+        "sentenceDate": "2023.04.26",
+        "courtName": "부산지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "건설업자가 2021년 2월부터 6월까지 총 4억 7천만 원 상당의 허위 세금계산서 7장을 발급받고, 7월에 부가가치세 신고 시 허위로 매입처별 세금계산서합계표를 제출하였습니다. 이는 조세범 처벌법 위반에 해당하며, 법원은 허위 금액이 크지만, 처벌 전력이 없는 점을 고려해 징역 8개월에 집행유예를 선고하였습니다.",
+        "originwordCnt": "351",
+        "labelwordCnt": "39"
+    }
+}

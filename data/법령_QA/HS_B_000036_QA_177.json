@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000036",
+        "promulgDate": "20221227",
+        "effectDate": "20221227",
+        "promulgNum": "19103",
+        "title": "통신비밀보호법",
+        "ministry": "과학기술정보통신부,법무부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "통신비밀보호와 관련하여 타인간의 대화를 녹음하거나 도청할 수 있습니까?",
+        "output": "통신비밀보호법 제14조 제1항에 따라 누구든지 공개되지 아니한 타인간의 대화를 녹음하거나 전자장치 또는 기계적 수단을 이용하여 청취할 수 없습니다.",
+        "originwordCnt": "41",
+        "labelwordCnt": "18"
+    }
+}

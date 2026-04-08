@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001751",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "도시철도법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제22조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "정부는 도시철도 이용자의 안전을 위해 어떤 경우에 자금 지원을 할 수 있나요?",
+        "output": "정부는 도시철도 이용자의 안전을 위하여 도시철도운영자가 국토교통부령으로 정하는 노후화된 도시철도차량을 교체하는 경우 필요한 소요자금의 일부를 보조할 수 있습니다. 이는 도시철도법 제22조 제7항에 근거합니다.",
+        "originwordCnt": "144",
+        "labelwordCnt": "23"
+    }
+}

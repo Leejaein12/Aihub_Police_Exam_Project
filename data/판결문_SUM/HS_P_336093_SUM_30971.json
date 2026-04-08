@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336093",
+        "caseName": "절도",
+        "caseNum": "2024고정56",
+        "sentenceDate": "2024.05.22",
+        "courtName": "창원지방법원 마산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "편의점에서 물품을 절취한 혐의로 기소되었습니다. 법원은 피고인의 반성 태도와 정신건강 문제, 그리고 범행 후 정황을 양형에 참작했으나, 이전에 동종 범행으로 벌금형을 선고받은 전력이 있는 점도 불리한 정상으로 고려하였습니다. 법원은 피고인에게 벌금 200,000원을 선고하였습니다.",
+        "originwordCnt": "235",
+        "labelwordCnt": "33"
+    }
+}

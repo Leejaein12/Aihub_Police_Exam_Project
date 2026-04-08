@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001622",
+        "promulgDate": "20240206",
+        "effectDate": "20240507",
+        "promulgNum": "20191",
+        "title": "병역법",
+        "ministry": "국방부,병무청",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "징집 또는 소집되거나 지원에 의해 입영한 사람의 복무 등에 관하여 어떤 법률이 적용되나요?",
+        "output": "병역법 제4조 제1항에 따르면, 징집 또는 소집되거나 지원에 의하여 입영한 사람의 복무 등에 관하여 이 법에서 규정된 것을 제외하고는 「군인사법」을 적용한다고 규정되어 있습니다.",
+        "originwordCnt": "41",
+        "labelwordCnt": "23"
+    }
+}

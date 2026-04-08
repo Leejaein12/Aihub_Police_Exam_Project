@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93954",
+        "caseName": "농수산물유통및가격안정에관한법률위반",
+        "caseNum": "78도1170",
+        "sentenceDate": "1978.08.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "종범에 해당하지 않는다고 판단된 사례는 무엇인가요?",
+        "output": "농수산물유통및가격안정에관한법률 제12조와 제65조의2에 따르면, 도매시장을 직접 영위하지 않은 자가 단순히 농수산물 거래에 관여한 경우, 그 행위는 도매시장 영업에 해당하지 않으므로 종범에 해당하지 않는다고 판단된 사례가 있습니다.",
+        "originwordCnt": "513",
+        "labelwordCnt": "26"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "168955",
+        "caseName": "저작권법 위반",
+        "caseNum": "2010고정592",
+        "sentenceDate": "2010.07.16",
+        "courtName": "수원지방법원성남지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "저작권자의 허락 없이 논문을 광고 목적으로 복제한 행위가 저작권 침해로 판단된 이유는 무엇인가요?",
+        "output": "논문 내용을 저작권자의 허락 없이 광고에 활용하기 위해 복제한 것은, 영리 목적을 위해 저작물의 핵심 내용을 그대로 인용한 것이므로 저작권법 제136조 제1항에 따라 저작권 침해로 판단되었습니다.",
+        "originwordCnt": "527",
+        "labelwordCnt": "26"
+    }
+}

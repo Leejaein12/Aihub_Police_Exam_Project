@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "338124",
+        "caseName": "사기등",
+        "caseNum": "2022고단2388",
+        "sentenceDate": "2022.11.02.",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "보이스피싱 조직의 일원으로, 피해자를 속여 현금을 수거해 조직원에게 전달하는 역할을 수행하였습니다. 2022년 4월경 피해자에게 아들이 사고로 위기에 처했다는 거짓말로 1,000만 원을 편취했으며, 불법체류 상태로 범행을 이어왔습니다. 법원은 보이스피싱 범죄의 중대성과 사회적 피해를 고려해 피고인에게 징역 2년을 선고하였습니다.",
+        "originwordCnt": "804",
+        "labelwordCnt": "37"
+    }
+}

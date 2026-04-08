@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310006",
+        "caseName": "과실치사",
+        "caseNum": "2020고단1384",
+        "sentenceDate": "2021. 6. 22.",
+        "courtName": "춘천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "야유회 중 수상레저시설에서 상대 동료를 구명조끼 없이 강물에 밀어 넣어 익사하게 하여 과실치사 혐의로 기소되었습니다. 법원은 상대방의 수영 능력이나 안전 상태를 확인하지 않고, 안전관리 직원의 경고를 무시한 점에서 중대한 과실이 있다고 판단했습니다. 이에 형법 제267조에 따라 금고 6월을 선고하였습니다.",
+        "originwordCnt": "454",
+        "labelwordCnt": "39"
+    }
+}

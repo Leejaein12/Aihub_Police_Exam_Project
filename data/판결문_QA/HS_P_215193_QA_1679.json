@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "215193",
+        "caseName": "살인·배임·업무상횡령",
+        "caseNum": "4287형상113",
+        "sentenceDate": "1955.01.18",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "군법회의 재심판결은 언제 확정되나요?",
+        "output": "군법회의 재심판결은 선고와 동시에 확정됩니다. 이는 국방경비법 제94조에 근거하며, 재심판결은 최종심 판결로 간주되어 이후 관계장관의 승인이나 추가 절차 없이도 확정력을 갖습니다.",
+        "originwordCnt": "129",
+        "labelwordCnt": "21"
+    }
+}

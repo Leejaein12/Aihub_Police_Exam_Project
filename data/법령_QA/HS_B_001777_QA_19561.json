@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001777",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "노인복지법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보건복지부장관은 노인의 보건 및 복지에 관한 실태조사를 얼마나 자주 실시해야 하나요?",
+        "output": "보건복지부장관은 노인의 보건 및 복지에 관한 실태조사를 3년마다 실시하고 그 결과를 공표하여야 합니다. 이는 노인복지법 제5조 제1항에서 규정하고 있습니다.",
+        "originwordCnt": "65",
+        "labelwordCnt": "19"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72267",
+        "caseName": "공갈,살인미수피고사건",
+        "caseNum": "67노117",
+        "sentenceDate": "1967.09.07",
+        "courtName": "광주고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "부동산 영득죄에서 범죄의 기수 시기는 언제인가요?",
+        "output": "부동산 영득죄의 기수 시기는 단순히 소유권 이전의 의사표시가 있는 것만으로는 성립되지 않으며, 실제로 점유를 이전하거나 소유권을 취득할 동기가 있을 때 비로소 기수로 인정됩니다. 이는 형법 제350조와 제352조에 근거하고 있습니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "29"
+    }
+}

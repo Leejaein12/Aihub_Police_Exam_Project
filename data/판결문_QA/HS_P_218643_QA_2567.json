@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "218643",
+        "caseName": "여객자동차운수사업법위반",
+        "caseNum": "2011고단229",
+        "sentenceDate": "2011.09.29",
+        "courtName": "제주지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "대여약관에 명시된 요금보다 낮은 요금으로 계약을 체결한 행위는 어떤 법적 책임을 지나요?",
+        "output": "피고인들은 여객자동차 운수사업법 제92조 제9호 및 제31조 제1항에 따라 각자 벌금형이 선고되었으며, 일부 피고인에 대해서는 형의 선고가 유예되었습니다.",
+        "originwordCnt": "1156",
+        "labelwordCnt": "18"
+    }
+}

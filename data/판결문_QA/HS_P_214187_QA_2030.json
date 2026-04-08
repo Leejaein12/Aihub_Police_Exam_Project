@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "214187",
+        "caseName": "외국환관리법위반",
+        "caseNum": "77도3236",
+        "sentenceDate": "1978.02.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "환전행위에서 수수료를 징수하지 않거나 매입과 매출 차액을 얻지 않은 경우, 외국환관리법상 환전상 업무에 해당하나요?",
+        "output": "환전행위에서 수수료를 징수하거나 매입과 매출 차액을 얻지 않은 경우, 그 행위는 영리성이 없으므로 외국환관리법 제10조 제1항에 따른 환전상 업무에 해당하지 않는다고 판단되었습니다.",
+        "originwordCnt": "25",
+        "labelwordCnt": "22"
+    }
+}

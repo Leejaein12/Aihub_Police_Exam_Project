@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011350",
+        "promulgDate": "20230725",
+        "effectDate": "20240126",
+        "promulgNum": "19573",
+        "title": "낚시 관리 및 육성법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시장ㆍ군수ㆍ구청장이 낚시터업을 허가한 경우, 누구에게 통보해야 하나요?",
+        "output": "낚시 관리 및 육성법 제10조 제4항에 따라, 시장ㆍ군수ㆍ구청장이 제3조 제1호 및 제2호에 따른 수면 등에서의 낚시터업을 허가한 경우, 그 허가한 사항을 관할 해양경찰서장에게 즉시 통보하여야 합니다.",
+        "originwordCnt": "169",
+        "labelwordCnt": "26"
+    }
+}

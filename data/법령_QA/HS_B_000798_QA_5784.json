@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000798",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19597",
+        "title": "저작권법",
+        "ministry": "문화체육관광부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "2차적저작물도 원저작물의 권리에 영향을 미치나요?",
+        "output": "저작권법 제5조제2항에 따르면 2차적저작물의 보호는 그 원저작물의 저작자의 권리에 영향을 미치지 않습니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "12"
+    }
+}

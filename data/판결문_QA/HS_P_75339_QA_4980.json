@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "75339",
+        "caseName": "특정범죄가중처벌등에관한법률위반등피고사건",
+        "caseNum": "82노318",
+        "sentenceDate": "1982.06.25",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "재범의 위험성이 인정되지 않는 경우는 어떤 경우인가요?",
+        "output": "사회보호법 제5조 제2항 제1호에 따르면, 범행이 우발적으로 발생하고 피고인이 교도소 출소 후 재범 없이 성실히 생활해 왔으며, 범행 후 피해자와 합의한 경우에는 재범의 위험성이 인정되지 않습니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "26"
+    }
+}

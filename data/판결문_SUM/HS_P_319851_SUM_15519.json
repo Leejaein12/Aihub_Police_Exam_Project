@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319851",
+        "caseName": "특수협박등",
+        "caseNum": "2023노4656",
+        "sentenceDate": "2023.10.13",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "항소 사건에서 피고인과 검사의 항소가 모두 기각되었습니다. 원심의 형량이 합리적인 재량 범위 내에 있으며, 항소 이유로 제시된 사정들은 이미 원심에서 고려된 것으로 판단됩니다. 따라서 피고인에 대한 징역형과 이수명령, 취업제한명령은 적절하며, 형을 변경할 특별한 양형조건의 변화가 없음을 확인하였습니다.",
+        "originwordCnt": "252",
+        "labelwordCnt": "37"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93974",
+        "caseName": "병역법위반",
+        "caseNum": "78도1581",
+        "sentenceDate": "1978.09.12",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "약 한 달 동안 농경지 정리 작업장에서 거주지를 떠나 있던 경우에도 병역법상 거주지 이동으로 볼 수 있을까요?",
+        "output": "약 한 달 동안 농경지 정리 작업장에서 거주지를 떠나 있었다 하더라도, 거주지를 이동할 의사가 없이 단기간 머문 후 원래의 거주지로 돌아온 경우에는 병역법 제79조 제2항에 규정된 '거주지를 이동한 때'로 볼 수 없습니다.",
+        "originwordCnt": "44",
+        "labelwordCnt": "32"
+    }
+}

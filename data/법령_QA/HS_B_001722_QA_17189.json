@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001722",
+        "promulgDate": "20240102",
+        "effectDate": "20240102",
+        "promulgNum": "19922",
+        "title": "정당법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제48조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "정당이 등록이 취소되거나 자진해산한 경우, 잔여재산은 어떻게 처분되나요?",
+        "output": "정당이 정당법 제44조의 규정에 의하여 등록이 취소되거나 정당법 제45조의 규정에 의하여 자진해산한 때에는 그 잔여재산은 당헌이 정하는 바에 따라 처분합니다. 이는 정당법 제48조 제1항에 근거합니다.",
+        "originwordCnt": "46",
+        "labelwordCnt": "25"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001740",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19772",
+        "title": "선원법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제60조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "단체협약에는 어떤 내용이 포함되어야 하나요?",
+        "output": "선원법 제60조 제5항에 따르면 제4항의 단체협약에는 제69조 제1항에 따른 유급휴가의 부여 간격보다 더 빈번하거나 제70조 제1항에 따른 유급휴가일수보다 더 긴 기간의 유급휴가를 부여하는 내용이 포함되어야 합니다.",
+        "originwordCnt": "250",
+        "labelwordCnt": "26"
+    }
+}

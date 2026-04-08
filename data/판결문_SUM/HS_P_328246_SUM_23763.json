@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328246",
+        "caseName": "스토킹범죄의처벌등에관한법률위반",
+        "caseNum": "2023고정246",
+        "sentenceDate": "2023.05.26.",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "접근하지 않기로 한 합의를 위반하고 반복적으로 전화와 방문을 하여 스토킹 행위를 하여 상당한 정신적 고통을 받은 사실이 인정되었습니다. 이에 법원은 스토킹범죄의 처벌 등에 관한 법률 제18조 제1항 및 제19조 제1항에 따라 벌금 300만 원과 스토킹 치료프로그램 이수를 명하고, 벌금 미납 시 노역장 유치를 선고하였습니다.",
+        "originwordCnt": "390",
+        "labelwordCnt": "44"
+    }
+}

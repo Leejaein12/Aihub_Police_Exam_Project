@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "239851",
+        "caseName": "항소기각결정에대한항고",
+        "caseNum": "64도2",
+        "sentenceDate": "1964.12.16",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "항소가 기각되는 결정이 선고되었을 때, 미결 구금일수를 본형에 산입할 수 있나요?",
+        "output": "항소가 기각되는 결정이 선고 또는 고지되는 경우에도, 형법 제57조에 따라 미결 구금일수의 전부 또는 일부를 본형에 산입하여야 합니다.",
+        "originwordCnt": "23",
+        "labelwordCnt": "18"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335395",
+        "caseName": "위증",
+        "caseNum": "2024고단209",
+        "sentenceDate": "2024.05.09",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사기 사건의 증인으로 출석하여 선서 후 자신의 기억에 반하는 허위 진술을 하여 위증하였습니다. 피고인은 C코인을 20원에 팔았고 그 이후 100원 이상까지 상승했다고 증언하였으나, 실제로는 C코인의 시세가 14원을 넘은 적이 없었습니다. 법원은 피고인에게 벌금 300만 원을 선고하였습니다.",
+        "originwordCnt": "264",
+        "labelwordCnt": "36"
+    }
+}

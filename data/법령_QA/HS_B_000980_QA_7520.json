@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000980",
+        "promulgDate": "20221115",
+        "effectDate": "20230516",
+        "promulgNum": "19021",
+        "title": "경비업법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "특수경비업자가 수행할 수 없는 업무는 무엇인가요?",
+        "output": "경비업법 제7조 제9항에 명시된 사항에 따르면, 특수경비업자는 이 법에 의한 경비업과 경비장비의 제조·설비·판매업, 네트워크를 활용한 정보산업, 시설물 유지관리업 및 경비원 교육업 등 대통령령이 정하는 경비관련업 외의 영업을 하여서는 안 됩니다.",
+        "originwordCnt": "211",
+        "labelwordCnt": "30"
+    }
+}

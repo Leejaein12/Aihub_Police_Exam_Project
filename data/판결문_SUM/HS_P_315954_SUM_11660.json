@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315954",
+        "caseName": "사기",
+        "caseNum": "2023고단2760",
+        "sentenceDate": "2024.04.09",
+        "courtName": "부산지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술에 취해 도로를 거닐며 경찰관의 귀가 권유를 거부한 채 저항하던 중, 경찰관이 피고인을 인도 쪽으로 유도하려 하자 욕설을 하며 순경의 복부를 발로 차 경찰의 정당한 직무집행을 방해하였습니다. 법원은 피고인이 술에 취해 우발적으로 범행을 저지른 점과 초범이라는 점을 고려해 벌금 300만 원을 선고하였습니다.",
+        "originwordCnt": "286",
+        "labelwordCnt": "42"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310166",
+        "caseName": "폭행",
+        "caseNum": "2023고정243",
+        "sentenceDate": "2024.07.24",
+        "courtName": "의정부지방법원 남양주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "카페에서 말다툼 중 피해자를 왼쪽 팔꿈치로 가슴을 때려 폭행한 사실이 인정되었습니다. 이에 법원은 형법 제260조 제1항을 적용하여 피고인에게 벌금 100만 원을 선고하였습니다. 피고인이 범행을 인정했지만, 피해자로부터 용서받지 못한 점을 불리한 사정으로 참작하였습니다.",
+        "originwordCnt": "185",
+        "labelwordCnt": "32"
+    }
+}

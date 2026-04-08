@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009942",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20273",
+        "title": "실종아동등의 보호 및 지원에 관한 법률",
+        "ministry": "경찰청,보건복지부",
+        "fullText": "N",
+        "smClass": "제19조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "과태료는 누구에 의해 부과되고 징수되나요?",
+        "output": "실종아동등의 보호 및 지원에 관한 법률 제19조 제3항에 따르면, 제1항 및 제2항에 따른 과태료는 대통령령으로 정하는 바에 따라 경찰관서의 장 또는 지방자치단체의 장이 각각 부과ㆍ징수합니다.",
+        "originwordCnt": "119",
+        "labelwordCnt": "25"
+    }
+}

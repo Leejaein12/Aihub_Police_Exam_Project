@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001751",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "도시철도법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제20조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "도시철도채권은 언제까지 발행할 수 있습니까?",
+        "output": "도시철도채권은 기본계획이 확정된 연도부터 그 연도의 도시철도 운영수입금이 그 연도의 도시철도 운영비용을 최초로 초과하는 연도까지 발행할 수 있습니다. 이는 도시철도법 제20조 제5항에 근거합니다.",
+        "originwordCnt": "72",
+        "labelwordCnt": "23"
+    }
+}

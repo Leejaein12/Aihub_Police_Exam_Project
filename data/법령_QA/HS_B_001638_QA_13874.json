@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001638",
+        "promulgDate": "20230418",
+        "effectDate": "20240101",
+        "promulgNum": "19357",
+        "title": "도로교통법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제50조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "자율주행시스템을 사용하여 운전하는 경우 적용되지 않는 규정은 무엇인가요?",
+        "output": "도로교통법 제50조의2 제2항에 따르면 운전자가 자율주행시스템을 사용하여 운전하는 경우에는 제49조제1항제10호, 제11호 및 제11호의2의 규정을 적용하지 아니합니다.",
+        "originwordCnt": "45",
+        "labelwordCnt": "16"
+    }
+}

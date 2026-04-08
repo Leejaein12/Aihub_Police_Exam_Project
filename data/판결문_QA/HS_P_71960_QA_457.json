@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "71960",
+        "caseName": "강도살인등피고사건",
+        "caseNum": "64노50",
+        "sentenceDate": "1964.09.02",
+        "courtName": "광주고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "변호인이 제출한 항소이유서가 법정 제출 기간을 넘긴 경우에도 적법한 것으로 인정될 수 있나요?",
+        "output": "변호인이 제출한 항소이유서가 법정 제출 기간을 넘겼더라도, 피고인에게 소송기록 접수 통지가 송달된 날을 기준으로 하여 제출된 경우라면 이는 형사소송법 제361조의3에 따라 피고인을 대리하여 적법하게 제출된 것으로 인정할 수 있습니다.",
+        "originwordCnt": "43",
+        "labelwordCnt": "29"
+    }
+}

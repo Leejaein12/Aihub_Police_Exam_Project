@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310303",
+        "caseName": "모욕등",
+        "caseNum": "2023고단3214",
+        "sentenceDate": "2024.08.16",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 6월 피해자 D에게 욕설을 하여 모욕을, 2022년 11월 피해자 F에게 폭력을 행사하여 상해를 저질렀습니다. 피고인의 반복적인 폭력 범죄 기록과 피해자들에게 끼친 정신적 및 신체적 고통을 고려하여 형법 제311조와 제257조에 따라 징역 4개월을 선고하였습니다.",
+        "originwordCnt": "437",
+        "labelwordCnt": "34"
+    }
+}

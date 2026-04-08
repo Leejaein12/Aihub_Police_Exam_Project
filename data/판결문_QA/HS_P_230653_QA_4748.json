@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "230653",
+        "caseName": "공무상표시무효",
+        "caseNum": "2007노307",
+        "sentenceDate": "2007.06.21",
+        "courtName": "의정부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "온천수 사용 금지 가처분 결정이 임차인에게 효력이 미치는 이유는 무엇인가요?",
+        "output": "온천수 사용 금지 가처분 결정은 임차인이 온천수를 계속 사용해온 점과 임차인의 협력 없이는 가처분의 효용을 기대할 수 없기 때문에, 가처분 결정의 실질적인 당사자인 회사와 동일한 위치에 있다고 보아 임차인에게도 그 효력이 미칩니다.",
+        "originwordCnt": "1191",
+        "labelwordCnt": "32"
+    }
+}

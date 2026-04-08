@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011181",
+        "promulgDate": "20210608",
+        "effectDate": "20220101",
+        "promulgNum": "18221",
+        "title": "장애인연금법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "장애인연금 조사에서 얻은 정보와 자료는 어떤 용도로 사용할 수 없나요?",
+        "output": "장애인연금 조사에서 얻은 정보와 자료는 장애인연금법에서 정한 목적 외의 다른 용도로 사용하거나 다른 사람 또는 기관에 제공하거나 누설할 수 없습니다. 이는 장애인연금법 제9조 제6항에 따라 금지된 사항입니다.",
+        "originwordCnt": "355",
+        "labelwordCnt": "27"
+    }
+}

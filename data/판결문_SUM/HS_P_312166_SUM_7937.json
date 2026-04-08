@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312166",
+        "caseName": "절도등",
+        "caseNum": "2023고단781",
+        "sentenceDate": "2023.11.08",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "식당에서 피해자의 가방을 절취하고, 그 안에 있던 피해자 및 피해자의 남편 명의의 신용카드들을 부정 사용하여 재산상 이익을 취득하였습니다. 피고인은 과거에도 유사한 범죄로 벌금형을 받은 전력이 있으며, 이번에도 동일한 범죄를 반복하였습니다. 법원은 피고인에게 징역 4월의 형을 선고하였습니다.",
+        "originwordCnt": "486",
+        "labelwordCnt": "36"
+    }
+}

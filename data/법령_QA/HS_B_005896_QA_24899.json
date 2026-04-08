@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005896",
+        "promulgDate": "20161129",
+        "effectDate": "20161201",
+        "promulgNum": "02696",
+        "title": "소년심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제49조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소년심판규칙 규정상, 시설의 장이 제1항의 통지를 받은 때에는 즉시 어떻게 해야 합니까?",
+        "output": "소년심판규칙 제49조 제3항에 명시된 바와 같이, 시설의 장이 제1항의 통지를 받은 때에는 즉시 소년을 환송 또는 이송을 받을 소년부로 송치하여야 합니다.",
+        "originwordCnt": "73",
+        "labelwordCnt": "21"
+    }
+}

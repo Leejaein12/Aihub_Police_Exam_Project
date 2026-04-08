@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011168",
+        "promulgDate": "20220610",
+        "effectDate": "20220610",
+        "promulgNum": "18913",
+        "title": "석면피해구제법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제32조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "도급사업의 일괄적용에 관한 규정은 분담금 징수에 어떻게 적용되나요?",
+        "output": "도급사업의 일괄적용에 관한 보험료징수법 제9조는 석면피해구제분담금의 징수에 준용되며, 이 경우 '공단'은 '환경부장관'으로 봅니다. 이는 「석면피해구제법」 제32조 제3항에 명시되어 있습니다.",
+        "originwordCnt": "95",
+        "labelwordCnt": "19"
+    }
+}

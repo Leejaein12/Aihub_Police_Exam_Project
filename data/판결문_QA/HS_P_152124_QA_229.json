@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "152124",
+        "caseName": "도로법위반",
+        "caseNum": "2008고정4123",
+        "sentenceDate": "2009.02.19",
+        "courtName": "수원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인 2에게는 어떤 법령이 적용되었나요?",
+        "output": "피고인 2에게는 구 도로법 제86조, 제83조 제1항 제2호, 그리고 제54조 제1항이 적용되었습니다. 피고인 2는 자신의 종업원인 피고인 1이 제한 축하중 및 총중량을 초과하여 화물을 운행한 사실에 대한 책임이 인정되어 해당 법령에 따라 벌금형이 선택되었습니다.",
+        "originwordCnt": "385",
+        "labelwordCnt": "34"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014391",
+        "promulgDate": "20230609",
+        "effectDate": "20240118",
+        "promulgNum": "19430",
+        "title": "전북특별자치도 설치 등에 관한 특별법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "전북특별자치도 지원위원회의 위원 수는 몇 명으로 구성됩니까?",
+        "output": "전북특별자치도 지원위원회는 위원장 1명을 포함하여 25명 이상 30명 이하의 위원으로 구성됩니다. 이는 전북특별자치도 설치 등에 관한 특별법 제11조 제2항에 명시되어 있습니다.",
+        "originwordCnt": "181",
+        "labelwordCnt": "21"
+    }
+}

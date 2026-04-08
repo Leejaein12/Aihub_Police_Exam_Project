@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337075",
+        "caseName": "사기",
+        "caseNum": "2023고단426",
+        "sentenceDate": "2024.01.24",
+        "courtName": "수원지방법원 여주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "다수를 상대로 차량을 이용한 사기 행위를 저질러 총 1억 원 이상의 금액을 편취하였습니다. 허위로 차량 매매 계약 등을 제안하며 금전을 편취하였고, 피해금 일부는 변제되었으나 실제 피해가 상당한 수준입니다. 법원은 형법 제347조 제1항에 따라 징역 1년 3개월을 선고하였으며, 배상책임 범위가 명확하지 않아 배상신청은 각하되었습니다.",
+        "originwordCnt": "882",
+        "labelwordCnt": "43"
+    }
+}

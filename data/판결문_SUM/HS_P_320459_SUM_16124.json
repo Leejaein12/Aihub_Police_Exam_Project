@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "320459",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단8539",
+        "sentenceDate": "2024.05.10",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.120% 상태에서 인천에서 차량을 운전하다 적발되었습니다. 주행거리는 약 2km였으며, 피고인은 음주운전으로 기소되었습니다. 법원은 피고인의 범죄 전력을 고려하여 벌금형을 선택하고 800만 원의 벌금을 선고했습니다. 만약 벌금을 납입하지 않을 경우, 노역장 유치가 명령되었습니다.",
+        "originwordCnt": "123",
+        "labelwordCnt": "32"
+    }
+}

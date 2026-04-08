@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013574",
+        "promulgDate": "20230816",
+        "effectDate": "20240217",
+        "promulgNum": "19691",
+        "title": "양식산업발전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "해양수산부장관은 양식업자 등의 책임경영 강화를 위해 어떤 조치를 취해야 하나요?",
+        "output": "양식산업발전법 제5조 제2항에 따르면 해양수산부장관은 양식산업의 경쟁력을 강화하고 양식업자 등의 책임경영을 강화하기 위한 정책을 수립ㆍ추진하여야 합니다.",
+        "originwordCnt": "29",
+        "labelwordCnt": "16"
+    }
+}

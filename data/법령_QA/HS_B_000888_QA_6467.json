@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000888",
+        "promulgDate": "20221213",
+        "effectDate": "20230614",
+        "promulgNum": "19066",
+        "title": "사립학교법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제31조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "결산서 제출 시 학교법인은 어떤 보고서를 첨부해야 하나요?",
+        "output": "사립학교법 제31조 제4항에 따르면, 결산서를 제출할 때 학교법인은 감사 모두가 서명ㆍ날인한 감사보고서를 첨부해야 하며, 대학교육기관을 설치ㆍ경영하는 학교법인은 외부감사인의 감사보고서 및 부속서류를 첨부해야 합니다.",
+        "originwordCnt": "251",
+        "labelwordCnt": "23"
+    }
+}

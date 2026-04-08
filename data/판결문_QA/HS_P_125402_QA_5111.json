@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "125402",
+        "caseName": "정보통신망이용촉진및정보보호등에관한법률위반(음란물유포등)",
+        "caseNum": "2005노1051",
+        "sentenceDate": "2006.04.06",
+        "courtName": "서울서부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법원이 원심판결을 파기하고 무죄를 선고한 이유는 무엇인가요?",
+        "output": "법원은 문자메시지에 대한 증거가 인정되지 않아 유죄를 입증할 수 없다고 보아 원심 판결을 파기하고 무죄를 선고하였습니다.",
+        "originwordCnt": "1410",
+        "labelwordCnt": "16"
+    }
+}

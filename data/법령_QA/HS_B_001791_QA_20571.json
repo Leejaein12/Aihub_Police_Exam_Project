@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001791",
+        "promulgDate": "20230613",
+        "effectDate": "20231214",
+        "promulgNum": "19442",
+        "title": "결핵예방법",
+        "ministry": "질병관리청",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "결핵통합관리시스템의 목적은 무엇입니까?",
+        "output": "결핵예방법 제7조 제2항에 명시된 바와 같이, 질병관리청장은 제1항에 따른 결핵관리사업에 필요한 각종 자료 또는 정보의 처리ㆍ기록ㆍ관리 업무의 전자화를 위하여 전산정보시스템, 이하 결핵통합관리시스템을 구축ㆍ운영할 수 있습니다.",
+        "originwordCnt": "249",
+        "labelwordCnt": "25"
+    }
+}

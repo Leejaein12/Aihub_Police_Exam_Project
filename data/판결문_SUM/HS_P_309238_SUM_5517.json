@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "309238",
+        "caseName": "공용물건손상",
+        "caseNum": "2015고정188",
+        "sentenceDate": "2015. 5. 22.",
+        "courtName": "제주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피고인은 베트남참전위령탑에 임의로 전직 회장의 이름을 새겨 국가보훈처가 소유 및 관리하는 공용물의 효용을 해하였습니다. 법원은 이에 대해 형법 제141조 제1항을 적용하여, 피고인에게 벌금 100만 원을 선고하였고, 벌금을 납입하지 않을 경우 노역장에 유치될 것을 명하였습니다.",
+        "originwordCnt": "137",
+        "labelwordCnt": "34"
+    }
+}

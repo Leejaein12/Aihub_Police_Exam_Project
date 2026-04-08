@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001668",
+        "promulgDate": "20221227",
+        "effectDate": "20221227",
+        "promulgNum": "19105",
+        "title": "형의 집행 및 수용자의 처우에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제61조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법무부장관은 분류심사를 위한 시설을 둘 수 있습니까?",
+        "output": "형의 집행 및 수용자의 처우에 관한 법률 제61조에 따르면, 법무부장관은 수형자를 과학적으로 분류하기 위하여 분류심사를 전담하는 교정시설을 지정ㆍ운영할 수 있습니다.",
+        "originwordCnt": "12",
+        "labelwordCnt": "20"
+    }
+}

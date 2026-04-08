@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제133조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "증거에만 공할 목적으로 압수한 물건은 어떤 절차를 거쳐 가환부할 수 있나요?",
+        "output": "형사소송법 제133조제2항에 따르면 증거에만 공할 목적으로 압수한 물건으로서 그 소유자 또는 소지자가 계속 사용하여야 할 물건은 사진촬영 기타 원형보존의 조치를 취하고 신속히 가환부하여야 합니다.",
+        "originwordCnt": "49",
+        "labelwordCnt": "24"
+    }
+}

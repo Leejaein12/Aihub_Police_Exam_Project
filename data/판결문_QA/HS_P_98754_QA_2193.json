@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "98754",
+        "caseName": "강도상해ㆍ특수절도",
+        "caseNum": "83도2941",
+        "sentenceDate": "1984.01.31",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공동정범이 성립하려면 어떤 요건이 필요한가요?",
+        "output": "공동정범이 성립하려면 형법 제30조에 따라 범죄행위 시 행위자 상호 간에 주관적으로 서로 범죄행위를 공동으로 한다는 공동가공의 의사가 있어야 합니다. 이는 의사의 연락이 묵시적이거나 간접적이더라도 성립될 수 있습니다.",
+        "originwordCnt": "96",
+        "labelwordCnt": "27"
+    }
+}

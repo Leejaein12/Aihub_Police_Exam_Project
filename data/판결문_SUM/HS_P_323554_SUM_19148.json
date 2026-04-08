@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "323554",
+        "caseName": "공직선거법위반",
+        "caseNum": "2022고합283",
+        "sentenceDate": "2022.09.07",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공직선거법을 위반하여 선거현수막을 정당한 사유 없이 훼손한 혐의를 받은 피고인은 특정 후보자의 선거운동을 방해할 의도가 없었음을 주장하였으나, 선거인의 알 권리 및 선거의 공정성을 해치는 행위로 판단되었습니다. 피고인은 반성하는 모습을 보였고, 범행이 초범인 점과 개인적 사정을 고려하여 벌금 50만 원에 처해졌습니다.",
+        "originwordCnt": "318",
+        "labelwordCnt": "40"
+    }
+}

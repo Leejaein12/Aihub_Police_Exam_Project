@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009322",
+        "promulgDate": "20200211",
+        "effectDate": "20200211",
+        "promulgNum": "16990",
+        "title": "축산자조금의 조성 및 운용에 관한 법률",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "축산단체가 축산자조금을 설치할 때 무엇을 선택해야 하나요?",
+        "output": "축산자조금의 조성 및 운용에 관한 법률 제3조 제1항에 따르면, 축산단체가 자조금을 설치하려는 경우 축산물별로 의무축산자조금과 임의축산자조금 중 하나를 선택해야 합니다.",
+        "originwordCnt": "60",
+        "labelwordCnt": "20"
+    }
+}

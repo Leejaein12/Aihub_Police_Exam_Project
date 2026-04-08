@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155527",
+        "caseName": "명예훼손",
+        "caseNum": "70도704",
+        "sentenceDate": "1970.05.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피해자가 처벌을 원하지 않는다는 명백한 의사표시가 없는 경우에도 반의사불벌죄로 처벌할 수 있나요?",
+        "output": "피해자로부터 처벌을 원하지 않는다는 명백한 의사표시가 없는 경우, 해당 범죄를 반의사불벌죄로 처벌하더라도 위법하다고 할 수 없습니다. 이는 형법 제312조 제2항 및 형사소송법 제327조 제6호의 규정에 따른 것입니다.",
+        "originwordCnt": "42",
+        "labelwordCnt": "27"
+    }
+}

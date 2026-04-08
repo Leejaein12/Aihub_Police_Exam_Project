@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001722",
+        "promulgDate": "20240102",
+        "effectDate": "20240102",
+        "promulgNum": "19922",
+        "title": "정당법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제27조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시ㆍ도당은 입당원서 또는 탈당신고서를 전자매체에 보관할 수 있습니까??",
+        "output": "시ㆍ도당은 입당원서 또는 탈당신고서가 접수된 지 5년이 지난 경우에는 중앙선거관리위원회규칙으로 정하는 바에 따라 이를 전자매체 등으로 보관할 수 있습니다. 이는 정당법 제27조의2 제1항에 근거합니다.",
+        "originwordCnt": "47",
+        "labelwordCnt": "24"
+    }
+}

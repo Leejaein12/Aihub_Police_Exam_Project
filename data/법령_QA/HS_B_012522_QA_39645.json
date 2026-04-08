@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012522",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "공항시설법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제48조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "항행안전시설설치자는 어떤 검사를 받아야 하나요?",
+        "output": "공항시설법 제48조 제1항 규정에 따르면 항행안전시설설치자는 국토교통부장관이 항행안전시설의 성능을 분석할 수 있는 장비를 탑재한 항공기를 이용하여 실시하는 항행안전시설의 성능 등에 관한 검사인 비행검사를 받아야 합니다.",
+        "originwordCnt": "38",
+        "labelwordCnt": "25"
+    }
+}

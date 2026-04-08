@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014483",
+        "promulgDate": "20230914",
+        "effectDate": "20240126",
+        "promulgNum": "19725",
+        "title": "해상교통안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제88조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "수면에 떠있는 상태로 항행 중인 특정 선박이 추가로 표시해야 하는 등화는 무엇입니까?",
+        "output": "해상교통안전법 제88조제2항에 따르면 수면에 떠있는 상태로 항행 중인 해양수산부령으로 정하는 선박은 제88조제1항에 따른 등화에 덧붙여 사방을 비출 수 있는 황색의 섬광등 1개를 표시하여야 합니다.",
+        "originwordCnt": "194",
+        "labelwordCnt": "24"
+    }
+}

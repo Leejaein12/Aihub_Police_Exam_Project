@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "153138",
+        "caseName": "특수공무집행방해치상(인정된죄명:공무집행방해·상해)",
+        "caseNum": "2007노2836",
+        "sentenceDate": "2008.12.30",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 경찰관 5명에게 고의로 상해를 가한 사실이 인정되었나요?",
+        "output": "피고인은 원심법정에서 차량을 운전하다가 경찰관 5명을 넘어뜨려 다치게 한 사실을 자백하였으며, 경찰진술조서와 진단서 등의 증거를 종합하여 피고인이 경찰관들에게 상해를 가한 사실이 인정되었습니다.",
+        "originwordCnt": "1074",
+        "labelwordCnt": "22"
+    }
+}

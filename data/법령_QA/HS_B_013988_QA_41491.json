@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013988",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19333",
+        "title": "지방자치단체 보조금 관리에 관한 법률",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "지방자치단체의 장은 중요재산의 현황을 보고받은 경우 어떻게 해야 하나요?",
+        "output": "지방자치단체 보조금 관리에 관한 법률 제21조 제2항에 따르면, 중요재산의 현황을 보고받은 경우 대통령령으로 정하는 바에 따라 그 보고받은 현황을 공시하여야 합니다.",
+        "originwordCnt": "206",
+        "labelwordCnt": "21"
+    }
+}

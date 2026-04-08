@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000398",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19117",
+        "title": "사방사업법",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "산림공학기술자의 배치와 관련된 사항은 무엇에 의해 정해지나요?",
+        "output": "산림공학기술자의 배치 등에 필요한 사항은 농림축산식품부령으로 정해집니다. 이는 산림공학기술자의 배치와 관련된 구체적인 기준과 절차를 명확히 하기 위한 규정입니다. 이 내용은 '사방사업법' 제8조 제2항에서 규정하고 있습니다.",
+        "originwordCnt": "57",
+        "labelwordCnt": "25"
+    }
+}

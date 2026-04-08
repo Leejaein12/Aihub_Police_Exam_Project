@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "007125",
+        "promulgDate": "20220207",
+        "effectDate": "20220207",
+        "promulgNum": "01022",
+        "title": "마약류보상금 지급규칙",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "마약류보상금 지급규칙에 따르면, 몰수품 또는 압수물의 도매가격은 어떻게 산정합니까?",
+        "output": "마약류보상금 지급규칙 제16조에 명시된 바와 같이, 몰수품 또는 압수물의 도매가격은 압수당시의 가격을 기준으로 위원회가 정하는 바에 따라 산정합니다.",
+        "originwordCnt": "14",
+        "labelwordCnt": "18"
+    }
+}

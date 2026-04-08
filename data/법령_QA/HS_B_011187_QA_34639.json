@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011187",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19743",
+        "title": "성폭력범죄의 처벌 등에 관한 특례법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "친족관계인 사람이 준강간 죄를 범한 경우에는 어떻게 처벌받습니까?",
+        "output": "성폭력범죄의 처벌 등에 관한 특례법 제5조 제3항에 따르면, 친족관계인 사람이  준강간 죄를 범한 경우에는 형법 제299조의 제1항에 따라 7년 이상의 유기징역에 처합니다.",
+        "originwordCnt": "67",
+        "labelwordCnt": "23"
+    }
+}

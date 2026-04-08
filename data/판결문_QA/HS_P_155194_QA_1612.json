@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155194",
+        "caseName": "폭력행위등처벌에관한법률위반",
+        "caseNum": "71도430",
+        "sentenceDate": "1971.04.30",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "안전면도용 칼날도 그 용법에 따라서는 위험한 물건으로 볼 수 있나요?",
+        "output": "안전면도용 칼날도 그 사용 용법에 따라서는 폭력행위등 처벌에 관한 법률 제3조 제1항에 규정된 위험한 물건으로 볼 수 있습니다. 칼날이 사용되는 상황에 따라 위험한 물건으로 간주될 수 있습니다.",
+        "originwordCnt": "48",
+        "labelwordCnt": "27"
+    }
+}

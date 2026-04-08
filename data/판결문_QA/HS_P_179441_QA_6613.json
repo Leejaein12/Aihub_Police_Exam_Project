@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "179441",
+        "caseName": "공직선거법위반",
+        "caseNum": "2014노540",
+        "sentenceDate": "2015.02.06",
+        "courtName": "대전고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "항소가 기각된 이유는 무엇인가요?",
+        "output": "법원은 피고인의 항소를 기각하며 원심에서 선고된 판결이 적법하다고 판단하였습니다. 이는 원심 판결이 법률적 요건을 충족하고 판결 과정에서 절차적 위법이나 사실 오인이 없었다는 이유에 따른 것으로 주문에서 피고인의 항소를 기각하였습니다.",
+        "originwordCnt": "216",
+        "labelwordCnt": "29"
+    }
+}

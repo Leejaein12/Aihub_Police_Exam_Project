@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "203737",
+        "caseName": "부녀매매·부녀매매미수·직업안정법위반피고사건",
+        "caseNum": "75노80",
+        "sentenceDate": "1975.05.07",
+        "courtName": "광주고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "법질서에 보호를 호소할 능력이 있는 부녀의 경우, 부녀매매죄가 성립할 수 있는 경우는 어떤 경우인가요?",
+        "output": "법질서에 보호를 호소할 능력이 있는 부녀의 경우, 국외이송목적의 매매를 제외하고는 친권자 또는 그 보호감독자가 아닌 제3자에 의한 매매가 이루어지기 어렵다고 봄이 경험칙상 상당합니다.",
+        "originwordCnt": "1478",
+        "labelwordCnt": "23"
+    }
+}

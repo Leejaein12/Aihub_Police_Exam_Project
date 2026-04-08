@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312788",
+        "caseName": "부동산강제집행효용침해",
+        "caseNum": "2023도8425",
+        "sentenceDate": "2023.10.26",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심판결이 유죄로 판단한 공소사실에 대해 상고하였으나, 대법원은 원심의 판단을 유지하였습니다. 원심은 건조물침입죄의 성립과 관련하여 적법한 증거와 법리를 바탕으로 판단하였으며, 심리 과정에서 논리와 경험의 법칙을 위반한 바가 없다고 판단하였습니다. 이에 따라 상고는 모두 기각되었습니다.",
+        "originwordCnt": "133",
+        "labelwordCnt": "33"
+    }
+}

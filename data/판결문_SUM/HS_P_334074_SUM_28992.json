@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334074",
+        "caseName": "게임산업진흥에관한법률위반",
+        "caseNum": "2022고정693",
+        "sentenceDate": "2023.01.18",
+        "courtName": "부산지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "청소년게임제공업소를 운영하던 한 사람은 경품 기준을 위반하여 사행성을 조장하고, 등급분류 받은 내용과 다르게 게임기를 운영한 혐의로 재판을 받았습니다. 해당 게임기는 원래 집게로 경품을 집는 방식이었으나, 실제로는 열쇠를 획득해 별도의 보관함을 여는 방식으로 제공되었습니다. 이에 따라 벌금형을 처하였습니다.",
+        "originwordCnt": "324",
+        "labelwordCnt": "37"
+    }
+}

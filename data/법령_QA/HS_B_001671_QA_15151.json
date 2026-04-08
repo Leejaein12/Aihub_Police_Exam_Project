@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "형사소송법 상 관련사건의 정의는 무엇입니까?",
+        "output": "형사소송법 제11조에 따르면 관련사건은 다음과 같습니다.1. 1인이 범한 수죄2. 수인이 공동으로 범한 죄3. 수인이 동시에 동일장소에서 범한 죄4. 범인은닉죄, 증거인멸죄, 위증죄, 허위감정통역죄 또는 장물에 관한 죄와 그 본범의 죄",
+        "originwordCnt": "33",
+        "labelwordCnt": "33"
+    }
+}

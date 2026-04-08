@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "197831",
+        "caseName": "사기·상해",
+        "caseNum": "2016노7805",
+        "sentenceDate": "2017.04.10",
+        "courtName": "수원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인의 항소가 기각된 이유는 무엇인가요?",
+        "output": "피고인의 항소는 항소이유서 제출기간 내에 항소이유서를 제출하지 않았고, 항소장에도 이유가 기재되지 않았으며, 직권조사사유도 없다고 판단되어 기각되었습니다.",
+        "originwordCnt": "65",
+        "labelwordCnt": "16"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014091",
+        "promulgDate": "20210608",
+        "effectDate": "20211209",
+        "promulgNum": "18206",
+        "title": "재난안전통신망법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "행정안전부장관은 재난안전통신망을 어떻게 유지하고 발전시켜야 하나요?",
+        "output": "행정안전부장관은 무선통신기술의 발전과 재난안전통신과 관련된 국제 표준의 변화 등을 고려하여 재난안전통신망을 지속적으로 고도화하여야 합니다. 이는 재난안전통신망법 제7조 제2항에 따라 규정된 사항입니다.",
+        "originwordCnt": "64",
+        "labelwordCnt": "21"
+    }
+}

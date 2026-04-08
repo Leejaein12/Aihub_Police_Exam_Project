@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336181",
+        "caseName": "사기",
+        "caseNum": "2023노2804",
+        "sentenceDate": "2024.06.20",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "법원은 검사의 항소에 대해 기각 결정을 내렸습니다. 원심에서 피해자가 피고인들에게 속아 지급한 보험매집 수수료 투자금에 대한 판단이 중요하게 다루어졌습니다. 원심은 피고인들의 범죄사실에 대한 증명이 없다고 보아 무죄를 선고하였고, 법원은 원심이 사실을 오인한 것이라고 할 수 없음을 확인했습니다.",
+        "originwordCnt": "204",
+        "labelwordCnt": "37"
+    }
+}

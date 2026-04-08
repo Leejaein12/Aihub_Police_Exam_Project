@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "186713",
+        "caseName": "폭발물사용·폭발물사용방조",
+        "caseNum": "2011고합552",
+        "sentenceDate": "2011.08.26",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인 1의 형량과 관련된 판결 주문은 무엇인가요?",
+        "output": "주문에 따르면 피고인 1에게 징역 5년의 형을 선고하였습니다. 또한, 압수된 증거물 제1호부터 제21호까지를 피고인 1로부터 각 몰수한다는 결정을 내렸습니다.",
+        "originwordCnt": "2878",
+        "labelwordCnt": "19"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318183",
+        "caseName": "특수협박등",
+        "caseNum": "2024고단59",
+        "sentenceDate": "2024.03.22",
+        "courtName": "청주지방법원 충주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "전자장치 부착 명령과 음주 제한 준수사항을 위반하여 보호관찰 중 정당한 사유 없이 두 차례 음주를 하였습니다. 피고인은 동종 범죄로 여러 차례 형사처벌을 받은 전력이 있으며, 집행유예 기간 중에도 범행을 저질렀습니다. 법원은 피고인의 누범 기간 중 재범과 경고 후에도 과도한 음주를 한 점을 중하게 보아 징역 6개월을 선고하였습니다.",
+        "originwordCnt": "390",
+        "labelwordCnt": "47"
+    }
+}

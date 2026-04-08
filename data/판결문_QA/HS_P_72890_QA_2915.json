@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72890",
+        "caseName": "마약법위반피고사건",
+        "caseNum": "71노690",
+        "sentenceDate": "1971.12.01",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "교장이 교육용으로 꽃양귀비를 심은 행위가 범죄로 인정되지 않은 이유는 무엇인가요?",
+        "output": "국민학교 교장이 6학년 자연교과서의 교육 내용을 위해 경남교육위원회의 지시에 따라 교재식물로 꽃양귀비를 교무실 앞 화단에 심은 행위는 사회상규에 위배되지 않는 업무행위로서 형법 제20조에 따라 범죄가 되지 않습니다.",
+        "originwordCnt": "45",
+        "labelwordCnt": "27"
+    }
+}

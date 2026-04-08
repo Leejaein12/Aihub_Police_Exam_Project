@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001723",
+        "promulgDate": "20160529",
+        "effectDate": "20161130",
+        "promulgNum": "14184",
+        "title": "국민투표법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제54조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국민투표에서 투표용지에는 어떤 절차에 따라 청인이 날인되어야 합니까?",
+        "output": "국민투표법 제54조 제4항에 따르면, 투표용지에는 중앙선거관리위원회규칙이 정하는 바에 의하여 관할구ㆍ시ㆍ군선거관리위원회의 청인을 날인하여야 합니다.",
+        "originwordCnt": "78",
+        "labelwordCnt": "13"
+    }
+}

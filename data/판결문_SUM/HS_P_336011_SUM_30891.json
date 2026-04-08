@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336011",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단2682",
+        "sentenceDate": "2024.02.01",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.049%의 술에 취한 상태로 약 1km를 운전한 사실이 인정되었습니다. 피고인이 과거 유사 범행으로 처벌받은 전력이 있으나, 장기간 음주운전 없이 생활해 온 점이 참작되었습니다. 피고인의 반성 태도 및 음주운전 거리 등을 고려해 법원은 피고인에게 벌금 4,000,000원을 선고하였습니다.",
+        "originwordCnt": "243",
+        "labelwordCnt": "37"
+    }
+}

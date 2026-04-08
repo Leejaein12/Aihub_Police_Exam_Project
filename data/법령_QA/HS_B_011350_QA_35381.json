@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011350",
+        "promulgDate": "20230725",
+        "effectDate": "20240126",
+        "promulgNum": "19573",
+        "title": "낚시 관리 및 육성법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제44조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "우수낚시터에 대해 어떤 지원이 이루어질 수 있나요?",
+        "output": "낚시 관리 및 육성법 제44조 제5항에 따르면 제1항에 따라 지정된 우수낚시터에 대하여는 해양수산부장관이 정하는 기준에 따라 예산의 범위에서 낚시터의 시설ㆍ운영 또는 환경의 개선 등에 필요한 비용을 지원할 수 있습니다.",
+        "originwordCnt": "103",
+        "labelwordCnt": "29"
+    }
+}

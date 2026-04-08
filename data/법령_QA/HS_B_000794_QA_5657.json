@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000794",
+        "promulgDate": "20230406",
+        "effectDate": "20230406",
+        "promulgNum": "19326",
+        "title": "방송법",
+        "ministry": "과학기술정보통신부,방송통신위원회",
+        "fullText": "N",
+        "smClass": "제51조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사장은 공사의 업무에 관한 대리인을 어떻게 선임할 수 있습니까?",
+        "output": "방송법 제51조 제3항에 따르면, 사장은 정관으로 정하는 바에 따라 직원 중에서 공사의 업무에 관한 모든 재판상 또는 재판외의 행위를 할 수 있는 권한을 가진 대리인을 선임할 수 있습니다.",
+        "originwordCnt": "83",
+        "labelwordCnt": "28"
+    }
+}

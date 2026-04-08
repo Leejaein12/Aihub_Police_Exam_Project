@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제189조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검사만 상소를 했는데 상소가 기각된 때 소송비용을 피고인에게 부담하게 할 수 있나요?",
+        "output": "형사소송범 제189조에 따르면 검사만이 상소 또는 재심청구를 한 경우에 상소 또는 재심의 청구가 기각되거나 취하된 때에는 그 소송비용을 피고인에게 부담하게 하지 못합니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001692",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19582",
+        "title": "형법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제136조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공무원의 직무 행위를 강요하거나 그 직을 사퇴하게 할 목적으로 폭행 또는 협박을 가한 경우의 처벌은 무엇인가요?",
+        "output": "형법 제136조 제2항에 의하면, 공무원에 대하여 그 직무상의 행위를 강요 또는 조지하거나 그 직을 사퇴하게 할 목적으로 폭행 또는 협박한 자는 5년 이하의 징역 또는 1천만원 이하의 벌금에 처합니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "29"
+    }
+}

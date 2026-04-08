@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011633",
+        "promulgDate": "20191210",
+        "effectDate": "20200611",
+        "promulgNum": "16785",
+        "title": "식물신품종 보호법",
+        "ministry": "농림축산식품부,해양수산부",
+        "fullText": "N",
+        "smClass": "제44조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "품종보호 출원의 심사 절차는 언제 중지될 수 있나요?",
+        "output": "식물신품종 보호법 제44조 제1항에 따르면, 품종보호 출원의 심사에서 필요하면 심결이 확정되거나 소송절차가 완결될 때까지 그 품종보호 출원의 심사절차를 중지할 수 있습니다.",
+        "originwordCnt": "33",
+        "labelwordCnt": "21"
+    }
+}

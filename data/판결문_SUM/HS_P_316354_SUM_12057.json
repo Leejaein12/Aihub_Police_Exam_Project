@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "316354",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고정193",
+        "sentenceDate": "2023.07.24",
+        "courtName": "전주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주 상태에서 약 500m 구간을 운전한 사건으로, 혈중알코올농도가 0.047%였다는 점에서 사건의 중대성이 인정되었습니다. 다만, 잘못을 인정하고 있으며, 이전에 범죄 전력이 없다는 점이 양형에 고려되었습니다. 사건의 경위와 나이, 직업, 가족관계 등을 종합적으로 살펴본 결과, 벌금형이 선고되었습니다.",
+        "originwordCnt": "186",
+        "labelwordCnt": "35"
+    }
+}

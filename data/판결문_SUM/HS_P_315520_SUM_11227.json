@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315520",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023노2208",
+        "sentenceDate": "2023.09.21",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주운전으로 기소되어 1심에서 징역 1년 6월을 선고받은 피고인은 양형이 부당하다고 주장하며 항소했습니다. 그러나 항소심 법원은 피고인의 동종 전과, 범행 시점, 이종범죄로 인한 집행유예 기간 중의 범행이라는 점을 고려하였으며, 피고인의 반성과 범행 후 정황도 충분히 반영되었다고 판단했습니다. 이에 따라 항소를 기각하였습니다.",
+        "originwordCnt": "199",
+        "labelwordCnt": "40"
+    }
+}

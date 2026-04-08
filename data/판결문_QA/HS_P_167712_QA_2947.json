@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "167712",
+        "caseName": "사기미수·위증",
+        "caseNum": "2010고단714",
+        "sentenceDate": "2011.10.14",
+        "courtName": "서울북부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인들이 허위의 하도급 공사대금 채권을 만들어 유치권을 주장한 행위는 어떤 범죄로 인정되었나요?",
+        "output": "피고인들이 허위의 하도급 공사대금 채권을 만들어 유치권을 주장한 행위는 형법 제347조 제1항, 제352조, 제30조에 따라 사기미수로 인정되었습니다.",
+        "originwordCnt": "3444",
+        "labelwordCnt": "17"
+    }
+}

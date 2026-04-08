@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "74391",
+        "caseName": "살인·명예훼손·사자명예훼손·피고사건",
+        "caseNum": "77노713",
+        "sentenceDate": "1977.07.26",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "경찰서 형사실에서 범죄혐의 조사를 받던 중 발언한 내용에 공연성이 인정될 수 있나요?",
+        "output": "형법 제307조와 제308조에 따르면, 피고인이 경찰서 형사실에서 범죄혐의 조사를 받던 중에 발언한 내용은 특정 형사들과 참고인 등 소수의 특정인만 들었을 경우, 그 발언은 공연성이 없다고 할 수 있습니다.",
+        "originwordCnt": "51",
+        "labelwordCnt": "28"
+    }
+}

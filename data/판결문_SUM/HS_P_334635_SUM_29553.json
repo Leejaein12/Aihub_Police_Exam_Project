@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334635",
+        "caseName": "사기등",
+        "caseNum": "2023노2781",
+        "sentenceDate": "2023.12.15",
+        "courtName": "의정부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사기죄와 도로교통법위반(음주운전) 혐의로 1심에서 징역 10개월을 선고받고, 형이 무겁다며 항소하였으나 항소심은 이를 기각하였습니다. 피고인은 과거 사기죄로 8회, 음주운전으로 2회 처벌받은 전력이 있으며, 이번 범행도 누범기간 중 저지른 것으로, 양형조건에 변화가 없고 원심의 형량이 합리적인 범위를 벗어나지 않았다고 판단되었습니다.",
+        "originwordCnt": "248",
+        "labelwordCnt": "38"
+    }
+}

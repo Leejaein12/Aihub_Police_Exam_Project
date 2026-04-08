@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014090",
+        "promulgDate": "20210608",
+        "effectDate": "20220609",
+        "promulgNum": "18204",
+        "title": "소방의 화재조사에 관한 법률",
+        "ministry": "소방청",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소방관서장은 어떤 경우에 화재증명원을 발급해야 하나요?",
+        "output": "소방의 화재조사에 관한 법률 제16조에 따르면 소방관서장은 화재와 관련된 이해관계인 또는 화재발생 내용 입증이 필요한 사람이 화재증명원 발급을 신청하는 때에는 화재증명원을 발급하여야 합니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "23"
+    }
+}

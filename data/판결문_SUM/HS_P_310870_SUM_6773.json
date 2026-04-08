@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310870",
+        "caseName": "절도",
+        "caseNum": "2023고단9997",
+        "sentenceDate": "2024.07.18",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "우즈베키스탄 타슈켄트공항에서 B 항공기에 탑승하여, 기내에서 피해자 E의 가방을 절취하였습니다. 피고인은 피해자의 가방을 열어 미화 30,000달러를 훔친 후 항공기 뒤편으로 이동하였습니다. 법원은 피고인이 범행을 인정하고 피해품이 모두 회수된 점, 한국에서의 범죄 전력이 없는 점 등을 고려하여 징역 1년, 집행유예 2년을 선고하였습니다.",
+        "originwordCnt": "161",
+        "labelwordCnt": "41"
+    }
+}

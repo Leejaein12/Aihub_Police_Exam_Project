@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010436",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19888",
+        "title": "노인장기요양보험법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제31조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "장기요양기관으로 지정을 받을 수 있는 시설은 어떤 기준에 따라 정해지나요?",
+        "output": "노인복지법 제31조 제2항에 따르면, 장기요양기관으로 지정을 받을 수 있는 시설은 노인복지법 제31조에 따른 노인복지시설 중 대통령령으로 정하는 시설로 합니다.",
+        "originwordCnt": "196",
+        "labelwordCnt": "19"
+    }
+}

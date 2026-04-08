@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009632",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19589",
+        "title": "복권 및 복권기금법",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제33조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "복권위원회의 위원 중 공무원이 아닌 사람도 「형법」에 따른 공무원으로 간주되나요?",
+        "output": "복권 및 복권기금법 제33조의4에 따르면, 복권위원회의 위원 중 공무원이 아닌 사람도 「형법」 제129조부터 제132조까지의 규정을 적용할 때에는 공무원으로 간주됩니다.",
+        "originwordCnt": "18",
+        "labelwordCnt": "19"
+    }
+}

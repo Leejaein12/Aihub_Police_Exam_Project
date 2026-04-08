@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155032",
+        "caseName": "사문서위조",
+        "caseNum": "71도827",
+        "sentenceDate": "1971.06.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "사회상규에 위배되지 아니하는 행위는 어떤 기준에 의해 판단되나요?",
+        "output": "사회상규에 위배되지 아니하는 행위는 초법규적인 법익형량의 원칙, 목적과 수단의 정당성에 관한 원칙, 또는 사회적 상당성의 원리에 의해 도출된 개념입니다. 이러한 기준은 형법 제20조에 따라 사회적으로 허용될 수 있는지에 따라 판단됩니다.",
+        "originwordCnt": "40",
+        "labelwordCnt": "30"
+    }
+}

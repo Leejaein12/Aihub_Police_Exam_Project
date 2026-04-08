@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "176059",
+        "caseName": "병역법위반",
+        "caseNum": "2013노3573",
+        "sentenceDate": "2014.04.18",
+        "courtName": "인천지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 무단결근을 하게 된 이유는 무엇인가요?",
+        "output": "피고인은 우울증과 공황장애 등으로 인해 무단결근을 하였으며, 이로 인해 병역법 제89조의2 제1호에 따른 복무 이탈의 책임을 묻는 판결을 받았습니다. 피고인의 무단결근에는 정당한 사유가 없다고 판단되어 무죄 주장은 인정되지 않았습니다.",
+        "originwordCnt": "833",
+        "labelwordCnt": "29"
+    }
+}

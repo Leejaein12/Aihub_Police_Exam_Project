@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제170조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에서 투표관리관은 투표가 끝난 후 무엇을 해야 하나요?",
+        "output": "공직선거법 제170조 제1항에 따르면, 투표관리관은 투표가 끝난 후 지체없이 투표함 및 그 열쇠와 투표록 및 잔여투표용지를 관할 구시군선거관리위원회에 송부하여야 합니다.",
+        "originwordCnt": "42",
+        "labelwordCnt": "20"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012140",
+        "promulgDate": "20240125",
+        "effectDate": "20240131",
+        "promulgNum": "03126",
+        "title": "아동보호심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제29조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "피해아동의 수탁기관은 어떤 조건을 충족해야 하나요?",
+        "output": "아동보호심판규칙 제29조 제2항에 따르면 동조 제1항의 규정에 의한 수탁기관은 행위자에 대한 상담과 교육, 치료와 환경의 조정 및 성행의 교정에 적당한 곳이어야 하고 이를 지정함에 있어서는 미리 그 시설의 운영자와 협의하여야 합니다.",
+        "originwordCnt": "82",
+        "labelwordCnt": "31"
+    }
+}

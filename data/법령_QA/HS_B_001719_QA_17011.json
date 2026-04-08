@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001719",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "국가공무원법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제39조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "임용권자나 임용제청권자는 추천받은 채용후보자를 임용한 후 어떤 조치를 해야 하나요?",
+        "output": "국가공무원법 제39조 제2항에 따르면 각 임용권자나 임용제청권자는 제1항에 따라 추천받은 채용후보자를 임용한 때에는 그 결과를 시험 실시기관의 장에게 지체 없이 알려야 합니다.",
+        "originwordCnt": "171",
+        "labelwordCnt": "22"
+    }
+}

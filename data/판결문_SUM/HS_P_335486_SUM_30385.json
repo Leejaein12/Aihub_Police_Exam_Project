@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335486",
+        "caseName": "사기",
+        "caseNum": "2023고단1851",
+        "sentenceDate": "2023.12.21",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "동거할 것처럼 속이고, 거짓 이유로 돈을 요구하여 피해자로부터 총 375회에 걸쳐 금전을 편취하였습니다. 법원은 피고인의 범행을 포괄일죄로 보고 징역 8개월을 선고하고, 피해자에게 해당 금액을 배상하도록 명령하였습니다. 피고인이 범행을 인정하고 반성하고 있으나, 피해가 회복되지 않았고 동종 범죄 전력이 있어 실형이 불가피하다고 판단하였습니다.",
+        "originwordCnt": "364",
+        "labelwordCnt": "41"
+    }
+}

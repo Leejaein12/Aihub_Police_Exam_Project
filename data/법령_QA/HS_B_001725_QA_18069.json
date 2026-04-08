@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제171조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에 따르면, 투표가 끝난 후 투표관리관은 무엇을 해야 하나요?",
+        "output": "공직선거법 제171조에 따르면, 투표관리관은 투표가 끝난 후 선거인명부와 기타 선거에 관한 모든 서류를 관할 구ㆍ시ㆍ군선거관리위원회 위원장에게 인계하여야 합니다.",
+        "originwordCnt": "17",
+        "labelwordCnt": "18"
+    }
+}

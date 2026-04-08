@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312130",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단510",
+        "sentenceDate": "2023.10.19",
+        "courtName": "춘천지방법원 강릉지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주 상태에서 40km에 걸쳐 차량을 운전하여 도로교통법을 위반하였습니다. 혈중알코올농도가 매우 높았으며, 피고인은 콘크리트 벽에 충돌하는 사고를 낸 후에 운전을 멈추었습니다. 다만 피고인이 범행을 반성하고 재범방지를 다짐하고 있으며, 주변인의 선처 탄원이 있어 이를 참작하여 징역 1년의 형이 선고되었습니다.",
+        "originwordCnt": "235",
+        "labelwordCnt": "37"
+    }
+}

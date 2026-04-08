@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001624",
+        "promulgDate": "20210924",
+        "effectDate": "20220701",
+        "promulgNum": "18465",
+        "title": "군형법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제1조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군인이 전역하거나 소집해제된 후에도 군형법이 적용되나요?",
+        "output": "군형법 제1조 제5항에 따르면 제1조 제1항부터 제3항까지에 규정된 사람이 군복무 중이나 재학 또는 재영 중에 이 법에서 정한 죄를 범한 경우에는 전역ㆍ소집해제ㆍ퇴직 또는 퇴교나 퇴영 후에도 이 법을 적용합니다.",
+        "originwordCnt": "167",
+        "labelwordCnt": "29"
+    }
+}

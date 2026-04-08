@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "97711",
+        "caseName": "보건범죄단속에관한법률위반·식품위생법위반",
+        "caseNum": "83도200",
+        "sentenceDate": "1983.05.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "튀김용 기름을 제조할 범의 없는 자를 이용하여 무허가로 튀김용 기름을 제조한 행위는 어떤 죄에 해당하나요?",
+        "output": "튀김용 기름을 제조할 범의 없는 자를 이용하여 무허가로 튀김용 기름을 제조한 행위는 보건범죄단속에 관한 특별조치법 제2조 제1항 및 식품위생법 제23조 제1항 위반죄의 간접정범에 해당합니다.",
+        "originwordCnt": "178",
+        "labelwordCnt": "24"
+    }
+}

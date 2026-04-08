@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001722",
+        "promulgDate": "20240102",
+        "effectDate": "20240102",
+        "promulgNum": "19922",
+        "title": "정당법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제42조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "본인의 자유의사에 반하여 정당가입 또는 탈당을 강요당할 수 있나요?",
+        "output": "누구든지 본인의 자유의사에 의한 승낙 없이 정당가입 또는 탈당을 강요당하지 아니합니다. 이는 정당법 제42조 제1항에 명시되어 있습니다. 다만, 당원의 제명처분에 대해서는 예외로 인정됩니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "23"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "171370",
+        "caseName": "사기·횡령",
+        "caseNum": "2007고단815",
+        "sentenceDate": "2009.12.17",
+        "courtName": "수원지방법원여주지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공사 계약을 체결할 권한이 없음에도 돈을 요구한 행위가 왜 사기로 판단되었나요?",
+        "output": "공사 계약 체결 권한이 없음에도 불구하고 공사를 이유로 돈을 요구한 것은 기망 행위로, 법원은 이를 사기로 판단하였습니다. 따라서 이에 대해 사기죄로 징역형이 선고되었습니다.",
+        "originwordCnt": "287",
+        "labelwordCnt": "23"
+    }
+}

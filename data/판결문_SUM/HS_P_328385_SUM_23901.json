@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328385",
+        "caseName": "업무방해등",
+        "caseNum": "2024고단64",
+        "sentenceDate": "2024.04.12.",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술에 취한 상태에서 주점 영업을 방해하고, 출동한 경찰관의 정당한 직무집행을 방해하였습니다. 그러나 주점 주인이 처벌을 원하지 않는 점, 피해 경찰관을 위하여 공탁한 점 등을 고려하여 형법 제314조 제1항 및 형법 제136조 제1항에 의거하여 벌금 500만 원이 선고되었습니다.",
+        "originwordCnt": "254",
+        "labelwordCnt": "37"
+    }
+}

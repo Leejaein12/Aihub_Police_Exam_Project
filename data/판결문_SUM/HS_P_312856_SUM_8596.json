@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312856",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고단126",
+        "sentenceDate": "2024.05.24",
+        "courtName": "대전지방법원 서산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주운전으로 벌금형을 받은 후 다시 음주 상태로 차량을 운전하였고, 당시 혈중알코올농도는 0.138%로 측정되었습니다. 법원은 도로교통법 제148조의2 제1항 제3호 등을 적용하여 피고인에게 징역 8개월을 선고하였으나, 2년간 집행을 유예하고 40시간의 준법운전강의 수강을 명령하였습니다.",
+        "originwordCnt": "250",
+        "labelwordCnt": "31"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "160347",
+        "caseName": "수산 자원 관리법 위반·폭행 치상",
+        "caseNum": "2011노591",
+        "sentenceDate": "2011.04.20",
+        "courtName": "부산지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 폭행치상죄로 유죄 판결을 받은 이유는 무엇인가요?",
+        "output": "피고인이 폭행치상죄로 유죄 판결을 받은 이유는 피고인이 피해자들에게 신체적 상해를 입힌 사실이 증거에 의해 인정되었기 때문입니다. 이에 따라, 형법 제262조, 제257조 제1항을 적용하여 유죄로 판단하였습니다.",
+        "originwordCnt": "1423",
+        "labelwordCnt": "25"
+    }
+}

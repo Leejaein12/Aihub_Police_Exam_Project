@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011168",
+        "promulgDate": "20220610",
+        "effectDate": "20220610",
+        "promulgNum": "18913",
+        "title": "석면피해구제법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "특별유족조위금 및 특별장례비의 지급 신청은 언제까지 가능한가요?",
+        "output": "특별유족조위금 및 특별장례비의 지급 신청은 해당 법 시행일 또는 사망한 날부터 각각 15년이 지나면 할 수 없습니다. 이는 「석면피해구제법」 제12조 제4항에 명시되어 있습니다.",
+        "originwordCnt": "141",
+        "labelwordCnt": "23"
+    }
+}

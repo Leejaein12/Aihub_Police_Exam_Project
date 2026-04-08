@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001742",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19134",
+        "title": "선박안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제15조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "선박 소유자는 선박검사 후 선박시설의 작동 상태를 어떻게 유지해야 합니까?",
+        "output": "선박안전법 제15조 제2항에 따르면 선박소유자는 건조검사 또는 선박검사를 받은 후 해당 선박이 감항성을 유지할 수 있도록 선박시설이 정상적으로 작동ㆍ운영되는 상태를 유지하여야 합니다.",
+        "originwordCnt": "80",
+        "labelwordCnt": "22"
+    }
+}

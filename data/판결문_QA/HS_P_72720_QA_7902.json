@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72720",
+        "caseName": "사문서위조동행사및횡령등피고사건",
+        "caseNum": "70노243",
+        "sentenceDate": "1970.07.23",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "사자의 명의로 문서를 작성한 경우에도 문서위조죄가 성립하나요?",
+        "output": "사자의 명의로 문서를 작성했더라도 그 문서에 기재된 작성일자가 사자의 생존 중의 일자로 되어 있지 않다면 문서위조죄는 성립하지 않습니다. 이는 형법 제231조에서 규정된 문서위조죄 성립 요건에 따라 판단됩니다.",
+        "originwordCnt": "83",
+        "labelwordCnt": "27"
+    }
+}

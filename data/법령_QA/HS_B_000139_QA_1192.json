@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000139",
+        "promulgDate": "20210518",
+        "effectDate": "20220519",
+        "promulgNum": "18179",
+        "title": "노동위원회법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제20조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "노동위원회의 회의에서 질서를 문란하게 하는 사람에 대해 어떤 조치를 할 수 있나요?",
+        "output": "노동위원회법 제20조에 따르면, 위원장 또는 부문별 위원회의 위원장은 소관 회의의 공정한 진행을 방해하거나 질서를 문란하게 하는 사람에 대하여 퇴장명령, 그 밖에 질서유지에 필요한 조치를 할 수 있습니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "27"
+    }
+}

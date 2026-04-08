@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001622",
+        "promulgDate": "20240206",
+        "effectDate": "20240507",
+        "promulgNum": "20191",
+        "title": "병역법",
+        "ministry": "국방부,병무청",
+        "fullText": "N",
+        "smClass": "제65조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국외 이주 후 귀국 시 병역의무는 어떻게 되나요?",
+        "output": "병역법 제65조 제6항에 따르면 제2항에 따라 가족과 같이 국외이주하는 사유로 보충역에 편입되거나 사회복무요원 소집이 해제된 사람이 국내에서 영주할 목적으로 귀국하는 경우에는 그 처분을 취소하고 병역의무를 부과할 수 있습니다.",
+        "originwordCnt": "478",
+        "labelwordCnt": "28"
+    }
+}

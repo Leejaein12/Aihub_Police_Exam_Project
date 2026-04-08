@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "308933",
+        "caseName": "업무상배임",
+        "caseNum": "2014노86",
+        "sentenceDate": "2014. 5. 22.",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "회사의 해외고객 바이어명단 및 제품 수출단가 등의 정보를 퇴사 후 개인의 영업에 활용할 의도가 없었다고 주장하였습니다. 법원은 반출한 자료가 영업상 주요 자산에 해당하지 않는다고 판단하였습니다. 이로 인해 업무상 배임죄가 성립하지 않으며, 회사에 손해가 발생했다고 볼 수 없다는 결론에 이르렀습니다. 따라서 원심판결을 파기하고 무죄를 선고하였습니다.",
+        "originwordCnt": "944",
+        "labelwordCnt": "44"
+    }
+}

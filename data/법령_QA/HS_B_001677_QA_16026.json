@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001677",
+        "promulgDate": "20160106",
+        "effectDate": "20170707",
+        "promulgNum": "13722",
+        "title": "국가보안법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제24조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가보안법에 따른 상금과 보로금 지급 및 보상대상자 결정을 위해 어떤 기구가 설치되나요?",
+        "output": "국가보안법 제24조 제1항에 따르면, 국가보안법에 의한 상금과 보로금의 지급 및 제23조에 의한 보상대상자를 심의·결정하기 위해 법무부장관 소속 하에 국가보안유공자 심사위원회를 둡니다.",
+        "originwordCnt": "50",
+        "labelwordCnt": "21"
+    }
+}

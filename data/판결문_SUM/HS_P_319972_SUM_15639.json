@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319972",
+        "caseName": "상해등",
+        "caseNum": "2024고정264",
+        "sentenceDate": "2024.06.13",
+        "courtName": "수원지방법원 안산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술집에서 시비가 붙어 멱살을 잡고 머리채를 당긴 후 발로 얼굴을 걷어차 상해를 입혔습니다. 이어 이를 말리던 다른 사람에게도 뒷머리를 잡아당기고 팔로 목을 감싸는 방식으로 폭행하였습니다. 법원은 이러한 행위가 형법 제257조 제1항 및 제260조 제1항에 해당한다고 판단하여 벌금형을 선택하고, 경합범 가중을 적용하였습니다.",
+        "originwordCnt": "201",
+        "labelwordCnt": "41"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001718",
+        "promulgDate": "20231226",
+        "effectDate": "20240627",
+        "promulgNum": "19854",
+        "title": "공직자윤리법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제8조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직자윤리위원회가 조치를 하였을 때는 누구에게 통보해야 하나요?",
+        "output": "공직자윤리위원회는 공직자윤리법 제8조의2 제2항에 따른 조치를 하였을 때에는 등록기관의 장이나 그 밖의 관계 기관의 장에게 통보하여야 합니다. 공직자윤리법 제8조의2 제5항에 명시하고 있습니다.",
+        "originwordCnt": "221",
+        "labelwordCnt": "22"
+    }
+}

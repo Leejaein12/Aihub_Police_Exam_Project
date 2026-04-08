@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "003047",
+        "promulgDate": "20220630",
+        "effectDate": "20220701",
+        "promulgNum": "32737",
+        "title": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 시행령",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제106조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군교도관이 보호장비를 사용할 때 누구에게 그 사유를 알려주어야 하나요?",
+        "output": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 시행령 제106조 제2항에 의하면, 군교도관이 보호장비를 사용할 때에는 군수용자에게 그 사유를 알려주어야 합니다.",
+        "originwordCnt": "91",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310114",
+        "caseName": "사기",
+        "caseNum": "2024고단308",
+        "sentenceDate": "2024.06.13",
+        "courtName": "광주지방법원 순천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "재산이나 수입이 없는 상태에서 C와 E로부터 간판 설치 및 홍보물 제작을 의뢰받았고, 대금을 지급할 의사나 능력이 없음에도 피해자에게 이를 약속하여 1,121만 원 상당의 용역을 제공받아 재산상 이익을 취득하였습니다. 이에 피고인은 사기죄로 징역 6개월을 선고받았으나, 2년간 형의 집행이 유예되었습니다.",
+        "originwordCnt": "286",
+        "labelwordCnt": "38"
+    }
+}

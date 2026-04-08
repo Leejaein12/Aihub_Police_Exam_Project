@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "98251",
+        "caseName": "위헌제청",
+        "caseNum": "83초33",
+        "sentenceDate": "1983.09.30",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "이미 상고기각으로 확정된 사건에 대해 위헌심판 제청신청을 할 수 있나요?",
+        "output": "헌법위원회법 제12조에 따르면, 상고기각으로 확정된 사건은 법원에 계속된 사건이 아니므로, 이에 대해 위헌심판 제청신청을 할 수 없습니다.",
+        "originwordCnt": "248",
+        "labelwordCnt": "17"
+    }
+}

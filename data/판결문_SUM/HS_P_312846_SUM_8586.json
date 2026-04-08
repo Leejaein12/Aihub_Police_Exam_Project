@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312846",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단607",
+        "sentenceDate": "2023.10.17",
+        "courtName": "대전지방법원 서산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주운전으로 벌금형을 받은 전력이 있음에도 불구하고, 다시 음주 상태에서 운전한 혐의로 기소되었습니다. 피고인이 범행을 인정하고 반성하고 있는 점, 부양해야 할 가족이 있는 점, 그리고 이전에 벌금형 외 다른 전과가 없으며 인적 피해가 발생하지 않았다는 점을 참작하여 벌금 1,500만 원을 선고하였습니다.",
+        "originwordCnt": "332",
+        "labelwordCnt": "40"
+    }
+}

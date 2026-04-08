@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "303499",
+        "caseName": "업무방해",
+        "caseNum": "2020고단1257",
+        "sentenceDate": "2020. 6. 4.",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "카카오톡을 통해 신천지 관련 허위사실을 전파하였고, 다른 피고인은 이를 가족 단체채팅방에 재전송하였습니다. 당시 코로나19 확진자가 급증하는 상황에서, 확진자가 다녀갔다는 소문은 영업에 심각한 영향을 미칠 수 있었습니다. 피고인들은 반성하고 피해자와 합의하였으나, 허위사실 유포의 중대성을 고려하여 벌금 300만 원을 선고받았습니다.",
+        "originwordCnt": "374",
+        "labelwordCnt": "38"
+    }
+}

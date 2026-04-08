@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010384",
+        "promulgDate": "20201222",
+        "effectDate": "20210623",
+        "promulgNum": "17695",
+        "title": "어린이놀이시설 안전관리법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제17조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "어린이놀이시설 안전관리법 규정상, 시설개선의 명령을 받은 관리주체는 어떤 조치를 취해야 합니까?",
+        "output": "어린이놀이시설 안전관리법 제17조의2 제3항에 따르면, 제2항에 따라 시설개선의 명령을 받은 관리주체는 수리ㆍ보수 등 필요한 조치를 하여야 합니다.",
+        "originwordCnt": "112",
+        "labelwordCnt": "17"
+    }
+}

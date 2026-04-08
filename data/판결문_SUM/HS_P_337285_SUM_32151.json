@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337285",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단1831",
+        "sentenceDate": "2023.12.07",
+        "courtName": "인천지방법원 부천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "도로교통법 제148조의2 제1항 제3호 및 제44조 제1항에 의거하여 혈중 알코올농도 0.120% 상태로 약 5km 구간을 음주 운전하였고, 이는 과거 음주운전 전력이 있음에도 반복된 행위로, 법원은 이러한 점을 고려하여 징역 1년에 처하되 2년간의 집행유예와 40시간의 준법운전강의 수강을 명하였습니다.",
+        "originwordCnt": "238",
+        "labelwordCnt": "37"
+    }
+}

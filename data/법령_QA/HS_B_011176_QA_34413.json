@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011176",
+        "promulgDate": "20181016",
+        "effectDate": "20181016",
+        "promulgNum": "15790",
+        "title": "6ㆍ25전쟁 납북피해 진상규명 및 납북피해자 명예회복에 관한 법률",
+        "ministry": "통일부",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "납북피해 진상규명을 위한 위원회의 사무는 어디에서 처리하나요?",
+        "output": "6ㆍ25전쟁 납북피해 진상규명 및 납북피해자 명예회복에 관한 법률 제6조 제1항에 따르면, 위원회의 사무를 처리하기 위해 위원회에 사무국을 둡니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "18"
+    }
+}

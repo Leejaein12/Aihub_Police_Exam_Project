@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001514",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19746",
+        "title": "농약관리법",
+        "ministry": "농림축산식품부,농촌진흥청",
+        "fullText": "N",
+        "smClass": "제23조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "농약 사용과 관련된 교육과 기준에 대한 구체적인 사항은 어떻게 정해지나요?",
+        "output": "농약관리법 제23조 제8항에 따르면 제1항의 안전사용기준과 취급제한기준, 제2항 및 제3항의 교육의 실시에 필요한 사항은 대통령령으로 정한다고 명시되어 있습니다.",
+        "originwordCnt": "217",
+        "labelwordCnt": "18"
+    }
+}

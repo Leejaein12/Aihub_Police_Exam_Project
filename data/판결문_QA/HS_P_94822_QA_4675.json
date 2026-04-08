@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "94822",
+        "caseName": "특정범죄가중처벌등에관한법률위반·방위세법위반·뇌물공여",
+        "caseNum": "79도2663",
+        "sentenceDate": "1980.01.29",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "미수를 기수에 준해 처벌하거나 방조범을 정범에 준해 처벌하는 것이 평등의 원칙에 위배되지 않나요?",
+        "output": "미수를 기수에 준해 처벌하거나 방조범을 정범에 준해 처벌하는 것은 해당 범죄에 대한 형사정책적 필요에 따른 합리적 입법적 고려로, 헌법 제9조에 규정된 평등의 원칙에 위배된다고 할 수 없습니다.",
+        "originwordCnt": "51",
+        "labelwordCnt": "27"
+    }
+}

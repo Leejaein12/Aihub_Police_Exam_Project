@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001371",
+        "promulgDate": "20201215",
+        "effectDate": "20240101",
+        "promulgNum": "17646",
+        "title": "국가정보원법",
+        "ministry": "국가정보원",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가정보원의 차장과 기획조정실장은 공무원의 분류상 어디에 속하나요?",
+        "output": "국가정보원법 제9조 제3항에 의하면 차장과 기획조정실장은 정무직으로 하고 원장을 보좌하며, 원장이 부득이한 사유로 직무를 수행할 수 없을 때에는 그 직무를 대행합니다.",
+        "originwordCnt": "55",
+        "labelwordCnt": "21"
+    }
+}

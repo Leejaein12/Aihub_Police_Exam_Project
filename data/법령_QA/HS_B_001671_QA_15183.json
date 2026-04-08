@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제29조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보조인이 될 수 있는 자가 없는 경우, 누구를 보조인으로 할 수 있습니까?",
+        "output": "형사소송법 제29조 제2항에 따르면 보조인이 될 수 있는 자가 없거나 장애 등의 사유로 보조인으로서 역할을 할 수 없는 경우에는 피고인 또는 피의자와 신뢰관계 있는 자가 보조인이 될 수 있습니다.",
+        "originwordCnt": "77",
+        "labelwordCnt": "29"
+    }
+}

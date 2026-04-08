@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009629",
+        "promulgDate": "20220426",
+        "effectDate": "20230427",
+        "promulgNum": "18849",
+        "title": "주민투표법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "전자청구인서명부에 전자서명을 철회하려면 언제까지 할 수 있나요?",
+        "output": "주민투표법 제10조 제7항에 따르면, 전자청구인서명부에 전자서명을 한 사람이 철회하려는 경우, 청구인대표자가 지방자치단체의 장에게 전자청구인서명부 활용을 요청하기 전에 정보시스템을 통해 직접 철회해야 합니다.",
+        "originwordCnt": "297",
+        "labelwordCnt": "22"
+    }
+}

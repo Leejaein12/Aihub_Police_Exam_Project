@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "303764",
+        "caseName": "의료법위반",
+        "caseNum": "2009고정2357",
+        "sentenceDate": "2014. 7. 9.",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "시에서 한의원을 운영하는 한의사인 피고인은, 면허된 범위를 넘어 의료행위를 한 혐의로 기소되었으며, 의료용광선치료기인 IPL을 사용하여 피부 치료를 진행하였으며, 이로 인해 의료법 제87조 및 제27조를 위반하였습니다. 법원은 피고인이 IPL 사용에 대해 위법성을 인식하지 못한 점과, 사건 당시 관련 법령의 명확한 해석이 부족하다는 점을 고려하여 형의 선고를 유예하기로 결정하였습니다.",
+        "originwordCnt": "1129",
+        "labelwordCnt": "47"
+    }
+}

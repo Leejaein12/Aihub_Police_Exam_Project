@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000161",
+        "promulgDate": "20230914",
+        "effectDate": "20240315",
+        "promulgNum": "19720",
+        "title": "실내공기질 관리법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제4조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "다중이용시설등의 실내공기질 관리에 관한 법률을 제정하거나 개정할 때 어떤 점을 고려해야 하나요?",
+        "output": "실내공기질 관리법 제4조의2 제2항에 따르면, 다중이용시설등의 실내공기질 관리에 관하여 다른 법률을 제정 또는 개정하는 경우에는 이 법에 부합하도록 하여야 합니다.",
+        "originwordCnt": "36",
+        "labelwordCnt": "20"
+    }
+}

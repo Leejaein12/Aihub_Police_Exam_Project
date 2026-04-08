@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000117",
+        "promulgDate": "20230103",
+        "effectDate": "20230704",
+        "promulgNum": "19174",
+        "title": "국민 평생 직업능력 개발법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제33조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "직업능력개발훈련교사 자격증을 빌려주거나 빌릴 수 있습니까?",
+        "output": "국민 평생 직업능력 개발법 제33조 제4항에 명시된 바와 같이, 제2항에 따라 발급받은 자격증은 다른 사람에게 빌려주거나 빌려서는 아니 되며, 이를 알선하여서도 아니 됩니다.",
+        "originwordCnt": "99",
+        "labelwordCnt": "23"
+    }
+}

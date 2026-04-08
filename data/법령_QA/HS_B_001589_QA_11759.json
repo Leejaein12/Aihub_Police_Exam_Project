@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001589",
+        "promulgDate": "20230620",
+        "effectDate": "20231221",
+        "promulgNum": "19511",
+        "title": "소비자기본법",
+        "ministry": "공정거래위원회",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가 및 지방자치단체는 소비자교육과 다른 교육을 연계하여 어떤 시책을 수립하여야 하나요?",
+        "output": "국가 및 지방자치단체는 소비자교육과 학교교육ㆍ평생교육을 연계하여 교육적 효과를 높이기 위한 시책을 수립ㆍ시행하여야 합니다. 이는 소비자기본법 제14조 제3항에 근거합니다.",
+        "originwordCnt": "81",
+        "labelwordCnt": "18"
+    }
+}

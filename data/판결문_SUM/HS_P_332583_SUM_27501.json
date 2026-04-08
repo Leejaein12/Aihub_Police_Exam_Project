@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332583",
+        "caseName": "공직선거법위반",
+        "caseNum": "2023노107",
+        "sentenceDate": "2023.10.26",
+        "courtName": "광주고등법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공갈과 폭행 혐의를 부인하며 사실 오인과 양형 부당을 주장했으나, 원심은 피해자들의 일관된 진술과 증거를 토대로 공갈과 폭행 사실이 인정된다고 보았습니다. 또한, 양형도 합리적인 범위를 벗어나지 않았으며, 형을 변경할 새로운 사정이 없다고 판단하여, 항소를 기각하였습니다.",
+        "originwordCnt": "628",
+        "labelwordCnt": "34"
+    }
+}

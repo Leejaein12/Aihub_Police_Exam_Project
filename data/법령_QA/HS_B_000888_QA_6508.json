@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000888",
+        "promulgDate": "20221213",
+        "effectDate": "20230614",
+        "promulgNum": "19066",
+        "title": "사립학교법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제36조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "합병 인가를 받기 위해 제출해야 할 서류에는 무엇이 포함되나요?",
+        "output": "사립학교법 제36조 제3항에 따라 합병 인가를 받으려면 인가신청서에 합병 후 존속하는 학교법인 또는 합병으로 설립되는 학교법인의 정관과 그 밖에 대통령령으로 정하는 서류를 첨부하여야 합니다.",
+        "originwordCnt": "47",
+        "labelwordCnt": "24"
+    }
+}

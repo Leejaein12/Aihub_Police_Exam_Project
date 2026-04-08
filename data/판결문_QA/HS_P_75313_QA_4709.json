@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "75313",
+        "caseName": "대마관리법위반피고사건",
+        "caseNum": "82노346",
+        "sentenceDate": "1982.03.24",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "매도한 대마초 중 일부가 수사기관에 압수된 경우, 그 가액을 추징할 수 있나요?",
+        "output": "수사기관에 압수된 대마초에 대해서는 이미 몰수가 이루어졌기 때문에, 그 가액을 피고인으로부터 추가로 추징할 수 없습니다. 이는 대마관리법 제23조 제1항에 따른 것입니다.",
+        "originwordCnt": "94",
+        "labelwordCnt": "21"
+    }
+}

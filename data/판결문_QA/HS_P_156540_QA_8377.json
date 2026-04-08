@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "156540",
+        "caseName": "반공법위반,명령위반,초병수소이탈",
+        "caseNum": "67도734",
+        "sentenceDate": "1967.07.25",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "군형법상 무단이탈죄는 어떤 경우에 성립할 수 있나요?",
+        "output": "무단이탈죄는 반드시 근무지나 지정된 장소로부터 멀리 떠난 경우에만 성립하는 것이 아닙니다. 이탈로 인해 본인에게 부과된 임무를 수행할 수 없게 되는 정도로 이탈했다면 군형법 제79조에 따라 무단이탈죄가 성립합니다.",
+        "originwordCnt": "88",
+        "labelwordCnt": "27"
+    }
+}

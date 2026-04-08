@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319520",
+        "caseName": "아동ㆍ청소년의성보호에관한법률위반(강제추행)",
+        "caseNum": "2023고합817",
+        "sentenceDate": "2023.11.02",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "병원에서 13세 여성인 피해자의 엉덩이를 손등으로 치는 방식으로 아동·청소년을 강제추행한 혐의로 기소되었습니다. 법원은 아동·청소년의 성보호에 관한 법률 제7조 제3항 및 형법 제298조에 따라 벌금 500만 원이 선고되었고, 40시간의 성폭력 치료강의를 수강하도록 명령하였습니다.",
+        "originwordCnt": "486",
+        "labelwordCnt": "32"
+    }
+}

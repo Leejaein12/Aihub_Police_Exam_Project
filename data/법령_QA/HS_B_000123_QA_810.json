@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000123",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19965",
+        "title": "고용정책 기본법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "직업능력개발훈련을 실시하는 자는 훈련생을 모집할 때 어떤 점에 주의해야 하나요?",
+        "output": "고용정책 기본법 제7조제3항에 따르면 직업능력개발훈련을 실시하는 자는 훈련대상자의 모집, 훈련의 실시 및 취업지원 등을 하는 경우에 합리적인 이유 없이 성별등을 이유로 훈련생을 차별하여서는 아니 됩니다.",
+        "originwordCnt": "76",
+        "labelwordCnt": "25"
+    }
+}

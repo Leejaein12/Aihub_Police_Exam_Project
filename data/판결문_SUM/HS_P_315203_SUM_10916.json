@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315203",
+        "caseName": "도로교통법위반(무면허운전)",
+        "caseNum": "2024고단76",
+        "sentenceDate": "2024.05.14",
+        "courtName": "전주지방법원 남원지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자동차운전면허 없이 원동기장치자전거를 약 400미터 구간에서 운전한 사실이 인정되어 도로교통법 위반 혐의로 기소되었습니다. 법정에서 피고인은 범행을 인정하였고, 동종 범죄로 처벌받은 전력은 없으나 이종 범죄로 여러 차례 처벌받은 전력이 있었습니다. 법원은 피고인에게 벌금 200,000원을 선고하였습니다.",
+        "originwordCnt": "166",
+        "labelwordCnt": "34"
+    }
+}

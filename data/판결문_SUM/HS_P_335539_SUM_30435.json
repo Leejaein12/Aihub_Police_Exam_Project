@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335539",
+        "caseName": "컴퓨터등사용사기등",
+        "caseNum": "2023노1811",
+        "sentenceDate": "2024.01.16",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "보이스피싱 조직에서 핵심적인 역할을 맡아 다수의 피해자에게 재산상 손해를 입힌 혐의로 기소되었습니다. 제1원심에서는 징역 1년 6개월, 제2원심에서는 징역 3개월이 선고되었으나, 항소심에서 두 사건이 병합되어 경합범 관계에 따라 징역 1년 8개월의 형이 선고되었습니다. 다만, 형의 집행은 4년간 유예되었습니다.",
+        "originwordCnt": "557",
+        "labelwordCnt": "37"
+    }
+}

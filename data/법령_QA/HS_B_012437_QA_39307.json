@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012437",
+        "promulgDate": "20201222",
+        "effectDate": "20210623",
+        "promulgNum": "17683",
+        "title": "방위산업기술 보호법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "방위사업청장은 방위산업기술을 지정할 때 어떤 사항을 고려해야 하나요?",
+        "output": "제7조 제2항에 따르면, 방위사업청장은 방위산업기술을 선정할 때 해당 기술이 국가안보에 미치는 효과 및 해당 분야의 연구동향 등을 종합적으로 고려하여 필요한 최소한의 범위에서 선정하여야 합니다.",
+        "originwordCnt": "132",
+        "labelwordCnt": "24"
+    }
+}

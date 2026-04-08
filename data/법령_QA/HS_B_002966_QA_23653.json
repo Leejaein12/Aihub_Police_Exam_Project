@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002966",
+        "promulgDate": "20220630",
+        "effectDate": "20220701",
+        "promulgNum": "32737",
+        "title": "군검찰사무 운영규정",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제34조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군검사의 자유형집행의 정지처분 지휘서를 송달받은 사람은 어떤 의무가 있나요?",
+        "output": "지휘서를 송달받은 사람은 지휘받은 사항을 성실하게 이행해야 하며, 필요한 경우에는 군검사에게 상황을 보고하고 군검사의 지시를 받아야 합니다. 이는 군검찰사무 운영규정 제34조 제4항에 근거합니다.",
+        "originwordCnt": "78",
+        "labelwordCnt": "23"
+    }
+}

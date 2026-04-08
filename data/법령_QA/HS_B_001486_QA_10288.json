@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001486",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "수산업법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제42조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "혼획이 허용되는 어업에 종사하는 어업인은 어떤 장치를 사용해야 하나요?",
+        "output": "「수산업법」 제42조 제3항에 따르면, 혼획이 허용되는 어업에 종사하는 어업인은 해양수산부장관이 정하여 고시하는 혼획저감장치를 어구에 부착하고 사용해야 합니다.",
+        "originwordCnt": "174",
+        "labelwordCnt": "17"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000068",
+        "promulgDate": "20220610",
+        "effectDate": "20230611",
+        "promulgNum": "18957",
+        "title": "선박법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "외국에서 선박을 취득한 자는 임시선박국적증서를 어떻게 발급받을 수 있나요?",
+        "output": "선박법 제9조 제2항에 따르면 외국에서 선박을 취득한 자는 지방해양수산청장 또는 그 취득지를 관할하는 대한민국 영사에게 임시선박국적증서의 발급을 신청할 수 있습니다.",
+        "originwordCnt": "95",
+        "labelwordCnt": "20"
+    }
+}

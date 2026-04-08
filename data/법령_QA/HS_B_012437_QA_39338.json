@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012437",
+        "promulgDate": "20201222",
+        "effectDate": "20210623",
+        "promulgNum": "17683",
+        "title": "방위산업기술 보호법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "방위사업청장은 대상기관의 장이 개선권고를 이행하지 않거나 불성실하게 이행할 경우 어떤 조치를 취할 수 있나요?",
+        "output": "제13조 제3항에 따르면, 방위사업청장은 개선권고를 이행하지 않거나 불성실하게 이행한다고 판단되는 경우 대상기관의 장에게 시정을 명할 수 있습니다.",
+        "originwordCnt": "91",
+        "labelwordCnt": "17"
+    }
+}

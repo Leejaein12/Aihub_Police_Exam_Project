@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "211969",
+        "caseName": "사기·사문서위조·사문서위조행사",
+        "caseNum": "81도3176",
+        "sentenceDate": "1982.10.12",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "타인의 서명만 있고 날인이 누락된 출금청구서를 권한 없이 작성한 경우 사문서위조죄가 성립하나요?",
+        "output": "피고인이 권한 없이 위탁자의 서명만 있고 날인이 누락된 출금청구서를 위탁자의 의사에 따른 것처럼 가장하여 작성한 경우, 형법 제231조에 따라 사문서위조죄가 성립합니다.",
+        "originwordCnt": "47",
+        "labelwordCnt": "21"
+    }
+}

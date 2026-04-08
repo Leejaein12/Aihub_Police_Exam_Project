@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315336",
+        "caseName": "도로교통법위반(음주측정거부)",
+        "caseNum": "2024고단517",
+        "sentenceDate": "2024.06.19",
+        "courtName": "수원지방법원 성남지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "빌라 주차장에서 피해자 소유의 차량을 도구로 긁어 약 2,674,540원의 손해를 입힌 사건에서, 법원은 형법 제366조에 따라 벌금형을 선택하였으나, 피해자와의 합의, 처벌 불원 의사, 동종 전과가 없는 점 등을 고려하여 벌금 200만 원의 선고를 유예하였습니다.",
+        "originwordCnt": "145",
+        "labelwordCnt": "34"
+    }
+}

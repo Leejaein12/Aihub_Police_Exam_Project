@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336933",
+        "caseName": "강제추행",
+        "caseNum": "2023노4789",
+        "sentenceDate": "2024.05.28",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "팔을 만져 강제추행 혐의로 기소되었으나, 원심은 이러한 행위가 일반인에게 성적 수치심을 일으키거나 성적 도덕관념에 반하는 행위로 보기 어렵다고 판단하여 무죄를 선고하였습니다. 검사는 사실오인을 주장하며 항소하였으나, 법원은 원심 판단이 정당하다고 보아 형사소송법 제364조 제4항에 따라 항소를 기각하였습니다.",
+        "originwordCnt": "198",
+        "labelwordCnt": "36"
+    }
+}

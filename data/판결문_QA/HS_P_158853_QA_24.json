@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "158853",
+        "caseName": "특수손괴등",
+        "caseNum": "70도2378",
+        "sentenceDate": "1971.01.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "우물에 연결된 고무호스를 발굴하여 물이 통하지 못하게 한 행위는 어떤 법적 문제가 있나요?",
+        "output": "형법 제366조에 따르면, 우물에 연결된 고무호스를 발굴하여 물이 통하지 못하게 한 행위는 고무호스의 구체적인 효용을 해한 것으로 재물손괴죄에 해당할 수 있습니다.",
+        "originwordCnt": "70",
+        "labelwordCnt": "21"
+    }
+}

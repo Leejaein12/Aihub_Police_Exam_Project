@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "94950",
+        "caseName": "절도",
+        "caseNum": "79도2874",
+        "sentenceDate": "1980.03.25",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "고종사촌 형수가 법률적으로 친족에 해당할 수 있는지 궁금합니다.",
+        "output": "절도 피해자가 범인의 고모아들의 부인, 즉 고종사촌 형수인 경우, 형법 제328조 제2항에 따라 피해자와 피고인 사이에 친족관계가 성립할 수 있습니다. 이는 민법 제777조 제4호에 의해 참조됩니다.",
+        "originwordCnt": "89",
+        "labelwordCnt": "26"
+    }
+}

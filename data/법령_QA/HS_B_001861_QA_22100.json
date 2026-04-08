@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001861",
+        "promulgDate": "20211221",
+        "effectDate": "20220622",
+        "promulgNum": "18601",
+        "title": "석탄산업법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제24조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "지원금을 환수할 때 환수자가 반환을 지연하면 어떻게 처리되나요?",
+        "output": "석탄산업법 제24조의2 제7항에 따르면, 산업통상자원부장관은 지원금을 환수할 때 반환할 자가 반환기간 내에 이를 반환하지 아니하면 국세강제징수의 예에 따라 징수할 수 있습니다.",
+        "originwordCnt": "209",
+        "labelwordCnt": "21"
+    }
+}

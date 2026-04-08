@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "154614",
+        "caseName": "조세범처벌법위반",
+        "caseNum": "72도912",
+        "sentenceDate": "1972.06.27",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "조세범처벌법 제10조에서 말하는 체납 3회의 계산 기준은 어떻게 되나요?",
+        "output": "조세범처벌법 제10조에서 규정한 체납 3회의 계산 기준은 납세고지서 1통을 1회로 계산하며, 회수의 통산은 1회계년도를 1기간으로 합니다. 이때, 납세고지서 중에는 독촉장과 최고서는 포함되지 않습니다.",
+        "originwordCnt": "48",
+        "labelwordCnt": "23"
+    }
+}

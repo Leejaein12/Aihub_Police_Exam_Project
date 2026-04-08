@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "302774",
+        "caseName": "공용건조물방화미수",
+        "caseNum": "2020고합107",
+        "sentenceDate": "2021. 4. 2.",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "양극성 정동장애로 인해 의사결정 능력이 미약한 상태에서 공용건조물에 방화를 시도하였으며, 결국 주거건조물에 불을 지르면서 피해자를 사망에 이르게 하였습니다. 법원은 피고인이 치료받지 않는 상태에서 재범 위험성이 있다고 판단하였고, 그 결과 징역 12년에 처하며 치료감호를 부과하였습니다.",
+        "originwordCnt": "889",
+        "labelwordCnt": "34"
+    }
+}

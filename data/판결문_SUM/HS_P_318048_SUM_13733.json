@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318048",
+        "caseName": "근로기준법위반",
+        "caseNum": "2023고단1090",
+        "sentenceDate": "2024.01.23",
+        "courtName": "대전지방법원 천안지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2번에 걸쳐 피해자의 주거에 여러 차례 무단으로 들어가 물건을 절취하거나 위협적인 행동을 하였습니다. 피고인이 범행 당시 심신상실이나 심신미약 상태에 있었다는 주장은 범행의 동기와 정황 등을 고려할 때 받아들여지지 않았습니다. 이에 따라 징역 8개월에 처하되, 1년간 집행을 유예하고, 폭행 및 협박 혐의에 대한 공소는 기각되었습니다.",
+        "originwordCnt": "704",
+        "labelwordCnt": "44"
+    }
+}

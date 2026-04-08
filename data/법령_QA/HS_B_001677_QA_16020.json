@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001677",
+        "promulgDate": "20160106",
+        "effectDate": "20170707",
+        "promulgNum": "13722",
+        "title": "국가보안법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가보안법에 따르면, 수사기관에 종사하는 자가 이 법의 죄를 범한 자를 인지하여 체포한 경우 어떤 보상이 있나요?",
+        "output": "국가보안법 제21조 제2항에 따르면, 이 법의 죄를 범한 자를 인지하여 체포한 수사기관 또는 정보기관에 종사하는 자에 대해서도 상금을 지급합니다.",
+        "originwordCnt": "55",
+        "labelwordCnt": "19"
+    }
+}

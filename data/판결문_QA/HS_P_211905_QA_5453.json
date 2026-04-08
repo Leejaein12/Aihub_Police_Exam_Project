@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "211905",
+        "caseName": "상습도박방조",
+        "caseNum": "82도1669",
+        "sentenceDate": "1982.09.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인이 공동피고인에게 도박자금으로 대여한 금원에 대해 추징할 수 있나요?",
+        "output": "피고인이 도박자금으로 공동피고인에게 대여한 금원은 대여 시점부터 피고인의 소유가 아닌 공동피고인의 소유로 귀속되므로, 형법 제48조 제1항 제1호 또는 제2호에 따라 공동피고인으로부터 몰수할 수는 있으나 피고인에게서 추징할 수는 없습니다.",
+        "originwordCnt": "620",
+        "labelwordCnt": "28"
+    }
+}

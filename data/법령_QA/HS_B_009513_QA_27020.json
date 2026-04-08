@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009513",
+        "promulgDate": "20220610",
+        "effectDate": "20230611",
+        "promulgNum": "18898",
+        "title": "암관리법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제34조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국립암센터의 직원 임면은 어떻게 이루어지나요?",
+        "output": "암관리법 제34조 제3항에 따르면, 그 밖의 직원은 정관으로 정하는 바에 따라 국립암센터의 원장이 임면합니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "14"
+    }
+}

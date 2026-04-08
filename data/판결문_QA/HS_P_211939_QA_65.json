@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "211939",
+        "caseName": "변호사법위반",
+        "caseNum": "82도1487",
+        "sentenceDate": "1982.08.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "여러 사람이 함께 향응을 받은 경우, 피고인의 접대비용이 불분명할 때 추징할 금액은 어떻게 산정되나요?",
+        "output": "피고인을 포함한 3인이 함께 향응을 받았을 때, 피고인의 접대에 필요한 비용이 불분명하다면, 그 비용은 3등분하여 피고인의 이득액으로 간주하고, 변호사법 제56조에 따라 그 금액을 추징해야 합니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "25"
+    }
+}

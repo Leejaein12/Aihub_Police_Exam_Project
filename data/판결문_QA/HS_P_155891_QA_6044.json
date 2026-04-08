@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155891",
+        "caseName": "배임등",
+        "caseNum": "69도481",
+        "sentenceDate": "1969.06.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "압류집행을 한 후에도 채무자가 압류물을 종전과 같이 사용할 수 있는 경우는 어떤 상황인가요?",
+        "output": "형법 제140조 및 민사소송법 제252조에 따르면, 압류집행 시 압류물이 종전과 같이 사용할 수 있는 상태대로 압류되어 채무자에게 보관된 경우, 채무자는 압류 그대로의 상태에서 종전과 같은 방법으로 그 압류물을 사용할 수 있습니다.",
+        "originwordCnt": "54",
+        "labelwordCnt": "31"
+    }
+}

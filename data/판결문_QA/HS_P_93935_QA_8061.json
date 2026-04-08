@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93935",
+        "caseName": "직무유기",
+        "caseNum": "77도3870",
+        "sentenceDate": "1978.07.11",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "군법회의법 제67조에 따라 군법회의의 판결을 비공개로 할 수 있나요?",
+        "output": "군법회의법 제67조 단서의 규정에 따라 군법회의가 비공개로 진행될 수 있는 부분은 판결을 제외한 '대심'에 한정됩니다. 따라서 판결은 공개되어야 하며, 이 규정은 헌법 제107조에 저촉되지 않는 것으로 해석됩니다.",
+        "originwordCnt": "54",
+        "labelwordCnt": "27"
+    }
+}

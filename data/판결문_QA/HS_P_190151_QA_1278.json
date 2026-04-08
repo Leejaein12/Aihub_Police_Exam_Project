@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "190151",
+        "caseName": "관세법위반피고사건",
+        "caseNum": "78노250",
+        "sentenceDate": "1979.04.12",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "관세법상 추징의 대상이 되는 물품의 소유 또는 점유 상태에 대해 어떤 조건이 필요한가요?",
+        "output": "관세법 제198조에 따르면, 관세포탈물품의 범칙 당시의 국내도매가격을 추징하기 위해서는 먼저 해당 물품이 피고인의 소유나 점유에 속해 있었음을 전제로 해야 합니다.",
+        "originwordCnt": "20",
+        "labelwordCnt": "20"
+    }
+}

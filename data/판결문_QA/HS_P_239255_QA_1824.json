@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "239255",
+        "caseName": "물가안정에관한법률위반",
+        "caseNum": "2023도2836",
+        "sentenceDate": "2024.01.04",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "구 ‘마스크 및 손소독제 매점매석 행위 금지 고시’에서 ‘영업’의 의미는 무엇인가요?",
+        "output": "구 ‘마스크 및 손소독제 매점매석 행위 금지 고시’ 제5조 제1항에서 말하는 ‘영업’은 실제로 판매나 생산의 결과가 발생한 경우뿐만 아니라, 사업자가 판매나 생산을 위한 준비행위를 한 경우도 포함됩니다.",
+        "originwordCnt": "1066",
+        "labelwordCnt": "27"
+    }
+}

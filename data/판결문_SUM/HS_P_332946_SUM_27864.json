@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332946",
+        "caseName": "업무방해등",
+        "caseNum": "2023고정151",
+        "sentenceDate": "2023.07.06",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2022년 11월, 주점과 음식점에서 피고인이 마스크 요청 거절과 모욕적인 발언에 화가 나 폭행을 저지르고, 소주병을 던져 위협하거나 CCTV를 부수는 등 소란을 피워 영업을 방해한 사건이 있었습니다. 법원은 피고인의 심신미약 주장을 인정하지 않고, 여러 혐의에 대해 벌금 300만 원을 선고하였습니다.",
+        "originwordCnt": "372",
+        "labelwordCnt": "39"
+    }
+}

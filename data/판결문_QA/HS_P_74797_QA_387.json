@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "74797",
+        "caseName": "살인미수피고사건",
+        "caseNum": "79노612",
+        "sentenceDate": "1980.09.25",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "비상계엄이 선포된 상황에서 미합중국 군인에 대한 대한민국의 재판권은 어떻게 되나요?",
+        "output": "비상계엄이 선포된 상황에서는 대한민국과 아메리카합중국 간의 상호방위조약 및 관련 협정에 따라 대한민국은 미합중국 군대의 구성원에 대한 재판권이 정지되며, 미합중국 군당국이 계엄이 해제될 때까지 전속적 재판권을 행사할 권리를 가집니다.",
+        "originwordCnt": "51",
+        "labelwordCnt": "28"
+    }
+}

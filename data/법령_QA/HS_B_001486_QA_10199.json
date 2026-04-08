@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001486",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "수산업법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "어업면허가 취소된 자에 대해 다시 면허를 할 수 없는 기간은 얼마인가요?",
+        "output": "시장, 군수, 구청장은 제34조 제1호 및 제3호부터 제6호까지의 사유로 어업면허가 취소된 자에 대해, 면허 취소일로부터 2년 이내에 어업면허를 할 수 없습니다. 이는 '수산자원관리법' 제11조 제2항에 따른 규정입니다.",
+        "originwordCnt": "52",
+        "labelwordCnt": "27"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "004057",
+        "promulgDate": "20210105",
+        "effectDate": "20210105",
+        "promulgNum": "31380",
+        "title": "수형자 등 호송 규정",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "피호송자가 필요한 물품을 자신의 비용으로 구입할 경우, 구매품의 대가를 금전중에서 지출할 때에는 호송관은 무엇을 받아야 합니까?",
+        "output": "수형자 등 호송 규정 제9조 제2항에 명시된 바와 같이, 제1항의 구매품의 대가를 제6조제2호의 금전중에서 지출할 때에는 호송관은 본인의 확인서를 받아야 합니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "21"
+    }
+}

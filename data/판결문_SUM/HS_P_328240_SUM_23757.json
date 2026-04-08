@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328240",
+        "caseName": "업무방해등",
+        "caseNum": "2023고정126",
+        "sentenceDate": "2023.04.28.",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "당구장에서 술을 판매하지 않는다는 이유로 운영자의 머리채를 잡아 폭행하고, 다음 해 당구장에서 손님들 앞에서 폭언을 하며 약 10분간 소란을 피워 업무를 방해하고 모욕하였습니다. 법원은 형법 제260조 제1항, 제314조 제1항, 제311조를 적용하여 벌금 300만 원을 선고하고, 벌금 미납 시 노역장 유치를 명령하였습니다.",
+        "originwordCnt": "282",
+        "labelwordCnt": "41"
+    }
+}

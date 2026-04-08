@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "186074",
+        "caseName": "약사법위반",
+        "caseNum": "2013고정5192",
+        "sentenceDate": "2014.07.23",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 인터넷 쇼핑몰에서 의약품을 판매한 행위가 법적으로 문제가 된 이유는 무엇인가요?",
+        "output": "피고인은 약국 이외의 장소에서 의약품을 판매하는 행위를 하였으며, 이는 약국개설자가 의약품을 약국 이외의 장소에서 판매해서는 안 된다는 규정을 위반한 것입니다. 법원은 이러한 행위를 근거로 피고인에게 벌금형을 선고하였습니다.",
+        "originwordCnt": "181",
+        "labelwordCnt": "27"
+    }
+}

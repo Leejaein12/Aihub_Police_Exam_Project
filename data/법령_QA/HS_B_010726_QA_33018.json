@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010726",
+        "promulgDate": "20210615",
+        "effectDate": "20220616",
+        "promulgNum": "18284",
+        "title": "지진ㆍ화산재해대책법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "지역 피해시설물 위험도 평가단의 구성 및 운영 등에 필요한 세부적인 사항은 무엇을 통해 정해집니까?",
+        "output": "지진ㆍ화산재해대책법 제21조 제4항에 명시된 바와 같이, 지역 피해시설물 위험도 평가단의 구성 및 운영 등에 필요한 세부적인 사항은 조례로 정합니다.",
+        "originwordCnt": "90",
+        "labelwordCnt": "19"
+    }
+}

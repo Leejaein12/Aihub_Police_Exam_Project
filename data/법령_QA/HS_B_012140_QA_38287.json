@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012140",
+        "promulgDate": "20240125",
+        "effectDate": "20240131",
+        "promulgNum": "03126",
+        "title": "아동보호심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "아동학대행위자가 경찰관서의 유치장 또는 구치소에 유치되었을 때 유치기간은 얼마로 봅니까?",
+        "output": "아동보호심판규칙 제7조 제2항에 따르면 아동학대범죄의 처벌 등에 관한 특례법 제19조 제1항 제7호의 조치가 있었을 때에는 그 유치기간은 형법 제57조제1항의 판결선고전의 구금일수로 봅니다.",
+        "originwordCnt": "109",
+        "labelwordCnt": "22"
+    }
+}

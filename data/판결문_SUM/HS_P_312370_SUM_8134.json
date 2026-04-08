@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312370",
+        "caseName": "강제추행등",
+        "caseNum": "2023노2242",
+        "sentenceDate": "2023.10.25",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "강제추행과 업무방해 등으로 징역 8개월과 벌금 30만 원을 선고받은 피고인이 항소하였으나, 항소심은 이를 기각하였습니다. 피고인이 범행을 인정하고 일부 피해자와 합의한 점은 유리한 정상으로 고려되었으나, 피고인이 동종범죄로 수차례 처벌받은 전력이 있고, 경찰관을 상대로 추행한 점에서 죄질이 나쁘다고 판단되었습니다.",
+        "originwordCnt": "271",
+        "labelwordCnt": "37"
+    }
+}

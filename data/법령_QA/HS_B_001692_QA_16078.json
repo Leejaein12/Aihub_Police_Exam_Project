@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001692",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19582",
+        "title": "형법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제36조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "판결선고 후 누범인 것이 발각되었을 때, 어떻게 형을 다시 정할 수 있나요?",
+        "output": "형법 제36조에 따르면, 판결선고후 누범인 것이 발각된 때에는 그 선고한 형을 통산하여 다시 형을 정할 수 있습니다. 단, 선고한 형의 집행을 종료하거나 그 집행이 면제된 후에는 예외로 합니다.",
+        "originwordCnt": "27",
+        "labelwordCnt": "28"
+    }
+}

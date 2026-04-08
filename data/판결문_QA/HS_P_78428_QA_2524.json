@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78428",
+        "caseName": "사기미수(인정된죄명:배임)",
+        "caseNum": "2007노511",
+        "sentenceDate": "2007.04.26",
+        "courtName": "대전지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "재판상 화해조서에 따라 피고인에게 소유권 이전 등기 협력 의무가 여전히 남아 있나요?",
+        "output": "재판상 화해조서에 따라 피고인에게는 소유권 이전 등기 협력 의무가 소멸하지 않으며, 오히려 해당 화해조서가 피고인에게 고소인에 대한 등기 협력 의무를 발생하게 합니다.",
+        "originwordCnt": "517",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001722",
+        "promulgDate": "20240102",
+        "effectDate": "20240102",
+        "promulgNum": "19922",
+        "title": "정당법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "정당 창당준비위원회가 창당준비를 완료한 후 정당의 등록은 누가 진행하는가요?",
+        "output": "정당 창당준비위원회가 창당준비를 완료한 때에는 그 대표자는 관할 선거관리위원회에 정당의 등록을 신청하여야 합니다. 이는 정당법 제11조에 명시되어 있는 절차입니다.",
+        "originwordCnt": "13",
+        "labelwordCnt": "19"
+    }
+}

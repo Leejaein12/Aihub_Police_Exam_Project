@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317712",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단1367",
+        "sentenceDate": "2023.10.13",
+        "courtName": "의정부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "성명불상자로부터 저금리 대환 대출을 받을 수 있다는 제안을 받고 법인 계좌와 연결된 통장과 공인인증서를 대여하였습니다. 이는 전자금융거래법에 따라 접근매체를 대여할 수 없다는 규정을 위반한 행위입니다. 법원은 피고인에게 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "251",
+        "labelwordCnt": "31"
+    }
+}

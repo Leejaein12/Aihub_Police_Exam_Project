@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001867",
+        "promulgDate": "20221018",
+        "effectDate": "20230119",
+        "promulgNum": "19001",
+        "title": "에너지이용 합리화법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "지방자치단체는 에너지 정책과 관련하여 어떤 역할을 해야 하나요?",
+        "output": "'에너지이용 합리화법' 제3조제2항에 따르면, 지방자치단체는 관할 지역의 특성을 고려하여 국가에너지정책의 효과적인 수행과 지역경제의 발전을 도모하기 위한 지역에너지시책을 강구하고 시행할 책무를 집니다.",
+        "originwordCnt": "97",
+        "labelwordCnt": "21"
+    }
+}

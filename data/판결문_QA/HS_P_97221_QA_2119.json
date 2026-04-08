@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "97221",
+        "caseName": "건축법위반·건설업법위반",
+        "caseNum": "81도1364",
+        "sentenceDate": "1983.01.18",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "경미한 건설공사의 도급시공에 건설업면허가 불필요한가요?",
+        "output": "구 건설업법 제4조, 제5조 등에 따르면, 건설업자가 경미한 건설공사를 도급받아 시공하는 경우에도 원칙적으로 건설업면허를 받아야 합니다. 건설업자가 도급받은 공사에 대해 면허 없이 시공할 수 있다고 해석할 수 없습니다.",
+        "originwordCnt": "227",
+        "labelwordCnt": "28"
+    }
+}

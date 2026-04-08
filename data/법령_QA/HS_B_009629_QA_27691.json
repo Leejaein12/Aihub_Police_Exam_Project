@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009629",
+        "promulgDate": "20220426",
+        "effectDate": "20230427",
+        "promulgNum": "18849",
+        "title": "주민투표법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "지방자치단체의 관할구역에서 공직선거법에 의한 선거가 실시되는 경우, 주민투표의 투표일은 어떻게 조정 되는가?",
+        "output": "공직선거법에 의한 선거가 실시되는 경우, 선거일 전 60일부터 선거일까지의 기간은 투표일로 정할 수 없습니다. 이는 주민투표법 제14조 제3항에 근거합니다.",
+        "originwordCnt": "108",
+        "labelwordCnt": "19"
+    }
+}

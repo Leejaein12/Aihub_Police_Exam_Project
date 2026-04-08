@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001662",
+        "promulgDate": "20201020",
+        "effectDate": "20210421",
+        "promulgNum": "17505",
+        "title": "소년법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제49조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소년법에 근거하여, 검사는 보호관찰소장으로부터 통보받은 조사 결과를 어떻게 활용해야 합니까?",
+        "output": "소년법 제49조의2 제4항에 따르면, 검사는 보호관찰소장으로부터 통보받은 조사 결과를 참고하여 소년 피의자를 교화ㆍ개선하는 데 가장 적합한 처분을 결정하여야 합니다.",
+        "originwordCnt": "119",
+        "labelwordCnt": "19"
+    }
+}

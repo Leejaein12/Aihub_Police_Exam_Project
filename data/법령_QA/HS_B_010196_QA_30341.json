@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010196",
+        "promulgDate": "20230321",
+        "effectDate": "20240322",
+        "promulgNum": "19242",
+        "title": "게임산업진흥에 관한 법률",
+        "ministry": "문화체육관광부",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "청소년게임제공업과 일반게임제공업의 게임물 등급 분류는 어떻게 이루어지나요?",
+        "output": "청소년게임제공업과 일반게임제공업에 제공되는 게임물은 전체이용가와 청소년이용불가 게임물로만 분류됩니다. 이는 게임산업 진흥에 관한 법률 제21조 제3항에 명시되어 있습니다.",
+        "originwordCnt": "335",
+        "labelwordCnt": "17"
+    }
+}

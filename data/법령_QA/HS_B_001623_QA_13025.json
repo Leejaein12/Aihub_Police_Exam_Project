@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제142조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인의 보석조건을 변경하거나 이행을 유예할 수 있나요?",
+        "output": "군사법원법 제142조 제1항에 따르면 군사법원은 직권으로 또는 제134조에 규정된 사람의 신청에 따라 결정으로 피고인의 보석조건을 변경하거나 일정 기간 동안 그 조건의 이행을 유예할 수 있습니다.",
+        "originwordCnt": "151",
+        "labelwordCnt": "25"
+    }
+}

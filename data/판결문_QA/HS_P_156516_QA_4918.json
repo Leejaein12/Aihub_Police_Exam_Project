@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "156516",
+        "caseName": "사기미수",
+        "caseNum": "67도660",
+        "sentenceDate": "1967.08.29",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "수표 발행 후 허위 분실신고 시 예금잔고가 부족한 경우에도 형사책임이 인정되나요?",
+        "output": "허위 분실신고 당시 예금잔고가 부족하고 당좌 대월계약이 체결되지 않았다면, 수표금 지급 유예나 채무 면제 의사가 있었다고 보기 어려워 형사책임이 인정되지 않습니다. 이는 부정수표단속법 제4조와 형법 제347조에 따라 판단됩니다.",
+        "originwordCnt": "97",
+        "labelwordCnt": "28"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001109",
+        "promulgDate": "20210924",
+        "effectDate": "20220701",
+        "promulgNum": "18465",
+        "title": "사면법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "일반사면, 죄 또는 형의 종류를 정하여 하는 감형 및 일반에 대한 복권은 어떤 법령의 형식을 통해 실시됩니까?",
+        "output": "일반사면, 죄 또는 형의 종류를 정하여 하는 감형 및 일반에 대한 복권은 대통령령으로 실시됩니다다. 이 경우, 일반사면은 죄의 종류를 정하여 한다고 규정하고 있으며, 사면법 제8조에 명시되어 있습니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "27"
+    }
+}

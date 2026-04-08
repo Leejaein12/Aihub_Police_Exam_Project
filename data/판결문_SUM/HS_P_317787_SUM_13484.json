@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317787",
+        "caseName": "공무집행방해등",
+        "caseNum": "2023고단221",
+        "sentenceDate": "2023.11.03",
+        "courtName": "광주지방법원 목포지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "총 50회에 걸쳐 경찰에 장난전화를 하여 공무를 방해하였고, 경찰관을 폭행하여 상해를 입힌 혐의를 받았습니다. 법원은 피고인이 경찰관에게 폭력을 행사하고 장기간에 걸쳐 전화를 반복한 점을 중시하여 징역 8개월 및 벌금 15만 원을 선고하였습니다.",
+        "originwordCnt": "950",
+        "labelwordCnt": "32"
+    }
+}

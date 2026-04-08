@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001737",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19778",
+        "title": "항만법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "항만은 어떻게 구분되나요?",
+        "output": "'항만법' 제3조제1항에 따르면, 항만은 다음 각 호의 항으로 구분되며, 그 명칭ㆍ위치 및 구역은 대통령령으로 정합니다.  1. 무역항  2. 연안항",
+        "originwordCnt": "138",
+        "labelwordCnt": "23"
+    }
+}

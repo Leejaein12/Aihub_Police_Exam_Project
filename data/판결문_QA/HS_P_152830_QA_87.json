@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "152830",
+        "caseName": "군용물분실",
+        "caseNum": "65도881",
+        "sentenceDate": "1965.11.23",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "군형법 제74조의 군용물분실죄는 노적한 군용물에만 적용되나요?",
+        "output": "군형법 제74조의 군용물분실죄의 대상이 되는 물건은 노적한 군용물에 한정된다고 볼 수 없으며, 노적하지 않은 군용물도 군용물분실죄의 객체가 될 수 있습니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "20"
+    }
+}

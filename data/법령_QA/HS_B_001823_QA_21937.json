@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제52조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "건축물의 욕실이나 화장실의 바닥 마감재료는 어떤 조건을 충족해야 하나요?",
+        "output": "욕실, 화장실, 목욕장 등의 바닥 마감재료는 미끄럼을 방지할 수 있도록 국토교통부령으로 정하는 기준에 적합하여야 합니다. 이 내용은 건축법 제52조 제3항에 명시되어 있습니다.",
+        "originwordCnt": "132",
+        "labelwordCnt": "22"
+    }
+}

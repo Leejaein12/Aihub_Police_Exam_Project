@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "132241",
+        "caseName": "위계공무집행방해·사문서위조·위조사문서행사",
+        "caseNum": "2008노3690",
+        "sentenceDate": "2008.12.04",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인의 항소심 구금일수는 원심 형에 어떻게 반영되었나요?",
+        "output": "항소심 판결에서 피고인의 구금일수 중 39일이 원심판결의 형에 산입되었습니다. 따라서 항소심 선고 전 구금된 39일이 원심 형량에 포함되어 반영됩니다.",
+        "originwordCnt": "647",
+        "labelwordCnt": "19"
+    }
+}

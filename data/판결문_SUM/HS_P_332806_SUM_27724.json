@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332806",
+        "caseName": "강간미수",
+        "caseNum": "2023고합229",
+        "sentenceDate": "2024.06.11",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "강간하려 하였으나 피해자가 저항하여 범행이 미수에 그쳤습니다. 법원은 피고인이 자신의 잘못을 인정하고 반성하는 태도를 보였으며, 피해자와 합의해 피해자가 처벌을 원하지 않는 점 등을 참작해 형을 결정하였습니다. 피고인의 나이, 성행, 범행 동기 및 결과 등 모든 양형 요소를 고려하여 징역 1년 6개월에 처하지만, 2년간 집행을 유예하였습니다.",
+        "originwordCnt": "514",
+        "labelwordCnt": "45"
+    }
+}

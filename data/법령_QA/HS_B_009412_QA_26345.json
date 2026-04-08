@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009412",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19590",
+        "title": "산지관리법",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보전산지가 지정된 후 산림청장이 해야 할 일은 무엇인가요?",
+        "output": "산지관리법 제5조 제2항에 따르면 산림청장은 제1항에 따라 보전산지를 지정한 경우에는 대통령령으로 정하는 바에 따라 그 지정사실을 고시하고 관계 행정기관의 장에게 통보하여야 하며, 그 지정에 관한 관계 서류를 일반에게 공람하여야 합니다.",
+        "originwordCnt": "101",
+        "labelwordCnt": "30"
+    }
+}

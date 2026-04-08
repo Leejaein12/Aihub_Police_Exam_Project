@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335778",
+        "caseName": "재물손괴",
+        "caseNum": "2023고정312",
+        "sentenceDate": "2023.07.11",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "포클레인을 이용한 평탄화 작업 중 피해자 소유의 대나무 약 500주를 손괴하였습니다. 피고인은 피해자 소유의 토지 경계를 제대로 확인하지 않고 작업을 지시하여 이와 같은 범행이 발생하였으며, 손괴된 대나무는 자생 여부나 정확한 수량이 확인되지 않았습니다. 법원은 피고인에게 벌금 1,000,000원을 선고하였습니다.",
+        "originwordCnt": "290",
+        "labelwordCnt": "38"
+    }
+}

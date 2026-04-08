@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제205조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에서 공동설치와 선임에 따른 신고서에 명시해야 할 사항은 무엇인가요?",
+        "output": "공동설치와 선임의 경우 설치 또는 선임신고서에 그 사실과 공동설치 및 선임에 따른 비용 분담내역을 명시하여야 합니다. 공직선거법 제205조 제3항에 근거하고 있습니다.",
+        "originwordCnt": "108",
+        "labelwordCnt": "21"
+    }
+}

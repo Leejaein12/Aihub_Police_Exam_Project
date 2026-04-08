@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310165",
+        "caseName": "폭행등",
+        "caseNum": "2023고정121",
+        "sentenceDate": "2023.11.15",
+        "courtName": "창원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "PC방에서 피해자의 성명, 사진, 주거지가 포함된 게시물을 페이스북에 올려 피해자를 비방하였습니다. 이를 통해 정보통신망을 이용해 공공연하게 피해자의 명예를 훼손한 혐의로 기소되었습니다. 법원은 피고인의 행위가 정보통신망 이용촉진 및 정보보호 등에 관한 법률 제70조 제1항을 위반한 것으로 판단하고, 벌금 30만 원을 선고하였습니다.",
+        "originwordCnt": "152",
+        "labelwordCnt": "40"
+    }
+}

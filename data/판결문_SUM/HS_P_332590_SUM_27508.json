@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332590",
+        "caseName": "사기등",
+        "caseNum": "2023고단1043",
+        "sentenceDate": "2023.09.13",
+        "courtName": "수원지방법원 성남지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "업무상 보관하던 국고금 합계 97,347,910원을 횡령한 사실을 인정하였습니다. 회계업무 담당 공무원으로서 국고금을 개인 생활비나 도박자금으로 사용한 죄책이 무겁지만, 범행을 인정하고 반성하며 피해금을 반환한 점이 고려되어 형법 제356조 및 제355조 제1항에 따라 징역 10월을 선고하며 집행유예 2년을 명하였습니다.",
+        "originwordCnt": "660",
+        "labelwordCnt": "37"
+    }
+}

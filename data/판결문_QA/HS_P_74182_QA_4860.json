@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "74182",
+        "caseName": "습관성의약품관리법위반피고사건",
+        "caseNum": "76노1547",
+        "sentenceDate": "1976.11.30",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "유죄판결에서 증거의 요지를 명시하지 않은 경우, 그 판결은 어떤 문제가 발생하나요?",
+        "output": "유죄판결에서 증거의 요지를 명시하지 않은 것은 판결에 이유를 붙이지 않은 위법을 범한 것으로, 이는 형사소송법 제323조와 제364조에 따라 파기사유에 해당합니다.",
+        "originwordCnt": "25",
+        "labelwordCnt": "20"
+    }
+}

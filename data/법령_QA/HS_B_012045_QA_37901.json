@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012045",
+        "promulgDate": "20210608",
+        "effectDate": "20220101",
+        "promulgNum": "18213",
+        "title": "기초연금법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제20조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "독촉 후에도 환수금을 납부하지 않은 경우, 환수금은 어떻게 징수되나요?",
+        "output": "기초연금법 제20조 제3항에 따르면, 독촉을 받은 사람이 그 기한까지 환수금을 납부하지 않을 경우, 특별자치시장, 특별자치도지사, 시장, 군수, 구청장은 지방세 체납처분의 예에 따라 환수금을 징수할 수 있습니다.",
+        "originwordCnt": "61",
+        "labelwordCnt": "26"
+    }
+}

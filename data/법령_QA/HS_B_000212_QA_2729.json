@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000212",
+        "promulgDate": "20200811",
+        "effectDate": "20210408",
+        "promulgNum": "17472",
+        "title": "시체 해부 및 보존 등에 관한 법률",
+        "ministry": "보건복지부,질병관리청",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "변사체에 대해 해부를 진행하기 전에 필요한 절차는 무엇인가요?",
+        "output": "'시체 해부 및 보존 등에 관한 법률' 제7조 제1항에 따르면, 변사체 또는 변사한 것으로 의심되는 시체에 대해서는 「형사소송법」 제222조에 따른 검시를 받지 않고서는 해부할 수 없습니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "26"
+    }
+}

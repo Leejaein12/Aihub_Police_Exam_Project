@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002033",
+        "promulgDate": "20221227",
+        "effectDate": "20231228",
+        "promulgNum": "19138",
+        "title": "어장관리법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "어업인이나 양식업자는 어장에서 어떤 행위를 해서는 안 되나요?",
+        "output": "어장관리법 제13조 제1항에 따르면, 어업면허, 어업허가 또는 양식업면허를 받은 자와 그 종사자는 어업 활동 중 그물, 밧줄 등 어구와 양식시설물 등을 어장에 버리거나 내버려두어서는 안 됩니다.",
+        "originwordCnt": "95",
+        "labelwordCnt": "26"
+    }
+}

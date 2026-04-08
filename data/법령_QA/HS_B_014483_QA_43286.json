@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014483",
+        "promulgDate": "20230914",
+        "effectDate": "20240126",
+        "promulgNum": "19725",
+        "title": "해상교통안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제54조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "안전관리대행업 등록이 취소된 법인은 언제 다시 등록할 수 있나요?",
+        "output": "해상교통안전법 제54조제2항에 따르면 제56조에 따라 등록이 취소(법인의 대표자가 제19조제1호에 해당하여 등록이 취소된 경우는 제외한다)된 날부터 2년이 지나지 아니한 법인은 안전관리대행업을 등록할 수 없습니다.",
+        "originwordCnt": "36",
+        "labelwordCnt": "23"
+    }
+}

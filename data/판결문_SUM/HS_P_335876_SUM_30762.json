@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335876",
+        "caseName": "공연음란",
+        "caseNum": "2023고정694",
+        "sentenceDate": "2024.06.26",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자전거를 타고 지나가던 피해자에게 다가가 음란한 행위를 하여 공연음란죄로 기소되었습니다. 법원은 피고인의 범행을 인정하고, 형법 제245조에 따라 벌금 1,000,000원을 선고했습니다. 또한 성폭력 치료 프로그램 40시간 이수를 명하였으며, 아동·청소년 관련기관 등과 장애인관련기관에 각 1년간 취업을 제한하는 명령도 내렸습니다.",
+        "originwordCnt": "179",
+        "labelwordCnt": "37"
+    }
+}

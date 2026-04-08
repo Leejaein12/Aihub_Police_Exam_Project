@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "99612",
+        "caseName": "재심청구기각결정에대한재항고",
+        "caseNum": "84모48",
+        "sentenceDate": "1984.07.27",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형사소송법 제421조 제1항에서 정한 ‘항소 또는 상고기각판결’은 구체적으로 무엇을 의미하나요?",
+        "output": "형사소송법 제421조 제1항에서 언급하는 ‘항소 또는 상고의 기각판결’은 상고기각판결에 의해 확정된 1심 또는 항소심 판결을 의미하는 것이 아니라, 항소기각 또는 상고기각이라는 판결 그 자체를 의미합니다.",
+        "originwordCnt": "33",
+        "labelwordCnt": "25"
+    }
+}

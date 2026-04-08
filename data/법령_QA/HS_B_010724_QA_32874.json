@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010724",
+        "promulgDate": "20240206",
+        "effectDate": "20240507",
+        "promulgNum": "20224",
+        "title": "첨단의료복합단지 육성에 관한 특별법",
+        "ministry": "과학기술정보통신부,보건복지부,산업통상자원부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "첨단의료복합단지 규제 특례를 적용받는 자가 법을 따르지 않는 경우 어떻게 처리되나요?",
+        "output": "첨단의료복합단지 육성에 관한 특별법 제3조 제2항에 따르면, 규제 특례를 적용받는 자가 법을 따르지 않는 경우, 각 개별 법령이 적용됩니다.",
+        "originwordCnt": "55",
+        "labelwordCnt": "19"
+    }
+}

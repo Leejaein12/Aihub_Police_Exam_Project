@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "170644",
+        "caseName": "대통령긴급조치 위반·반공법 위반",
+        "caseNum": "2009재노53",
+        "sentenceDate": "2011.02.11",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 반공법 위반 혐의에 대해서는 어떻게 판단되었나요?",
+        "output": "피고인의 발언 내용은 대부분 개인적인 의견 표명에 불과하며, 국가의 존립과 안전을 위태롭게 하거나 자유민주적 기본질서에 위해를 줄 명백한 위험이 있다고 판단되지 않아 반공법 위반 혐의에 대한 증거가 부족하므로 무죄가 선고되었습니다.",
+        "originwordCnt": "2978",
+        "labelwordCnt": "30"
+    }
+}

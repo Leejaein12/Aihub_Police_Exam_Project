@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012046",
+        "promulgDate": "20240123",
+        "effectDate": "20240614",
+        "promulgNum": "20095",
+        "title": "발달장애인 권리보장 및 지원에 관한 법률",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "모든 국민은 발달장애인의 복지향상을 위해 어떤 책임을 가져야 하나요?",
+        "output": "발달장애인 권리보장 및 지원에 관한 법률 제5조에 따르면, 모든 국민은 발달장애인의 인격을 존중하고 사회통합의 이념에 기초하여 발달장애인의 복지향상에 협력해야 합니다.",
+        "originwordCnt": "14",
+        "labelwordCnt": "20"
+    }
+}

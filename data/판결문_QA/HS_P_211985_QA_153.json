@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "211985",
+        "caseName": "변호사법위반",
+        "caseNum": "82도1473",
+        "sentenceDate": "1982.09.14",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "상당한 이유 없이 상소를 제기한 경우, 미결구금일수를 얼마나 본형에 산입하지 않을 수 있나요?",
+        "output": "소송촉진등에관한특례법 제24조에 따르면, 상당한 이유 없이 상소를 제기한 경우 법원은 최소한의 미결구금일수를 본형에 산입하지 않을 수 있으며, 그 이상의 미결구금일수를 불산입하는 것도 가능합니다.",
+        "originwordCnt": "237",
+        "labelwordCnt": "23"
+    }
+}

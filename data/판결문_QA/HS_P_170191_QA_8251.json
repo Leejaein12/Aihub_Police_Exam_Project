@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "170191",
+        "caseName": "공직선거법 위반",
+        "caseNum": "2012고합283",
+        "sentenceDate": "2012.06.27",
+        "courtName": "광주지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인 1에게 선고된 형량과 추징 명령은 무엇인가요?",
+        "output": "해당 판결에서 피고인 1에게는 징역 1년 6월의 형이 선고되었으며, 5,000,000원을 추징하고 이에 상응하는 금액을 가납할 것을 명령하였습니다.",
+        "originwordCnt": "9491",
+        "labelwordCnt": "17"
+    }
+}

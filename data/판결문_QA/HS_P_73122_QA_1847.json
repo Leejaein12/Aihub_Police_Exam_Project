@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "73122",
+        "caseName": "강도상해등피고사건",
+        "caseNum": "72노998",
+        "sentenceDate": "1972.11.14",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "방조범의 범죄사실을 기소할 때, 정범의 범죄사실 특정 정도는 어떤 기준을 충족해야 하나요?",
+        "output": "방조범의 성립은 정범의 성립에 종속되므로, 방조범을 기소할 때 정범의 범죄사실에 대해서도 일시, 장소, 방법 등을 명시하여 사실을 특정하는 것이 형사소송법 제254조 4항의 정신에 부합합니다.",
+        "originwordCnt": "37",
+        "labelwordCnt": "24"
+    }
+}

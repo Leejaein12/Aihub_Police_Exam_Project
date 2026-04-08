@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010726",
+        "promulgDate": "20210615",
+        "effectDate": "20220616",
+        "promulgNum": "18284",
+        "title": "지진ㆍ화산재해대책법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "해안침수예상도 제작을 위하여 어떤 기관에 무엇을 요청할 수 있습니까?",
+        "output": "지진ㆍ화산재해대책법 제10조 제2항에 명시된 바와 같이, 해안침수예상도 제작을 위하여 육상의 지형도와 해상의 해도 등을 제작ㆍ관리하는 기관에 관련 도면 등의 제공을 요청할 수 있습니다.",
+        "originwordCnt": "150",
+        "labelwordCnt": "23"
+    }
+}

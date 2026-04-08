@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "154606",
+        "caseName": "특수절도·상습장물알선",
+        "caseNum": "72도1472",
+        "sentenceDate": "1972.08.31",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "상습장물알선죄는 어떤 경우에 성립하나요?",
+        "output": "상습장물알선죄는 장물알선의 습벽이 있는 자가 장물알선 범행을 여러 차례 반복하여 저지른 경우에 성립합니다. 형법 제363조 제1항에 따라, 반복적인 장물알선 행위가 있을 때 해당 죄로 처벌될 수 있습니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "27"
+    }
+}

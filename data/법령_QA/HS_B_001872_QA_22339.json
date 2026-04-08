@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001872",
+        "promulgDate": "20210518",
+        "effectDate": "20211119",
+        "promulgNum": "18176",
+        "title": "근로기준법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제65조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사용자는 어떤 사업에 임산부를 근로자로 사용하지 못 하나요?",
+        "output": "사용자는 임신 중이거나 산후 1년이 지나지 아니한 여성과 18세 미만자를 도덕상 또는 보건상 유해ㆍ위험한 사업에 사용하지 못합니다. 이는 근로기준법 제65조 제1항에 규정에 따릅니다.",
+        "originwordCnt": "53",
+        "labelwordCnt": "23"
+    }
+}

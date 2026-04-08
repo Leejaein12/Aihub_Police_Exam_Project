@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011584",
+        "promulgDate": "20230111",
+        "effectDate": "20230111",
+        "promulgNum": "01108",
+        "title": "군검찰 압수물 사무규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검찰서기는 어떤 상황에서 군검찰 압수물인 통화를 세입세출외 현금출납공무원에게 주어야 하나요?",
+        "output": "검찰서기는 군검사로부터 원형 보존 불필요 지휘를 받았을 때, 압수물인 통화를 세입세출외 현금출납공무원에게 주어야 합니다. 이는 군검찰 압수물 사무규칙 제21조제1항에 따른 것입니다.",
+        "originwordCnt": "79",
+        "labelwordCnt": "21"
+    }
+}

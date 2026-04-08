@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005630",
+        "promulgDate": "20200805",
+        "effectDate": "20200805",
+        "promulgNum": "30909",
+        "title": "형의 집행 및 수용자의 처우에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제111조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사형을 집행한 후 시신을 검사한 뒤 몇 분 동안 교수형에 사용한 줄을 풀지 못하나요?",
+        "output": "형의 집행 및 수용자의 처우에 관한 법률 시행령 제111조에 따르면 소장은 사형을 집행하였을 경우 시신을 검사한 후 5분이 지나지 아니하면 교수형에 사용한 줄을 풀지 못합니다.",
+        "originwordCnt": "20",
+        "labelwordCnt": "25"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010726",
+        "promulgDate": "20210615",
+        "effectDate": "20220616",
+        "promulgNum": "18284",
+        "title": "지진ㆍ화산재해대책법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제22조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "행정안전부장관이 국가차원의 내진성능목표 설정 및 내진등급 분류 등에 대해 수행해야 하는 것은 무엇인가요?",
+        "output": "지진ㆍ화산재해대책법 제22조 제2항에 명시된 바와 같이, 행정안전부장관은 국가차원의 내진성능목표 설정 및 내진등급 분류 등에 대한 연구와 기술개발을 하여야 합니다.",
+        "originwordCnt": "156",
+        "labelwordCnt": "19"
+    }
+}

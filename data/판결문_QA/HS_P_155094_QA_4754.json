@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155094",
+        "caseName": "살인등",
+        "caseNum": "70도923",
+        "sentenceDate": "1970.09.14",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법원재난에 기인한 민형사사건 임시조치법이 군법회의에 발생한 재난에도 적용될 수 있나요?",
+        "output": "이 발생한 경우에만 적용되는 법률로, 헌법 제106조에 따라 특별법원인 군법회의에 발생한 재난에는 적용되지 않습니다. 이 법은 법원재난에 기인한 민형사사건 임시조치법 제1조에 근거하고 있습니다.",
+        "originwordCnt": "160",
+        "labelwordCnt": "23"
+    }
+}

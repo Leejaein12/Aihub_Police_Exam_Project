@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312337",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단5286",
+        "sentenceDate": "2024.01.25",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.205%의 만취 상태에서 약 7km 구간을 운전한 피고인의 행위는 음주운전으로 인한 중대한 범법 행위로 판단되었습니다. 이에 법원은 피고인에게 징역 2년에 집행유예 3년을 선고하고, 보호관찰 2년, 사회봉사 200시간, 준법운전강의 40시간을 명령하였습니다.",
+        "originwordCnt": "187",
+        "labelwordCnt": "31"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "003655",
+        "promulgDate": "20221227",
+        "effectDate": "20221227",
+        "promulgNum": "33157",
+        "title": "보호관찰 등에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제45조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "갱생보호 대상자의 취업 지원은 결국 무엇을 위한 것 입니까?",
+        "output": "보호관찰 등에 관한 법률 시행령 제45조에 따르면 보호관찰 등에 관한 법률 제65조제1항제4호에 따른 취업 지원은 갱생보호 대상자에게 직장을 알선하고 필요한 경우 신원을 보증하는 것으로 합니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "25"
+    }
+}

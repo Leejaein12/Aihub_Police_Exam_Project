@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "205378",
+        "caseName": "공직선거법위반",
+        "caseNum": "2018노172",
+        "sentenceDate": "2018.06.14",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인들이 제보자료의 진위를 충분히 검증하지 않았다고 볼 수 있나요?",
+        "output": "피고인들은 제보자료의 내용이 신빙성이 부족하다는 점을 인식할 수 있었음에도 불구하고, 이를 충분히 검증하지 않고 기자회견을 통해 공표했습니다. 이는 허위사실을 공표한 행위로 인정되었습니다. 형법 제250조 제2항에 따라 판단합니다.",
+        "originwordCnt": "9172",
+        "labelwordCnt": "27"
+    }
+}

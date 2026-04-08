@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011175",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19886",
+        "title": "국민영양관리법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "누구든지 영양관리사업을 통해 건강을 증진할 권리가 있나요?",
+        "output": "국민영양관리법 제5조 제1항 규정에 따르면 누구든지 영양관리사업을 통하여 건강을 증진할 권리를 가지며 성별 연령 종교 사회적 신분 또는 경제적 사정 등을 이유로 이에 대한 권리를 침해받지 아니합니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "27"
+    }
+}

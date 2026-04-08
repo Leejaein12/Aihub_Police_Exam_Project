@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001719",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "국가공무원법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제33조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "파산선고를 받은 사람은 공무원으로 임용될 수 있나요?",
+        "output": "국가공무원법 제33조 제2호에 따르면 파산선고를 받고 복권되지 않은 사람은 공무원으로 임용될 수 없습니다.",
+        "originwordCnt": "231",
+        "labelwordCnt": "13"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335601",
+        "caseName": "폭행",
+        "caseNum": "2023고정230",
+        "sentenceDate": "2024.03.14",
+        "courtName": "전주지방법원 군산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "말다툼 중 피해자의 가슴을 손으로 밀치고 신발로 피해자의 머리를 때린 후 피해자의 팔을 물어 폭행한 혐의로 기소되었습니다. 그러나 형법 제260조 제3항에 따라 피해자의 명시한 의사에 반해 공소를 제기할 수 없고, 피해자가 피고인의 처벌을 원하지 않는다는 합의서를 제출하였으므로, 형사소송법 제327조 제6호에 의거하여 공소가 기각되었습니다.",
+        "originwordCnt": "140",
+        "labelwordCnt": "43"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318246",
+        "caseName": "공무집행방해",
+        "caseNum": "2023고단5049",
+        "sentenceDate": "2024.06.12",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "편의점에서 비상벨 신고를 받고 출동한 경찰관을 폭행하여 공무집행을 방해한 혐의로 기소되었습니다. 법원은 피고인이 조현병으로 치료를 받고 있어 범행에 그 질환의 영향이 있었던 점을 참작하였고, 형사처벌 전력이 없는 점도 고려하였습니다. 이를 종합하여 벌금 500만 원을 선고하고, 벌금을 납부하지 않을 경우 노역장에 유치하는 명령을 내렸습니다.",
+        "originwordCnt": "193",
+        "labelwordCnt": "43"
+    }
+}

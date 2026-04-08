@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "233255",
+        "caseName": "살인등피고사건",
+        "caseNum": "69노64",
+        "sentenceDate": "1969.05.21",
+        "courtName": "광주고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "작량감경을 할 수 있는 조건은 무엇인가요?",
+        "output": "형법 제53조에 의한 작량감경은 그 죄의 법정형의 최저형으로 처단하더라도 그 형이 무겁다고 사료되는 경우에만 할 수 있습니다.",
+        "originwordCnt": "27",
+        "labelwordCnt": "17"
+    }
+}

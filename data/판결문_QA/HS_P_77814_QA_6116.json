@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "77814",
+        "caseName": "특정범죄가중처벌등에관한법률위반(절도)",
+        "caseNum": "2006노301",
+        "sentenceDate": "2006.05.25",
+        "courtName": "전주지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "검사는 왜 피고인에 대한 원심의 형이 부당하다고 주장했나요?",
+        "output": "검사는 피고인에 대한 원심의 형이 너무 가벼워 부당하다고 주장하였으나, 범행의 기간, 수법, 절취 금액을 종합적으로 고려했을 때 원심의 형량은 적절하다고 판단되었습니다. 따라서 검사의 항소는 기각되었습니다.",
+        "originwordCnt": "257",
+        "labelwordCnt": "25"
+    }
+}

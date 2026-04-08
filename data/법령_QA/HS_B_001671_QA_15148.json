@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "단독판사의 관할사건이 공소장변경에 의해 합의부 관할사건으로 변경될 때 법원은 어떤 결정을 내릴 수 있습니까?",
+        "output": "형사소송법 제8조 제2항에 따르면 단독판사의 관할사건이 공소장변경에 의하여 합의부 관할사건으로 변경된 경우에 법원은 결정으로 관할권이 있는 법원에 이송합니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "18"
+    }
+}

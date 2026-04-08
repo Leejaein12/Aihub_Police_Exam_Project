@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001538",
+        "promulgDate": "20231226",
+        "effectDate": "20240627",
+        "promulgNum": "19853",
+        "title": "신용협동조합법",
+        "ministry": "금융위원회",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "신용협동조합의 등기와 관련된 특별한 서류가 있나요?",
+        "output": "'신용협동조합법' 제4조제2항에 따르면, 등기소는 '신용협동조합등기부”를 따로 갖추어 두어야 합니다.",
+        "originwordCnt": "30",
+        "labelwordCnt": "9"
+    }
+}

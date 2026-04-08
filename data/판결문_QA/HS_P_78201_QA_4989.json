@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78201",
+        "caseName": "공직선거법위반·정치자금법위반",
+        "caseNum": "2006고합41",
+        "sentenceDate": "2006.07.14",
+        "courtName": "창원지방법원통영지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "가벌성이 크지 않다고 판단된 이유는 무엇인가요?",
+        "output": "금품 제공이 공천과 관련이 없고, 과거 친분으로 경제적 도움을 주고받았던 점을 고려하여 가벌성이 크지 않다고 판단되어 벌금 70만 원이 선고되었습니다.",
+        "originwordCnt": "7324",
+        "labelwordCnt": "20"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "325745",
+        "caseName": "사기등",
+        "caseNum": "2021노4146",
+        "sentenceDate": "2022.09.28.",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "대전지방법원 제4형사부는 피고인이 보이스피싱 범죄와 관련하여 공모하지 않았음을 인정하고, 유죄 판단이 잘못되었다고 결론지었다. 피고인은 범행을 인식하지 못했으며, 업무가 불법이라는 점을 의심하여 경찰에 상담을 요청한 사실이 이를 뒷받침한다. 이로 인해 원심 판결을 파기하고 무죄를 선고하였다. 따라서, 피고인은 이 사건에 대해 무죄입니다.",
+        "originwordCnt": "1697",
+        "labelwordCnt": "41"
+    }
+}

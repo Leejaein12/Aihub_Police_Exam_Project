@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78397",
+        "caseName": "절도",
+        "caseNum": "2007노418",
+        "sentenceDate": "2007.04.18",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인은 범행 당시 심신장애 상태였다는 주장이 인정되지 않은 이유는 무엇인가요?",
+        "output": "피고인이 범행 당시 술을 마신 상태였음은 일부 인정되나, 기록에 나타난 피고인의 평소 주량과 범행 후의 정황 등을 고려할 때, 피고인이 사물을 변별하거나 의사를 결정할 능력이 없었다고 보기 어려워 심신장애 주장은 받아들여지지 않았습니다.",
+        "originwordCnt": "345",
+        "labelwordCnt": "32"
+    }
+}

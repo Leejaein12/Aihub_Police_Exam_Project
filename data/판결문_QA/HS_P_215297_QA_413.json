@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "215297",
+        "caseName": "업무상횡령",
+        "caseNum": "4287형상32",
+        "sentenceDate": "1955.02.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "신구 형법의 형량을 비교할 때, 어떤 기준에 따라 신법을 적용해야 하나요?",
+        "output": "형법 제1조와 형법 부칙 제2조에 따르면, 신구법의 형량을 비교할 때 동일한 형종과 형기라도 신법에 선택형이 있어 경한 형이 존재하면 신법을 적용해야 합니다.",
+        "originwordCnt": "29",
+        "labelwordCnt": "22"
+    }
+}

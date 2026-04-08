@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011019",
+        "promulgDate": "20240213",
+        "effectDate": "20240517",
+        "promulgNum": "20309",
+        "title": "산림보호법",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제21조의10",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "등록이 취소된 나무병원은 얼마 동안 다시 등록할 수 없나요?",
+        "output": "산림보호법 제21조의10 제2항에 따르면 등록이 취소된 후 3년이 지나지 아니한 자는 등록을 할 수 없습니다.",
+        "originwordCnt": "226",
+        "labelwordCnt": "15"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001692",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19582",
+        "title": "형법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제41조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "형법상 형의 종류에는 어떤 것들이 있는가요?",
+        "output": "형법 제41조에 의거하여, 형의 종류는 다음과 같습니다. 1. 사형 2. 징역 3. 금고 4. 자격상실 5. 자격정지 6. 벌금 7. 구류 8. 과료 9. 몰수",
+        "originwordCnt": "25",
+        "labelwordCnt": "34"
+    }
+}

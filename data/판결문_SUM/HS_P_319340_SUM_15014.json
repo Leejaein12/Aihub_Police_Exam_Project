@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319340",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고정59",
+        "sentenceDate": "2024.07.12",
+        "courtName": "서울북부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.112%의 상태에서 약 3.8km 구간을 운전한 사실이 인정되어 도로교통법 제148조의2 제3항 제2호 및 제44조 제1항을 적용받아 벌금 600만 원의 형을 선고받았습니다. 법원은 피고인의 음주운전 사실에 대해 증거로 제시된 음주측정기 출력용지 및 주취운전자 정황진술보고서 등을 종합하여 판결을 내렸습니다.",
+        "originwordCnt": "143",
+        "labelwordCnt": "38"
+    }
+}

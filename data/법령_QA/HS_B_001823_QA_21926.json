@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제49조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가 또는 지방자치단체는 건축물의 소유자나 관리자에게 어떤 기술지원을 할 수 있습니까?",
+        "output": "건축법 제49조의2에 따르면, 국가 또는 지방자치단체는 건축물의 소유자나 관리자에게 제49조 제1항 및 제2항에 따른 피난시설 등의 설치, 개량·보수 등 유지·관리에 대한 기술지원을 할 수 있습니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "25"
+    }
+}

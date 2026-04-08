@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001513",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19754",
+        "title": "식물방역법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제12조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "병해충 전염우려물품의 검역 절차와 소독 방법은 어떻게 정해지나요?",
+        "output": "'식물방역법' 제12조의3 제3항에 따르면, 제1항 및 제2항에 따른 병해충 전염우려물품의 검역 절차, 소독 및 폐기 방법 등 필요한 사항은 농림축산식품부령으로 정합니다.",
+        "originwordCnt": "59",
+        "labelwordCnt": "21"
+    }
+}

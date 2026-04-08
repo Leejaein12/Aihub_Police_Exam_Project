@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001791",
+        "promulgDate": "20230613",
+        "effectDate": "20231214",
+        "promulgNum": "19442",
+        "title": "결핵예방법",
+        "ministry": "질병관리청",
+        "fullText": "N",
+        "smClass": "제15조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "결핵을 전염시킬 우려가 있다고 인정한 사람의 입원 방법 및 절차 등에 관하여 필요한 세부사항은 무엇으로 정합니까?",
+        "output": "결핵예방법 제15조 제3항에 명시된 바와 같이, 제1항에 따른 입원 방법 및 절차 등에 관하여 필요한 세부사항은 대통령령으로 정합니다.",
+        "originwordCnt": "78",
+        "labelwordCnt": "18"
+    }
+}

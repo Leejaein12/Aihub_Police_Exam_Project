@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제41조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "건축공사시공자가 토지를 굴착하거나 매립할 때 어떤 조치를 해야 합니까?",
+        "output": "공사시공자는 토지를 굴착하거나 매립할 때 비탈면 붕괴 방지, 토사 유출 방지, 환경 보존 등의 조치를 한 후 해당 공사현장에 그 사실을 게시해야 합니다. 이 내용은 건축법 제41조 제1항에 규정되어 있습니다.",
+        "originwordCnt": "65",
+        "labelwordCnt": "30"
+    }
+}

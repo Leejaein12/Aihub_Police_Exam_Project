@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "006845",
+        "promulgDate": "20200203",
+        "effectDate": "20200203",
+        "promulgNum": "01010",
+        "title": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 시행규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제17조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군교정시설의 의료시설에 대한 세부종류 및 설치기준은 누가 정하나요?",
+        "output": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 시행규칙 제17조 제3항에 의거하여, 의료시설의 세부종류 및 설치기준은 국방부장관이 정합니다.",
+        "originwordCnt": "53",
+        "labelwordCnt": "18"
+    }
+}

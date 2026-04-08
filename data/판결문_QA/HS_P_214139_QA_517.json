@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "214139",
+        "caseName": "폭력행위등처벌에관한법률위반",
+        "caseNum": "78도2617",
+        "sentenceDate": "1978.12.13",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "폭력행위가 정당행위로 인정될 수 있는 기준은 무엇인가요?",
+        "output": "피해자의 행위로 인해 피고인 등의 법익이 침해된 경우, 피고인 등이 행한 폭력행위가 그 목적이나 수단에서 상당하다고 인정되면, 이는 사회상규에 위배되지 않는 정당행위로 볼 수 있습니다. 형법 제20조에 따르면, 이러한 행위는 위법성이 없다고 판단됩니다.",
+        "originwordCnt": "38",
+        "labelwordCnt": "33"
+    }
+}

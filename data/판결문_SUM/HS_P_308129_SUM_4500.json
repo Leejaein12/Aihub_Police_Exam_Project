@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "308129",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2021고단103",
+        "sentenceDate": "2021. 4. 28.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알콜농도 0.118% 상태에서 자동차를 운전하여 도로교통법을 2회 이상 위반한 혐의로 기소되었습니다. 피고인은 음주운전으로 처벌받은 전력이 있어, 법원은 피고인에게 1,500만 원의 벌금을 선고하였습니다. 양형 결정은 피고인의 범행 경위와 전과 등을 고려하여 내려졌습니다.",
+        "originwordCnt": "202",
+        "labelwordCnt": "31"
+    }
+}

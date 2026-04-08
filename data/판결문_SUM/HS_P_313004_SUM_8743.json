@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313004",
+        "caseName": "사기",
+        "caseNum": "2023고정558",
+        "sentenceDate": "2024.05.23",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2019년 피해자로부터 금전을 빌리면서 이를 갚을 의사나 능력이 없었음에도, 고수익을 미끼로 속여 555만 원을 송금받아 사기죄를 범했습니다. 피해자를 기망하여 재물을 취득한 피고인의 범죄사실은 경찰 진술조서, 고소장, 계좌이체 내역 등으로 증명되었습니다. 법원은 형법 제347조 제1항에 따라 피고인에게 벌금 250만 원을 선고하였습니다.",
+        "originwordCnt": "221",
+        "labelwordCnt": "40"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "153325",
+        "caseName": "형집행유예선고취소",
+        "caseNum": "66모25",
+        "sentenceDate": "1966.07.27",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "동시에 확정된 두 개의 집행유예 판결이 형법 제64조에서 규정한 집행유예 취소 사유에 해당하나요?",
+        "output": "동시에 확정된 두 개의 집행유예 판결은 형법 제64조에서 규정한 집행유예의 선고를 받은 후에 제62조 단행의 사유가 발각된 경우에 해당하지 않으므로, 집행유예 취소 사유로 볼 수 없습니다.",
+        "originwordCnt": "63",
+        "labelwordCnt": "26"
+    }
+}

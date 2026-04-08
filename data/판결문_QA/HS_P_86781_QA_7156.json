@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86781",
+        "caseName": "수뢰증뢰물전달",
+        "caseNum": "4294형상238",
+        "sentenceDate": "1961.10.12",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "원심에서 1심보다 불리하게 몰수를 추가 선고한 경우, 불이익 변경 금지 원칙에 위배되나요?",
+        "output": "원심이 1심보다 불리하게 몰수를 추가 선고한 경우, 이는 불이익 변경 금지 원칙에 위배됩니다. 피고인에게 불리하게 원판결을 변경하는 것은 허용되지 않으며, 이를 적용하지 않은 판결은 법률 적용의 오류에 해당합니다.",
+        "originwordCnt": "279",
+        "labelwordCnt": "28"
+    }
+}

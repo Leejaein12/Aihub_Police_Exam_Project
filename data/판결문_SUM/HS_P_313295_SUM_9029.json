@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313295",
+        "caseName": "폭행",
+        "caseNum": "2024고정177",
+        "sentenceDate": "2024.06.19",
+        "courtName": "부산지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "마을버스 운전사가 앞서가던 차량의 운전 방식에 화가 나 폭행을 가하였고, 이에 대항하여 마을버스 운전사를 폭행하였습니다. 법원은 차량 운전자가 목을 밀치고 마스크를 벗기는 등의 폭행을 한 사실을 인정하여 형법 제260조 제1항에 따라 벌금 50만 원을 선고하였습니다.",
+        "originwordCnt": "181",
+        "labelwordCnt": "35"
+    }
+}

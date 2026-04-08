@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "160600",
+        "caseName": "횡령",
+        "caseNum": "2011노1681",
+        "sentenceDate": "2011.09.09",
+        "courtName": "대구지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법원이 검사의 항소를 기각한 이유는 무엇인가요?",
+        "output": "주문에 따르면, 법원은 검사의 항소를 받아들이지 않고 기각하였습니다. 원심판결을 변경할 충분한 사유가 없다고 판단하여 검사의 주장을 기각한 것으로 볼 수 있습니다.",
+        "originwordCnt": "203",
+        "labelwordCnt": "21"
+    }
+}

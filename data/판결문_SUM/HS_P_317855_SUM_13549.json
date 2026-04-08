@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317855",
+        "caseName": "주거침입",
+        "caseNum": "2021노1070",
+        "sentenceDate": "2023.08.29",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "주거침입 사건에서 피고인은 피해자의 주거에 반복적으로 찾아가 상당한 불안감을 초래한 점이 불리하게 작용하였습니다. 그러나 피고인이 초범이며 정신적 건강 문제를 지닌 점이 유리하게 작용하였습니다. 양형에 대한 자료가 새로 제출되지 않아 원심의 형이 합리적 범위 내에 있음을 인정하며, 검사의 항소는 이유가 없으므로 기각되었습니다.",
+        "originwordCnt": "157",
+        "labelwordCnt": "41"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "224033",
+        "caseName": "업무상횡령등피고사건",
+        "caseNum": "84노138",
+        "sentenceDate": "1984.04.24",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "민사소송법 제420조에 근거하여 증거보전이 필요한 경우는 언제인가요?",
+        "output": "민사소송법 제420조에 따르면, 소송에서 중요한 증거가 후에 사용할 수 없게 되거나 사용이 현저히 곤란할 우려가 있는 경우 증거보전이 가능합니다. 이는 소송에서 증거를 보존하여 이후에 공정하게 사용할 수 있도록 하기 위한 절차입니다.",
+        "originwordCnt": "444",
+        "labelwordCnt": "31"
+    }
+}

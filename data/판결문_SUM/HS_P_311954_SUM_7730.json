@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311954",
+        "caseName": "사기등",
+        "caseNum": "2023고단2479",
+        "sentenceDate": "2023.08.10",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "주점에서 함께 술을 마시던 피해자의 지갑을 절취하였고, 이후 피해자의 체크카드를 사용하여 총 5회에 걸쳐 40만원 상당의 물품을 구입하고 도난당한 카드를 부정하게 사용한 혐의로 기소되었습니다. 법원은 피고인이 동종 범죄로 여러 차례 처벌받은 전력이 있고, 피해가 회복되지 않았다는 점에서 죄책이 무겁다고 판단하여 징역 3개월의 실형을 선고했습니다.",
+        "originwordCnt": "420",
+        "labelwordCnt": "44"
+    }
+}

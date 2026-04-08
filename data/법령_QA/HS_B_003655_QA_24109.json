@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "003655",
+        "promulgDate": "20221227",
+        "effectDate": "20221227",
+        "promulgNum": "33157",
+        "title": "보호관찰 등에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제41조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "갱생보호대상자의 숙식 제공의 기간은 어떻게 정해지나요?",
+        "output": "보호관찰 등에 관한 법률 시행령 제41조 제2항에 따르면 동조 제1항의 규정에 의한 숙식제공은 6월을 초과할 수 없다. 다만, 필요하다고 인정하는 때에는 매회 6월의 범위내에서 3회에 한하여 그 기간을 연장할 수 있습니다.",
+        "originwordCnt": "63",
+        "labelwordCnt": "31"
+    }
+}

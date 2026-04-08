@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001676",
+        "promulgDate": "20230725",
+        "effectDate": "20240126",
+        "promulgNum": "19573",
+        "title": "특정범죄 가중처벌 등에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제5조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "약취나 유인죄를 범한 사람을 은닉하거나 도피하게 한 경우에는 어떤 가중처벌을 받나요?",
+        "output": "약취나 유인죄를 범한 사람을 은닉하거나 도피하게 한 경우에는 3년 이상 25년 이하의 징역에 처합니다. 이는 특정범죄 가중처벌 등에 관한 법률 제5조의2 제7항에 규정되어 있습니다.",
+        "originwordCnt": "249",
+        "labelwordCnt": "24"
+    }
+}

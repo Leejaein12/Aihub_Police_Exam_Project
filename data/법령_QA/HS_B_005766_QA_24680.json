@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005766",
+        "promulgDate": "20210129",
+        "effectDate": "20210129",
+        "promulgNum": "02949",
+        "title": "마약류범죄 등의 몰수보전 등에 관한 규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "마약류범죄 등의 몰수보전 등에 관한 규칙 규정상, 추징보전의 청구는 어떤 방식으로 하여야 합니까?",
+        "output": "추징보전의 청구는 서면으로 하여야 합니다. 이는 마약류범죄 등의 몰수보전 등에 관한 규칙 제21조에 명시되어 있습니다.",
+        "originwordCnt": "8",
+        "labelwordCnt": "15"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001740",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19772",
+        "title": "선원법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "실습선원에게 선원법의 규정이 어떻게 적용됩니까?",
+        "output": "선원법 제3조 제2항에 따르면 실습선원에게도 해양수산부령으로 정하는 바에 따라 선원에 관한 규정을 적용합니다. 이 규정은 실습선원에 대해 선원법을 어떻게 적용할지 명확히 규정하고 있습니다.",
+        "originwordCnt": "127",
+        "labelwordCnt": "23"
+    }
+}

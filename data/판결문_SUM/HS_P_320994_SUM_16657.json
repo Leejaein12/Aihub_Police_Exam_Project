@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "320994",
+        "caseName": "도로교통법위반(사고후미조치)등",
+        "caseNum": "2023고정324",
+        "sentenceDate": "2024.01.19",
+        "courtName": "부산지방법원 동부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "어느 지역에서 게임장을 운영하면서 게임물관리위원회의 등급분류를 받지 않은 슬롯머신류 게임물을 이용할 수 있도록 제공한 사실이 확인되었습니다. 관련 법령에 따르면, 해당 행위는 법률 위반으로 간주되어 이에 따라 벌금형이 부과되었습니다. 따라서, 벌금 250만 원을 납부해야 하며, 압수된 증거는 몰수되었습니다.",
+        "originwordCnt": "177",
+        "labelwordCnt": "37"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335524",
+        "caseName": "절도",
+        "caseNum": "2023고정503",
+        "sentenceDate": "2023.09.19",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "커튼이 들어 있는 택배상자를 절취한 혐의로 기소되었습니다. 피고인은 범행을 인정하였고, 피해물품이 손상 없이 반환된 점, 피고인의 건강 상태가 좋지 않고 고령인 점 등을 고려하여 법원은 벌금 500,000원을 선고하고, 1년간 집행유예를 부여하였습니다.",
+        "originwordCnt": "224",
+        "labelwordCnt": "31"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001622",
+        "promulgDate": "20240206",
+        "effectDate": "20240507",
+        "promulgNum": "20191",
+        "title": "병역법",
+        "ministry": "국방부,병무청",
+        "fullText": "N",
+        "smClass": "제31조의6",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "복무기관의 장은 복무기관 내 괴롭힘 발생 사실을 신고한 사회복무요원에게 어떤 처우를 해서는 안 되나요?",
+        "output": "병역법 제31조의6 제9항에 따르면 복무기관의 장은 복무기관 내 괴롭힘 발생 사실을 신고한 사회복무요원 및 피해사회복무요원등에게 불리한 처우를 하여서는 아니 됩니다.",
+        "originwordCnt": "304",
+        "labelwordCnt": "20"
+    }
+}

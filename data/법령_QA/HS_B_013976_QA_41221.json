@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013976",
+        "promulgDate": "20240524",
+        "effectDate": "20240524",
+        "promulgNum": "00483",
+        "title": "경찰수사규칙",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제27조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사법경찰관은 검시 또는 검증 결과 범죄로 인한 사망이라고 판단할 때 어떻게 해야 하나요?",
+        "output": "경찰수사규칙 제27조제2항에 따라 사법경찰관은 형사소송법 제222조에 따른 검시 또는 검증 결과 사망의 원인이 범죄로 인한 것으로 판단하는 경우에는 신속하게 수사를 개시해야 합니다.",
+        "originwordCnt": "50",
+        "labelwordCnt": "22"
+    }
+}

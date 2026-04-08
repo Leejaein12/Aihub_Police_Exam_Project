@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312245",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단738",
+        "sentenceDate": "2023.09.13",
+        "courtName": "광주지방법원 순천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "이전에 여러 차례 도로교통법위반(음주운전)으로 처벌받은 전력이 있음에도 불구하고, 혈중알코올농도 0.211%의 상태로 약 15km 구간을 운전하여 도로교통상 위험을 야기한 혐의로 기소되었습니다. 피고인은 과거 10년 내에 동종 범죄로 네 차례 처벌받았고, 재범 위험성이 높다고 판단되어 징역 2년형이 선고되었습니다.",
+        "originwordCnt": "259",
+        "labelwordCnt": "36"
+    }
+}

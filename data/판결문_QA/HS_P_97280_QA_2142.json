@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "97280",
+        "caseName": "국가보안법위반·반공법위반·계엄법위반",
+        "caseNum": "82도2672",
+        "sentenceDate": "1983.02.08",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "반국가단체의 구성원 간에도 국가보안법상의 회합죄가 성립할 수 있나요?",
+        "output": "국가보안법 제8조 제1항과 폐지된 반공법 제5조 제1항에 의하면, 반국가단체의 구성원 간에도 상대방이 반국가단체의 구성원 또는 그 지령을 받은 자라면 회합죄가 성립할 수 있습니다.",
+        "originwordCnt": "1743",
+        "labelwordCnt": "23"
+    }
+}

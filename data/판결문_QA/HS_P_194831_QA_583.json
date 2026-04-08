@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "194831",
+        "caseName": "재물손괴·건조물침입",
+        "caseNum": "2016노2014",
+        "sentenceDate": "2017.06.15",
+        "courtName": "서울동부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 운영하는 회사가 아파트의 소유자가 아닌 이유는 무엇인가요?",
+        "output": "피고인이 운영하는 회사는 아파트의 소유자가 아니라 소유권이전등기청구권만을 보유하고 있었기 때문에, 피고인의 행위는 타인의 재물을 손괴하고 건조물에 침입한 것으로 판단되었습니다.",
+        "originwordCnt": "244",
+        "labelwordCnt": "19"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "220693",
+        "caseName": "의료기기법위반·상표법위반",
+        "caseNum": "2008고단6672",
+        "sentenceDate": "2008.12.11",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "미결 구금일수는 어떻게 형에 산입되나요?",
+        "output": "형법 제57조에 의거하여, 미결 구금일수는 실제 선고된 형에 산입됩니다. 이 사건에서도 피고인들의 미결 구금일수가 각 형량에 산입되었습니다.",
+        "originwordCnt": "1817",
+        "labelwordCnt": "17"
+    }
+}

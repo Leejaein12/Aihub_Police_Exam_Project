@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311251",
+        "caseName": "상해",
+        "caseNum": "2023고단1250",
+        "sentenceDate": "2023.08.22",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공사대금 문제로 피해자와 다투던 피고인은 피해자의 멱살을 잡아 흔들고 주먹으로 얼굴을 때리는 등의 폭행을 가해 약 3주간 치료가 필요한 뇌진탕 등의 상해를 입혔습니다. 피고인은 자신의 잘못을 인정하고 반성하며 피해자에게 손해배상을 지급하여 합의한 점이 고려되어, 벌금 200만 원이 선고되었습니다.",
+        "originwordCnt": "251",
+        "labelwordCnt": "38"
+    }
+}

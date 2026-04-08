@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312571",
+        "caseName": "사기등",
+        "caseNum": "2022노2277",
+        "sentenceDate": "2023.07.05",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심은 피고인이 다수의 피해자를 대상으로 범행을 저질렀고, 피해금액이 1억 원을 초과하는 점을 고려하여 형을 정하였으며, 피고인의 반성과 범행 경과를 종합적으로 판단한 결과 원심의 양형이 재량의 합리적 범위를 벗어나지 않았음을 확인하였습니다. 또한, 추징금에 대해서는 법원의 재량에 따른 판단이 정당하다고 하여 검사의 항소는 기각되었습니다.",
+        "originwordCnt": "759",
+        "labelwordCnt": "42"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010602",
+        "promulgDate": "20230620",
+        "effectDate": "20240621",
+        "promulgNum": "19499",
+        "title": "수산생물질병 관리법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제37조의7",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "수산질병관리사 국가시험에서 부정행위를 한 사람에 대한 처벌은 무엇인가요?",
+        "output": "수산생물질병 관리법 제37조의7 제1항에 따라, 수산질병관리사 국가시험에서 부정행위를 한 사람은 그 시험이 정지되거나 그 합격이 무효로 처리됩니다.",
+        "originwordCnt": "44",
+        "labelwordCnt": "17"
+    }
+}

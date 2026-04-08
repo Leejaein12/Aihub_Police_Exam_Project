@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013928",
+        "promulgDate": "20230725",
+        "effectDate": "20240126",
+        "promulgNum": "19573",
+        "title": "군사경찰의 직무수행에 관한 법률",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군사경찰부대가 설치된 부대의 장은 군사경찰 관련 어떤 역할을 하나요?",
+        "output": "군사경찰의 직무수행에 관한 법률 제5조 제4항에 의거하면, 군사경찰부대가 설치된 부대의 장은 소관 군사경찰 직무를 관장하고 소속 군사경찰을 지휘 및 감독하는 역할을 합니다.",
+        "originwordCnt": "163",
+        "labelwordCnt": "22"
+    }
+}

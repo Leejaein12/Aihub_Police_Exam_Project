@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328374",
+        "caseName": "사기등",
+        "caseNum": "2024고단199",
+        "sentenceDate": "2024.03.20.",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "보이스피싱 범죄 조직에서 현금수거책과 전달책으로 역할을 수행하며 금전을 교부받은 사기 범행을 저질렀습니다. 법원은 형법 제347조 제1항 및 제30조 등을 적용하여 피고인 A에게 징역 2년, 피고인 B에게 징역 3개월을 선고하였고, 피해 회복이 이루어지지 않았으며 배상책임 범위가 명백하지 않다고 판단하여 배상신청을 각하하였습니다.",
+        "originwordCnt": "1249",
+        "labelwordCnt": "40"
+    }
+}

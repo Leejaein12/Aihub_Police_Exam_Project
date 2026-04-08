@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011168",
+        "promulgDate": "20220610",
+        "effectDate": "20220610",
+        "promulgNum": "18913",
+        "title": "석면피해구제법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제19조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "요양급여의 지급이 제한될 수 있는 경우는 어떤 경우인가요?",
+        "output": "기술원은 피인정자가 고의 또는 중대한 과실로 해당 질병의 상태를 악화시키거나 치유를 방해한 것으로 인정되는 경우, 요양급여 등의 전부 또는 일부의 지급을 중단할 수 있습니다. 이는 「석면피해구제법」 제19조 제1항에 명시되어 있습니다.",
+        "originwordCnt": "58",
+        "labelwordCnt": "30"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "160370",
+        "caseName": "강제 집행 면탈",
+        "caseNum": "2009노1479",
+        "sentenceDate": "2010.03.19",
+        "courtName": "전주지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "부동산을 유한회사에 양도한 행위가 왜 허위양도에 해당한다고 판단되었나요?",
+        "output": "부동산을 유한회사에 양도한 행위는 실제 양도의사가 없는 명의 변경에 불과하여 허위양도에 해당한다고 판단되었습니다. 법원은 이를 바탕으로 원심판결을 파기하고, 벌금 400만 원을 부과하였습니다.",
+        "originwordCnt": "1319",
+        "labelwordCnt": "22"
+    }
+}

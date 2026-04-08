@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "188040",
+        "caseName": "배임수재(인정된죄명뇌물수수)",
+        "caseNum": "2013노2778",
+        "sentenceDate": "2014.10.17",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 공무원으로 의제되어 뇌물죄로 처벌받을 수 있는지 여부는 무엇에 따라 결정되나요?",
+        "output": "피고인은 공공기관운영법에 따라 준정부기관인 도로교통공단의 직원으로서 공무원으로 의제되며, 이로 인해 형법상 뇌물죄로 처벌받을 수 있습니다.",
+        "originwordCnt": "2663",
+        "labelwordCnt": "15"
+    }
+}

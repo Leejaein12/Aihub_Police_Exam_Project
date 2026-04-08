@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제275조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검사와 피고인, 변호인의 좌석 배치는 어떻게 됩니까?",
+        "output": "형사소송법 제275조제3항에 따르면 검사의 좌석과 피고인 및 변호인의 좌석은 대등하며, 법대의 좌우측에 마주 보고 위치하고, 증인의 좌석은 법대의 정면에 위치합니다. 다만, 피고인신문을 하는 때에는 피고인은 증인석에 좌석합니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "27"
+    }
+}

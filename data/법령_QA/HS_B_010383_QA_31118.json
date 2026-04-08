@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010383",
+        "promulgDate": "20220610",
+        "effectDate": "20230611",
+        "promulgNum": "18911",
+        "title": "잔류성오염물질 관리법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제25조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "오염기기등의 소유자는 어떤 안전관리상의 조치를 취하여야 합니까?",
+        "output": "잔류성오염물질 관리법 제25조 제1항 제1호와 제2호에 명시된 바와 같이, 오염기기등의 소유자는 다음 각 호의 안전관리상의 조치를 취하여야 합니다.1. 안전관리상 주의사항의 표시2. 오염 여부에 대한 식별장치의 부착",
+        "originwordCnt": "64",
+        "labelwordCnt": "28"
+    }
+}

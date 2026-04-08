@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014062",
+        "promulgDate": "20210413",
+        "effectDate": "20211014",
+        "promulgNum": "17993",
+        "title": "6ㆍ25전쟁 전후 적 지역에서 활동한 비정규군 공로자 보상에 관한 법률",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공로금의 지급 기준 및 금액은 어떻게 결정되나요?",
+        "output": "'6ㆍ25전쟁 전후 적 지역에서 활동한 비정규군 공로자 보상에 관한 법률' 제5조 제2항에 따르면 공로금의 지급 기준 및 금액, 지급방법 등에 필요한 사항은 대통령령으로 정합니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "24"
+    }
+}

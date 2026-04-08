@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001723",
+        "promulgDate": "20160529",
+        "effectDate": "20161130",
+        "promulgNum": "14184",
+        "title": "국민투표법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제98조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "천재지변으로 인해 투표를 실시할 수 없을 때 투표의 연기가 가능합니까?",
+        "output": "천재지변으로 인해 투표를 실시할 수 없거나 실시하지 못한 경우, 대통령은 투표를 연기하거나 다시 투표일을 정해야 합니다. 이때 대통령은 국민투표법 제49조에 따른 기간 제한을 받지 않습니다.",
+        "originwordCnt": "27",
+        "labelwordCnt": "25"
+    }
+}

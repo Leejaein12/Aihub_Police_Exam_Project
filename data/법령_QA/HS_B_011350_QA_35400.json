@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011350",
+        "promulgDate": "20230725",
+        "effectDate": "20240126",
+        "promulgNum": "19573",
+        "title": "낚시 관리 및 육성법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제48조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "낚시터업자와 낚시어선업자는 어떤 의무를 이행해야 하나요?",
+        "output": "낚시 관리 및 육성법 제48조에 따르면 낚시터업자와 낚시어선업자는 대통령령으로 정하는 바에 따라 낚시터를 이용하려는 사람과 낚시어선의 승객 및 선원의 피해를 보전하기 위하여 보험이나 공제에 가입하여야 합니다.",
+        "originwordCnt": "23",
+        "labelwordCnt": "26"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "305515",
+        "caseName": "식품위생법위반",
+        "caseNum": "2016고정1049",
+        "sentenceDate": "2016. 9. 8.",
+        "courtName": "서울북부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "일반 음식점을 운영하면서 관할 관청의 유흥주점 영업 허가 없이 DJ를 고용하여 음악을 크게 틀고 레이저 조명을 사용하는 등의 방식으로 손님들이 업소 중앙 무대에서 춤을 추도록 하여 유흥주점 영업을 한 사실로 기소되었습니다. 이에 따라 법원은 피고인에게 식품위생법 제94조 제1항 제3호, 제37조 제1항에 따라 벌금 250만 원을 선고하였습니다.",
+        "originwordCnt": "150",
+        "labelwordCnt": "46"
+    }
+}

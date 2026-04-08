@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311205",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2022고단351",
+        "sentenceDate": "2022.11.10",
+        "courtName": "의정부지방법원 남양주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알콜농도 0.067%의 술에 취한 상태에서 약 15㎞ 구간을 음주 운전하였고, 이에 도로교통법 위반으로 기소되었습니다. 법원은 피고인에게 동종 전과가 있으나, 벌금형을 초과하는 전과가 없는 점 등을 고려하여 벌금 400만 원을 선고하였습니다.",
+        "originwordCnt": "162",
+        "labelwordCnt": "30"
+    }
+}

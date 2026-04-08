@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "146601",
+        "caseName": "근로기준법위반·도박개장",
+        "caseNum": "2009고단381",
+        "sentenceDate": "2010.02.04",
+        "courtName": "창원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인 2는 어떤 이유로 징역형을 선고받았나요?",
+        "output": "피고인 2는 노동조합 지부장으로서 취업을 희망하는 사람들로부터 금품을 수수하고, 영리 목적으로 도박 장소를 제공한 점 등으로 인해 징역 1년의 실형을 선고받았습니다. 이는 근로기준법과 형법에 따라 처벌된 것입니다.",
+        "originwordCnt": "2623",
+        "labelwordCnt": "27"
+    }
+}

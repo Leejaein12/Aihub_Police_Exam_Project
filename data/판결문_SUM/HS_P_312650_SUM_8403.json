@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312650",
+        "caseName": "도로교통법위반(무면허운전)",
+        "caseNum": "2023노2209",
+        "sentenceDate": "2023.09.08",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "항소심은 원심과 비교해 양형의 조건에 변화가 없고, 원심의 형이 재량의 범위를 벗어나지 않는다고 판단하였습니다. 또한, 원심 선고 이후 특별한 사정변경이 없고 양형 조건을 종합적으로 고려한 결과 형이 과도하다고 볼 수 없으므로, 피고인의 항소를 기각하였습니다.",
+        "originwordCnt": "223",
+        "labelwordCnt": "34"
+    }
+}

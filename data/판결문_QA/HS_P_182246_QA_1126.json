@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "182246",
+        "caseName": "모욕",
+        "caseNum": "2014노2118",
+        "sentenceDate": "2015.01.29",
+        "courtName": "의정부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 한 발언이 사회상규에 위배되지 않는 행위로 인정될 수 있는지요?",
+        "output": "피고인의 발언은 피해자의 일처리에 대한 항의를 하는 방법으로서 적절하지 않으며, 사회상규에 위배되지 않는 행위로 인정될 수 없다고 판단되었습니다.",
+        "originwordCnt": "451",
+        "labelwordCnt": "18"
+    }
+}

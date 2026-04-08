@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "137973",
+        "caseName": "사기·사기방조",
+        "caseNum": "2006고단2768",
+        "sentenceDate": "2006.09.21",
+        "courtName": "수원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인에게 선고된 형량과 집행유예 조건은 무엇인가요?",
+        "output": "주문에 따르면 피고인에게는 징역 1년 6월의 형이 선고되었으며, 판결 선고 전의 구금일수 33일이 형기에 포함됩니다. 또한, 이 형의 집행은 판결 확정일로부터 3년간 유예되며, 피고인은 120시간의 사회봉사 명령을 이행해야 합니다.",
+        "originwordCnt": "1160",
+        "labelwordCnt": "29"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "224103",
+        "caseName": "공직선거법위반",
+        "caseNum": "2007노38",
+        "sentenceDate": "2007.03.15",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법 제106조 제1항의 '호별방문'에서 말하는 '호(戶)'의 의미는 무엇인가요?",
+        "output": "공직선거법 제106조 제1항의 '호(戶)'는 주거지를 포함하여 불특정 다수인의 출입이 제한된 비공개적인 장소를 의미하며, 이는 피방문자가 일시적으로 거주하는 곳도 포함됩니다",
+        "originwordCnt": "308",
+        "labelwordCnt": "19"
+    }
+}

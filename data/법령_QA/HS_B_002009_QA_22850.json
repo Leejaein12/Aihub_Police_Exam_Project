@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002009",
+        "promulgDate": "20161220",
+        "effectDate": "20161220",
+        "promulgNum": "14413",
+        "title": "특정범죄신고자 등 보호법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "진술 영상물의 촬영이 이루어질 때 적용되는 법적 규정은 무엇인가요?",
+        "output": "특정범죄신고자 등 보호법 제10조 제2항에 따라 영상물의 촬영비용 및 복사는 형사소송법 제56조의2에 의해 정의된 공판정에서의 속기, 녹음, 영상녹화 관련 규정을 준용합니다.",
+        "originwordCnt": "62",
+        "labelwordCnt": "21"
+    }
+}

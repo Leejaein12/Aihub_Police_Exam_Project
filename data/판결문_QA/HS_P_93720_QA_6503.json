@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93720",
+        "caseName": "석유사업법위반",
+        "caseNum": "77도2557",
+        "sentenceDate": "1978.01.31",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "석유의 품질이 저하되지 않았을 경우에도 석유사업법 위반이 성립하나요?",
+        "output": "석유사업법 제22조에 따르면, 석유의 품질을 저하시킨 사실이 인정되지 않는 한 석유사업법 위반이 성립하지 않습니다. 혼합 전후의 성분에 차이가 없고 품질 저하가 없다면, 석유사업법을 위반했다고 볼 수 없습니다.",
+        "originwordCnt": "170",
+        "labelwordCnt": "27"
+    }
+}

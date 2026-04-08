@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000143",
+        "promulgDate": "20210105",
+        "effectDate": "20210706",
+        "promulgNum": "17864",
+        "title": "노동조합 및 노동관계조정법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제42조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "노동위원회의 결정에 대한 불복 절차와 효력은 어떻게 처리되나요?",
+        "output": "노동조합 및 노동관계조정법 제42조의4 제5항에 따르면, 노동위원회의 결정에 대한 불복 절차와 효력에 관해서는 제69조와 제70조 제2항의 규정을 준용합니다.",
+        "originwordCnt": "108",
+        "labelwordCnt": "18"
+    }
+}

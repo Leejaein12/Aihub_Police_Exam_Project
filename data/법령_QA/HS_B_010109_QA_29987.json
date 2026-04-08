@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010109",
+        "promulgDate": "20170314",
+        "effectDate": "20170314",
+        "promulgNum": "14583",
+        "title": "범죄피해자 보호법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "구조피해자나 유족이 구조대상 범죄피해를 원인으로 한 손해배상을 받은 경우, 구조금 지급이 가능한가요?",
+        "output": "범죄피해자 보호법 제21조 제1항에 따르면 국가는 구조피해자나 유족이 해당 구조대상 범죄피해를 원인으로 한 손해배상을 받았다면 그 범위에서 구조금을 지급하지 않습니다.",
+        "originwordCnt": "56",
+        "labelwordCnt": "20"
+    }
+}

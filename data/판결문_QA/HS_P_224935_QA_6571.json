@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "224935",
+        "caseName": "국가정보원법위반",
+        "caseNum": "2017고합1156",
+        "sentenceDate": "2018.11.02",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인에게 선고된 형량과 자격정지의 기간은 어떻게 되나요?",
+        "output": "피고인에게는 징역 3년과 자격정지 3년이 선고되었습니다. 이 형량은 피고인의 죄질과 범행의 성격을 고려하여 내려진 처벌로, 형의 집행기간 동안 피고인의 특정 자격이 제한된다는 의미를 갖습니다.",
+        "originwordCnt": "20988",
+        "labelwordCnt": "24"
+    }
+}

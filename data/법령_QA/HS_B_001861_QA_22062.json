@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001861",
+        "promulgDate": "20211221",
+        "effectDate": "20220622",
+        "promulgNum": "18601",
+        "title": "석탄산업법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "석탄산업장기계획의 수립은 어떤 목적을 가지고 있나요?",
+        "output": "석탄산업법 제3조 제1항에 따르면, 산업통상자원부장관은 석탄산업의 합리적인 발전, 석탄 및 석탄가공제품의 수급안정과 탄광지역 진흥을 위하여 석탄산업에 관한 장기적이며 종합적인 계획을 수립하여야 합니다.",
+        "originwordCnt": "75",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328220",
+        "caseName": "사기등",
+        "caseNum": "2023고단679",
+        "sentenceDate": "2023.07.19.",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "전화금융사기 조직의 지시를 받고 2차 수거책으로 가담하여, 금융기관 직원인 것처럼 기망하고 총 4,700만 원을 편취하였습니다. 법원은 여러 건의 보이스피싱 사기 범행에 가담하며 심각한 재산 피해를 초래한 점, 그리고 증거를 인멸하고 자신의 잘못을 충분히 반성하지 않은 점을 지적하여 형법 제347조 제1항과 제30조에 따라 징역 1년을 선고했습니다.",
+        "originwordCnt": "535",
+        "labelwordCnt": "45"
+    }
+}

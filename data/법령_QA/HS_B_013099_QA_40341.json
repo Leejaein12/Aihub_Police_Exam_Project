@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013099",
+        "promulgDate": "20240319",
+        "effectDate": "20240620",
+        "promulgNum": "20399",
+        "title": "공무원 재해보상법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공무원재해보상 연금 급여가 매년 조정되는 근거는 무엇인가요?",
+        "output": "공무원재해보상 연금 급여는 통계법 제3조에 따라 통계청장이 매년 고시하는 전전년도와 대비한 전년도 전국소비자물가변동률을 기준으로 매년 조정됩니다. 이는 공무원 재해보상법 제14조 제1항에 명시되어 있습니다.",
+        "originwordCnt": "30",
+        "labelwordCnt": "23"
+    }
+}

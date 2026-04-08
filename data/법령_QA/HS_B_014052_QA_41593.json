@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014052",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19590",
+        "title": "한국에너지공과대학교법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국에너지공과대학교에 대한 지원과 감독은 누가 담당하나요?",
+        "output": "한국에너지공과대학교법 제5조에 따르면, 한국에너지공대는 산업통상자원부장관과 한국전력공사로부터 지원을 받으며, 산업통상자원부장관이 한국에너지공대의 업무를 조정하고 감독합니다.",
+        "originwordCnt": "13",
+        "labelwordCnt": "13"
+    }
+}

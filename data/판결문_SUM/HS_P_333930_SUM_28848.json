@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333930",
+        "caseName": "보험사기방지특별법위반",
+        "caseNum": "2023고정683",
+        "sentenceDate": "2024.06.26",
+        "courtName": "대전지방법원 천안지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "B 및 F와 공모하여 허위 진단서와 진료비 영수증 등을 작성하고, 보험사기에 의해 7,859,425원을 취득한 혐의로 기소되었습니다. 피고인은 D 병원에서 하이푸 시술을 받지 않았음에도 불구하고, 이를 보험회사에 청구하여 보험금을 얻기로 모의하였습니다. 법원은 피고인에게 300만 원의 벌금을 부과하고, 1년간 집행을 유예하였습니다.",
+        "originwordCnt": "375",
+        "labelwordCnt": "39"
+    }
+}

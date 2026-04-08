@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002009",
+        "promulgDate": "20161220",
+        "effectDate": "20161220",
+        "promulgNum": "14413",
+        "title": "특정범죄신고자 등 보호법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "특정범죄신고자 등 보호법 제12조 제1항에 따른 협의가 소송진행에 어떤 영향을 미칠 수 있는가요?",
+        "output": "특정범죄신고자 등 보호법 제12조 제2항에 따르면 협의는 소송진행의 필수적인 사항에 한정되어야 하며, 판결에 직접적인 영향을 미쳐서는 안 됩니다.",
+        "originwordCnt": "55",
+        "labelwordCnt": "18"
+    }
+}

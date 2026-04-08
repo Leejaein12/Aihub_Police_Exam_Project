@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001270",
+        "promulgDate": "20220111",
+        "effectDate": "20230112",
+        "promulgNum": "18755",
+        "title": "법률구조법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "대한법률구조공단 이사장은 어떤 역할을 담당하나요?",
+        "output": "법률구조법 제14조제1항에 따르면 이사장은 대한법률구조공단을 대표하고 대한법률구조공단의 업무를 총괄합니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "9"
+    }
+}

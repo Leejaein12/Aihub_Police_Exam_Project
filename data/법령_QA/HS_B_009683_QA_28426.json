@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009683",
+        "promulgDate": "20210518",
+        "effectDate": "20240519",
+        "promulgNum": "18171",
+        "title": "야생생물 보호 및 관리에 관한 법률",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제34조의10",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "야생동물을 소각하거나 매몰할 때 어떤 조치를 이행해야 합니까?",
+        "output": "야생생물 보호 및 관리에 관한 법률 제34조의10 제4항에 따르면 야생동물을 소각하거나 매몰하려는 경우에는 환경부령으로 정하는 바에 따라 주변 환경의 오염방지를 위하여 필요한 조치를 이행하여야 합니다.",
+        "originwordCnt": "187",
+        "labelwordCnt": "25"
+    }
+}

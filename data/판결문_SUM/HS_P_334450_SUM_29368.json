@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334450",
+        "caseName": "사기등",
+        "caseNum": "2022노778",
+        "sentenceDate": "2023.04.11",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "검사는 피고인에 대한 원심의 형이 너무 가벼워 부당하다고 항소했으나, 항소심은 원심의 양형이 재량의 합리적인 범위를 벗어나지 않았다고 판단하였습니다. 항소심에서는 피고인의 연령, 성행, 범행의 동기 및 수단, 범행 후의 정황 등을 종합적으로 고려한 결과, 원심이 선고한 징역 8개월에 집행유예 2년의 형이 적정하다고 보아 검사의 항소를 기각하였습니다.",
+        "originwordCnt": "266",
+        "labelwordCnt": "45"
+    }
+}

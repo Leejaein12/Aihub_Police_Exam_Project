@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000303",
+        "promulgDate": "20190827",
+        "effectDate": "20200828",
+        "promulgNum": "16568",
+        "title": "한국석유공사법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국석유공사가 산업통상자원부장관의 승인을 받아야 하는 경우는 언제인가요?",
+        "output": "한국석유공사법 제10조 제3항에 따르면, 한국석유공사가 제1항 제2호와 제3호에 따른 사업 중 대통령령으로 정하는 사항을 수행하려는 경우에는 산업통상자원부장관의 승인을 받아야 합니다.",
+        "originwordCnt": "96",
+        "labelwordCnt": "20"
+    }
+}

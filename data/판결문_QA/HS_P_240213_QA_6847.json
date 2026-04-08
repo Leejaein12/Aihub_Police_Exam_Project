@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "240213",
+        "caseName": "수뢰",
+        "caseNum": "66도984",
+        "sentenceDate": "1966.09.20",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공동피고인의 자백이 보강증거로서의 증거능력을 가지는지 궁금합니다.",
+        "output": "공동피고인의 자백은 보강증거로서의 증거능력을 가집니다. 대법원 판결에 따르면 공동피고인의 자백은 해당 사건의 공소사실을 입증하는 보강증거로 인정될 수 있으며, 본건 수뢰 사실 역시 이를 통해 충분히 입증할 수 있다고 판단하였습니다.",
+        "originwordCnt": "10",
+        "labelwordCnt": "29"
+    }
+}

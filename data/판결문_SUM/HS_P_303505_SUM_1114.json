@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "303505",
+        "caseName": "철도안전법위반",
+        "caseNum": "2020고단4331",
+        "sentenceDate": "2021. 1. 7.",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "대합실에서 마스크 착용 요구를 거부한 후 피해자에게 폭행과 협박을 가하여 철도종사자의 직무를 방해한 혐의로 기소되었습니다. 피고인은 이전에 존속상해죄로 징역형을 선고받은 경력이 있으며, 누범기간 중 범행을 저질렀습니다. 이러한 점을 고려하여 피고인은 징역 4개월에 처해졌습니다.",
+        "originwordCnt": "240",
+        "labelwordCnt": "33"
+    }
+}

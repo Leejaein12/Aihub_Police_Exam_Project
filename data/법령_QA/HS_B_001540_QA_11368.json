@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001540",
+        "promulgDate": "20230314",
+        "effectDate": "20230915",
+        "promulgNum": "19234",
+        "title": "신용정보의 이용 및 보호에 관한 법률",
+        "ministry": "금융위원회",
+        "fullText": "N",
+        "smClass": "제11조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "제한명령 또는 시정명령의 내용은 어떻게 문서화되나요?",
+        "output": "신용정보의 이용 및 보호에 관한 법률 제11조의2 제9항에 따르면, 제8항에 따른 제한명령 또는 시정명령은 그 내용 및 사유가 구체적으로 적힌 문서로 하여야 합니다.",
+        "originwordCnt": "465",
+        "labelwordCnt": "23"
+    }
+}

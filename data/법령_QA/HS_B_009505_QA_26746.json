@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009505",
+        "promulgDate": "20230411",
+        "effectDate": "20240412",
+        "promulgNum": "19330",
+        "title": "소방기본법",
+        "ministry": "소방청",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국민의 안전의식과 화재에 대한 경각심을 높이기 위해 어떤 기념일이 정해져 있나요?",
+        "output": "국민의 안전의식과 화재에 대한 경각심을 높이고 안전문화를 정착시키기 위하여 매년 11월 9일을 소방의 날로 정하여 기념행사를 합니다. 이는 소방기본법 제7조 제1항에 근거합니다.",
+        "originwordCnt": "81",
+        "labelwordCnt": "22"
+    }
+}

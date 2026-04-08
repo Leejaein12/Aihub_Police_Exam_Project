@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001805",
+        "promulgDate": "20240213",
+        "effectDate": "20240514",
+        "promulgNum": "20307",
+        "title": "식품위생법",
+        "ministry": "식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제48조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "식품안전관리인증기준을 반드시 지켜야 하는 업소는 누구인가요?",
+        "output": "식품위생법 제48조 제2항에 따르면, 총리령으로 정하는 식품을 제조, 가공, 조리, 소분, 유통하는 영업자는 식품의약품안전처장이 식품별로 고시한 식품안전관리인증기준을 지켜야 합니다.",
+        "originwordCnt": "438",
+        "labelwordCnt": "19"
+    }
+}

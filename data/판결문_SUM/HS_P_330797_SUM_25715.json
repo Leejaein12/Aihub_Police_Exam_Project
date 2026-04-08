@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "330797",
+        "caseName": "스토킹범죄의처벌등에관한법률위반등",
+        "caseNum": "2022고단1340",
+        "sentenceDate": "2023.03.29",
+        "courtName": "부산지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "층간소음 문제로 고의적으로 고무망치 또는 벽면을 치는 등으로 소음을 유발하여 피해자에게 불편을 초래한 사실이 인정되었습니다. 이러한 행위는 스토킹범죄의 처벌 등에 관한 법률 및 경범죄처벌법에 해당하며, 법원은 피고인에게 징역 1년 6개월을 처하며, 스토킹 치료 프로그램 이수를 명령하였습니다.",
+        "originwordCnt": "2330",
+        "labelwordCnt": "36"
+    }
+}

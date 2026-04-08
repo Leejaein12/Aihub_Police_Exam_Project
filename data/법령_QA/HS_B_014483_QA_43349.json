@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014483",
+        "promulgDate": "20230914",
+        "effectDate": "20240126",
+        "promulgNum": "19725",
+        "title": "해상교통안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제74조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "선박이 좁은 수로의 굽은 부분이나 장애물 근처에서 어떻게 항행해야 하나요?",
+        "output": "해상교통안전법 제74조제6항에 따르면 선박이 좁은 수로등의 굽은 부분이나 항로에 있는 장애물 때문에 다른 선박을 볼 수 없는 수역에 접근하는 경우에는 특히 주의하여 항행하여야 합니다.",
+        "originwordCnt": "222",
+        "labelwordCnt": "24"
+    }
+}

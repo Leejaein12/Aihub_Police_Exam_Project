@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000935",
+        "promulgDate": "20180320",
+        "effectDate": "20180421",
+        "promulgNum": "15497",
+        "title": "군복 및 군용장구의 단속에 관한 법률",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "유사군복을 착용하여 군인과 식별이 곤란하게 만들면 어떻게 됩니까?",
+        "output": "군복 및 군용장구의 단속에 관한 법률 제9조 제2항에 명시된 바와 같이, 누구든지 유사군복을 착용하여 군인과 식별이 곤란하도록 하여서는 아니 됩니다.",
+        "originwordCnt": "38",
+        "labelwordCnt": "20"
+    }
+}

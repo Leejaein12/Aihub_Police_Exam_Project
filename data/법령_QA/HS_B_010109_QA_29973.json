@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010109",
+        "promulgDate": "20170314",
+        "effectDate": "20170314",
+        "promulgNum": "14583",
+        "title": "범죄피해자 보호법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제17조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "범죄피해자의 유족 구조금은 언제 지급되며 누구에게 지급됩니까?",
+        "output": "범죄피해자 보호법 제17조 제2항에 따르면 유족구조금은 구조피해자가 사망하였을 때 동법 제18조에 따라 맨 앞의 순위인 유족에게 지급합니다. 다만, 순위가 같은 유족이 2명 이상이면 똑같이 나누어 지급합니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "26"
+    }
+}

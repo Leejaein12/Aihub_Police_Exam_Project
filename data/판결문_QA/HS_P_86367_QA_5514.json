@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86367",
+        "caseName": "공용서류등의무효",
+        "caseNum": "4291형상271",
+        "sentenceDate": "1958.09.12",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "기존의 공용서류를 파기한 후 금원을 수수한 행위에 단순수뢰죄를 적용한 판결이 잘못된 이유는 무엇인가요?",
+        "output": "기존의 공용서류를 파기한 후 금원을 수수한 행위는 형법 제131조 제2항에 해당하는 가중수뢰죄로 처벌해야 하며, 이를 단순수뢰죄로 처단한 것은 법적 착오로서 판결에 중대한 영향을 미치는 잘못된 판결입니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "26"
+    }
+}

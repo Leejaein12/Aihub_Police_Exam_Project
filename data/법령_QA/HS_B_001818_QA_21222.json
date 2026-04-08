@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001818",
+        "promulgDate": "20240130",
+        "effectDate": "20240130",
+        "promulgNum": "20172",
+        "title": "수도법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "환경부장관이 기본계획을 수립하거나 변경할 때 협의해야 하는 대상은 누구인가요?",
+        "output": "환경부장관은 기본계획을 수립하거나 변경하려면 관계 중앙행정기관의 장 및 시ㆍ도지사와 미리 협의하여야 합니다. 다만 제2항 제20호에 관한 사항의 변경은 제외됩니다. 이는 수도법 제4조 제4항에 명시되어 있습니다.",
+        "originwordCnt": "258",
+        "labelwordCnt": "25"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제143조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "일몰 전에 착수한 검증은 일몰 후에도 계속할 수 있나요?",
+        "output": "형사소송법 제143조제2항에 따르면 일몰 전에 검증에 착수한 때에는 일몰 후라도 검증을 계속할 수 있습니다.",
+        "originwordCnt": "59",
+        "labelwordCnt": "14"
+    }
+}

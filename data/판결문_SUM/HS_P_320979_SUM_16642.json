@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "320979",
+        "caseName": "도로교통법위반(음주측정거부)등",
+        "caseNum": "2022고단1750",
+        "sentenceDate": "2023.09.20",
+        "courtName": "창원지방법원 통영지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술에 취한 상태에서 운전하여 부상의 사고를 일으키고, 경찰의 음주측정 요구를 거부했으며, 음주운전을 신고한 배우자에게 소주병을 들고 협박한 사실이 인정되었습니다. 과거 음주운전 전과가 있으며, 범행 후 반성의 태도가 보이지 않고, 범죄의 죄질이 나쁜 점을 고려하여 징역 1년 8월의 형이 선고되었습니다.",
+        "originwordCnt": "564",
+        "labelwordCnt": "39"
+    }
+}

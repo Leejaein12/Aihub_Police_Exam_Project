@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336206",
+        "caseName": "업무방해",
+        "caseNum": "2024고단265",
+        "sentenceDate": "2024.04.25",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "편의점에서 종업원에게 담배를 요구하다 거절당하자 약 15분 동안 폭언을 하고 물건을 던지는 등 영업 업무를 방해한 혐의로 기소되었습니다. 법원은 피고인이 범행을 인정하고 피해자와 합의한 점을 양형에 참작하였으나, 피고인이 집행유예 기간 중 범죄를 저지른 점을 들어 죄책이 가볍지 않다고 판단하였습니다. 이에 따라 벌금 800만 원을 선고하였습니다.",
+        "originwordCnt": "188",
+        "labelwordCnt": "45"
+    }
+}

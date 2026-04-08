@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312734",
+        "caseName": "절도등",
+        "caseNum": "2023고정673",
+        "sentenceDate": "2024.05.22",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "요양보호사로 근무하던 중 피해자 C로부터 통장을 받은 뒤, 총 28회에 걸쳐 D은행에서 현금 2,800만원을 인출하여 절취하였습니다. 또한 피해자의 통장에서 300만원을 자신의 계좌로 이체하여 컴퓨터 등을 사용한 사기를 저질렀습니다. 법원은 피고인에게 벌금 5,000,000원을 선고하였습니다.",
+        "originwordCnt": "231",
+        "labelwordCnt": "33"
+    }
+}

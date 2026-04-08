@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314088",
+        "caseName": "사기",
+        "caseNum": "2024고정141",
+        "sentenceDate": "2024.06.19",
+        "courtName": "수원지방법원 안산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "유흥주점에서 술값을 지불할 의사나 능력이 없었음에도 이를 지불할 것처럼 행세하여 두 차례에 걸쳐 술과 안주, 노래방 서비스를 제공받고, 현금을 빌린 후 갚지 않는 방식으로 재산상 이익을 취득하였습니다. 법원은 전과와 범행의 경위, 금액 등을 고려하여 형을 정하 벌금을 부과하였습니다.",
+        "originwordCnt": "338",
+        "labelwordCnt": "38"
+    }
+}

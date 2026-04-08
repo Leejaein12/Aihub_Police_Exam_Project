@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315375",
+        "caseName": "모욕",
+        "caseNum": "2023고정689",
+        "sentenceDate": "2024.04.17",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "경찰서 앞에서 과거 고소 사건과 관련해 경찰관이 있는 자리에서 심한 욕설을 한 행위가 문제가 되었습니다. 이에 대해 법원은 해당 발언이 공연히 모욕에 해당한다고 판단하여 형법 제311조를 적용, 100만 원의 벌금을 선고했습니다.",
+        "originwordCnt": "142",
+        "labelwordCnt": "31"
+    }
+}

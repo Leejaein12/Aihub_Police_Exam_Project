@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000054",
+        "promulgDate": "20231229",
+        "effectDate": "20240630",
+        "promulgNum": "19867",
+        "title": "도선법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "도선사는 도선할 선박의 선장에게 어떤 정보를 제공해야 합니까?",
+        "output": "도선사는 도선할 선박의 선장에게 항만의 특성, 도선 시 해당 선박의 이동 경로와 속도, 접안 방법, 예선의 배치 등을 포함한 도선계획을 제공하고 설명하여야 합니다. 이는 도선법 제13조 제2항에 근거합니다.",
+        "originwordCnt": "53",
+        "labelwordCnt": "28"
+    }
+}

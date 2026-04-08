@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310073",
+        "caseName": "폭행등",
+        "caseNum": "2023고정121",
+        "sentenceDate": "2023.11.15",
+        "courtName": "창원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자동차의 점유자로서 정당한 사유 없이 차량을 도로에 방치한 혐의를 받습니다. 자동차관리법에 따르면, 자동차의 소유자 또는 점유자는 차량을 도로에 계속 방치할 수 없습니다. 피고인은 도로에 차량을 방치하였으며, 이에 따라 벌금 500,000원을 부과받았습니다.",
+        "originwordCnt": "149",
+        "labelwordCnt": "31"
+    }
+}

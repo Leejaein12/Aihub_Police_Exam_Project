@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334913",
+        "caseName": "사기등",
+        "caseNum": "2024노254",
+        "sentenceDate": "2024.05.23",
+        "courtName": "춘천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "보이스피싱 관련 사기, 범죄수익은닉의 규제 및 처벌 등에 관한 법률 위반, 주민등록법 위반죄로 기소당한 피고인의 양형이 너무 가벼워서 부당하다며 항소하였습니다. 항소심은 원심의 양형이 법적 재량의 한계를 벗어나지 않았다고 판단하였으며, 검사가 주장한 양형부당의 사유가 이미 원심에서 충분히 고려된 바 있다고 보아, 검사의 항소를 기각하였습니다.",
+        "originwordCnt": "321",
+        "labelwordCnt": "43"
+    }
+}

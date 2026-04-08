@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335610",
+        "caseName": "교통사고처리특례법위반(치상)",
+        "caseNum": "2024고단631",
+        "sentenceDate": "2024.07.18",
+        "courtName": "전주지방법원 군산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "시내버스를 운전하던 중 안전 운전 의무를 소홀히 하여 피해자에게 중상을 입혔습니다. 그러나 피해자는 이후 피고인에 대한 처벌을 원하지 않는 의사를 밝혔습니다. 이로 인해 교통사고처리 특례법 제3조 제2항 본문에 따라 공소를 제기할 수 없어 사건 공소가 기각되었습니다.",
+        "originwordCnt": "229",
+        "labelwordCnt": "36"
+    }
+}

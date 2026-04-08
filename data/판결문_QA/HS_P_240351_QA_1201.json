@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "240351",
+        "caseName": "살인·추행",
+        "caseNum": "73도1915",
+        "sentenceDate": "1973.09.25",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "군형법 제92조의 추행이 민간인에 대해 이루어진 경우에도 적용되나요?",
+        "output": "군형법 제92조 소정의 추행은 군 내부의 건전한 공적 생활을 유지하고 군대 가정의 성적 건강을 보호하기 위한 것입니다. 따라서 군형법 제92조의 추행은 군내에서 이루어진 경우에만 적용되며, 민간인과의 사적 생활 관계에서의 변태성 성적 만족 행위에는 적용되지 않습니다.",
+        "originwordCnt": "38",
+        "labelwordCnt": "35"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310301",
+        "caseName": "성폭력범죄의처벌등에관한특례법위반(카메라등이용촬영)",
+        "caseNum": "2022노3378",
+        "sentenceDate": "2024.07.10",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "검사는 피고인이 피해자의 신체를 그 의사에 반하여 촬영하였다고 주장하며 항소했으나, 항소심에서는 원심의 무죄 판결이 정당하다고 판단하였습니다. 원심은 제출된 증거들만으로는 피고인이 공소사실과 같은 행위를 했다는 것이 합리적 의심 없이 증명되지 않았다고 보아, 항소를 기각하였습니다.",
+        "originwordCnt": "153",
+        "labelwordCnt": "33"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005864",
+        "promulgDate": "20210129",
+        "effectDate": "20210129",
+        "promulgNum": "02949",
+        "title": "법정등의질서유지를위한재판에관한규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제6조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법원은 필요시 심리방해행위 등을 한 위반자나 참고인을 심문할 수 있나요?",
+        "output": "법정등의질서유지를위한재판에관한규칙 제6조 제3항에 따르면 법원은 필요하다고 인정한 경우, 직권으로 위반자 또는 참고인을 심문하거나 기타 방법으로 사실을 조사할 수 있습니다.",
+        "originwordCnt": "59",
+        "labelwordCnt": "19"
+    }
+}

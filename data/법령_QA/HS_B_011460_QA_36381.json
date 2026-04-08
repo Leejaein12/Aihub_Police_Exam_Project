@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011460",
+        "promulgDate": "20230304",
+        "effectDate": "20230718",
+        "promulgNum": "19228",
+        "title": "보훈보상대상자 지원에 관한 법률",
+        "ministry": "국가보훈부",
+        "fullText": "N",
+        "smClass": "제66조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "담보재산을 매수하거나 처분할 때의 가격 기준은 어떻게 정해지나요?",
+        "output": "보훈보상대상자 지원에 관한 법률 제66조 제3항에 따르면, 제1항에 따라 담보재산을 매수할 경우의 매수가격 및 처분하는 재산의 처분가격 기준은 대통령령으로 정합니다.",
+        "originwordCnt": "70",
+        "labelwordCnt": "20"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334594",
+        "caseName": "강제추행",
+        "caseNum": "2023고단453",
+        "sentenceDate": "2023.08.10",
+        "courtName": "춘천지방법원 원주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "화장실로 들어가는 피해자를 따라 들어간 피고인은 피해자의 신체를 강제로 만져 강제추행을 저질렀습니다. 이에 따라 형법 제298조를 적용하여 징역 8월을 선고하였으나, 형법 제62조 제1항에 따라 2년간 형의 집행을 유예하고, 성폭력 치료강의 40시간 수강을 명령하였습니다.",
+        "originwordCnt": "296",
+        "labelwordCnt": "33"
+    }
+}

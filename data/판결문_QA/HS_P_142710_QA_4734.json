@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "142710",
+        "caseName": "유아교육법위반",
+        "caseNum": "2009노1600",
+        "sentenceDate": "2009.09.22",
+        "courtName": "대전지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "킨더슐레가 유아교육법에 따른 유치원에 해당하지 않는 이유는 무엇인가요?",
+        "output": "킨더슐레가 미술, 음악, 놀이 수업 등을 가르치고 있지만, 유아교육법 제2조 제2호, 제8조, 제13조, 제22조에서 정한 유치원의 기준에 부합하는 교육과정이나 교원의 자격을 갖추고 있다는 증거가 없으므로, 유치원에 해당한다고 볼 수 없습니다.",
+        "originwordCnt": "264",
+        "labelwordCnt": "30"
+    }
+}

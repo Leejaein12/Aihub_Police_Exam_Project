@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제72조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "특별건축구역에서 건축허가를 받기 위해 필요한 심의 절차는 무엇인가요?",
+        "output": "특별건축구역에서 건축허가를 받기 위해서는 해당 건축물이 특별건축구역의 지정 목적에 적합한지 여부와 특례적용계획서 등의 사항에 대해 지방건축위원회의 심의를 거쳐야 합니다. 이는 건축법 제72조 제2항에 따른 절차입니다.",
+        "originwordCnt": "322",
+        "labelwordCnt": "25"
+    }
+}

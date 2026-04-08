@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86034",
+        "caseName": "장물취득",
+        "caseNum": "4288형상28",
+        "sentenceDate": "1955.05.13",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인 또는 피고인 아닌 자의 공판에서의 진술이 공소사실에 부합할 때 이를 배척할 수 있나요?",
+        "output": "피고인 또는 피고인 아닌 자의 공판에서의 진술이 공소사실에 부합하는 경우, 이를 배척할 이유 없이 범죄의 증명이 없다고 판단하는 것은 채증법칙 위반에 해당합니다. 이는 형사소송법 제311조에 따른 것입니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "27"
+    }
+}

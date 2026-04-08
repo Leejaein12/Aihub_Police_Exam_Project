@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001692",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19582",
+        "title": "형법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제71조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "벌금이나 과료의 선고를 받은 사람이 그 금액의 일부를 납입한 경우 노역장 유치일수는 어떻게 계산해야 할까요?",
+        "output": "형법 제71조에 의거하여, 벌금이나 과료의 선고를 받은 사람이 그 금액의 일부를 납입한 경우에는 벌금 또는 과료액과 노역장 유치기간의 일수에 비례하여 납입금액에 해당하는 일수를 뺍니다.",
+        "originwordCnt": "23",
+        "labelwordCnt": "24"
+    }
+}

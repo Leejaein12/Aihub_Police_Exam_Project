@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336162",
+        "caseName": "재물손괴",
+        "caseNum": "2023고정958",
+        "sentenceDate": "2024.01.25",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "우물 바닥에 설치된 피해자 소유의 전동기를 손괴하였으며, 해당 전동기가 타인 소유의 물건임을 알지 못하는 제삼자를 통해 전선을 절단하게 함으로써 우물 사용을 불가능하게 하였습니다. 법원은 이와 같은 피고인의 행위가 형법 제366조에서 규정하는 재물손괴죄에 해당한다고 판단하고, 피고인에게 벌금 70만 원을 선고하였습니다.",
+        "originwordCnt": "137",
+        "labelwordCnt": "39"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005698",
+        "promulgDate": "20240125",
+        "effectDate": "20240131",
+        "promulgNum": "03125",
+        "title": "가정보호심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제46조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "가정보호사건과 관련하여 친권 행사의 제한 결정시 행사가 정지되는 권리는 어떠한 것인가요?",
+        "output": "가정보호심판규칙 제47조 제1항에 의거하여, 친권 행사의 제한 결정을 할 때에는 친권, 법률행위대리권 또는 재산관리권의 전부 또는 일부의 행사를 정지할 수 있습니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "21"
+    }
+}

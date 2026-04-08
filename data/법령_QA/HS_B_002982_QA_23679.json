@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002982",
+        "promulgDate": "20221101",
+        "effectDate": "20221101",
+        "promulgNum": "32968",
+        "title": "군사기밀 보호법 시행령",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군사기밀 공개 요청서에 대한 처리 결과는 어떻게 통보하나요?",
+        "output": "국방부장관은 처리 결과를 그 군사기밀을 취급하는 부대장을 거쳐 요청인에게 서면으로 통보하며, 방위사업청장은 직접 요청인에게 서면으로 통보하여야 합니다. 군사기밀 보호법 시행령 제9조 제4항에 명시하고 있습니다.",
+        "originwordCnt": "86",
+        "labelwordCnt": "24"
+    }
+}

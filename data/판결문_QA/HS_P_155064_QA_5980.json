@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155064",
+        "caseName": "식품위생법위반",
+        "caseNum": "70도1677",
+        "sentenceDate": "1970.09.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "영양사를 두어야 하는 집단급식소의 기준은 무엇인가요?",
+        "output": "식품위생법 제28조와 식품위생법 시행령 제15조에 따르면, 영양사를 두어야 하는 집단급식소란 1회 50인 이상에게 식사를 공급할 수 있는 계속적인 시설을 의미합니다.",
+        "originwordCnt": "30",
+        "labelwordCnt": "20"
+    }
+}

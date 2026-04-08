@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000912",
+        "promulgDate": "20200204",
+        "effectDate": "20200204",
+        "promulgNum": "16927",
+        "title": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제106조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군수용자의 가석방 적격 여부의 심사는 어떻게 이루어지나요?",
+        "output": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 제106조 제2항에 의하면, 위원회는 재적위원 과반수의 출석으로 개의하고, 출석위원 과반수의 찬성으로 의결합니다.",
+        "originwordCnt": "52",
+        "labelwordCnt": "20"
+    }
+}

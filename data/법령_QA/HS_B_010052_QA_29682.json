@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010052",
+        "promulgDate": "20210406",
+        "effectDate": "20210421",
+        "promulgNum": "31595",
+        "title": "치료감호 등에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제30조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법무부장관은 치료명령 집행업무와 관련하여 어떤 조치를 취해야 하나요?",
+        "output": "치료감호 등에 관한 법률 시행령 제30조 제2항에 따르면, 법무부장관은 치료명령 집행업무를 전문적으로 수행할 수 있는 인력을 양성하기 위해 노력하여야 합니다.",
+        "originwordCnt": "40",
+        "labelwordCnt": "20"
+    }
+}

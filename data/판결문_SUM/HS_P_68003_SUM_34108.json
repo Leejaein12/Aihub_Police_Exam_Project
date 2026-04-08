@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "68003",
+        "caseName": "간통",
+        "caseNum": "2006도1759",
+        "sentenceDate": "2006.05.11",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "당사자가 혼인관계를 지속할 의사가 없고 이혼의사가 명백히 합치된 경우, 상대방의 간통에 대한 사전 동의로 볼 수 있는 종용 의사표시가 그 합의에 포함된다고 판단됩니다. 원심은 피고인 2와 고소인 간의 혼인관계 유지 의사가 없고 이혼하기로 합의하였음을 인정하였으며, 이에 따라 이 사건 간통행위에 대해 고소인이 종용한 것으로 보아 공소를 기각합니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "47"
+    }
+}

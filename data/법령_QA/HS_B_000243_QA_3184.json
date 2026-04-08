@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000243",
+        "promulgDate": "20230816",
+        "effectDate": "20240217",
+        "promulgNum": "19680",
+        "title": "민간임대주택에 관한 특별법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "임대사업자로 등록할 때, 어떤 기준으로 구분해야 하나요?",
+        "output": "민간임대주택에 관한 특별법 제5조 제2항에 따르면, 제1항에 따라 등록하는 경우, 다음 각 호에 따라 구분하여야 합니다.  1. 민간건설임대주택 및 민간매입임대주택  2. 공공지원민간임대주택  3. 장기일반민간임대주택",
+        "originwordCnt": "280",
+        "labelwordCnt": "30"
+    }
+}

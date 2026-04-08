@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "73573",
+        "caseName": "초병살해,강도살인피고사건",
+        "caseNum": "74노97",
+        "sentenceDate": "1974.03.07",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인의 행위가 심신장애로 인하여 벌할 수 없는 행위로 인정된 이유는 무엇인가요?",
+        "output": "피고인은 만성 정신분열증의 잠재형으로, 사건 당일 음주로 인해 급성정신분열증의 발작상태에 빠져 사물을 변별하거나 의사를 결정할 능력이 없었으므로 형법 제10조에 따라 벌할 수 없는 행위로 인정되었습니다.",
+        "originwordCnt": "66",
+        "labelwordCnt": "25"
+    }
+}

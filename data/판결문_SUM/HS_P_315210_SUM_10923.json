@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315210",
+        "caseName": "명예훼손",
+        "caseNum": "2023고단417",
+        "sentenceDate": "2023.09.26",
+        "courtName": "대구지방법원 경주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "여러 차례 피해자에 대한 허위 사실을 유포하여 명예를 훼손한 혐의로 기소된 사건에서, 피해자는 공소제기 후 처벌을 원하지 않는다는 의사를 표시하였고, 이에 따라 법원은 형법 제312조 제2항에 따른 반의사불벌죄의 규정에 의거하여 형사소송법 제327조 제6호에 따라 공소를 기각하였습니다.",
+        "originwordCnt": "212",
+        "labelwordCnt": "36"
+    }
+}

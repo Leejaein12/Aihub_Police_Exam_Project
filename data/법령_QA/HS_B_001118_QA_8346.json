@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001118",
+        "promulgDate": "20231229",
+        "effectDate": "20231229",
+        "promulgNum": "19857",
+        "title": "형사보상 및 명예회복에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제19조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "청구절차가 중단된 경우, 형사보상을 청구한 자의 상속인이 승계할 수 있나요?",
+        "output": "형사보상 및 명예회복에 관한 법률 제19조 제2항에 따르면 청구절차가 중단된 경우, 보상을 청구한 자의 상속인 또는 같은 순위의 상속인은 2개월 이내에 청구의 절차를 승계할 수 있습니다.",
+        "originwordCnt": "80",
+        "labelwordCnt": "26"
+    }
+}

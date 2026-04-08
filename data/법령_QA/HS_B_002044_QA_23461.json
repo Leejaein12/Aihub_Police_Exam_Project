@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002044",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20416",
+        "title": "아동ㆍ청소년의 성보호에 관한 법률",
+        "ministry": "여성가족부",
+        "fullText": "N",
+        "smClass": "제42조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "피해자 또는 법정대리인은 보호처분 후 주거 등을 옮긴 경우 어떻게 해야 하나요?",
+        "output": "아동 청소년의 성보호에 관한 법률 제41조 제1호 및 제2호의 보호처분 후 주거 등을 옮긴 때에는 관할 법원에 보호처분 결정의 변경을 신청할 수 있습니다. 제42조 제5항에 규정하고 있습니다.",
+        "originwordCnt": "144",
+        "labelwordCnt": "27"
+    }
+}

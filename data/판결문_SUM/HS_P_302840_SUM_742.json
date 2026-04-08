@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "302840",
+        "caseName": "일반물건방화",
+        "caseNum": "2021고합222",
+        "sentenceDate": "2021. 10. 29.",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "광고용 현수막에 불을 붙여 소훼하고 공공의 위험을 발생시킨 혐의로 기소되었습니다. 법원은 범행 동기가 광고모델에 대한 불만으로 인한 것으로, 죄질이 나쁘다고 판단했습니다. 그러나 피해자와 합의한 점, 전과가 없는 점 등을 고려하여 징역 1년에 집행유예 2년과 40시간의 사회봉사를 명령하였습니다.",
+        "originwordCnt": "308",
+        "labelwordCnt": "37"
+    }
+}

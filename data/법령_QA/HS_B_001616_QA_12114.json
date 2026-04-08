@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001616",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "교육공무원법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제17조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "교육공무원법에서 교육공무원에게 보직을 부여할 때 고려해야 할 사항은 무엇인가요?",
+        "output": "교육공무원법 제17조 제2항 규정에 따르면 소속 교육공무원에게 보직을 부여할 때에는 그 교육공무원의 자격, 전공분야, 재교육경력, 근무경력 및 적성 등을 고려하여 적절한 직위에 임용하여야 합니다.",
+        "originwordCnt": "115",
+        "labelwordCnt": "24"
+    }
+}

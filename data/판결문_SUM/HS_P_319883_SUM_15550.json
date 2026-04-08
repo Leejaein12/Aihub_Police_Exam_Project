@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319883",
+        "caseName": "포고령위반",
+        "caseNum": "2023재고단27",
+        "sentenceDate": "2023.08.24",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "교통사고처리특례법 위반으로 금고형을 선고받은 사건에 대해 중앙선을 침범하여 유턴을 시도함으로써 교통사고를 유발하였습니다. 이로 인해 약 5주간 치료가 필요한 상해가 발생하였습니다. 법원은 반성하고 있으며, 형사처벌 전력이 없는 점, 사고 발생 후 합의한 점 등을 고려하여 금고 6개월에 집행유예 2년을 선고하였습니다.",
+        "originwordCnt": "280",
+        "labelwordCnt": "39"
+    }
+}

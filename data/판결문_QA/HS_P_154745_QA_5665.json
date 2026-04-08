@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "154745",
+        "caseName": "장물취득",
+        "caseNum": "71도2296",
+        "sentenceDate": "1972.02.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "장물죄의 피해법익에는 무엇이 포함되나요?",
+        "output": "형법 제362조에 의거하여, 장물죄의 피해법익에는 피해자의 목적물에 대한 추급권뿐만 아니라 형사소추에 있어서의 증거물 확보도 포함됩니다. 그러나 장물이 현금화되어 피해자의 추급권이 제한되더라도 장물취득죄는 성립하지 않습니다.",
+        "originwordCnt": "132",
+        "labelwordCnt": "24"
+    }
+}

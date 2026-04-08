@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310139",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고단500",
+        "sentenceDate": "2024.06.12",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술에 취한 상태에서 도로를 약 98㎞ 운전한 사실이 확인되었습니다. 혈중알코올농도는 0.161%로 높았으며, 차량이 차선을 넘나드는 등 위험한 주행을 하였습니다. 피고인은 징역 1년에 처해지되, 2년간 집행유예를 받았고 80시간의 사회봉사 및 40시간의 준법운전강의를 이수하라는 명령을 받았습니다.",
+        "originwordCnt": "218",
+        "labelwordCnt": "34"
+    }
+}

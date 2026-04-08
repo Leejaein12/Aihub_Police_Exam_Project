@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319906",
+        "caseName": "사기",
+        "caseNum": "2024노825",
+        "sentenceDate": "2024.05.01",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "항소에 대한 판단에서 원심은 사기죄로 유죄 판결을 내리며 징역형을 선고하였고, 이에 대한 항소가 제기되었으나 양형의 조건에 변화가 없고 원심의 형이 재량의 합리적인 범위를 벗어나지 않는다고 보았습니다. 또한, 피해금액이 대부분 회복되지 않았고 복역 후 짧은 기간 내에 범행을 저지른 점을 고려하였습니다. 따라서 항소는 이유가 없어 기각되었습니다.",
+        "originwordCnt": "298",
+        "labelwordCnt": "45"
+    }
+}

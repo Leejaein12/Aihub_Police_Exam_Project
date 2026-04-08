@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334507",
+        "caseName": "업무방해등",
+        "caseNum": "2023노984",
+        "sentenceDate": "2023.10.19",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "집행유예 중에 특수협박과 재물손괴를 저질렀으나, 범행을 인정하고 반성했으며, 피해자들과의 합의와 처벌불원서 제출이 이루어졌습니다. 또한, 이번 판결로 인해 기존 집행유예가 실효되어 형을 함께 복역해야 하는 점 등을 고려해 원심의 징역 6개월 형이 무겁다고 판단하였습니다. 따라서, 원심을 파기하고, 징역 5개월로 감형하였습니다.",
+        "originwordCnt": "242",
+        "labelwordCnt": "39"
+    }
+}

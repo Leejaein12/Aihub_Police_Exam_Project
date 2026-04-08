@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "156519",
+        "caseName": "법률사무취급단속법위반",
+        "caseNum": "67도797",
+        "sentenceDate": "1967.08.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "경합범에 관한 법리를 오해한 경우 어떤 문제가 발생할 수 있나요?",
+        "output": "경합범에 관한 법리를 오해한 경우, 판결 확정 전에 범한 죄와 확정된 죄 사이의 경합범 관계가 잘못 판단될 수 있습니다. 이는 형법 제37조에 따라 경합범 관계를 올바르게 적용하지 못해 부적절한 법적 결론에 이를 수 있는 중대한 법리적 오류를 초래할 수 있습니다.",
+        "originwordCnt": "10",
+        "labelwordCnt": "40"
+    }
+}

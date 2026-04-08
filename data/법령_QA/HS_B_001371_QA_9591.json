@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001371",
+        "promulgDate": "20201215",
+        "effectDate": "20240101",
+        "promulgNum": "17646",
+        "title": "국가정보원법",
+        "ministry": "국가정보원",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가정보원장 및 국가정보원 직원은 어떤 직무윤리를 지켜야 합니까?",
+        "output": "국가정보원법 제3조 제2항에 의하면 국가정보원장ㆍ차장 및 기획조정실장과 그 밖의 직원은 이 법에서 정하는 정보의 수집 목적에 적합하게 정보를 수집하여야 하며, 수집된 정보를 직무 외의 용도로 사용하여서는 안 됩니다.",
+        "originwordCnt": "42",
+        "labelwordCnt": "28"
+    }
+}

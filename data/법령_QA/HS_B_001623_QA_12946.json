@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제104조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법정기간은 어떤 경우에 연장될 수 있나요?",
+        "output": "법정기간은 소송행위를 할 사람의 주거 또는 사무소의 소재지와 군사법원 소재지 간의 거리 및 교통통신이 불편한 정도에 따라 대법원규칙으로 연장할 수 있습니다. 군사법원법 제104조에 명시하고 있습니다.",
+        "originwordCnt": "23",
+        "labelwordCnt": "25"
+    }
+}

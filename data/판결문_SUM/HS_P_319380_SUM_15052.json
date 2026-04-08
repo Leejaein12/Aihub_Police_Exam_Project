@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319380",
+        "caseName": "의료법위반",
+        "caseNum": "2023고정1042",
+        "sentenceDate": "2024.04.03",
+        "courtName": "서울서부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "안마사 자격이 없는 여성을 고용하여 손님에게 물리적 시술행위를 하도록 하였고, 이는 의료법을 위반한 행위로 인정되었습니다. 법원은 피고인이 안마사 자격 없이 안마시술소를 운영하였다는 사실을 피고인의 진술과 현장사진, 적발보고서 등을 통해 확인하였으며, 의료법 제87조의2 제2항에 따라 벌금 500만원을 선고하였습니다.",
+        "originwordCnt": "206",
+        "labelwordCnt": "37"
+    }
+}

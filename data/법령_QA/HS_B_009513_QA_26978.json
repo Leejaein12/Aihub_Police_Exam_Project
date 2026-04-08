@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009513",
+        "promulgDate": "20220610",
+        "effectDate": "20230611",
+        "promulgNum": "18898",
+        "title": "암관리법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제18조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "중앙암등록본부의 장은 전년도 암등록통계사업 결과를 어떻게 처리해야 합니까?",
+        "output": "암관리법 제18조 제2항에 따르면, 중앙암등록본부의 장은 전년도 암등록통계사업 결과를 종합ㆍ분석하여 그 다음 연도 2월 말일까지 보건복지부장관에게 보고한 후 매년 공표하여야 합니다.",
+        "originwordCnt": "73",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009412",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19590",
+        "title": "산지관리법",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제36조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국산림토석협회의 사업에 필요한 경비는 어떻게 충당되나요?",
+        "output": "산지관리법 제36조의2에 따르면, 협회의 사업에 소요되는 경비는 출자금, 사업수입금 등으로 충당하며, 국가 또는 지방자치단체는 소요경비의 일부를 예산의 범위에서 지원할 수 있습니다.",
+        "originwordCnt": "124",
+        "labelwordCnt": "21"
+    }
+}

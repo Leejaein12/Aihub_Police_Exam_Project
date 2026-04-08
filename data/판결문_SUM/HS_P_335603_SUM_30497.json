@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335603",
+        "caseName": "모욕",
+        "caseNum": "2023고정332",
+        "sentenceDate": "2024.03.15",
+        "courtName": "전주지방법원 군산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사이트에 피해자를 비판하는 글과 댓글을 게시하여 피해자를 모욕한 혐의로 기소되었으며, 법원은 피고인의 글이 피해자 C을 특정할 수 있는 내용임을 인정하였습니다. 피고인은 글에서 피해자의 실명을 명시하지 않았으나, 주위 사정을 종합하여 그 표현이 피해자를 지목하는 것으로 판단되었습니다. 법원은 피고인에게 벌금 1,000,000원을 선고하였습니다.",
+        "originwordCnt": "633",
+        "labelwordCnt": "40"
+    }
+}

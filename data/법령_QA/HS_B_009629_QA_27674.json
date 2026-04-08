@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009629",
+        "promulgDate": "20220426",
+        "effectDate": "20230427",
+        "promulgNum": "18849",
+        "title": "주민투표법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "청구인서명부에 서명을 철회하려면 언제까지 가능한가요?",
+        "output": "청구인서명부에 서명한 자가 서명을 철회하려면 해당 서명부가 지방자치단체의 장에게 제출되기 전에 철회해야 합니다. 이 경우 청구인대표자는 즉시 서명을 삭제해야 합니다. 이는 주민투표법 제10조 제6항에 근거합니다.",
+        "originwordCnt": "297",
+        "labelwordCnt": "25"
+    }
+}

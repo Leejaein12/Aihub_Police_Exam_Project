@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000398",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19117",
+        "title": "사방사업법",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사방시설의 관리에 필요한 비용은 누가 부담하나요?",
+        "output": "사방시설의 관리에 필요한 비용은 그 관리자가 부담합니다. 이는 사방시설의 유지와 관리를 책임지는 자가 해당 비용을 책임진다는 것을 의미합니다. 이 내용은 '사방사업법' 제16조에서 규정하고 있습니다.",
+        "originwordCnt": "9",
+        "labelwordCnt": "24"
+    }
+}

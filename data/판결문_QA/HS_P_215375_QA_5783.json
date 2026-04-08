@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "215375",
+        "caseName": "업무횡령",
+        "caseNum": "4288형상33",
+        "sentenceDate": "1955.04.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "간접증거만으로 범죄사실을 단정할 수 있나요?",
+        "output": "형사소송법 제307조에 따르면, 간접증거에 의한 심증만으로는 범죄사실을 단정할 수 없습니다. 따라서 범죄사실을 인정하려면 명확한 증거가 필요하며, 단순한 간접증거만으로는 부족하다는 것이 판결 요지입니다.",
+        "originwordCnt": "11",
+        "labelwordCnt": "22"
+    }
+}

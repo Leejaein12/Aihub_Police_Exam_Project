@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011209",
+        "promulgDate": "20240130",
+        "effectDate": "20240130",
+        "promulgNum": "20172",
+        "title": "물의 재이용 촉진 및 지원에 관한 법률",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "물의 재이용에 관한 규정이 다른 법률과 충돌할 경우, 어떻게 적용되나요?",
+        "output": "물의 재이용 촉진 및 지원에 관한 법률 제4조에 따르면, 물의 재이용에 관하여 다른 법률에 특별한 규정이 있는 경우를 제외하고는 이 법에서 정하는 바에 따릅니다.",
+        "originwordCnt": "18",
+        "labelwordCnt": "24"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "214085",
+        "caseName": "공갈",
+        "caseNum": "79도1329",
+        "sentenceDate": "1979.07.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공갈죄의 본질은 무엇인가요?",
+        "output": "공갈죄의 본질은 피공갈자가 외포(두려움)를 느끼게 하여 하자가 있는 동의를 유발한 후 그 동의를 이용해 재물이나 재산상의 이익을 취득하는 행위입니다. 즉, 외포를 이용하여 재산상 이득을 얻는 것이 공갈죄의 핵심 요소입니다. 이는 형법 제350조에 따라 규정됩니다.",
+        "originwordCnt": "47",
+        "labelwordCnt": "34"
+    }
+}

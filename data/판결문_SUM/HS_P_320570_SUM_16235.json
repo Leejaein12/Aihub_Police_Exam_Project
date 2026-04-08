@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "320570",
+        "caseName": "도박공간개설등",
+        "caseNum": "2024노1279",
+        "sentenceDate": "2024.07.26",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심의 형이 부당하다는 주장을 포함하고 있으나, 원심은 피고인의 여러 정상적 사정을 충분히 고려하여 형을 정한 것으로 보입니다. 원심의 형은 피고인이 인정한 범행의 내용과 규모, 가담 기간을 고려할 때 무겁지 않으며, 도박 관련 범죄의 사회적 폐해를 감안할 때 엄중한 처벌이 필요합니다. 이에 따라 피고인의 항소는 이유 없으므로 기각됩니다.",
+        "originwordCnt": "278",
+        "labelwordCnt": "47"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336195",
+        "caseName": "사기등",
+        "caseNum": "2023노4784",
+        "sentenceDate": "2024.04.05",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피고인은 중고물품 거래 사이트에서 사기 및 공동상해 범행을 저질렀고, 이 중 일부 피해자와 합의하였으나 누범 기간 중 범행을 저질렀습니다. 원심에서 C의 배상명령 신청은 인용되고 B의 신청은 각하되었으며, 항소심은 피고인의 모든 죄가 경합범 관계에 있어 하나의 형으로 선고해야 한다고 보아 원심 판결을 파기하고 징역 1년 2월을 선고했습니다.",
+        "originwordCnt": "462",
+        "labelwordCnt": "46"
+    }
+}

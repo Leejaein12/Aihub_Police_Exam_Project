@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010111",
+        "promulgDate": "20230613",
+        "effectDate": "20231214",
+        "promulgNum": "19448",
+        "title": "긴급복지지원법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시·도지사는 이의신청을 받은 후 어떤 절차를 거쳐야 하나요?",
+        "output": "긴급복지지원법 제16조 제2항에 따르면, 시·도지사는 제1항에 따른  송부받은 날부터 15일 이내에 이를 검토하고, 처분이 위법하거나 부당하다고 인정되는 경우 시정, 그 밖에 필요한 조치를 해야 합니다.",
+        "originwordCnt": "66",
+        "labelwordCnt": "26"
+    }
+}

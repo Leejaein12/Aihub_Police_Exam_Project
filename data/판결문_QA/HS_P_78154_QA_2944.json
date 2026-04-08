@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78154",
+        "caseName": "폭력행위등처벌에관한법률위반(집단·흉기등상해)",
+        "caseNum": "2006고단833",
+        "sentenceDate": "2006.08.09",
+        "courtName": "서울동부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형 집행이 유예된 경우, 법원은 어떤 근거로 집행유예를 결정하였나요?",
+        "output": "형 집행이 유예된 것은 형법 제62조 제1항에 따라 피고인의 형 집행을 3년간 유예하기로 결정된 것입니다.",
+        "originwordCnt": "254",
+        "labelwordCnt": "15"
+    }
+}

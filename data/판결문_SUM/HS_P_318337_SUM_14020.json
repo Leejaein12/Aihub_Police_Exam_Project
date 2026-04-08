@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318337",
+        "caseName": "특수협박",
+        "caseNum": "2024고정327",
+        "sentenceDate": "2024.07.25",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "연차 사용 문제로 피해자와 말다툼을 하다가 문구용 칼을 꺼내 피해자를 향해 들이밀며 협박하였습니다. 법원은 피고인이 위험한 물건을 이용해 피해자에게 위해를 가할 듯한 행동을 한 점을 인정하였고, 이를 근거로 피고인에게 벌금 200만 원을 선고하였습니다.",
+        "originwordCnt": "168",
+        "labelwordCnt": "33"
+    }
+}

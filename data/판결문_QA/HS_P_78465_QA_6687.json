@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78465",
+        "caseName": "근로기준법위반",
+        "caseNum": "2006노916",
+        "sentenceDate": "2007.05.03",
+        "courtName": "전주지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법원이 원심판결을 파기하고 무죄를 선고한 이유는 무엇인가요?",
+        "output": "법원은 원심판결을 파기하고 피고인에게 무죄를 선고하였습니다. 이는 원심에서 인정된 사실에 대해 무죄의 근거가 있다고 판단하였기 때문이며, 원심 판결을 변경하여 무죄로 결론을 내린 것입니다.",
+        "originwordCnt": "944",
+        "labelwordCnt": "23"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "97289",
+        "caseName": "폭력행위등처벌에관한법률·보호감호",
+        "caseNum": "82도2971",
+        "sentenceDate": "1983.02.08",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "일방적인 증언만으로 상해 사실을 인정할 수 있나요?",
+        "output": "구타와 부상에 대한 진술이 이해관계가 있는 상대방의 일방적 증언에 불과하고, 이를 뒷받침할 다른 증거가 없는 경우에는 상해 사실을 인정할 수 없습니다. 이는 형사소송법 제307조에 따른 것입니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "26"
+    }
+}

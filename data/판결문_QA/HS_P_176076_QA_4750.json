@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "176076",
+        "caseName": "전기공사업법위반(예비적죄명:전기공사업법위반)",
+        "caseNum": "2012고정360",
+        "sentenceDate": "2012.08.23",
+        "courtName": "창원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "공사업자가 자신의 성명이나 상호를 타인이 사용하여 전기공사를 시공하게 하는 행위가 명의대여로 금지될 수 있나요?",
+        "output": "공사업자가 자신의 성명이나 상호를 타인이 사용하여 전기공사를 시공하게 하는 행위는 전기공사업법 제10조에 따라 금지되는 명의대여 행위에 해당할 수 있습니다.",
+        "originwordCnt": "2149",
+        "labelwordCnt": "19"
+    }
+}

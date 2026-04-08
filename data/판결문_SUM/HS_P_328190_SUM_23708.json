@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328190",
+        "caseName": "업무방해등",
+        "caseNum": "2023고단3469",
+        "sentenceDate": "2024.01.18.",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "무인판매점에서 선풍기를 부수고 냉동고의 아이스크림을 바닥에 던지는 행위를 하였으며, 다른 손님들 앞에서 신체를 노출하여 불쾌감을 주었습니다. 법원은 이러한 행위가 재물손괴, 업무방해, 경범죄처벌법 위반에 해당한다고 판단하고, 형법 제366조, 제314조, 경범죄처벌법 제3조를 근거로 징역 1년 및 벌금 10만 원을 선고하였습니다.",
+        "originwordCnt": "328",
+        "labelwordCnt": "38"
+    }
+}

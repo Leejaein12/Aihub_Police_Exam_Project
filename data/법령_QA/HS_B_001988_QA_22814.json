@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001988",
+        "promulgDate": "20230725",
+        "effectDate": "20240126",
+        "promulgNum": "19573",
+        "title": "수상레저안전법",
+        "ministry": "해양경찰청",
+        "fullText": "N",
+        "smClass": "제58조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "해양경찰서장 또는 시장ㆍ군수ㆍ구청장은 수상레저사업의 등록을 취소하려면 어떤 절차를 거쳐야 합니까?",
+        "output": "수상레저안전법 제58조 제2항에 따라, 해양경찰서장 또는 시장ㆍ군수ㆍ구청장은 제48조에 따라 수상레저사업의 등록을 취소하려면 청문을 하여야 합니다.",
+        "originwordCnt": "61",
+        "labelwordCnt": "15"
+    }
+}

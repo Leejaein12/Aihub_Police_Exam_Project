@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001622",
+        "promulgDate": "20240206",
+        "effectDate": "20240507",
+        "promulgNum": "20191",
+        "title": "병역법",
+        "ministry": "국방부,병무청",
+        "fullText": "N",
+        "smClass": "제39조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "전문연구요원과 산업기능요원의 복무와 관련된 세부 사항은 어떻게 정해지나요?",
+        "output": "병역법 제39조 제5항에 따르면 전문연구요원과 산업기능요원이 복무하여야 할 해당 분야, 의무복무기간의 계산, 전직, 서약 등 복무에 필요한 사항은 대통령령으로 정합니다.",
+        "originwordCnt": "199",
+        "labelwordCnt": "20"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314810",
+        "caseName": "사기",
+        "caseNum": "2023고정480",
+        "sentenceDate": "2023.11.22",
+        "courtName": "청주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "인터넷과 TV 요금 미납 없이 1년간 사용할 것처럼 계약하고, 현금 사은품 53만 원을 지급받았으나 실제로는 이를 정상 사용할 의사나 능력이 없었습니다. 이에 따라 형법 제347조 제1항에 따른 사기죄로 기소되었습니다. 일부 피해를 회복하고 합의한 점 등을 고려하여 향형이 결정되었습니다. 따라서, 벌금형을 처하였습니다.",
+        "originwordCnt": "285",
+        "labelwordCnt": "41"
+    }
+}

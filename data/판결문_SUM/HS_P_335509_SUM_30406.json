@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335509",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단4302",
+        "sentenceDate": "2024.01.11",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.231% 상태로 약 1km 구간을 운전한 사실로 도로교통법을 위반하였습니다. 재판부는 피고인이 초범이며 자신의 잘못을 인정한 점을 유리한 정상으로, 혈중알코올농도가 매우 높았던 점을 불리한 정상으로 고려하였습니다. 법원은 피고인에게 벌금 1,300만 원을 선고하였습니다.",
+        "originwordCnt": "171",
+        "labelwordCnt": "32"
+    }
+}

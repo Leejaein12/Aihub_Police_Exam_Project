@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001351",
+        "promulgDate": "20211019",
+        "effectDate": "20220420",
+        "promulgNum": "18520",
+        "title": "국가정보원직원법",
+        "ministry": "국가정보원",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가정보원직원의 직무 종류별 명칭과 전문관의 직무 분야 및 대우는 어떻게 정해지나요?",
+        "output": "국가정보원직원법 제2조 제3항 규정에 따르면 제1항의 각 계급의 직무 종류별 명칭과 제2항의 전문관의 직무 분야 대우 등에 관하여는 대통령령으로 정합니다.",
+        "originwordCnt": "56",
+        "labelwordCnt": "20"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "77889",
+        "caseName": "지방세법위반",
+        "caseNum": "2004노1422",
+        "sentenceDate": "2004.10.28",
+        "courtName": "부산지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "지방세법상의 특별징수의무자와 조세범처벌법상의 원천징수의무자는 같은 개념인가요?",
+        "output": "지방세법상의 특별징수의무자와 조세범처벌법상의 원천징수의무자는 구별되는 개념이므로, 원심의 판단에 법리 오해의 위법이 없다고 하여 검사의 항소를 기각하였습니다.",
+        "originwordCnt": "367",
+        "labelwordCnt": "16"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "322798",
+        "caseName": "사기등",
+        "caseNum": "2022고단995",
+        "sentenceDate": "2022.12.07.",
+        "courtName": "춘천지방법원 원주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2019년부터 2021년까지 피해자에게 거짓말로 돈을 빌려 총 1,490만 원을 편취한 후, 협박을 통해 5,720만 원을 갈취한 사건입니다. 여러 차례 처벌받은 전력이 있으며 피해 회복이 이루어지지 않은 점이 불리하게 작용하였습니다. 범행을 인정했으나, 누범기간 중 발생한 점을 고려하여 징역 1년 6개월이 선고되었습니다.",
+        "originwordCnt": "430",
+        "labelwordCnt": "40"
+    }
+}

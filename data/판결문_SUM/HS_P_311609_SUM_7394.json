@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311609",
+        "caseName": "업무방해등",
+        "caseNum": "2023고단2971",
+        "sentenceDate": "2023.09.14",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자신이 소유한 건물의 옆에서 진행 중인 건축 공사와 관련하여, 지질 조사를 위해 주차한 차량을 막아 업무를 방해하였습니다. 이로 인해 차량이 이동 불가능하게 되어 재물손괴가 발생했습니다. 이에 따라 업무방해와 재물손괴로 형법 제314조 및 제366조에 근거해 벌금 100만 원에 처해졌습니다.",
+        "originwordCnt": "379",
+        "labelwordCnt": "38"
+    }
+}

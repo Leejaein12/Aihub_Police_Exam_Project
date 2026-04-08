@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014462",
+        "promulgDate": "20230628",
+        "effectDate": "20230628",
+        "promulgNum": "01120",
+        "title": "군사법경찰 수사규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군사법경찰관리가 피해자를 대할 때 어떤 점을 고려해야 하나요?",
+        "output": "군사법경찰관리는 피해자의 심정을 이해하고 그 인격을 존중하며, 피해자가 범죄피해 상황에서 조속히 회복하여 인간의 존엄성을 보장받을 수 있도록 노력해야 합니다. 이는 군사법경찰 수사규칙 제9조 제1항에 명시되어 있습니다.",
+        "originwordCnt": "40",
+        "labelwordCnt": "26"
+    }
+}

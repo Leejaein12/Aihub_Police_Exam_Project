@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328327",
+        "caseName": "사기등",
+        "caseNum": "2023노426",
+        "sentenceDate": "2023.07.07.",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "철거 시공사 선정 권한이 있음처럼 기망하여 약 8,000만 원을 편취하고 소나무 절취로 손해를 발생시켜 유죄로 판단되었습니다. 그러나 동종 범죄 전력이 없고, 일부 피해자와 합의하고 피해 변제를 위해 노력한 점을 참작하여 형법 제62조 제1항에 따라 징역 1년에 처하되, 형의 집행을 2년간 유예하였습니다.",
+        "originwordCnt": "835",
+        "labelwordCnt": "41"
+    }
+}

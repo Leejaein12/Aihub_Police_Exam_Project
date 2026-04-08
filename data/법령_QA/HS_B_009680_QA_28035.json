@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009680",
+        "promulgDate": "20230328",
+        "effectDate": "20230929",
+        "promulgNum": "19310",
+        "title": "악취방지법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "악취로 인해 주민의 건강과 생활환경에 피해가 우려되는 경우, 어떤 조치를 취할 수 있나요?",
+        "output": "악취방지법 제4조 제3항에 따르면, 환경부장관, 시ㆍ도지사 또는 대도시의 장은 주민의 건강과 생활환경에 피해가 우려되는 경우, 악취관리지역 외의 지역에서도 악취발생 실태를 조사할 수 있습니다.",
+        "originwordCnt": "97",
+        "labelwordCnt": "23"
+    }
+}

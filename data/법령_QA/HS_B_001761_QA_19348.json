@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001761",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19591",
+        "title": "고용보험법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제19조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "고용안정과 직업능력개발을 위해 어떤 사업을 실시하나요?",
+        "output": "고용노동부장관은 피보험자등에 대한 실업 예방, 취업 촉진, 고용기회 확대, 직업능력개발 및 향상의 기회 제공을 위해 고용안정ㆍ직업능력개발 사업을 실시합니다. 고용보험법 제19조제1항에 규정되어 있습니다.",
+        "originwordCnt": "73",
+        "labelwordCnt": "22"
+    }
+}

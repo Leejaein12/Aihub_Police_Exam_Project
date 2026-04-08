@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "240183",
+        "caseName": "사문서위조등",
+        "caseNum": "4288형상232",
+        "sentenceDate": "1955.09.23",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인의 불출석 상황에서 법원이 판결을 내릴 때 어떤 절차가 필요합니까?",
+        "output": "형사소송법 제365조에 따르면, 피고인의 진술 없이 판결을 하기 위해서는 피고인에게 전후 공판기일 소환장이 정당하게 발송되어야 합니다. 이는 피고인의 출석권과 방어권을 보장하기 위한 필수 절차입니다.",
+        "originwordCnt": "13",
+        "labelwordCnt": "24"
+    }
+}

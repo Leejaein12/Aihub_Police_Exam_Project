@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333482",
+        "caseName": "업무방해등",
+        "caseNum": "2022고단8993",
+        "sentenceDate": "2023.05.04",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "식당에서 술을 거부한 종업원에게 불만을 품고 고성으로 영업을 방해하고, 경찰관에게 모욕적인 발언을 하며 폭행을 가해 업무방해, 공무집행방해, 모욕 혐의로 기소되었습니다. 법원은 형법 제314조, 제136조, 제311조를 근거로 징역 6개월을 선고하였으나, 집행유예 1년과 120시간의 사회봉사를 명령하였습니다.",
+        "originwordCnt": "379",
+        "labelwordCnt": "34"
+    }
+}

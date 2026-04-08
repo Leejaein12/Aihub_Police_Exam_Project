@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001777",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "노인복지법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제39조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시·도지사는 요양보호사의 양성을 위해 어떤 조치를 취해야 하나요?",
+        "output": "시·도지사는 요양보호사의 양성을 위하여 보건복지부령으로 정하는 지정기준에 적합한 시설을 요양보호사교육기관으로 지정하여 운영해야 합니다. 이는 노인복지법 제39조의3 제1항에 명시되어 있습니다.",
+        "originwordCnt": "133",
+        "labelwordCnt": "19"
+    }
+}

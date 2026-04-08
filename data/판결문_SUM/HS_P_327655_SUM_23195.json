@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "327655",
+        "caseName": "사기등",
+        "caseNum": "2022노1397",
+        "sentenceDate": "2023.05.18.",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "검사는 피고인에게 선고된 징역 2년이 지나치게 가볍다고 주장하며 항소했으나, 항소심 법원은 제1심의 양형이 재량의 합리적인 범위를 벗어나지 않았고, 특별한 사정변경도 없다고 판단하여 항소를 기각했습니다. 또한, 배상신청인 AY의 배상신청은 피고인의 배상책임 범위가 명확하지 않아 배상명령을 내리는 것이 적절하지 않다고 보아 각하하였습니다.",
+        "originwordCnt": "257",
+        "labelwordCnt": "40"
+    }
+}

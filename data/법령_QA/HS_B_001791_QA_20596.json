@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001791",
+        "promulgDate": "20230613",
+        "effectDate": "20231214",
+        "promulgNum": "19442",
+        "title": "결핵예방법",
+        "ministry": "질병관리청",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "업무종사 정지 또는 금지 명령을 받은 환자는 언제까지 업무에 종사할 수 없습니까?",
+        "output": "결핵예방법 제13조 제2항에 명시된 바와 같이, 제1항에 따라 업무종사 정지 또는 금지 명령을 받은 환자는 전염성 소실 판정을 받을 때까지 업무에 종사할 수 없습니다.",
+        "originwordCnt": "113",
+        "labelwordCnt": "24"
+    }
+}

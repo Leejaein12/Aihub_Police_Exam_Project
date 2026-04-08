@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337113",
+        "caseName": "사기",
+        "caseNum": "2023고단2134",
+        "sentenceDate": "2023.12.08",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "임대차계약을 체결한 후, 계약금을 추가로 올려달라는 거짓말로 1,100만 원을 편취하였습니다. 당시 새로운 주거지를 마련할 능력이 없었음에도 피해자를 속였습니다. 법원은 형법 제347조 제1항에 따라 사기죄를 인정하고, 징역 10개월을 선고하였으나, 집행유예 2년과 160시간의 사회봉사를 명령하였습니다.",
+        "originwordCnt": "553",
+        "labelwordCnt": "33"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010109",
+        "promulgDate": "20170314",
+        "effectDate": "20170314",
+        "promulgNum": "14583",
+        "title": "범죄피해자 보호법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제26조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "범죄피해 지구심의회는 신청을 받으면 무엇을 해야하나요?",
+        "output": "범죄피해자 보호법 제26조에 따르면 지구심의회는 동법 제25조 제1항에 따른 신청을 받으면 신속하게 구조금을 지급하거나 지급하지 않는다는 결정(지급한다는 결정을 하는 경우에는 그 금액을 정하는 것을 포함)을 해야합니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "26"
+    }
+}

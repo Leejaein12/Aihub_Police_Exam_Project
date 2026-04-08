@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "003047",
+        "promulgDate": "20220630",
+        "effectDate": "20220701",
+        "promulgNum": "32737",
+        "title": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 시행령",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제108조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국방부장관은 군교정시설의 보호장비에 대해 무엇을 정기적으로 점검해야 할까요?",
+        "output": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 시행령 제108조 제2항에 의하면, 국방부장관은 군교정시설의 보호장비 사용 실태를 정기적으로 점검하여야 합니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "20"
+    }
+}

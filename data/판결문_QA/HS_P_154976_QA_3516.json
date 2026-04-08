@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "154976",
+        "caseName": "간통",
+        "caseNum": "70도2240",
+        "sentenceDate": "1970.12.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "간통 고소의 유효조건으로서 이혼소송의 계속 여부가 어떤 영향을 미치나요?",
+        "output": "간통의 고소는 형사소송법 제229조에 따라 혼인관계의 부존속 또는 이혼소송의 계속을 유효조건으로 삼습니다. 따라서 고소 당시 이혼소송을 제기하였다 해도 소장이 각하되면 최초부터 이혼소송이 제기되지 않은 것과 같아 고소의 효력이 소급하여 상실됩니다.",
+        "originwordCnt": "61",
+        "labelwordCnt": "30"
+    }
+}

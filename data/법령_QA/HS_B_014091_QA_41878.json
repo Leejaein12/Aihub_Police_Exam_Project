@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014091",
+        "promulgDate": "20210608",
+        "effectDate": "20211209",
+        "promulgNum": "18206",
+        "title": "재난안전통신망법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제26조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "재난안전통신 업무에 제공한 표지물이나 토지 등에 따른 손실보상의 청구는 언제까지 해야 하나요?",
+        "output": "재난안전통신망법 제26조 제3항에 따르면 손실보상의 청구는 손실이 있음을 안 날부터 1년 또는 손실이 발생한 날부터 3년 이내에 하여야 합니다.",
+        "originwordCnt": "127",
+        "labelwordCnt": "19"
+    }
+}

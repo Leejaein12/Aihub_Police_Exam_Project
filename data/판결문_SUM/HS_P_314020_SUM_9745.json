@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314020",
+        "caseName": "공무집행방해",
+        "caseNum": "2024고단1362",
+        "sentenceDate": "2024.05.30",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "신고를 받고 출동한 경찰관이 공무 집행 중 멈춰달라고 요청했으나, 상대방은 경찰관을 향해 음료수 병으로 위협하고 주먹으로 머리를 가격하여 폭행을 가하였습니다. 이로 인해 경찰관의 직무 집행이 방해되었습니다. 법원은 상대방에게 500만 원의 벌금을 부과하였습니다.",
+        "originwordCnt": "193",
+        "labelwordCnt": "32"
+    }
+}

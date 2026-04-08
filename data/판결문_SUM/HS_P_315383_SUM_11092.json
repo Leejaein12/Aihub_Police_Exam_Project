@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315383",
+        "caseName": "사기",
+        "caseNum": "2024도5485",
+        "sentenceDate": "2024.07.11",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사기 혐의로 유죄 판결을 받은 피고인은 배상신청인 B, C, D, E, F, G, H에게 각각 220,000원에서 1,700,000원의 금액을 배상하도록 선고받았습니다. 상고심에서 형의 부당성과 배상책임의 범위에 대한 주장이 있었으나, 대법원은 원심의 법리 적용과 증거 채택이 적법하다고 판단하여 상고를 기각하였습니다.",
+        "originwordCnt": "194",
+        "labelwordCnt": "38"
+    }
+}

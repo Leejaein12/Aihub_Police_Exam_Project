@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014170",
+        "promulgDate": "20240220",
+        "effectDate": "20240220",
+        "promulgNum": "20314",
+        "title": "고향사랑 기부금에 관한 법률",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "개인별 고향사랑 기부금의 연간 상한액은 얼마입니까?",
+        "output": "500만원으로 합니다. 이는 고향사랑 기부금에 관한 법률 제8조 제3항에 규정되어 있습니다.",
+        "originwordCnt": "73",
+        "labelwordCnt": "11"
+    }
+}

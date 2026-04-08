@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010436",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19888",
+        "title": "노인장기요양보험법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제33조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "변경지정을 하거나 변경신고를 받은 후 특별자치시장은 어떤 조치를 취해야 하나요?",
+        "output": "노인복지법 제33조 제3항에 따르면, 변경지정을 하거나 변경신고를 받은 특별자치시장, 특별자치도지사, 시장, 군수, 구청장은 지체 없이 해당 변경 사항을 공단에 통보하여야 합니다.",
+        "originwordCnt": "59",
+        "labelwordCnt": "21"
+    }
+}

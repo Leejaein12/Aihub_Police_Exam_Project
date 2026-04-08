@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335387",
+        "caseName": "절도",
+        "caseNum": "2023고단745",
+        "sentenceDate": "2023.07.14",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "마트에서 음료와 식료품을 결제하지 않고 절취한 혐의로 기소되었습니다. 피고인이 범행을 인정하고, 피해자가 처벌을 원치 않으며 피해품이 모두 반환된 점 등을 고려하여 징역 1개월이 선고되었으나, 1년간 집행이 유예되었습니다. 또한 피고인에게 보호관찰이 명령되었습니다.",
+        "originwordCnt": "219",
+        "labelwordCnt": "31"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335571",
+        "caseName": "정보통신망이용촉진및정보보호등에관한법률위반등",
+        "caseNum": "2024고정52",
+        "sentenceDate": "2024.05.23",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "부동산 사무실에서 피해자 D가 소송 상대방에게 유리한 진술서를 작성해 주었다는 이유로 폭행하였으며, 그 외에도 피해자에게 공포심을 유발하는 문자메시지를 여러 차례 보냈습니다. 그러나 피해자는 피고인에 대한 처벌을 원하지 않는다는 의사를 표시하였고, 이에 따라 공소를 기각했습니다.",
+        "originwordCnt": "832",
+        "labelwordCnt": "34"
+    }
+}

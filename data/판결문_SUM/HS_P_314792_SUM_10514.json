@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314792",
+        "caseName": "교통사고처리특례법위반(치사)",
+        "caseNum": "2023고단2011",
+        "sentenceDate": "2024.01.18",
+        "courtName": "청주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "제한속도 60km/h인 도로에서 114km/h로 과속 운전하다가, 진로를 변경하던 삼륜전기차를 들이받아 운전자가 사망하는 사고를 일으켰습니다. 법원은 교통사고처리특례법 제3조 제1항 및 형법 제268조를 위반한 과실이 크다고 판단하였으나, 잘못을 인정하고 유족과 합의한 점 등을 고려하여 금고 1년 6월을 선고하고, 집행을 유예하였습니다.",
+        "originwordCnt": "296",
+        "labelwordCnt": "38"
+    }
+}

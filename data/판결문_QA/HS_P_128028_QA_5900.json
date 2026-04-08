@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "128028",
+        "caseName": "뇌물공여·제3자뇌물교부·조세범처벌법위반·사기",
+        "caseNum": "2006노59",
+        "sentenceDate": "2006.09.06",
+        "courtName": "창원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "검사의 항소가 기각된 이유는 무엇인가요?",
+        "output": "피고인 1의 무죄 부분에 대한 검사의 항소는 이유 없다고 판단되었으며, 형사소송법 제364조 제4항에 따라 검사의 항소가 기각되었습니다. 이에 따라, 피고인 1의 유죄 부분 및 다른 피고인들에 대한 원심판결은 파기되어 다시 판결되었습니다.",
+        "originwordCnt": "1567",
+        "labelwordCnt": "31"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010458",
+        "promulgDate": "20170726",
+        "effectDate": "20170726",
+        "promulgNum": "14839",
+        "title": "국민의 형사재판 참여에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제30조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국민참여재판에서 무이유부기피신청이 있을 경우 배심원으로 선정할 수 없나요?",
+        "output": "국민의 형사재판 참여에 관한 법률 제30조 제2항에 명시된 바와 같이, 무이유부기피신청이 있는 경우 법원은 해당 배심원후보자를 배심원으로 선정할 수 없습니다.",
+        "originwordCnt": "61",
+        "labelwordCnt": "20"
+    }
+}

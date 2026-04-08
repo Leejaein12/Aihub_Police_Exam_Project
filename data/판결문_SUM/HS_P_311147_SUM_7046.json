@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311147",
+        "caseName": "사기",
+        "caseNum": "2023고단5446",
+        "sentenceDate": "2024.04.17",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "임대차계약을 체결하면서 임대인으로서 건물을 정상적으로 인도할 의사나 능력이 없음에도 피해자들을 속여 계약금을 편취하였습니다. 법원은 피고인이 범행을 인정하고 일부 피해금을 변제한 점, 벌금형 이상의 형사처벌 전력이 없는 점을 참작하여 징역 4개월에 집행유예 1년, 사회봉사 80시간을 명하였습니다.",
+        "originwordCnt": "363",
+        "labelwordCnt": "35"
+    }
+}

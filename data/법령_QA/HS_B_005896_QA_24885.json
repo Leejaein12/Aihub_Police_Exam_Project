@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005896",
+        "promulgDate": "20161129",
+        "effectDate": "20161201",
+        "promulgNum": "02696",
+        "title": "소년심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제40조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소년부 판사가 이송결정을 한 때에는 누구에게 그 결정을 통지하여야 합니까?",
+        "output": "소년부 판사가 소년법 제38조제1항제2호, 법 제51조에 따라 이송결정을 한 때에는 이송받을 법원에 대응하는 검찰청 검사에게 그 결정을 통지하여야 합니다. 이는 소년심판규칙 제40조에 명시되어 있습니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "24"
+    }
+}

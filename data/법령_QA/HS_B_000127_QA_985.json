@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000127",
+        "promulgDate": "20230808",
+        "effectDate": "20230808",
+        "promulgNum": "19613",
+        "title": "진폐의 예방과 진폐근로자의 보호 등에 관한 법률",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제24조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "진폐위로금의 종류는 어떤 것들이 있습니까?",
+        "output": "진폐의 예방과 진폐근로자의 보호 등에 관한 법률 제24조 제1항 제1호와 제2호에 명시된 바와 같이, 이 법에 따른 진폐위로금의 종류는 다음과 같습니다. 1. 작업전환수당2. 진폐재해위로금",
+        "originwordCnt": "85",
+        "labelwordCnt": "26"
+    }
+}

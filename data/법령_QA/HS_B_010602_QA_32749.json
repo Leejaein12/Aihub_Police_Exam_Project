@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010602",
+        "promulgDate": "20230620",
+        "effectDate": "20240621",
+        "promulgNum": "19499",
+        "title": "수산생물질병 관리법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제41조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "수산생물 또는 물건의 소유권이 승계되었을 때, 이전의 명령이나 처분은 어떻게 적용됩니까?",
+        "output": "수산생물질병 관리법 제41조 제1항에 따르면, 이 법 또는 이 법에 따른 명령이나 처분은 해당 수산생물 또는 물건의 소유권이 승계된 경우에도 승계한 자 또는 새로운 관리자가 된 자에게 효력이 있습니다.",
+        "originwordCnt": "82",
+        "labelwordCnt": "29"
+    }
+}

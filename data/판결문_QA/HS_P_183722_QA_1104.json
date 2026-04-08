@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "183722",
+        "caseName": "아동복지법위반",
+        "caseNum": "2016노166",
+        "sentenceDate": "2016.05.04",
+        "courtName": "춘천지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "공소시효가 완성된 범죄사실에 대해 법원은 어떻게 판단해야 하나요?",
+        "output": "공소시효가 완성된 범죄사실에 대해서는 형사소송법 제326조 제3호에 따라 면소를 선고해야 합니다. 원심이 이를 간과하고 유죄로 인정했다면, 이는 위법하며 판결의 전부가 유지될 수 없습니다.",
+        "originwordCnt": "1342",
+        "labelwordCnt": "23"
+    }
+}

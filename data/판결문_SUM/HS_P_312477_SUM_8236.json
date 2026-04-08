@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312477",
+        "caseName": "공중위생관리법위반",
+        "caseNum": "2023고정143",
+        "sentenceDate": "2024.02.15",
+        "courtName": "대구지방법원 경주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 7월부터 9월까지 피고인은 피부미용업을 운영하면서, 공중위생영업을 신고하지 않은 채 피부 관리용 침대와 샤워실 등의 시설을 갖추고 손님들에게 화장품과 팩을 발라 마사지를 제공하고 요금을 받았습니다. 법원은 공중위생관리법을 위반한 행위로 벌금 500,000원을 선고하였습니다.",
+        "originwordCnt": "167",
+        "labelwordCnt": "32"
+    }
+}

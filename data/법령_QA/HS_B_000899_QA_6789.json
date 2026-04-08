@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000899",
+        "promulgDate": "20230609",
+        "effectDate": "20230710",
+        "promulgNum": "19430",
+        "title": "고등교육법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제43조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가와 지방자치단체는 교육대학과 사범대학의 목적을 동시에 수행하는 대학을 설립할 수 있나요?",
+        "output": "고등교육법 제42조 제1항에 따르면 국가와 지방자치단체는 특별한 필요가 있는 경우에 대통령령으로 정하는 바에 따라 교육대학과 사범대학의 목적을 동시에 수행할 수 있는 대학을 설립할 수 있습니다.",
+        "originwordCnt": "41",
+        "labelwordCnt": "25"
+    }
+}

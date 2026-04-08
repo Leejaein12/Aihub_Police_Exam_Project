@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009629",
+        "promulgDate": "20220426",
+        "effectDate": "20230427",
+        "promulgNum": "18849",
+        "title": "주민투표법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "지방자치단체의 장이 직권으로 주민투표를 실시할 때 지방의회 의원 중 얼마의 동의를 얻어야 하나요?",
+        "output": "지방자치단체의 장이 직권에 의하여 주민투표를 실시하고자 하는 경우에는 지방의회 재적의원 과반수의 출석과 출석의원 과반수의 동의를 얻어야 합니다. 이는 주민투표법 제9조 제6항에 근거합니다.",
+        "originwordCnt": "173",
+        "labelwordCnt": "22"
+    }
+}

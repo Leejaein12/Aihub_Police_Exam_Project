@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311611",
+        "caseName": "특수상해등",
+        "caseNum": "2023고단3989",
+        "sentenceDate": "2024.05.29",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술을 마시던 중 시비가 붙어 일행과 함께 피해자를 폭행하여 상해를 가한 혐의와, 싸움을 말리던 피해자의 일행을 쇠파이프로 폭행하여 심각한 상해를 입힌 혐의로 기소되었습니다. 법원은 폭력행위 등 처벌에 관한 법률 제2조 제2항과 형법 제258조의2 제1항 등을 위반한 점을 인정하였으며, 상해 정도와 죄질을 고려하여 징역 2년을 선고하였습니다.",
+        "originwordCnt": "290",
+        "labelwordCnt": "45"
+    }
+}

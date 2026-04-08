@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000798",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19597",
+        "title": "저작권법",
+        "ministry": "문화체육관광부",
+        "fullText": "N",
+        "smClass": "제42조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "영상저작물의 보호기간은 언제까지인가요?",
+        "output": "영상저작물의 저작재산권은 제39조 및 제 40조에도 불구하고 공표한 때부터 70년간 존속합니다.다만, 창작한 때부터 50년 이내에 공표되지 아니한 경우에는 창작한 때부터 70년간 존속합니다.이는 저작권법 제42조에 규정되어 있습니다.",
+        "originwordCnt": "27",
+        "labelwordCnt": "28"
+    }
+}

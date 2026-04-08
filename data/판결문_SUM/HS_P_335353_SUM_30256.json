@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335353",
+        "caseName": "특수협박등",
+        "caseNum": "2023고단413",
+        "sentenceDate": "2023.11.02",
+        "courtName": "춘천지방법원 강릉지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "주점에서 대화 중 피해자에게 식칼을 들고 협박한 혐의로 기소되었습니다. 법원은 피고인이 이전에도 폭력 범죄로 처벌받은 전력이 있으며, 이번 사건이 그 범죄를 반복한 것임을 감안해 실형인 징역 6개월을 선고하였습니다. 공소사실 중 폭행에 대해서는 피해자가 처벌을 원하지 않는다는 합의서가 제출된 점을 이유로 공소를 기각하였습니다.",
+        "originwordCnt": "321",
+        "labelwordCnt": "42"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000433",
+        "promulgDate": "20211130",
+        "effectDate": "20220101",
+        "promulgNum": "18525",
+        "title": "농수산물 유통 및 가격안정에 관한 법률",
+        "ministry": "농림축산식품부,해양수산부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "주산지 지정 및 해제에 관한 세부 사항은 어떻게 정해지나요?",
+        "output": "「농수산물 유통 및 가격안정에 관한 법률」 제4조 제5항에 따르면, 주산지의 지정, 주요 농수산물 품목의 지정 및 주산지의 변경·해제에 필요한 사항은 대통령령으로 정합니다.",
+        "originwordCnt": "153",
+        "labelwordCnt": "22"
+    }
+}

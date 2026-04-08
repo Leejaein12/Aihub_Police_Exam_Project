@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314447",
+        "caseName": "업무상횡령",
+        "caseNum": "2023고단3469",
+        "sentenceDate": "2023.12.15",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "아파트 비상대책위원회 위원장과 부위원장으로서, 입주민들의 동의 없이 아파트 소음 및 분진 보상금 중 2,392만여 원을 성과급 명목으로 임의 사용하여 횡령하였습니다. 법원은 피고인들이 보상금 협상과 분배를 진행하였고, 벌금형 이상의 전과가 없는 점을 고려하여 각각 징역 4개월을 선고하였으나, 1년간 집행을 유예하였습니다.",
+        "originwordCnt": "394",
+        "labelwordCnt": "39"
+    }
+}

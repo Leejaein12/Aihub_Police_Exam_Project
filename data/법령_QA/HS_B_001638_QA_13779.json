@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001638",
+        "promulgDate": "20230418",
+        "effectDate": "20240101",
+        "promulgNum": "19357",
+        "title": "도로교통법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제19조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "운전 중 갑작스러운 정지나 급제동이 허용되나요?",
+        "output": "도로교통법 제19조 제4항에 따르면 모든 차의 운전자는 위험방지를 위한 경우와 그 밖의 부득이한 경우가 아니면 운전하는 차를 갑자기 정지시키거나 속도를 줄이는 등의 급제동을 하여서는 아니 됩니다.",
+        "originwordCnt": "106",
+        "labelwordCnt": "26"
+    }
+}

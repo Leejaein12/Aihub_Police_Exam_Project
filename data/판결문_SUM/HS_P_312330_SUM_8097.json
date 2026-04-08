@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312330",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단4751",
+        "sentenceDate": "2024.01.12",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "과거 음주운전으로 벌금형을 받은 전력이 있음에도, 피고인은 2023년 9월에 다시 혈중알코올농도 0.102% 상태로 약 400m 구간을 음주운전한 사실이 인정되었습니다. 이에 법원은 형사소송법 제334조 제1항에 따라 피고인에게 벌금 800만 원을 선고하였습니다.",
+        "originwordCnt": "231",
+        "labelwordCnt": "30"
+    }
+}

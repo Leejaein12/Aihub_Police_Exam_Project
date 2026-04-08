@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000888",
+        "promulgDate": "20221213",
+        "effectDate": "20230614",
+        "promulgNum": "19066",
+        "title": "사립학교법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제32조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "재난으로 인한 사유로 학생을 지원할 필요가 있는 경우, 적립금을 어떻게 사용할 수 있습니까?",
+        "output": "사립학교법 제32조의2 제4항에 따르면, 대학교육기관의 장 및 대학교육기관을 설치ㆍ경영하는 학교법인의 이사장은 이사회의 의결로 기존 적립금을 학생지원 목적으로 변경하여 사용할 수 있습니다.",
+        "originwordCnt": "258",
+        "labelwordCnt": "21"
+    }
+}

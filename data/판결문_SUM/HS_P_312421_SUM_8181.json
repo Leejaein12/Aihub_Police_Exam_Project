@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312421",
+        "caseName": "업무방해",
+        "caseNum": "2023고단1634",
+        "sentenceDate": "2024.05.22",
+        "courtName": "전주지방법원 군산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "식당에서 손님들에게 시비를 걸고 퇴거 요청에 불응하며 약 1시간 30분 동안 소란을 피운 혐의로 기소된 피고인은 범행을 인정하고, 운영자와 원만히 합의하여 처벌을 원치 않는다는 점이 양형에 유리하게 작용했습니다. 그러나 업무방해의 정도가 가볍지 않고, 과거 동종 전력이 있음에도 재범한 점이 불리하게 작용하여 벌금 600만 원이 선고되었습니다.",
+        "originwordCnt": "236",
+        "labelwordCnt": "45"
+    }
+}

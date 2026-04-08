@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "64968",
+        "caseName": "상해·폭행",
+        "caseNum": "2007노1743",
+        "sentenceDate": "2008.03.21",
+        "courtName": "인천지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "안수기도가 정당행위로 인정된 이유는 무엇인가요?",
+        "output": "안수기도는 피고인이 행한 동기나 수단, 방법에 있어서 상당성이 인정되어 사회상규에 위배되지 않는 행위로 판단되었기 때문에 정당행위로 인정되었습니다.",
+        "originwordCnt": "418",
+        "labelwordCnt": "17"
+    }
+}

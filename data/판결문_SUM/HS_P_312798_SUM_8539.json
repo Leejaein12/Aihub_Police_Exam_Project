@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312798",
+        "caseName": "사기",
+        "caseNum": "2024도2170",
+        "sentenceDate": "2024.04.16",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "유죄로 판단된 사건에서 상고를 제기하였습니다. 원심은 증거에 기초하여 피고인의 공소사실을 유죄로 판시하였으며, 그 이유는 자유심증주의의 한계를 준수하며 논리와 경험의 법칙에 부합하였습니다. 또한, 원심은 공소장 변경에 관한 법리를 적절히 해석하였습니다. 이에 따라 상고는 기각되었습니다.",
+        "originwordCnt": "110",
+        "labelwordCnt": "33"
+    }
+}

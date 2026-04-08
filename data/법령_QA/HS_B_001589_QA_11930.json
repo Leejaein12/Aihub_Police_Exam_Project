@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001589",
+        "promulgDate": "20230620",
+        "effectDate": "20231221",
+        "promulgNum": "19511",
+        "title": "소비자기본법",
+        "ministry": "공정거래위원회",
+        "fullText": "N",
+        "smClass": "제59조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국소비자원은 당사자가 법원에 소를 제기한 사실을 알게 된 경우 어떤 조치를 취해야 하나요?",
+        "output": "한국소비자원은 당사자의 소제기 사실을 알게 된 때에는 지체 없이 피해구제절차를 중지하고, 당사자에게 이를 통지하여야 합니다. 이는 소비자기본법 제59조 제2항에 근거합니다.",
+        "originwordCnt": "30",
+        "labelwordCnt": "20"
+    }
+}

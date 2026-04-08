@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011199",
+        "promulgDate": "20211221",
+        "effectDate": "20211221",
+        "promulgNum": "18585",
+        "title": "범죄피해자보호기금법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "기금의 수입과 지출에 관한 사무는 누가 담당하나요?",
+        "output": "범죄피해자보호기금법 제9조에 따르면 법무부장관은 기금의 수입과 지출에 관한 사무를 하게 하기 위하여 소속 공무원 중에서 기금수입징수관, 기금재무관, 기금지출관 및 기금출납공무원을 임명합니다.",
+        "originwordCnt": "20",
+        "labelwordCnt": "21"
+    }
+}

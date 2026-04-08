@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013979",
+        "promulgDate": "20210101",
+        "effectDate": "20210101",
+        "promulgNum": "00996",
+        "title": "영장심의위원회 규칙",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "영장심의위원회의 간사는 어떤 입장에서 업무를 수행해야 하나요?",
+        "output": "영장심의위원회 규칙 제11조 제4항에 따르면, 간사는 객관적이고 중립적인 입장에서 심의위원회의 업무를 수행해야 하고,위원장의 요청이 없는 한 영장심의위원회의 심의에 영향을 미칠 수 있는 의견 등을 표명해서는 안 됩니다.",
+        "originwordCnt": "71",
+        "labelwordCnt": "28"
+    }
+}

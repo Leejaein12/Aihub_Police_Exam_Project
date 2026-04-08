@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335269",
+        "caseName": "횡령",
+        "caseNum": "2023고단1295",
+        "sentenceDate": "2024.03.21",
+        "courtName": "대전지방법원 서산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "보관 중이던 납품대금 15,926,400원을 임의로 소비하여 횡령하였으며, 이에 대해 법원은 범행을 인정하고 형법 제355조 제1항을 적용하여 징역 6개월을 선고하였습니다. 본인이 범행을 인정하고, 피해자가 형사처벌을 원하지 않는 점 등을 고려하여 형법 제62조 제1항에 따라 1년간의 집행유예를 명하였습니다.",
+        "originwordCnt": "132",
+        "labelwordCnt": "36"
+    }
+}

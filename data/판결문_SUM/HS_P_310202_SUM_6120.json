@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310202",
+        "caseName": "출입국관리법위반",
+        "caseNum": "2024고단649",
+        "sentenceDate": "2024.06.19",
+        "courtName": "대구지방법원 포항지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "대한민국에 입국하기 위해 피고인은 무역 바이어로 입국하는 것처럼 허위 초청장을 제출하여 단기 상용 사증을 발급받고 입국하였습니다. 사실과 다른 내용으로 사증을 신청한 혐의로 기소된 피고인은 법원은 출입국관리법 위반 혐의가 인정된다고 판단하여, 징역 6월을 선고하였습니다. 다만, 피고인의 형에 대해 2년간 집행을 유예하였습니다.",
+        "originwordCnt": "205",
+        "labelwordCnt": "40"
+    }
+}

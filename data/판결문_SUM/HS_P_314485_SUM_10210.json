@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314485",
+        "caseName": "절도",
+        "caseNum": "2023고단8565",
+        "sentenceDate": "2024.05.10",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "인천의 한 마트에서 시가 22,000원 상당의 김치를 가방에 몰래 넣어 절취한 혐의로 기소되었습니다. 법원은 피고인이 동종 범죄 전력이 있는 점을 고려하였으나, 절취한 물품이 피해자에게 반환된 점을 감안하여 징역 4개월에 집행유예를 선고했습니다.",
+        "originwordCnt": "109",
+        "labelwordCnt": "31"
+    }
+}

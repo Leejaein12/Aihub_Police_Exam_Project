@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "156346",
+        "caseName": "횡령",
+        "caseNum": "67도1020",
+        "sentenceDate": "1967.09.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인에게 최후 진술의 기회를 주지 않은 경우, 이는 법적으로 어떤 문제가 있나요?",
+        "output": "군법회의법 제345조 제2항에 따르면, 피고인에게 최후 진술의 기회와 변호인에게 변호할 기회를 주지 않은 공판심리는 법에 위배되며, 이는 절차적 위법으로 판결에 중대한 영향을 미칠 수 있습니다.",
+        "originwordCnt": "49",
+        "labelwordCnt": "25"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011633",
+        "promulgDate": "20191210",
+        "effectDate": "20200611",
+        "promulgNum": "16785",
+        "title": "식물신품종 보호법",
+        "ministry": "농림축산식품부,해양수산부",
+        "fullText": "N",
+        "smClass": "제69조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "통상실시권 기간 연장 청구가 거절될 수 없는 경우는 언제입니까?",
+        "output": "식물신품종 보호법 제69조 제3항에 따르면 농림축산식품부장관 또는 해양수산부장관은 통상실시권 기간 연장 청구를 받은 경우 종전의 통상실시권 설정 사유가 계속 있을 때 그 청구를 거절할 수 없습니다.",
+        "originwordCnt": "59",
+        "labelwordCnt": "26"
+    }
+}

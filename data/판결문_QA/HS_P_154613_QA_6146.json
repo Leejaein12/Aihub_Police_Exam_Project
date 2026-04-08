@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "154613",
+        "caseName": "살인",
+        "caseNum": "72도970",
+        "sentenceDate": "1972.06.27",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법령의 착오에 해당하지 않는 위법의 범위는 무엇인가요?",
+        "output": "한미방위조약 제4조에 의한 합의 의사록 제22조 제9항 (카)에 따르면, '법령의 착오'에는 채증법칙 위배나 심리미진과 같은 위법은 포함되지 않습니다. 이러한 경우는 법령의 착오로 간주되지 않기 때문에 검찰이 이를 이유로 상소할 수 없습니다.",
+        "originwordCnt": "172",
+        "labelwordCnt": "31"
+    }
+}

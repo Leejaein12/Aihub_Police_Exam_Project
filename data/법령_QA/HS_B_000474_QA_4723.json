@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000474",
+        "promulgDate": "20211130",
+        "effectDate": "20220101",
+        "promulgNum": "18525",
+        "title": "양곡관리법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "농림축산식품부장관은 양곡수급계획의 운용에 필요한 양곡을 누구로부터 매입할 수 있나요?",
+        "output": "농림축산식품부장관은 양곡관리법 제4조 제1항에 따라 양곡수급계획의 운용에 필요한 양곡을 대통령령으로 정하는 생산자 또는 소유자로부터 매입할 수 있습니다.",
+        "originwordCnt": "87",
+        "labelwordCnt": "17"
+    }
+}

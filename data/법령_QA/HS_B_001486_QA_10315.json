@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001486",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "수산업법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제48조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "신고어업이 효력을 잃게 되는 경우는 언제인가요?",
+        "output": "「수산업법」 제48조 제8항에 따르면, 신고자가 다음 각 호에 해당할 때 어업의 신고는 효력을 잃습니다.1. 준수사항을 3회 이상 위반한 때2. 신고어업의 제한ㆍ정지 처분을 2회 이상 위반한 때3. 신고어업의 폐지신고를 해야 할 사유가 생긴 때",
+        "originwordCnt": "322",
+        "labelwordCnt": "36"
+    }
+}

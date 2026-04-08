@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313426",
+        "caseName": "교통사고처리특례법위반(치상)",
+        "caseNum": "2024고단610",
+        "sentenceDate": "2024.07.11",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "교차로에서 운전 중 횡단보도에 진입하기 전 일시정지하지 않고 전방 주시를 소홀히 하여 보행자를 차량으로 들이받아 약 10주간의 치료가 필요한 상해를 입혔습니다. 법원은 교통사고처리특례법 제3조 제2항 제6호 및 형법 제268조를 위반한 점을 들어 벌금 400만 원을 선고하였습니다.",
+        "originwordCnt": "295",
+        "labelwordCnt": "36"
+    }
+}

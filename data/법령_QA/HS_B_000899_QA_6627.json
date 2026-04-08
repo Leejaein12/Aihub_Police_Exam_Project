@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000899",
+        "promulgDate": "20230609",
+        "effectDate": "20230710",
+        "promulgNum": "19430",
+        "title": "고등교육법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제11조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "교육부장관으로부터 인정받은 기관의 지정, 평가 또는 인증에 관한 사항은 어떻게 정합니까?",
+        "output": "고등교육법 제11조의2 제5항에 의하면 제11조의2 제2항의 평가 또는 인증, 제3항의 인정기관의 지정과 제4항의 평가 또는 인증 결과의 활용에 필요한 사항은 대통령령으로 정합니다.",
+        "originwordCnt": "121",
+        "labelwordCnt": "22"
+    }
+}

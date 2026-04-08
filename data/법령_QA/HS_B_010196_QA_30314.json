@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010196",
+        "promulgDate": "20230321",
+        "effectDate": "20240322",
+        "promulgNum": "19242",
+        "title": "게임산업진흥에 관한 법률",
+        "ministry": "문화체육관광부",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "게임물관리위원회의 위원장은 어떻게 선출되나요?",
+        "output": "게임물관리위원회의 위원장은 위원들 중에서 호선에 의해 선출됩니다. 이 과정은 위원회 내에서 진행되며, 위원장은 상임직으로 임명됩니다. 이는 게임산업 진흥에 관한 법률 제16조 제4항에 명시되어 있습니다.",
+        "originwordCnt": "208",
+        "labelwordCnt": "24"
+    }
+}

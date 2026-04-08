@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001854",
+        "promulgDate": "20231031",
+        "effectDate": "20240614",
+        "promulgNum": "19813",
+        "title": "전기사업법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "산업통상자원부장관이 전력수급기본계획을 수립할 때 고려해야 할 사항은 무엇인가요?",
+        "output": "'전기사업법' 제3조제2항에 따르면, 산업통상자원부장관은 전력수급기본계획을 수립할 때 전기설비의 경제성, 환경 및 국민안전에 미치는 영향을 종합적으로 고려해야 합니다.",
+        "originwordCnt": "107",
+        "labelwordCnt": "17"
+    }
+}

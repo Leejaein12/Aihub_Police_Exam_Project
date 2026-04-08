@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제294조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법원이 피해자를 신문할 때 어떤 내용을 진술할 기회를 주어야 하나요?",
+        "output": "형사소송법 제294조의2제2항에 따르면 법원은 제294조의2제1항에 따라 피해자등을 신문하는 경우 피해의 정도 및 결과, 피고인의 처벌에 관한 의견, 그 밖에 당해 사건에 관한 의견을 진술할 기회를 주어야 합니다.",
+        "originwordCnt": "128",
+        "labelwordCnt": "27"
+    }
+}

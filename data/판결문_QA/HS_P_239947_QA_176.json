@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "239947",
+        "caseName": "통신비밀보호법위반·위치정보의보호및이용등에관한법률위반·자동차수색",
+        "caseNum": "2022노605",
+        "sentenceDate": "2023.06.14",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인에 대한 선고유예의 이유는 무엇인가요?",
+        "output": "피고인이 자신의 범행을 인정하고 깊이 반성하고 있으며, 초범인 점과 범행 동기 등을 고려하여, 법원은 형의 선고를 유예하기로 결정했습니다.",
+        "originwordCnt": "1805",
+        "labelwordCnt": "18"
+    }
+}

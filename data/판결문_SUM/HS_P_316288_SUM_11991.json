@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "316288",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023재고단34",
+        "sentenceDate": "2024.02.07",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주운전으로 처벌받은 사례입니다. 특정 날짜에 혈중알코올농도 0.080%로 차량을 운전한 사실이 확인되었습니다. 이에 따라 법원은 음주운전의 중대성을 고려하여 벌금 800만 원을 선고하였습니다. 과거 음주운전 전력이 있으며, 운전 거리와 기타 양형 조건을 종합적으로 검토하여 형을 정하였습니다.",
+        "originwordCnt": "182",
+        "labelwordCnt": "34"
+    }
+}

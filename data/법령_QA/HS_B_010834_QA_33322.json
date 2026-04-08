@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010834",
+        "promulgDate": "20240109",
+        "effectDate": "20240112",
+        "promulgNum": "34109",
+        "title": "전자장치 부착 등에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제18조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "전자장치 부착명령 임시해제가 취소된 경우 부착명령 집행기간은 언제부터 진행합니까?",
+        "output": "전자장치 부착 등에 관한 법률 시행령 제18조 제4항에 따르면, 임시해제가 취소된 경우 부착명령 집행기간은 부착장치를 피부착명령자의 신체에 부착한 때부터 진행합니다.",
+        "originwordCnt": "70",
+        "labelwordCnt": "20"
+    }
+}

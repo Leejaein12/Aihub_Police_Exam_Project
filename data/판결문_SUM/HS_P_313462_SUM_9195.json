@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313462",
+        "caseName": "횡령",
+        "caseNum": "2023고정1222",
+        "sentenceDate": "2024.03.21",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "마약류관리에관한법률위반죄로 징역형을 선고받은 전력있는 자로 타인이 착오로 송금한 9,457,800원을 보관 중 반환 의무가 있었음에도 불구하고 이를 임의로 인출하고 반환을 거부하여 형법 제355조 제1항을 위반하였습니다. 법원은 피해 회복이 이루어지지 않은 점, 전과 등을 고려하여 벌금 300만 원을 선고하였습니다.",
+        "originwordCnt": "246",
+        "labelwordCnt": "37"
+    }
+}

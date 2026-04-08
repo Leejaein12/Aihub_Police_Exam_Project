@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334035",
+        "caseName": "사기등",
+        "caseNum": "2023노1150",
+        "sentenceDate": "2023.07.06",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심에서 배상신청인들의 배상명령신청을 각하하였으며, 이 부분은 즉시 확정되었습니다. 항소 이유로 제기된 형의 무거움에 대한 주장은, 원심과 비교했을 때 양형의 조건에 변화가 없고, 원심의 양형이 합리적인 범위를 벗어나지 않음을 감안할 때 이유가 없습니다. 따라서 형사소송법에 따라 항소는 기각되었습니다.",
+        "originwordCnt": "215",
+        "labelwordCnt": "37"
+    }
+}

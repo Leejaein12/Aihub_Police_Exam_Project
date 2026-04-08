@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312795",
+        "caseName": "문서은닉등",
+        "caseNum": "2024도161",
+        "sentenceDate": "2024.05.30",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "문서은닉 및 재물손괴 등으로 기소되었습니다. 원심은 공소사실 중 유죄 부분을 인정하였으며, 해당 판결은 관련 법리에 따라 적법하게 채택된 증거에 기초하여 이루어졌습니다. 원심의 판단은 논리와 경험의 법칙에 부합하며, 자유심증주의의 한계를 넘어서는 오류가 없었습니다. 따라서 대법원은 상고를 기각하기로 하였습니다.",
+        "originwordCnt": "122",
+        "labelwordCnt": "37"
+    }
+}

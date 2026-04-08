@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335043",
+        "caseName": "업무방해등",
+        "caseNum": "2023노2900",
+        "sentenceDate": "2024.05.23",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "업무방해 및 재물손괴 사건에 대한 항소를 심리한 결과, 원심의 형이 합리적인 범위를 벗어나지 않으며 너무 가벼운 사유가 없음을 확인하였습니다. 검사의 항소 이유는 원심의 형이 부당하다는 주장이었으나, 항소심에서는 원심의 양형을 존중하는 것이 타당하다고 판단하였습니다. 이에 따라 검사의 항소는 기각되었습니다.",
+        "originwordCnt": "160",
+        "labelwordCnt": "38"
+    }
+}

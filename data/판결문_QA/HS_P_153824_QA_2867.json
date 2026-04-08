@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "153824",
+        "caseName": "국가보안법위반",
+        "caseNum": "69도94",
+        "sentenceDate": "1969.03.25",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "강요된 행위가 성립하려면 반드시 유형적인 협박이 있어야 하는지 궁금합니다.",
+        "output": "강요된 행위가 성립하기 위해서는 반드시 유형적인 협박이 있어야 하는 것은 아닙니다. 형법 제12조에 따라 생명이나 신체에 대한 위해를 방어할 방법이 없는 상황에서의 협박에 의해 이루어진 행위도 강요된 행위로 인정됩니다.",
+        "originwordCnt": "23",
+        "labelwordCnt": "29"
+    }
+}

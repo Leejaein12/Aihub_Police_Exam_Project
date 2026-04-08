@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010005",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19882",
+        "title": "산림자원의 조성 및 관리에 관한 법률",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제42조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "지방자치단체의 장은 산림생물다양성 보전을 위해 어떤 노력을 해야 하나요?",
+        "output": "제42조 제2항에 따르면, 산림청장과 지방자치단체의 장은 관할 지역 산림의 산림생물다양성의 보전ㆍ관리를 위하여 생태숲ㆍ수목원 조성 등 대통령령으로 정하는 사업을 하도록 노력하여야 합니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "21"
+    }
+}

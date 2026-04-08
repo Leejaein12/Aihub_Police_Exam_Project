@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315288",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고정777",
+        "sentenceDate": "2023.09.05",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "약 3km 구간을 혈중알콜농도 0.282% 상태로 음주운전한 혐의로 기소된 사건에서, 법원은 도로교통법 제148조의2 제3항 제1호와 제44조 제1항을 적용하여 피고인에게 벌금 1,000만 원을 선고하였습니다. 피고인이 벌금을 납부하지 않을 경우 10만 원을 1일로 환산하여 노역장에 유치하도록 판결하였습니다.",
+        "originwordCnt": "112",
+        "labelwordCnt": "35"
+    }
+}

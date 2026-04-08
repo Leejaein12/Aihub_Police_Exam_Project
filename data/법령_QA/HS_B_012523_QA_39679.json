@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012523",
+        "promulgDate": "20230816",
+        "effectDate": "20240217",
+        "promulgNum": "19688",
+        "title": "항공사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공항운영자란 어떠한 권한을 부여받은 자를 말합니까?",
+        "output": "항공사업법 제2조 제34호에 의하면 공항운영자란 인천국제공항공사법, 한국공항공사법 등 관계 법률에 따라 공항운영의 권한을 부여받은 자 또는 그 권한을 부여받은 자로부터 공항운영의 권한을 위탁ㆍ이전받은 자를 말합니다.",
+        "originwordCnt": "730",
+        "labelwordCnt": "25"
+    }
+}

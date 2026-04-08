@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011170",
+        "promulgDate": "20210112",
+        "effectDate": "20220113",
+        "promulgNum": "17893",
+        "title": "공공감사에 관한 법률",
+        "ministry": "감사원",
+        "fullText": "N",
+        "smClass": "제35조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "감사 대행과 관련된 사항은 어느 법령에서 규정합니까?",
+        "output": "공공감사에 관한 법률 제35조 제4항에 따르면 제1항부터 제3항까지의 규정에 따른 감사의 대행, 감사원 감사의 생략, 감사 대행의 활성화계획 수립 등에 필요한 사항은 감사원규칙으로 정합니다.",
+        "originwordCnt": "81",
+        "labelwordCnt": "24"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010550",
+        "promulgDate": "20210129",
+        "effectDate": "20210129",
+        "promulgNum": "02949",
+        "title": "국민의 형사재판 참여에 관한 규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제40조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "배심원 대표는 평의를 진행하기에 앞서 어떤 방식으로 선출되나요?",
+        "output": "배심원 대표는 평의를 진행하기에 앞서 호선으로 선출되어야 합니다. 다만, 호선되지 않는 경우에는 재판장이 배심원 대표를 지정합니다. 이는 국민의 형사재판 참여에 관한 규칙 제40조 제1항에 명시되어 있습니다.",
+        "originwordCnt": "71",
+        "labelwordCnt": "26"
+    }
+}

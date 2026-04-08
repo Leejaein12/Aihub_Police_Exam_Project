@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312190",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고정546",
+        "sentenceDate": "2024.08.28",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.070% 상태에서 약 20m 구간을 승용차로 운전한 혐의로 기소되었습니다. 법원은 도로교통법에 따라 벌금 90만 원을 선고하였습니다. 피고인이 초범이고, 짧은 거리를 운전한 점, 가족을 부양하고 체류자격 변경이 절박한 상황 등이 참작되었습니다.",
+        "originwordCnt": "262",
+        "labelwordCnt": "31"
+    }
+}

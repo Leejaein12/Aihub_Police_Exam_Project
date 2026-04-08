@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011546",
+        "promulgDate": "20161220",
+        "effectDate": "20161220",
+        "promulgNum": "14408",
+        "title": "난민법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제33조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법무부장관은 난민인정자에 대해 어떤 교육 지원을 할 수 있습니까?",
+        "output": "난민법 제33조 제2항에 따르면 법무부장관은 난민인정자에 대하여 대통령령으로 정하는 바에 따라 그의 연령과 수학능력 및 교육여건 등을 고려하여 필요한 교육을 받을 수 있도록 지원할 수 있습니다.",
+        "originwordCnt": "2",
+        "labelwordCnt": "26"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001589",
+        "promulgDate": "20230620",
+        "effectDate": "20231221",
+        "promulgNum": "19511",
+        "title": "소비자기본법",
+        "ministry": "공정거래위원회",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소비자분쟁해결기준은 어떤 경우에 분쟁해결을 위한 기준이 되나요?",
+        "output": "소비자분쟁해결기준은 분쟁당사자 사이에 분쟁해결방법에 관한 별도의 의사표시가 없는 경우에 한하여 분쟁해결을 위한 합의 또는 권고의 기준이 됩니다. 이는 소비자기본법 제16조 제3항에 근거합니다.",
+        "originwordCnt": "56",
+        "labelwordCnt": "22"
+    }
+}

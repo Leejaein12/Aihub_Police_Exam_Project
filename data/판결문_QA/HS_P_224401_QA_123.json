@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "224401",
+        "caseName": "아동복지법위반(아동학대)",
+        "caseNum": "2016고단1739",
+        "sentenceDate": "2016.09.08",
+        "courtName": "울산지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "어린이집 보육교사가 아동을 교구장 위에 올려두고 흔든 행위가 아동에 대한 정서적 학대로 인정된 이유는 무엇인가요?",
+        "output": "피고인이 아동을 교구장 위에 올려두고 40분 동안 흔든 행위는 그 수단과 방법이 적정하지 못하고, 아동의 정서적 상처를 초래할 위험이 있어 정서적 학대로 인정되었습니다",
+        "originwordCnt": "408",
+        "labelwordCnt": "23"
+    }
+}

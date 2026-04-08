@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312177",
+        "caseName": "성매매알선등행위의처벌에관한법률위반(성매매알선등)",
+        "caseNum": "2024고단530",
+        "sentenceDate": "2024.05.08",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "성매매 업소를 운영하며 종업원을 고용하고 불특정 다수의 손님들을 상대로 금품을 받고 성관계를 하게 함으로써 성매매를 알선한 혐의로 기소되었습니다. 이에 법원은 성매매알선 등 행위의 처벌에 관한 법률에 따라 피고인에게 벌금 800만 원을 선고하였습니다.",
+        "originwordCnt": "193",
+        "labelwordCnt": "32"
+    }
+}

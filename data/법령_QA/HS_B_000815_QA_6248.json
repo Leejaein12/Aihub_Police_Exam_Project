@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000815",
+        "promulgDate": "20240326",
+        "effectDate": "20240326",
+        "promulgNum": "20423",
+        "title": "청소년 보호법",
+        "ministry": "여성가족부",
+        "fullText": "N",
+        "smClass": "제23조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "여성가족부장관은 청소년매체물의 제작자 및 유통행위자 등의 위반행위 내용 등을 공표하기 전에 의견 제출의 기회를 줄 수 있습니까?",
+        "output": "청소년 보호법 제23조 제2항에 따라 여성가족부장관은 제1항에 따라 정보를 공표하기 전에 정보 공표 대상자에게 의견제출의 기회를 주어야 합니다.",
+        "originwordCnt": "87",
+        "labelwordCnt": "18"
+    }
+}

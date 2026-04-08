@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001483",
+        "promulgDate": "20220111",
+        "effectDate": "20230112",
+        "promulgNum": "18755",
+        "title": "어선법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제33조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "해양수산부장관은 어선의 개량과 어업경영의 합리화를 위하여 어떤 조치를 할 수 있나요?",
+        "output": "해양수산부장관은 어선의 개량과 어업경영의 합리화를 도모하기 위하여 어업의 종류별로 표준어선형을 개발하여 고시할 수 있습니다. 이는 어선법 제33조에 근거합니다.",
+        "originwordCnt": "18",
+        "labelwordCnt": "18"
+    }
+}

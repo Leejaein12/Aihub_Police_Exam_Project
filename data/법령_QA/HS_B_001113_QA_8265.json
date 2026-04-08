@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001113",
+        "promulgDate": "20210105",
+        "effectDate": "20210105",
+        "promulgNum": "17825",
+        "title": "국제형사사법 공조법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제17조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검사가 공조에 필요한 경우 압수, 수색 또는 검증을 할 수 있는 방법은 무엇입니까?",
+        "output": "국제형사사법 공조법 제17조 제2항에 따르면, 검사는 공조에 필요한 경우 판사에게 청구하여 발급받은 영장에 의하여 압수, 수색 또는 검증을 할 수 있습니다. 이를 통해 법적으로 필요한 증거를 확보할 수 있습니다.",
+        "originwordCnt": "106",
+        "labelwordCnt": "29"
+    }
+}

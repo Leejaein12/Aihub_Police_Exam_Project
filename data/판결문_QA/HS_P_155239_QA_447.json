@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155239",
+        "caseName": "임산물단속에관한법률위반",
+        "caseNum": "70도2612",
+        "sentenceDate": "1971.02.23",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "일정 기간 동안 단일하고 계속적인 의사로 이루어진 행위는 하나의 죄로 평가될 수 있나요?",
+        "output": "일정 기간에 걸쳐 단일하고 계속적인 의사로 이루어진 고령토 채취행위는 포괄일죄로 평가될 수 있으며, 이러한 행위를 하나의 죄로 본 원심의 판단은 정당하다고 할 수 있습니다.",
+        "originwordCnt": "25",
+        "labelwordCnt": "24"
+    }
+}

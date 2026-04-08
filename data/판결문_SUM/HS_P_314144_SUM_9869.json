@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314144",
+        "caseName": "재물손괴",
+        "caseNum": "2023고정222",
+        "sentenceDate": "2024.02.08",
+        "courtName": "수원지방법원 여주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "한 식당에서, 식사가 지연되고 종업원의 사과가 부족하다는 이유로 화가 나 종업원이 사용하던 그릇을 벽에 던져 깨뜨리는 사건이 발생하였습니다. 그릇을 던진 사실은 인정하였으나, 깨지지 않았다고 주장하였으나 법원은 증거를 통해 깨진 사실을 인정하였습니다. 이에 따라 벌금 30만원을 처하였습니다.",
+        "originwordCnt": "165",
+        "labelwordCnt": "36"
+    }
+}

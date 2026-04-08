@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312726",
+        "caseName": "산업안전보건법위반등",
+        "caseNum": "2023고단815",
+        "sentenceDate": "2024.01.19",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "경사진 공사 현장에서 적절한 안전조치를 하지 않은 채 작업을 진행하도록 하였고, 그 결과 피해자 G이 콘크리트 펌프카에 의해 사망하고, 피해자 H가 상해를 입게 되었습니다. 피고인들은 업무상 과실치사, 과실치상 및 산업안전보건법 위반으로 기소되었으며, A와 B는 각각 징역형을 선고받고 집행유예가 결정되었고, 주식회사 C는 벌금형을 선고받았습니다.",
+        "originwordCnt": "1075",
+        "labelwordCnt": "43"
+    }
+}

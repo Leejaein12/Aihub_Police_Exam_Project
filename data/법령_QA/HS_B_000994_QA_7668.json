@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000994",
+        "promulgDate": "20221115",
+        "effectDate": "20230516",
+        "promulgNum": "19028",
+        "title": "온천법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가와 지방자치단체는 온천의 발전을 위해 어떤 책무를 지고 있습니까?",
+        "output": "국가와 지방자치단체는 온천의 발전, 온천문화의 창달 및 온천산업의 진흥을 도모하기 위하여 필요한 예산을 확보하고 관련 시책을 수립ㆍ추진하여야 합니다. 이는 온천법 제3조 제1항에 명시되어 있습니다.",
+        "originwordCnt": "47",
+        "labelwordCnt": "24"
+    }
+}

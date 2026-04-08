@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000006",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19580",
+        "title": "여권법",
+        "ministry": "외교부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "여행증명서의 유효기간은 어떻게 되나요?",
+        "output": "여권법 제14조 제2항에 따르면 여행증명서의 유효기간은 1년 이내로 하되, 그 여행증명서의 발급 목적을 이루면 그 효력을 잃게 됩니다.",
+        "originwordCnt": "71",
+        "labelwordCnt": "18"
+    }
+}

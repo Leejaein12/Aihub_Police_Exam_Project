@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "331014",
+        "caseName": "조세범처벌법위반",
+        "caseNum": "2022고단1027",
+        "sentenceDate": "2023.03.30",
+        "courtName": "수원지방법원 여주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "주식회사의 실제 운영자로서 총 219회에 걸쳐 약 23억 원 상당의 허위 전자세금계산서를 발급한 혐의로 조세범 처벌법 위반으로 기소되었습니다. 법원은 조세범 처벌법 제10조 제3항 제1호를 적용하여 징역 10개월을 선고하였으나, 잘못을 인정하고 반성하는 점 등을 고려해 2년간 집행유예를 명했습니다.",
+        "originwordCnt": "264",
+        "labelwordCnt": "37"
+    }
+}

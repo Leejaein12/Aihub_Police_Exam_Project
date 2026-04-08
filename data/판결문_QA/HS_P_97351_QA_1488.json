@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "97351",
+        "caseName": "횡령",
+        "caseNum": "82도2616",
+        "sentenceDate": "1983.02.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "가옥세 대장에 등재된 소유명의가 실제 소유권을 추정하는 효력이 있나요?",
+        "output": "가옥세 대장은 가옥의 현상을 명백히 하고 과세자료 등에 사용하기 위해 작성되는 문서로, 소유명의가 등재되었다고 하여 그 명의자가 소유권을 취득하거나 권리자로 추정되는 효력이 없습니다. 이는 민법 제186조와 관련됩니다.",
+        "originwordCnt": "134",
+        "labelwordCnt": "27"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제314조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공판기일에 출석하지 못할 때에는 어떻게 해야 하나요?",
+        "output": "소환이나 통지서를 받은 사람이 질병이나 그 밖의 이유로 공판기일에 출석하지 못할 때에는 의사의 진단서나 그 밖의 자료를 제출하여야 합니다. 이를 통해 불출석 사유를 증명해야 합니다. 군사법원법 제314조에 명시하고 있습니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "29"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "150706",
+        "caseName": "위조공문서행사,관세법위반",
+        "caseNum": "4294형상592",
+        "sentenceDate": "1962.02.08",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "수입 금지품이 아닌 물품을 세관 절차 없이 임의로 수입할 경우, 어떤 법적 조치가 필요한가요?",
+        "output": "수입 금지품이 아닌 물품을 세관의 적법한 절차 없이 관세를 납부하지 않고 수입한 경우, 관세법 제198조에 따라 포탈한 관세액을 심사하여 관세포탈로 처벌할 수 있습니다.",
+        "originwordCnt": "160",
+        "labelwordCnt": "23"
+    }
+}

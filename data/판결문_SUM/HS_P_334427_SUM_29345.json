@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334427",
+        "caseName": "강제추행",
+        "caseNum": "2022노2065",
+        "sentenceDate": "2023.05.19",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "강제추행 혐의로 기소된 피고인은 버스 안에서 잠든 피해자의 허벅지를 만진 사실이 없다고 주장하며, 원심의 사실 오인에 위법이 있다고 하였고, 검사는 원심의 형량이 너무 가볍다고 주장하였습니다. 이에 대해 항소심은 원심의 사실 오인 판단이 정당하며, 양형 또한 합리적인 범위를 벗어나지 않았다고 보아 피고인과 검사의 항소를 모두 기각하였습니다.",
+        "originwordCnt": "276",
+        "labelwordCnt": "45"
+    }
+}

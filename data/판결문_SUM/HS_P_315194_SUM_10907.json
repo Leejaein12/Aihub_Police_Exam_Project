@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315194",
+        "caseName": "강제추행등",
+        "caseNum": "2023고단622",
+        "sentenceDate": "2023.12.21",
+        "courtName": "광주지방법원 목포지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "건설업자로서 임금 미지급 문제로 근로기준법을 위반한 혐의로 기소되었습니다. A는 군의 신축공사에서 일용직 근로자 H의 임금을 퇴직일로부터 14일 이내에 지급하지 않았고, B는 직상수급인으로서 하수급인 A가 임금을 지급하지 못하자 연대하여 임금을 지급해야 할 책임을 다하지 않았습니다. 법원은 A에게 벌금 100만 원, B에게 벌금 70만 원을 선고하였습니다.",
+        "originwordCnt": "367",
+        "labelwordCnt": "44"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001777",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "노인복지법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제50조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "노인복지법에 따라 이의신청을 받은 복지실시기관은 어떤 절차를 거쳐야 하나요?",
+        "output": "노인복지법 제50조 제3항에 따르면, 제1항의 이의신청을 받은 복지실시기관은 그 신청을 받은 날부터 30일 이내에 이를 심사ㆍ결정하여 청구인에게 통보해야 합니다.",
+        "originwordCnt": "145",
+        "labelwordCnt": "19"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001638",
+        "promulgDate": "20230418",
+        "effectDate": "20240101",
+        "promulgNum": "19357",
+        "title": "도로교통법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제15조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시ㆍ도경찰청장이 자전거횡단도를 설치할 수 있는 기준이 있나요?",
+        "output": "도로교통법 제15조의2 제1항에 따르면 시ㆍ도경찰청장은 도로를 횡단하는 자전거 운전자의 안전을 위하여 행정안전부령으로 정하는 기준에 따라 자전거횡단도를 설치할 수 있습니다.",
+        "originwordCnt": "67",
+        "labelwordCnt": "19"
+    }
+}

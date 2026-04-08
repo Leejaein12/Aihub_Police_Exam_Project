@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155020",
+        "caseName": "사기",
+        "caseNum": "71도977",
+        "sentenceDate": "1971.07.27",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "대지의 매도인은 대지의 일부가 도로로 사용되고 있는 사실을 매수인에게 고지할 의무가 있나요?",
+        "output": "대지의 매도인은 137평의 대지 중 30평 내외가 사실상 도로로 사용되고 있는 경우, 이 사실을 매수인에게 고지할 의무가 있습니다. 이는 형법 제347조에 따라 매도인이 거래의 중요한 사실을 고지해야 하는 책임을 명시하고 있습니다.",
+        "originwordCnt": "32",
+        "labelwordCnt": "31"
+    }
+}

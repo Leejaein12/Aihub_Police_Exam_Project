@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012437",
+        "promulgDate": "20201222",
+        "effectDate": "20210623",
+        "promulgNum": "17683",
+        "title": "방위산업기술 보호법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제11조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "11 조사대상자는 사전통지에 대해 어떤 권리를 행사할 수 있나요?",
+        "output": "11 제11조의2 제11항에 따르면, 조사대상자는 사전통지의 내용에 대해 방위사업청장 또는 정보수사기관의 장에게 의견을 제출할 수 있으며, 그 의견이 상당한 이유가 있다고 인정되는 경우 이를 조사에 반영해야 합니다.",
+        "originwordCnt": "510",
+        "labelwordCnt": "27"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001978",
+        "promulgDate": "20230816",
+        "effectDate": "20230816",
+        "promulgNum": "19637",
+        "title": "농수산물 품질관리법",
+        "ministry": "농림축산식품부,식품의약품안전처,해양수산부",
+        "fullText": "N",
+        "smClass": "제61조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "생산단계 안전기준을 정할 때 어떤 절차를 거쳐야 하나요?",
+        "output": "농수산물 품질관리법 제61조 제2항에 따르면 식품의약품안전처장은 제1항 제1호 가목 및 제2호 가목에 따른 생산단계 안전기준을 정할 때에는 관계 중앙행정기관의 장과 협의하여야 합니다.",
+        "originwordCnt": "104",
+        "labelwordCnt": "22"
+    }
+}

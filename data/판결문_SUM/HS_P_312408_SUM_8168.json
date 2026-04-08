@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312408",
+        "caseName": "모욕",
+        "caseNum": "2024고정443",
+        "sentenceDate": "2024.07.25",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "모욕죄 혐의로 기소된 피고인은 2023년 10월부터 2024년 1월까지 카카오톡 단체 채팅방에서 피해자에게 모욕적인 발언을 총 7회에 걸쳐 하여 형법 제311조에 따른 모욕죄가 적용되었습니다. 그러나 피해자가 공소 제기 후 고소를 취하함에 따라 친고죄로 판단되어 형사소송법 제327조 제5호에 의거하여 공소가 기각되었습니다.",
+        "originwordCnt": "191",
+        "labelwordCnt": "39"
+    }
+}

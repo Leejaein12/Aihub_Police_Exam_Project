@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014483",
+        "promulgDate": "20230914",
+        "effectDate": "20240126",
+        "promulgNum": "19725",
+        "title": "해상교통안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "항행 중이란 무엇입니까?",
+        "output": "해상교통안전법 제2조제19호에 따르면 항행 중이란 선박이 다음 각 목의 어느 하나에 해당하지 아니하는 상태를 말합니다.가. 정박나. 항만의 안벽 등 계류시설에 매어 놓은 상태(계선부표나 정박하고 있는 선박에 매어 놓은 경우를 포함한다)다. 얹혀 있는 상태",
+        "originwordCnt": "502",
+        "labelwordCnt": "36"
+    }
+}

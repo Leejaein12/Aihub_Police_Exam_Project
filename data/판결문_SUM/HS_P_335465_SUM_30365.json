@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335465",
+        "caseName": "강간미수",
+        "caseNum": "2022고합529",
+        "sentenceDate": "2023.07.07",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사건의 경과에 따르면, 피고인은 피해자를 차량에서 강제로 제압하고 성적 행위를 시도하였으나, 피해자의 저항과 진정으로 인해 범행을 중단하게 되었습니다. 피고인은 징역 1년 6개월을 선고받고 3년간 집행유예가 결정되었습니다. 이와 함께 성폭력 치료 강의를 40시간 이수할 의무가 부과되었습니다.",
+        "originwordCnt": "672",
+        "labelwordCnt": "35"
+    }
+}

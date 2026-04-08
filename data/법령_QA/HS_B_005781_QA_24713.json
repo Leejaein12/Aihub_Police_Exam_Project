@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005781",
+        "promulgDate": "20071029",
+        "effectDate": "20080101",
+        "promulgNum": "02106",
+        "title": "범죄인인도법에의한인도심사등의절차에관한규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제16조 ",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "심문기일에는 어떤 사람들을 참여시켜 조서를 작성하게 하여야 합니까?",
+        "output": "범죄인인도법에의한인도심사등의절차에관한규칙 제16조에 명시된 바와 같이, 심문기일에는 법원사무관, 법원주사 또는 법원주사보를 참여시켜 조서를 작성하게 하여야 합니다.",
+        "originwordCnt": "13",
+        "labelwordCnt": "15"
+    }
+}

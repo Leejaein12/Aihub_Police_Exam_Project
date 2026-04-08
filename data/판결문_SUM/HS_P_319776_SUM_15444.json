@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319776",
+        "caseName": "절도",
+        "caseNum": "2023고정260",
+        "sentenceDate": "2024.04.23",
+        "courtName": "수원지방법원 여주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "신상정보 등록 대상자로서 거주지와 취업 사실, 전화번호 변경 사항을 관할 경찰관서에 20일 이내에 신고하지 않아 성폭력범죄의 처벌 등에 관한 특례법 위반 혐의로 기소되었습니다. 법원은 피고인이 신고 의무를 이행하지 않은 점을 고려하여 벌금 400만 원을 선고하였으며, 벌금을 납입하지 않을 경우 노역장에 유치하는 처분을 내렸습니다.",
+        "originwordCnt": "182",
+        "labelwordCnt": "43"
+    }
+}

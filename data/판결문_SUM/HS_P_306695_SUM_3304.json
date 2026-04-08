@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "306695",
+        "caseName": "하천법위반",
+        "caseNum": "2013고정279",
+        "sentenceDate": "2013. 5. 27.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "하천법에 따라 점용허가를 받지 않고 A강 하천구역에 바지락 조업용 창고를 설치한 혐의로 기소된 사건에서, 구청장은 피고인에게 불법시설물 철거 명령을 세 차례에 걸쳐 내렸으나 피고인은 이를 이행하지 않았습니다. 재판부는 피고인이 하천관리청의 명령을 위반한 사실을 인정하여 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "140",
+        "labelwordCnt": "38"
+    }
+}

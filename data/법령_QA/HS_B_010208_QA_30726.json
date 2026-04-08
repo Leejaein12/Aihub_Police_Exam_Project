@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010208",
+        "promulgDate": "20210112",
+        "effectDate": "20220113",
+        "promulgNum": "17893",
+        "title": "주민소환에 관한 법률",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제22조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "주민소환이 확정되기 위한 조건은 무엇인가요?",
+        "output": "주민소환이 확정되기 위해서는 주민소환투표권자 총수의 3분의 1 이상이 투표하고, 유효투표 총수의 과반수가 찬성해야 합니다. 이는 주민소환에 관한 법률 제22조 제1항에 명시되어 있습니다.",
+        "originwordCnt": "86",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제22조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "건축공사를 완료한 후 건축주가 건축물을 사용하려면 어떤 절차를 따라야 하나요?",
+        "output": "건축주는 건축공사를 완료한 후, 감리완료보고서와 공사완료도서를 첨부하여 허가권자에게 사용승인을 신청하여야 합니다. 이는 건축법 제22조 제1항에 근거한 절차입니다.",
+        "originwordCnt": "391",
+        "labelwordCnt": "17"
+    }
+}

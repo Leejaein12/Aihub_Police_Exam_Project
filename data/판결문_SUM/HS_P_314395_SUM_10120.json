@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314395",
+        "caseName": "절도",
+        "caseNum": "2023고정554",
+        "sentenceDate": "2023.08.28",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "육아휴직 기간 중 자영업을 하면서도 육아휴직 급여를 부정 수급한 혐의로 기소되었습니다. 그러나 재판부는 피고인이 자영업을 통해 얻은 소득이 법에서 정한 기준에 미치지 못하였고, 소정근로시간 규정이 자영업에 적용되지 않음을 이유로 고용보험법을 위반했다고 보기 어렵다고 판단하였습니다. 이에 따라 피고인에게 무죄를 선고하였습니다.",
+        "originwordCnt": "645",
+        "labelwordCnt": "39"
+    }
+}

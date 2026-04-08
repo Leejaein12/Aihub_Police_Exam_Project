@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013612",
+        "promulgDate": "20230914",
+        "effectDate": "20230914",
+        "promulgNum": "19700",
+        "title": "온라인투자연계금융업 및 이용자 보호에 관한 법률",
+        "ministry": "금융위원회",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "온라인투자연계금융업자의 변경등록에 관한 세부 사항은 어떻게 정해지나요?",
+        "output": "온라인투자연계금융업 및 이용자 보호에 관한 법률 제7조 제2항에 따르면 제1항에 따른 변경등록과 관련한 세부적인 사항은 대통령령으로 정합니다.",
+        "originwordCnt": "42",
+        "labelwordCnt": "17"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000202",
+        "promulgDate": "20240123",
+        "effectDate": "20240424",
+        "promulgNum": "20098",
+        "title": "사회복지사업법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제18조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사회복지법인의 임원 선임과 관련하여 금품이나 이익을 주고받을 수 있나요?",
+        "output": "사회복지사업법 제18조의2에 따르면, 누구든지 임원의 선임과 관련하여 금품, 향응 또는 그 밖의 재산상 이익을 주고받거나 주고받을 것을 약속해서는 안 됩니다.",
+        "originwordCnt": "23",
+        "labelwordCnt": "20"
+    }
+}

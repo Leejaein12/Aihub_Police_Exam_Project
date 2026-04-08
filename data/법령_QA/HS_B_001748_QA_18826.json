@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001748",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "화물자동차 운수사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "화물자동차 안전운송원가란 무엇을 의미하나요?",
+        "output": "환경분쟁 조정법 제2조 제12호에 따르면 화물자동차 안전운송원가”란 화물차주에 대한 적정한 운임의 보장을 통해 교통안전을 확보하기 위해 산정된 운송원가로서, 국토교통부장관이 공표한 원가를 말합니다.",
+        "originwordCnt": "537",
+        "labelwordCnt": "22"
+    }
+}

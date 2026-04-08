@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312897",
+        "caseName": "횡령",
+        "caseNum": "2023고정587",
+        "sentenceDate": "2024.02.15",
+        "courtName": "대전지방법원 천안지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "가족들과 모인 자리에서 부의금 400만 원을 보관하기로 약속받았으나, 가족들의 동의 없이 총 400만 원 중 200만 원을 첫째 언니 계좌로, 나머지 200만 원을 자신의 계좌로 송금하여 횡령하였습니다. 피고인의 이러한 행위는 형법 제355조 제1항에 해당하며, 재판부는 이를 근거로 벌금 30만원을 선고하였습니다.",
+        "originwordCnt": "203",
+        "labelwordCnt": "40"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "166502",
+        "caseName": "대부업의 등록 및 금융이용자보호에 관한 법률 위반·전자금융거래법 위반",
+        "caseNum": "2009노2212",
+        "sentenceDate": "2010.05.13",
+        "courtName": "서울남부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인의 불법 추심 행위는 왜 유죄로 인정되었나요?",
+        "output": "피고인이 보낸 문자메시지 등의 내용이 사회통념상 용인될 수 없는 해악의 고지로 인정되었으며, 이는 권리행사를 빙자한 협박으로 보아 유죄로 판단되었습니다.",
+        "originwordCnt": "2232",
+        "labelwordCnt": "19"
+    }
+}

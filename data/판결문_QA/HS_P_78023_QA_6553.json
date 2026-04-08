@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78023",
+        "caseName": "부패방지법위반",
+        "caseNum": "2005노2061",
+        "sentenceDate": "2006.09.07",
+        "courtName": "창원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "원심판결이 파기된 이유는 무엇인가요?",
+        "output": "원심판결이 파기된 이유는, 법원이 피고인에게 징역 1년을 선고하면서도 구금일수 34일을 형기에 산입하고, 판결 확정일부터 4년간 형의 집행을 유예할 필요가 있다고 판단했기 때문입니다.",
+        "originwordCnt": "2774",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313005",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고정602",
+        "sentenceDate": "2023.11.15",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "약 11km 구간을 혈중알코올농도 0.191% 상태로 음주 운전을 하였습니다. 이는 도로교통법 제44조 제1항을 위반한 것으로, 이전에 이미 음주운전으로 징역형과 집행유예를 선고받은 전력이 있습니다. 재판부는 이러한 사정을 고려하여 도로교통법 제148조의2 제3항 제2호에 따라 피고인에게 벌금 600만 원을 부과하였습니다.",
+        "originwordCnt": "159",
+        "labelwordCnt": "37"
+    }
+}

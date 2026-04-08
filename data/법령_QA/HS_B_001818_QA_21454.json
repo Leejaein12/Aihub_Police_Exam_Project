@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001818",
+        "promulgDate": "20240130",
+        "effectDate": "20240130",
+        "promulgNum": "20172",
+        "title": "수도법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제46조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "인가관청이 일반수도사업의 인가를 하려는 경우 관계 행정기관과 협의해야 하는 사항은 무엇인가요?",
+        "output": "수도법 제46조제2항에 따르면, 인가관청이 제17조제1항에 따라 일반수도사업의 인가를 하려는 경우, 그 사업계획에 제1항 각 호의 사항이 포함되어 있으면 미리 관계 행정기관의 장과 협의하여야 합니다.",
+        "originwordCnt": "373",
+        "labelwordCnt": "24"
+    }
+}

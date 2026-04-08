@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001719",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "국가공무원법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "인사혁신처에 설치된 소청심사위원회는 어떻게 구성되나요?",
+        "output": "국가공무원법 제9조 제3항에 따르면 인사혁신처에 설치된 소청심사위원회는 위원장 1명을 포함하여 5명 이상 7명 이하의 상임위원과 상임위원 수의 2분의 1 이상인 비상임위원으로 구성됩니다.",
+        "originwordCnt": "118",
+        "labelwordCnt": "22"
+    }
+}

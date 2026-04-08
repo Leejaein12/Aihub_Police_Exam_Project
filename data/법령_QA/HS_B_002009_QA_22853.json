@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002009",
+        "promulgDate": "20161220",
+        "effectDate": "20161220",
+        "promulgNum": "14413",
+        "title": "특정범죄신고자 등 보호법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "증인의 인적 사항이 공개되지 않도록 하는 경우에는 어떤 조치가 취해질 수 있나요?",
+        "output": "특정범죄신고자 등 보호법 제11조 제2항에 따르면 재판장 또는 판사는 증인의 보호를 위해 공판조서에 인적 사항을 기재하지 않거나 가명으로 선서서를 작성하도록 할 수 있습니다.",
+        "originwordCnt": "202",
+        "labelwordCnt": "23"
+    }
+}

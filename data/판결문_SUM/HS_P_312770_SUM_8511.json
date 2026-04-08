@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312770",
+        "caseName": "준강제추행",
+        "caseNum": "2023도18879",
+        "sentenceDate": "2024.04.25",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심은 피고인의 준강제추행 혐의에 대해 유죄를 인정한 제1심 판결을 그대로 유지하였습니다. 대법원은 원심의 판단이 논리와 경험의 법칙에 반하지 않았고, 자유심증주의의 한계를 벗어나거나 증거능력 및 준강제추행죄 성립에 관한 법리를 오해한 잘못이 없다고 판단하였습니다. 따라서 상고는 기각되었습니다.",
+        "originwordCnt": "121",
+        "labelwordCnt": "35"
+    }
+}

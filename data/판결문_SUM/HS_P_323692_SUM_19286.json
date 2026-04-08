@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "323692",
+        "caseName": "컴퓨터등사용사기등",
+        "caseNum": "2022노2283",
+        "sentenceDate": "2023.05.16",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "컴퓨터 사기 및 전기통신사업법 위반 혐의로 1심에서 징역 1년을 선고받았으나, 항소심에서는 이전 사기죄와의 형평성을 고려해 원심을 파기하고 같은 형을 선고했습니다. 피고인은 가석방 중에도 유사 범행을 저질렀고, 여러 차례 처벌받은 전력이 있으며, 피해 변제 없이 범행을 반복해왔기 때문에 중형이 불가피하다는 판단이 내려졌습니다.",
+        "originwordCnt": "442",
+        "labelwordCnt": "41"
+    }
+}

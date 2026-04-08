@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000888",
+        "promulgDate": "20221213",
+        "effectDate": "20230614",
+        "promulgNum": "19066",
+        "title": "사립학교법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제28조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "학교법인이 기본재산을 매도하거나 담보로 제공하려면 어떤 절차를 따라야 하나요?",
+        "output": "사립학교법 제28조 제1항에 따르면, 학교법인이 기본재산을 매도하거나 담보로 제공하려는 경우에는 관할청의 허가를 받아야 합니다. 다만, 대통령령으로 정하는 경미한 사항에 대해서는 관할청에 신고만 하면 됩니다.",
+        "originwordCnt": "112",
+        "labelwordCnt": "24"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311557",
+        "caseName": "미성년자유인미수",
+        "caseNum": "2023노4312",
+        "sentenceDate": "2024.06.07",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심이 선고한 형이 재량의 합리적인 범위를 벗어나지 않았다고 판단하였습니다. 항소심에서 양형의 조건에 변화가 없고, 원심에서 이미 충분히 고려된 사항들을 다시 심리할 필요가 없다고 보았습니다. 또한, 원심 판결 이후 새로운 사정 변경도 없다는 점에서 검사의 양형부당 주장은 이유가 없다고 판단되었습니다. 이에 따라 검사의 항소는 기각되었습니다.",
+        "originwordCnt": "175",
+        "labelwordCnt": "44"
+    }
+}

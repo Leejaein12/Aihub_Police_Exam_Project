@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "152851",
+        "caseName": "강도치사",
+        "caseNum": "65도901",
+        "sentenceDate": "1965.11.30",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법정형이 사형 또는 무기징역에 해당하는 범죄에 대해 부정기형을 선고할 수 있나요?",
+        "output": "소년법 제54조와 형법 제338조에 따르면, 법정형이 사형 또는 무기징역으로 국한된 범죄에 대해 작량감경으로 유기징역형을 처단하는 경우에도, 그 유기형은 소년법 제54조 소정의 장기 2년 이상의 유기형에 해당하지 않으므로 부정기형을 선고할 수 없습니다.",
+        "originwordCnt": "100",
+        "labelwordCnt": "31"
+    }
+}

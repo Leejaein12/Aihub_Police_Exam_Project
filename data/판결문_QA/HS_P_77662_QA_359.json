@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "77662",
+        "caseName": "입찰방해·상법위반",
+        "caseNum": "2003고단10854",
+        "sentenceDate": "2004.07.22",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 입찰방해죄로 유죄 판결을 받은 이유는 무엇인가요?",
+        "output": "피고인은 경쟁입찰을 가장하여 다수의 들러리 업체를 동원하거나, 위력 등을 사용해 다른 입찰자의 입찰을 방해함으로써 입찰의 공정을 해했습니다. 이러한 행위로 인해 피고인의 입찰방해죄가 성립한다고 판단되어 유죄 판결을 받았습니다.",
+        "originwordCnt": "8295",
+        "labelwordCnt": "27"
+    }
+}

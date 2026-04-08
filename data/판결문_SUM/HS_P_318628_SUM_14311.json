@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318628",
+        "caseName": "사기등",
+        "caseNum": "2023고정556",
+        "sentenceDate": "2023.10.18",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2022년 1월 31일 피고인이 한 건물에서 망치와 전기드릴을 사용해 피해자 공사가 관리하는 출입문과 시정장치를 손괴하여 수리비 50만 원 상당의 손해를 입혔습니다. 피고인은 이전에 야간건조물침입절도죄 등으로 징역형을 선고받고 집행유예 상태에 있었습니다. 법원은 피고인의 범죄사실을 인정하여 형법 제366조에 따라 벌금 60만 원을 선고하였습니다.",
+        "originwordCnt": "150",
+        "labelwordCnt": "41"
+    }
+}

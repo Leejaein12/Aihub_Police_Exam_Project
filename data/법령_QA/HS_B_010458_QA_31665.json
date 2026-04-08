@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010458",
+        "promulgDate": "20170726",
+        "effectDate": "20170726",
+        "promulgNum": "14839",
+        "title": "국민의 형사재판 참여에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제19조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인의 법정대리인이 국민참여재판의 배심원으로 참여할 수 있습니까?",
+        "output": "피고인의 법정대리인은 당해 사건의 배심원으로 참여할 수 없습니다. 국민의 형사재판 참여에 관한 법률 제19조 제3호에 명시된 제외사유 중 하나입니다.",
+        "originwordCnt": "62",
+        "labelwordCnt": "19"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000765",
+        "promulgDate": "20200609",
+        "effectDate": "20201210",
+        "promulgNum": "17467",
+        "title": "한국원자력안전기술원법",
+        "ministry": "원자력안전위원회",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "한국원자력안전기술원의 설립등기에 포함되는 사항에는 무엇이 있나요?",
+        "output": "'한국원자력안전기술원법' 제3조 제2항에 따르면, 설립등기 사항에는 다음 각 호가 포함됩니다.  1. 목적  2. 명칭  3. 주된 사무소의 소재지  4. 임원의 성명과 주소  5. 공고의 방법",
+        "originwordCnt": "45",
+        "labelwordCnt": "35"
+    }
+}

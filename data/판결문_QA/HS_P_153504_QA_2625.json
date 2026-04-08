@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "153504",
+        "caseName": "마약법위반",
+        "caseNum": "66도1659",
+        "sentenceDate": "1966.12.27",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "마약성분이 포함되지 않은 약품의 매수나 소지가 마약법 위반에 해당하나요?",
+        "output": "공소장에 기재된 마약성 함유 메사톤이 마약성을 실제로 함유하지 않는 약품이라면, 설사 그 약품이 인체에 유해할 가능성이 있더라도 이를 마약법 제4조와 제6조에 의하여 처벌할 수 없습니다.",
+        "originwordCnt": "81",
+        "labelwordCnt": "25"
+    }
+}

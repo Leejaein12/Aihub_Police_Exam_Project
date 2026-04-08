@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312657",
+        "caseName": "공용물건손상등",
+        "caseNum": "2023노300",
+        "sentenceDate": "2023.10.27",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공용물건손상과 공무집행방해 등의 혐의로 1심에서 징역 6개월과 벌금 50만 원을 선고받았으나, 항소심에서는 형법 제37조 후단에 따른 경합범 관계를 고려하지 않은 원심의 판결이 문제가 되어 파기되었습니다. 항소심 재판부는 이를 직권으로 판단하여 피고인에게 징역 6개월에 집행유예 2년과 벌금 50만 원을 선고하였습니다.",
+        "originwordCnt": "389",
+        "labelwordCnt": "39"
+    }
+}

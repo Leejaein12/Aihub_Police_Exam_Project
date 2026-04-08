@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "213697",
+        "caseName": "예비군법위반",
+        "caseNum": "2017노1415",
+        "sentenceDate": "2018.02.21",
+        "courtName": "울산지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 종교적 양심에 따라 예비군훈련을 거부한 경우, 이는 정당한 사유로 인정되나요?",
+        "output": "대법원과 헌법재판소는 양심에 따른 병역거부가 예비군법 제15조 제9항 제1호 소정의 예비군훈련 불참의 정당한 사유에 해당하지 않는다고 판단하여, 피고인의 종교적 양심에 따른 예비군훈련 거부는 정당한 사유로 인정되지 않습니다.",
+        "originwordCnt": "703",
+        "labelwordCnt": "27"
+    }
+}

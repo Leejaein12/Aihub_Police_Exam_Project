@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "172235",
+        "caseName": "마약류관리에관한법률위반(향정)",
+        "caseNum": "2013노329",
+        "sentenceDate": "2013.06.14",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "세관이 우편물을 개봉하고 시료를 채취하는 행위에 대해 영장 없이도 적법한가요?",
+        "output": "세관에서 우편물을 개봉하고 시료를 채취하는 행위는 관세법에 따라 영장 없이도 적법합니다. 세관장은 이러한 권한을 가지고 있으며, 이는 수사기관의 강제처분이 아닌 행정조사로서 영장이 필요하지 않습니다.",
+        "originwordCnt": "1954",
+        "labelwordCnt": "24"
+    }
+}

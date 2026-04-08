@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "203737",
+        "caseName": "부녀매매·부녀매매미수·직업안정법위반피고사건",
+        "caseNum": "75노80",
+        "sentenceDate": "1975.05.07",
+        "courtName": "광주고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "형법 제288조 제2항에서 규정한 부녀매매죄의 '매매'란 무엇을 의미하나요?",
+        "output": "형법 제288조 제2항에서 규정한 부녀매매죄의 '매매'란 거래 일방의 완전한 사실상의 지배하에 있는 부녀를 대가를 받고 상대방의 사실상의 지배하에 옮기는 것을 의미합니다.",
+        "originwordCnt": "66",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315137",
+        "caseName": "횡령등",
+        "caseNum": "2023노2792",
+        "sentenceDate": "2024.02.06",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "여러 차례 사기 및 횡령 범죄를 저질러 유죄 판결을 받았고, 원심에서 징역형이 선고되었습니다. 피고인은 이 형이 너무 무겁다며 항소하였고, 법원은 범행의 경위, 피해자들과의 합의 여부, 피해 회복 상황 등을 고려하여 일부 형을 감경하였습니다. 피해자 B에 대한 사기죄에 대해서는 집행유예를 선고하고, 나머지 횡령 및 사기죄에 대해서는 징역형을 유지하였습니다.",
+        "originwordCnt": "493",
+        "labelwordCnt": "47"
+    }
+}

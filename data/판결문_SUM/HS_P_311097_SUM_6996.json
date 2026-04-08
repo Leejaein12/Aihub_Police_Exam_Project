@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311097",
+        "caseName": "특수상해등",
+        "caseNum": "2023고단845",
+        "sentenceDate": "2023.09.20",
+        "courtName": "광주지방법원 순천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "운전 중 좌회전 경로에 서 있던 피해자를 차량으로 충격하여 2주간 치료가 필요한 상해를 입혔으며, 사고 후에도 적절한 조치를 취하지 않고 현장을 이탈하였습니다. 이에 법원은 피고인의 행위가 특수상해와 사고 후 미조치에 해당한다고 보아 징역 8월을 선고하고, 2년간 집행유예와 80시간의 사회봉사를 명하였습니다.",
+        "originwordCnt": "395",
+        "labelwordCnt": "40"
+    }
+}

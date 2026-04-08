@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336967",
+        "caseName": "사기등",
+        "caseNum": "2024고단531",
+        "sentenceDate": "2024.06.26",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.212%의 술에 취한 상태로 약 1.4km 구간을 운전한 사실이 인정되었습니다. 도로교통법 제148조의2 제3항 제1호 및 제44조 제1항에 따라 벌금형이 선고되었으며, 초범이고 자신의 잘못을 깊이 반성하는 점이 참작되어 벌금 800만 원이 부과되었습니다.",
+        "originwordCnt": "127",
+        "labelwordCnt": "32"
+    }
+}

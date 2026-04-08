@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011350",
+        "promulgDate": "20230725",
+        "effectDate": "20240126",
+        "promulgNum": "19573",
+        "title": "낚시 관리 및 육성법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제15조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시장ㆍ군수ㆍ구청장이 낚시터의 원상회복을 명할 수 있는 경우는 언제인가요?",
+        "output": "낚시 관리 및 육성법 제15조 제3항에 따르면, 시장ㆍ군수ㆍ구청장은 원상회복 의무자가 낚시터의 원상회복에 필요한 조치를 하지 않으면 일정한 기간을 정하여 원상회복을 명할 수 있습니다.",
+        "originwordCnt": "140",
+        "labelwordCnt": "23"
+    }
+}

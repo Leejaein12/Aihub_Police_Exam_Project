@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "213867",
+        "caseName": "폭력행위등처벌에관한법률위반",
+        "caseNum": "76도3286",
+        "sentenceDate": "1976.11.23",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "폭력행위등처벌에관한법률 제2조 제1항에서 상습의 의미는 무엇인가요?",
+        "output": "폭력행위등처벌에관한법률 제2조 제1항에서 말하는 상습은 단지 개별 범죄행위에 대한 상습성만을 의미하는 것이 아니라, 해당 법조항에 규정된 여러 범죄행위를 포괄한 폭력행위에 대한 습벽도 포함합니다.",
+        "originwordCnt": "33",
+        "labelwordCnt": "23"
+    }
+}

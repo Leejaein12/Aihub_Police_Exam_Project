@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "90103",
+        "caseName": "강도살인,시체유기",
+        "caseNum": "69도1235",
+        "sentenceDate": "1969.09.23",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "검증조서가 적법한 증거로 인정되기 위한 요건은 무엇인가요?",
+        "output": "검증조서가 적법한 증거로 인정되기 위해서는 서증이 일체로서 증거가 되어야 하며, 피의자 신문조서나 증인신문조서의 일부만을 발췌하여 검증조서를 작성해서는 안 됩니다. 형사소송법 제383조에 따르면, 이러한 방식으로 작성된 검증조서는 증거능력이 인정되지 않습니다.",
+        "originwordCnt": "40",
+        "labelwordCnt": "29"
+    }
+}

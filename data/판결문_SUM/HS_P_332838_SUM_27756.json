@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332838",
+        "caseName": "업무상배임",
+        "caseNum": "2020노2935",
+        "sentenceDate": "2023.02.10",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "C약국의 운영자는 피해자와의 관계에서 간섭 없이 정기적으로 이익금을 수령하는 위치에 있습니다. 피고인은 약국 운영에 따라 의약품 대금 결제를 책임져야 했으나, 피해자의 사무를 처리하는 자가 아니었습니다. 원심에서 유죄로 판단되었으나, 피고인의 사실오인 및 법리오해 주장은 인정되었습니다. 따라서 범죄 증명이 부족하다는 이유로 무죄가 선고되었습니다.",
+        "originwordCnt": "577",
+        "labelwordCnt": "41"
+    }
+}

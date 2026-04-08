@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011620",
+        "promulgDate": "20210817",
+        "effectDate": "20220218",
+        "promulgNum": "18425",
+        "title": "목재의 지속가능한 이용에 관한 법률",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제47조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "과태료 부과와 징수는 누구의 권한인가요?",
+        "output": "목재의 지속가능한 이용에 관한 법률 제47조 제4항에 따르면 제1항부터 제3항까지에 따른 과태료는 대통령령으로 정하는 바에 따라 산림청장, 시ㆍ도지사 또는 시장ㆍ군수ㆍ구청장이 부과ㆍ징수합니다.",
+        "originwordCnt": "90",
+        "labelwordCnt": "21"
+    }
+}

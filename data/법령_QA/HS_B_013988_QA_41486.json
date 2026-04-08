@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013988",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19333",
+        "title": "지방자치단체 보조금 관리에 관한 법률",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제19조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "지방자치단체의 장이 심사 결과 적합하다고 판단된 때는 어떻게 해야 하나요?",
+        "output": "지방자치단체 보조금 관리에 관한 법률 제19조 제2항에 따르면, 제1항의 심사 결과 적합하다고 판단된 때에는 지방보조금액을 확정하여 해당 지방보조사업자에게 통지하여야 합니다.",
+        "originwordCnt": "51",
+        "labelwordCnt": "20"
+    }
+}

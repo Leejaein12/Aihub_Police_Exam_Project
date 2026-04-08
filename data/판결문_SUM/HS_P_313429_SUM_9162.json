@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "313429",
+        "caseName": "도로교통법위반(무면허운전)등",
+        "caseNum": "2024고정135",
+        "sentenceDate": "2024.05.29",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "무면허 상태에서 의무보험 미가입 차량을 운전하였고, 운행정지 명령을 받은 차량을 운행한 혐의로 기소되었습니다. 법원은 행위가 도로교통법 제152조 제1호, 자동차손해배상보장법 제46조 제3항, 자동차관리법 제82조를 위반한 것으로 판단하였습니다. 이에 벌금 300만 원을 선고하였습니다.",
+        "originwordCnt": "244",
+        "labelwordCnt": "31"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314067",
+        "caseName": "사기",
+        "caseNum": "2023고단3897",
+        "sentenceDate": "2024.03.15",
+        "courtName": "서울북부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 5월 4일, 특정인의 집에서 카카오톡 오픈채팅방에 접속하여 다른 사용자를 모욕한 사건이 있었습니다. 특정인은 해당 사용자를 향해 불쾌한 내용을 게시하였으며, 그 이후로도 여러 차례에 걸쳐 모욕적인 발언을 한 것으로 나타났습니다. 고소가 취하된 후, 법원은 사건을 공소기각하였습니다. 이러한 사유로 공소는 기각된 것으로 판단되었습니다.",
+        "originwordCnt": "111",
+        "labelwordCnt": "42"
+    }
+}

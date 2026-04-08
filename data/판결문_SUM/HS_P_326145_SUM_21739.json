@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "326145",
+        "caseName": "사기등",
+        "caseNum": "2022노2529",
+        "sentenceDate": "2023.10.18.",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "검사의 항소를 기각한 대전지방법원의 판결에서는 피고인의 징역 1년, 집행유예 2년 형량이 적절하다고 판단하였다. 피고인이 범행을 인정하고 깊이 반성하는 태도를 보였으며, 양형 조건이 변화하지 않은 점을 고려하였다. 형사소송법 제364조 제4항에 따라 항소는 이유 없다고 판시하였다.",
+        "originwordCnt": "198",
+        "labelwordCnt": "34"
+    }
+}

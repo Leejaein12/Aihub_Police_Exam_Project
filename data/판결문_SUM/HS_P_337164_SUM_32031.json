@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337164",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고단462",
+        "sentenceDate": "2024.08.07",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "도로교통법 제148조의2 제1항 제2호 및 제44조 제1항에 따라 음주운전으로 벌금형을 선고받고도 다시 혈중알코올농도 0.221%의 상태에서 운전하여 재범한 행위는 그 위험성과 사회적 폐해가 크기 때문에 엄중한 처벌이 필요합니다. 음주운전 전력, 혈중알코올농도, 운전거리 등을 고려하여 벌금 1,000만 원을 선고하였습니다.",
+        "originwordCnt": "189",
+        "labelwordCnt": "37"
+    }
+}

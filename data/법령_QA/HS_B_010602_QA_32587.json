@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010602",
+        "promulgDate": "20230620",
+        "effectDate": "20240621",
+        "promulgNum": "19499",
+        "title": "수산생물질병 관리법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "수산생물질병의 병원체를 관리해야 하는 기관장은 누구인가요?",
+        "output": "수산생물질병 관리법 제12조제1항에 따르면, 수산생물방역기관의 장은 수산생물질병의 진단, 예방, 치료 등을 위하여 병원체를 수집, 보존, 분양하는 등 관리하여야 합니다.",
+        "originwordCnt": "56",
+        "labelwordCnt": "19"
+    }
+}

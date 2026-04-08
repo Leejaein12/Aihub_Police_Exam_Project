@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "316492",
+        "caseName": "사기",
+        "caseNum": "2023고단266",
+        "sentenceDate": "2023.07.07",
+        "courtName": "광주지방법원 목포지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "회복무요원 군사교육 소집대상자로, 소집 통지서를 수령하고도 정당한 사유 없이 소집에 응하지 않았습니다. 법원은 피고인이 자백하고 반성하는 점, 과거 형사처벌 전력이 없다는 유리한 점을 고려하여 징역 4개월을 선고하였습니다. 다만, 이 형의 집행을 2년간 유예하기로 결정하였습니다.",
+        "originwordCnt": "217",
+        "labelwordCnt": "34"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001739",
+        "promulgDate": "20230725",
+        "effectDate": "20240126",
+        "promulgNum": "19573",
+        "title": "선박직원법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제22조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "누구든지 해기사의 면허증이나 승무자격증을 어떻게 취급해야 합니까?",
+        "output": "선박직원법 제22조 제2항에 따르면, 누구든지 해기사 또는 제10조의2에 따라 승무자격인정을 받은 사람의 면허증이나 승무자격증의 대여 또는 부당한 사용을 알선해서는 안 됩니다.",
+        "originwordCnt": "43",
+        "labelwordCnt": "21"
+    }
+}

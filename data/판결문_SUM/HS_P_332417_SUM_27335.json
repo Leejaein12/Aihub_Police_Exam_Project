@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332417",
+        "caseName": "업무상횡령",
+        "caseNum": "2024고단334",
+        "sentenceDate": "2024.06.11",
+        "courtName": "수원지방법원 안양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "위탁판매계약에 따라 중고 휴대폰을 판매하고 그 대금을 보관하던 중, 총 31회에 걸쳐 합계 약 1,329만 원의 판매대금을 개인적으로 소비하여 업무상 횡령을 저질렀습니다. 법원은 형법 제356조와 제355조 제1항에 따라 징역 4개월을 선고하였으나, 동종 범죄 전력이 없고 피해자와 합의한 점 등을 참작하여 1년간 집행유예를 선고하였습니다.",
+        "originwordCnt": "300",
+        "labelwordCnt": "43"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312697",
+        "caseName": "재물손괴등",
+        "caseNum": "2024고정167",
+        "sentenceDate": "2024.05.28",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "버스정류장에서 시내버스 노선도에 법원이 기재되지 않았다는 이유로 버스에 부착된 노선도를 손괴하고, 운행 중이던 버스기사에게 욕설을 하며 위협하는 행동을 하여 약 30분간 버스 운행을 방해하였습니다. 이에 대해 재물손괴와 업무방해 혐의로 기소된 피고인에게 법원은 형법 제366조와 제314조 제1항을 적용하여 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "201",
+        "labelwordCnt": "41"
+    }
+}

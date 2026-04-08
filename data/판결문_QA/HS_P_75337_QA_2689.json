@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "75337",
+        "caseName": "국가보안법위반등피고사건",
+        "caseNum": "82노910",
+        "sentenceDate": "1982.06.19",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "국가보안법 제8조에서 반국가단체의 요건은 어떻게 판단되나요?",
+        "output": "국가보안법 제8조에서 규정하는 반국가단체는 정부를 전복할 목적을 가지고 구성된 단체여야 하며, 그 목적은 명확하고 객관적인 증거로 엄격하게 증명되어야 합니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "19"
+    }
+}

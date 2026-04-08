@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "215295",
+        "caseName": "사기·횡령",
+        "caseNum": "4287형상76",
+        "sentenceDate": "1955.02.25",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "원심이 신형법이 아닌 구형법을 적용하여 사기죄를 판단한 것은 어떤 문제를 초래했나요?",
+        "output": "원심이 구형법 제246조를 적용하여 사기죄를 판단한 것은 신형법 제347조에 규정된 벌금형 선택형을 고려하지 않아 신형법보다 중한 형을 적용한 것이 되어, 이는 위법으로 판결이 파기되고 원심으로 환송되었습니다.",
+        "originwordCnt": "2023",
+        "labelwordCnt": "26"
+    }
+}

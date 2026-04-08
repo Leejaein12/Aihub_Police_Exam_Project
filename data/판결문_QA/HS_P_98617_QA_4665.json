@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "98617",
+        "caseName": "상표법위반",
+        "caseNum": "83도2748",
+        "sentenceDate": "1983.12.27",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "샤넬리'(Chanel-Lee)라는 상표가 '샤넬'(CHANEL)과 유사하다고 볼 수 있나요?",
+        "output": "샤넬리'(Chanel-Lee)라는 상표는 문자 구성의 외관에서는 '샤넬'(CHANEL)과 다소 차이가 있지만, '샤넬'이라는 호칭과 관념 면에서는 양자 간에 동일 또는 유사성이 인정됩니다. 따라서 '샤넬리'라는 상표는 '샤넬' 상표와 유사한 것으로 볼 수 있습니다.",
+        "originwordCnt": "37",
+        "labelwordCnt": "29"
+    }
+}

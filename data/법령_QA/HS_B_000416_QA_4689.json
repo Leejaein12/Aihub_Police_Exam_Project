@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000416",
+        "promulgDate": "20220104",
+        "effectDate": "20220705",
+        "promulgNum": "18690",
+        "title": "비료관리법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제22조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "농림축산식품부장관이 시험연구기관의 지정을 취소하거나 업무정지명령을 할 때, 어떤 절차를 거쳐야 하나요?",
+        "output": "비료관리법 제22조 제1항에 따르면, 농림축산식품부장관이 제4조의3 제1항에 따라 시험연구기관의 지정을 취소하거나 업무정지명령을 하려면 청문을 하여야 합니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "16"
+    }
+}

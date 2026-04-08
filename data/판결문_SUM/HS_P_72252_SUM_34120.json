@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72252",
+        "caseName": "강간치상피고사건",
+        "caseNum": "66노234",
+        "sentenceDate": "1967.02.02",
+        "courtName": "광주고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "성년인지 미성년인지를 결정하고 이에 따라 정기형 또는 부정기형을 선고하는 기준 시점은 판결 선고 시입니다. 판결 선고 시 피고인은 성년이었으므로 정기형을 선고한 원심의 조치는 적법하다고 판단하였습니다. 또한, 피고인이 주장한 증거 임의성 문제와 강간치상죄에 대한 고소 취소 문제는 모두 이유 없다고 보아 항소는 기각되었습니다.",
+        "originwordCnt": "15",
+        "labelwordCnt": "42"
+    }
+}

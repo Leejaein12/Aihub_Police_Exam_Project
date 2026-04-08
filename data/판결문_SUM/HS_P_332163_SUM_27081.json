@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332163",
+        "caseName": "횡령등",
+        "caseNum": "2022고단3623",
+        "sentenceDate": "2023.05.11",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "도박사이트 운영에 사용할 법인 명의의 대포통장을 개설하여 성명불상자에게 넘겨주고, 범죄수익을 은닉하도록 도와주었습니다. 이후 일부 계좌의 잔고를 임의로 사용해 횡령한 사실도 인정되었습니다. 법원은 이러한 행위가 죄질이 나쁘지만, 피고인이 금고 이상의 형사처벌 전력이 없는 점을 고려하여 징역 1년을 선고하고 추징금을 명하였습니다.",
+        "originwordCnt": "630",
+        "labelwordCnt": "39"
+    }
+}

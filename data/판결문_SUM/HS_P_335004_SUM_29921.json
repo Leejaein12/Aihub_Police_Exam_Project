@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335004",
+        "caseName": "횡령",
+        "caseNum": "2023고단2341",
+        "sentenceDate": "2024.02.07",
+        "courtName": "대전지방법원 천안지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피해자 C의 승용차를 일주일간 사용하겠다고 약속하고 이를 보관하였으나, 반환 요청을 받은 후에도 거짓말로 피해자의 요구를 거부하며 횡령하였습니다. 피해자와 피고인은 친족 관계로, 해당 범죄에 대해서는 피해자의 고소가 있어야 공소가 가능하므로, 피해자가 고소를 취소한 사실이 인정됩니다. 이에 따라 공소가 기각되었습니다.",
+        "originwordCnt": "203",
+        "labelwordCnt": "38"
+    }
+}

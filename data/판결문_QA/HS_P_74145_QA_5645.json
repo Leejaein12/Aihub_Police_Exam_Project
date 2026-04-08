@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "74145",
+        "caseName": "강간피고사건",
+        "caseNum": "76노307",
+        "sentenceDate": "1976.06.03",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인과 다른 사람이 함께 공모하여 동일한 시간과 장소에서 연속적으로 간음을 했다면, 이는 여러 개의 강간죄로 처벌되나요?",
+        "output": "피고인과 다른 사람이 공모하여 같은 시간과 장소에서 폭행과 협박을 통해 연속적으로 간음한 경우, 각 간음에 따른 여러 개의 강간죄가 성립하는 것이 아니라, 형법 제297조에 따라 1개의 강간죄만 성립합니다.",
+        "originwordCnt": "37",
+        "labelwordCnt": "28"
+    }
+}

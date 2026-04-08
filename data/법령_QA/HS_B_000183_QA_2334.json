@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000183",
+        "promulgDate": "20240206",
+        "effectDate": "20240206",
+        "promulgNum": "20215",
+        "title": "모자보건법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제15조의21",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가와 지방자치단체는 산후조리 관련 실태조사를 얼마나 자주 실시해야 하나요?",
+        "output": "모자보건법 제15조의21 제1항에 따르면, 국가와 지방자치단체는 임산부와 신생아의 건강과 안전을 위하여 3년마다 산후조리와 관련된 실태조사를 실시하여야 합니다.",
+        "originwordCnt": "79",
+        "labelwordCnt": "17"
+    }
+}

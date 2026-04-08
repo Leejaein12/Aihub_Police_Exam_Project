@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001740",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19772",
+        "title": "선원법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제87조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "선박소유자는 어떤 사람을 선원으로 승무시킬 수 있나요?",
+        "output": "선원법 제87조 제1항에 따르면 선박소유자는 「의료법」에 따른 병원급 이상의 의료기관 또는 해양수산부령으로 정하는 기준에 맞는 의원의 의사가 승무에 적당하다는 것을 증명한 건강진단서를 가진 사람만을 선원으로 승무시켜야 합니다.",
+        "originwordCnt": "40",
+        "labelwordCnt": "27"
+    }
+}

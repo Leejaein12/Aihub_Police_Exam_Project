@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001513",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19754",
+        "title": "식물방역법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제27조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "식물검역기관의 식물검역관은 규제병해충 발견 신고를 받으면 어떤 조치를 해야 합니까?",
+        "output": "식물방역법 제27조의2 제3항에 따르면, 제1항에 따른 신고를 받은 식물검역기관의 식물검역관은 신속히 현장 확인 및 정밀검사를 실시하여야 합니다.",
+        "originwordCnt": "109",
+        "labelwordCnt": "17"
+    }
+}

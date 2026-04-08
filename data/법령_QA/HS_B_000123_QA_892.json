@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000123",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19965",
+        "title": "고용정책 기본법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가는 기술·기능 인력의 양성을 위해 무엇을 해야 하나요?",
+        "output": "고용정책 기본법 제21조에 따르면 국가는 산업발전의 추이와 노동시장의 인력수급 상황을 조사하여 지속적인 국가경제의 발전에 필요한 기술ㆍ기능 인력을 양성하기 위하여 필요한 시책을 수립ㆍ시행하여야 합니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "23"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001692",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19582",
+        "title": "형법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제22조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "형법상 위난을 피하지 못할 책임이 있는 자의 긴급피난행위는 처벌받나요?",
+        "output": "형법 제22조 제2항에 따르면, 위난을 피하지 못할 책임이 있는 자에 대하여는 동법 동조 제1항의 위난을 피하기 위한 행위는 상당한 이유가 있는 때에는 벌하지 아니한다는 규정을 적용하지 아니합니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "27"
+    }
+}

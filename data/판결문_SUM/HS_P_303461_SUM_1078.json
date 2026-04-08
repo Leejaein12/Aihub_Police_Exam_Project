@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "303461",
+        "caseName": "공직선거법위반",
+        "caseNum": "2018고합560",
+        "sentenceDate": "2019. 3. 12.",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "군수 후보인 부친의 당선을 위해 상대 후보의 낙선을 목적으로 허위 사실을 공표한 혐의로 기소되었습니다. 피고인은 유세차량에 올라 상대 후보가 자신의 부친이 결혼을 두 번 해서 군수직에 부적합하다는 유세를 했다는 허위 발언을 하였습니다. 법원은 이러한 행위가 선거의 공정성을 저해한다고 판단하여, 피고인에게 벌금 250만 원을 선고하였습니다.",
+        "originwordCnt": "476",
+        "labelwordCnt": "44"
+    }
+}

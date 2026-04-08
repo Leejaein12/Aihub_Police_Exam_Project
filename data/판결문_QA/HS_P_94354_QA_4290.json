@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "94354",
+        "caseName": "사문서변조교사등",
+        "caseNum": "79도792",
+        "sentenceDate": "1979.06.12",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형사소송법에 따른 증거보전청구는 어느 시점부터 가능한가요?",
+        "output": "형사소송법 제184조에 따르면 증거보전청구는 피고인이나 피의자가 형사 입건된 이후부터 가능합니다. 형사 입건 이전에 증거보전청구를 하는 것은 허용되지 않으며, 또한 피의자신문에 해당하는 사항에 대해서도 증거보전 방식으로 청구할 수 없습니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "28"
+    }
+}

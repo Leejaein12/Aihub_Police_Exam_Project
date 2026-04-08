@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001748",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "화물자동차 운수사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제30조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "운송가맹사업자와 운송가맹점 간의 분쟁조정은 어떤 규정을 준용하나요?",
+        "output": "화물자동차 운수사업법 제30조 제3항에 따르면 운송가맹사업자와 운송가맹점 간의 분쟁조정은 제7조 제3항부터 제6항까지의 규정을 준용합니다. 이 경우 화주는 운송가맹사업자 또는 운송가맹점으로 봅니다.",
+        "originwordCnt": "103",
+        "labelwordCnt": "21"
+    }
+}

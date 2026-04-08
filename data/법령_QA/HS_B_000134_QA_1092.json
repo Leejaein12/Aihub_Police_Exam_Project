@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000134",
+        "promulgDate": "20220610",
+        "effectDate": "20221211",
+        "promulgNum": "18923",
+        "title": "공인노무사법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제3조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공인노무사 자격시험에 응시하려는 사람은 어떤 수수료를 내야 하나요?",
+        "output": "공인노무사 자격시험에 응시하려는 사람은 「공인노무사법」 제3조의2 제5항에 따라 실비의 범위에서 대통령령으로 정하는 수수료를 내야 하며, 수수료의 납부방법과 반환 등에 관한 사항도 대통령령으로 정해집니다.",
+        "originwordCnt": "99",
+        "labelwordCnt": "23"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000123",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19965",
+        "title": "고용정책 기본법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "직업안정기관의 장과 지방자치단체의 장이 고용서비스를 제공할 때 어떤 의무가 있나요?",
+        "output": "고용정책 기본법 제11조제3항에 따르면 직업안정기관의 장과 지방자치단체의 장은 고용서비스 제공 업무를 수행하는 경우에 서로 협력하여야 합니다.",
+        "originwordCnt": "76",
+        "labelwordCnt": "16"
+    }
+}

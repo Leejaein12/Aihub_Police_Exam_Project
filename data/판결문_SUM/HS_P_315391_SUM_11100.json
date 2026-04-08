@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315391",
+        "caseName": "사기등",
+        "caseNum": "2023고단145",
+        "sentenceDate": "2023.08.11",
+        "courtName": "대전지방법원 공주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2022년 12월 분실된 신용카드를 습득하여 점유이탈물횡령과 사기, 여신전문금융업법 위반을 저지른 피고인에게 법원은 징역 8월을 선고하고, 배상명령신청을 각하하였습니다. 피고인의 누범 및 범죄 전력을 고려하여 실형을 선고하였으며, 배상 책임 범위가 명확하지 않다고 판단하였습니다.",
+        "originwordCnt": "785",
+        "labelwordCnt": "31"
+    }
+}

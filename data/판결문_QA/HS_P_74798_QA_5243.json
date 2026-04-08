@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "74798",
+        "caseName": "습관성의약품관리법위반등피고사건",
+        "caseNum": "80노782",
+        "sentenceDate": "1980.10.16",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "습관성의약품을 선박으로 수출하는 경우, 언제 범죄의 기수가 성립되나요?",
+        "output": "구 습관성의약품관리법 제38조 제1항 제1호에 따르면, 습관성의약품을 선박으로 수출하는 경우 그 선박이 우리나라 영해를 벗어났을 때 범죄의 기수가 성립됩니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "19"
+    }
+}

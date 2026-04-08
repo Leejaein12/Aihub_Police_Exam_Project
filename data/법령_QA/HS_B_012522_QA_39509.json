@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012522",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "공항시설법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "비행장개발지역의 허가 절차 및 기준에 대해 관련 규정이 없는 경우는 어느 법률을 따릅니까?",
+        "output": "공항시설법 제10조 제5항 규정에 따르면 제1항에 따른 허가의 절차 및 기준 등에 관하여는 이 법에서 정한 것을 제외하고는 국토의 계획 및 이용에 관한 법률 제57조부터 제60조까지 및 제62조를 준용합니다.",
+        "originwordCnt": "219",
+        "labelwordCnt": "29"
+    }
+}

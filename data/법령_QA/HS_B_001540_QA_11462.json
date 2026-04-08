@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001540",
+        "promulgDate": "20230314",
+        "effectDate": "20230915",
+        "promulgNum": "19234",
+        "title": "신용정보의 이용 및 보호에 관한 법률",
+        "ministry": "금융위원회",
+        "fullText": "N",
+        "smClass": "제27조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "채권추심회사는 누구를 통해 채권추심업무를 해야 하나요?",
+        "output": "신용정보의 이용 및 보호에 관한 법률 제27조 제2항에 따르면, 채권추심회사는 다음 각 호의 어느 하나에 해당하는 자를 통해 채권추심업무를 해야 합니다.1. 채권추심회사의 임직원  2. 위임직채권추심인",
+        "originwordCnt": "547",
+        "labelwordCnt": "28"
+    }
+}

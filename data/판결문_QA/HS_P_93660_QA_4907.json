@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93660",
+        "caseName": "범죄단체조직ㆍ도박개장",
+        "caseNum": "77도3463",
+        "sentenceDate": "1977.12.27",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "범죄단체조직죄가 성립하려면 어떤 요건이 필요하나요?",
+        "output": "범죄단체조직죄가 성립하려면 특정 다수인이 일정한 범죄를 목적으로 공동의 목표를 가지고 결합해야 하며, 그 단체는 최소한의 통솔체제를 갖춘 계속적인 결합체여야 합니다. 이는 형법 제114조 제1항에 따른 판단입니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "26"
+    }
+}

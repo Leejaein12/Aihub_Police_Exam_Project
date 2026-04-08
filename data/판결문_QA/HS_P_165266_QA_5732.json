@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "165266",
+        "caseName": "국가보안법 위반·반공법 위반·간첩·간첩방조",
+        "caseNum": "69도946",
+        "sentenceDate": "1969.08.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "월북을 시도하다가 북괴공작선과의 접선이 이루어지지 않은 경우, 이는 탈출 착수로 볼 수 있나요?",
+        "output": "반공법 제6조에 따르면, 월북을 위해 북괴공작선과 접선을 시도하였으나 공작선의 불출현으로 탈출 목적을 달성하지 못한 경우, 이는 탈출의 착수가 있었다고 보기에는 미흡하며, 탈출예비로 보아야 합니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "24"
+    }
+}

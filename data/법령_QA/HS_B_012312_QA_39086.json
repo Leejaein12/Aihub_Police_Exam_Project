@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012312",
+        "promulgDate": "20240123",
+        "effectDate": "20240123",
+        "promulgNum": "20129",
+        "title": "수산종자산업육성법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제22조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "수산종자생산업 허가를 받은 자의 지위는 어떻게 승계되나요?",
+        "output": "수산종자산업육성법 제22조제1항에 따르면, 수산종자생산업의 허가를 받은 시설물을 상속받거나 매입 또는 임차한 자는 그 허가를 받은 자의 지위를 승계하며, 이 경우 종전에 허가를 받은 자의 지위는 그 효력을 잃습니다.",
+        "originwordCnt": "159",
+        "labelwordCnt": "28"
+    }
+}

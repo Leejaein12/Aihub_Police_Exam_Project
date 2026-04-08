@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312362",
+        "caseName": "절도등",
+        "caseNum": "2023노1019",
+        "sentenceDate": "2023.07.05",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "절도와 절도미수 혐의로 1심에서 징역 10개월을 선고받은 피고인이 항소하였으나, 항소심 법원은 이를 기각하였습니다. 피고인이 범행을 인정하고 피해 금액이 적은 점은 유리한 사정으로, 여러 차례 형사처벌을 받은 전력과 누범기간 중 재범한 점, 피해 회복이 이루어지지 않은 점은 불리한 사정으로 고려되었습니다.",
+        "originwordCnt": "221",
+        "labelwordCnt": "39"
+    }
+}

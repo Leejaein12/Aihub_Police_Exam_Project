@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328004",
+        "caseName": "사기등",
+        "caseNum": "2023고단10",
+        "sentenceDate": "2023.10.18.",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "대금 지급 의사 없이 피해자들에게 술과 안주를 주문해 재산상 이익을 취하고, 주점에서 폭행 및 소란을 일으켜 영업을 방해하였습니다. 법원은 피고인의 반복적 범행과 전력 등을 고려해 징역 10월에 처하되, 2년간 집행을 유예하고, 보호관찰 및 80시간의 사회봉사를 명하였습니다.",
+        "originwordCnt": "1000",
+        "labelwordCnt": "36"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "95223",
+        "caseName": "재판권에관한재정신청",
+        "caseNum": "80초28",
+        "sentenceDate": "1980.08.12",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "군법회의에 재판권이 있는 범죄와 경합범으로 기소된 일반범죄에 대한 재판권은 어떻게 되나요?",
+        "output": "군법회의에 고유의 재판권이 있는 범죄와 경합범으로 기소된 경우, 계엄법 제16조에 규정되지 않은 일반범죄도 군법회의에 재판권이 인정됩니다.",
+        "originwordCnt": "239",
+        "labelwordCnt": "16"
+    }
+}

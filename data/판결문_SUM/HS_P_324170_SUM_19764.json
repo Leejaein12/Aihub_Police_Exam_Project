@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "324170",
+        "caseName": "사기등",
+        "caseNum": "2023노3006",
+        "sentenceDate": "2024.01.23",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "상대방으로부터 금전을 편취하고 문서를 위조한 혐의로 기소되었습니다. 항소심에서 피고인 A는 반성과 합의로 형량이 감경되었고, 피고인 B도 잔여 피해금을 변제할 것을 약속하였습니다. 반면, 피고인 C는 상당한 금액을 편취한 점이 중하게 평가되었습니다. 최종적으로 피고인 A에게는 징역 1년, B와 C에게는 각 징역 10개월이 선고되었으며, 형의 집행은 유예되었습니다.",
+        "originwordCnt": "597",
+        "labelwordCnt": "44"
+    }
+}

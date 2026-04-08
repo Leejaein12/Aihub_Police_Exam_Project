@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311285",
+        "caseName": "도로교통법위반(음주운전)등",
+        "caseNum": "2023고단2601",
+        "sentenceDate": "2024.05.01",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주운전과 무면허운전으로 기소된 피고인은 과거에도 음주운전으로 벌금형과 집행유예를 받은 전력이 있음에도 다시 범행을 저질렀습니다. 사건 당일 혈중알코올농도 0.03% 이상의 상태로 약 1.4km를 운전한 사실이 인정되었으며, 법원은 이러한 사정을 참작하여 징역 6개월을 선고하면서도 1년간 집행유예를 결정하였습니다.",
+        "originwordCnt": "241",
+        "labelwordCnt": "35"
+    }
+}

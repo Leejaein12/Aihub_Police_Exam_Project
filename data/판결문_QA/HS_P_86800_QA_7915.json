@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86800",
+        "caseName": "관세법위반",
+        "caseNum": "4294형상400",
+        "sentenceDate": "1961.12.14",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "금의 밀수출에 대해서는 어떤 법률이 적용되나요?",
+        "output": "금의 밀수출에 대해서는 관세법이 아닌 금에 관한 임시조치법에 따라 처단되어야 합니다. 이는 금의 수출과 관련한 규정을 위반한 행위를 다루는 법적 근거가 됩니다. 금에 관한 임시조치법 제5조 제1항에 따라 금 밀수출에 대한 처벌이 이루어집니다.",
+        "originwordCnt": "52",
+        "labelwordCnt": "33"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319381",
+        "caseName": "상해",
+        "caseNum": "2023고정187",
+        "sentenceDate": "2023.11.22",
+        "courtName": "제주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피고인은 피해자와 알지 못하는 사이임에도 불구하고  피해자의 허리를 감싸고 엉덩이를 쓰다듬어 강제추행을 저질렀습니다. 법원은 피고인에게 벌금 300만 원을 선고하고, 성폭력 치료프로그램 40시간 이수를 명령하였습니다. 신상정보 등록의 의무가 부과되었습니다. 피고인이 범행을 인정하고 뉘우치고 있으며 초범인 점은 유리한 사정으로 고려되었습니다.",
+        "originwordCnt": "308",
+        "labelwordCnt": "39"
+    }
+}

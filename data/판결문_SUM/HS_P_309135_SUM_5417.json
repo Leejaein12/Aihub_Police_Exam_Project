@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "309135",
+        "caseName": "살인미수",
+        "caseNum": "2010고합36",
+        "sentenceDate": "2010. 7. 5.",
+        "courtName": "제주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "세입자로 거주하며 임대인에게 여러 차례 불만을 품고 있었습니다. 집을 비우라는 임대인의 말을 듣고 격분하여 주거지에 있던 흉기로 가슴을 찔렀습니다. 그러나 상대가 피하면서 심각한 상해에는 이르지 못하였습니다. 법원은 범행 당시 살해의 의도가 있었음을 인정하였으며, 미수범으로 징역 2년 6월을 선고하였으며, 압수된 흉기는 몰수되었습니다.",
+        "originwordCnt": "1068",
+        "labelwordCnt": "41"
+    }
+}

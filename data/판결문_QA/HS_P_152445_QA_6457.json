@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "152445",
+        "caseName": "상습존속폭행",
+        "caseNum": "64도687",
+        "sentenceDate": "1965.01.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "상습존속폭행죄의 경우 피해자의 의사와 관계없이 논할 수 있나요?",
+        "output": "상습존속폭행죄에 대해서는 형법 제260조 제3항이 적용되지 않으므로, 이 죄에 대해서는 피해자의 명시한 의사에 반하여도 논할 수 있습니다. 이는 형법 제264조에 근거하여 피해자의 의사에 따라 처벌 여부가 좌우되지 않는다는 의미로 해석됩니다.",
+        "originwordCnt": "43",
+        "labelwordCnt": "30"
+    }
+}

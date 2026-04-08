@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312620",
+        "caseName": "사기",
+        "caseNum": "2023고정1351",
+        "sentenceDate": "2024.01.23",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "텔레그램에 접속하여 피해자 D에게 허위로 '타투를 하기 전 몸에 바르는 크림 600개를 400만 원에 판매한다.'고 거짓말 하였습니다. 피고인은 피해자에게 물품을 공급할 의사나 능력이 없었음에도 불구하고, 피해자로부터 총 4,000,000원을 송금받았습니다. 법원은 피고인에게 벌금 500만 원을 선고하였습니다.",
+        "originwordCnt": "168",
+        "labelwordCnt": "35"
+    }
+}

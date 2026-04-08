@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86735",
+        "caseName": "건조물침입,업무방해,명예훼손",
+        "caseNum": "4293형상864",
+        "sentenceDate": "1961.02.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "죽일놈', '도둑놈'이라는 언설은 어떤 범죄에 해당하나요?",
+        "output": "죽일놈', '도둑놈'이라는 언설은 형법 제311조에 따른 모욕죄에 해당하며, 이는 공개된 장소에서 경멸적인 표현을 사용하여 상대방을 모욕한 경우에 해당합니다.",
+        "originwordCnt": "234",
+        "labelwordCnt": "18"
+    }
+}

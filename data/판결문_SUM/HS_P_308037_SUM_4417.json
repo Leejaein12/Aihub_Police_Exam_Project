@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "308037",
+        "caseName": "업무방해",
+        "caseNum": "2020고정680",
+        "sentenceDate": "2021. 1. 21.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자신보다 먼저 손님을 태운 피해자에게 불만을 품고, 피해자의 택시가 차선 변경을 하지 못하도록 차량으로 가로막고, 택시 뒷좌석에 있던 손님의 손을 잡아 내리게 하는 등 약 10분간 피해자의 택시 영업을 방해하였습니다. 법원은 피고인의 이러한 행위가 업무방해에 해당한다고 판단하여 형법 제314조 제1항에 따라 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "194",
+        "labelwordCnt": "45"
+    }
+}

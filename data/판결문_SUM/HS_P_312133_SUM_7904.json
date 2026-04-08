@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312133",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단772",
+        "sentenceDate": "2024.04.18",
+        "courtName": "춘천지방법원 강릉지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.125% 상태로 차량을 운전하여 도로교통법을 위반하였습니다. 피고인은 음주운전으로 처벌받은 전력이 여러 차례 있으며, 이로 인해 벌금 이상의 형을 선고받고 10년 이내에 다시 음주운전을 한 경우입니다. 법원은 피고인에게 징역 1년에 집행유예 2년, 40시간의 준법운전강의 수강을 선고하였습니다.",
+        "originwordCnt": "269",
+        "labelwordCnt": "36"
+    }
+}

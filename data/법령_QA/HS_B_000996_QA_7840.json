@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000996",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19117",
+        "title": "농어촌도로 정비법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제28조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "농어촌도로 정비법에 따른 손실 보상 협의가 성립되지 않을 경우 어떻게 해야 하나요?",
+        "output": "협의가 성립되지 않을 때에는 해당 군수가 스스로 결정한 금액을 손실을 입은 자에게 지급하여야 합니다. 이는 농어촌도로 정비법 제28조 3항에 근거합니다.",
+        "originwordCnt": "73",
+        "labelwordCnt": "20"
+    }
+}

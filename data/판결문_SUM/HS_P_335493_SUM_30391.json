@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335493",
+        "caseName": "절도",
+        "caseNum": "2023고단2301",
+        "sentenceDate": "2023.07.18",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "동종 범죄로 복역 후 출소한 지 2달도 되지 않아 다시 절도 범행을 저지른 것으로 확인되었습니다. 피해자의 차량에서 현금과 상품권을 절취한 피고인은 법정에서 자신의 잘못을 인정하고 일부 피해배상을 하였습니다. 그러나 피고인의 범죄 전력이 다수 존재하고, 누범으로 가중처벌이 필요하다고 판단되었습니다. 법원은 피고인에게 징역 1년을 선고하였습니다.",
+        "originwordCnt": "229",
+        "labelwordCnt": "43"
+    }
+}

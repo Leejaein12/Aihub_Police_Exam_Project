@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336212",
+        "caseName": "고용보험법위반",
+        "caseNum": "2024고정122",
+        "sentenceDate": "2024.05.22",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "회계사무소에서 근무하면서 실제로 출산전후휴가 및 육아휴직을 사용하지 않았음에도 불구하고, 사업주와 공모하여 휴가를 사용한 것처럼 허위로 급여신청서를 작성해 제출하여 부당하게 급여를 수급한 혐의를 받았습니다. 법원은 고용보험법 위반으로 피고인에게 벌금 300만 원을 선고하였습니다.",
+        "originwordCnt": "336",
+        "labelwordCnt": "31"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "156592",
+        "caseName": "전지강간",
+        "caseNum": "67도471",
+        "sentenceDate": "1967.05.23",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "친고죄에서 피해자가 고소 전에 고소권을 포기할 수 있나요?",
+        "output": "친고죄에 있어서 피해자의 고소권은 공법상의 권리이므로, 법이 명문으로 인정하는 경우를 제외하고는 고소 전에 고소권을 포기할 수 없습니다. 형사소송법 제232조에 따르면, 일단 한 고소는 취소할 수 있지만, 고소 전에 고소권을 포기하는 것은 허용되지 않습니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "33"
+    }
+}

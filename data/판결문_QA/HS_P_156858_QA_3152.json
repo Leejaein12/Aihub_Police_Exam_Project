@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "156858",
+        "caseName": "상해치사",
+        "caseNum": "71도1592",
+        "sentenceDate": "1971.10.25",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "국민학교를 졸업한 13세 소녀도 사람을 특정할 수 있는 변식능력이 있다고 볼 수 있나요?",
+        "output": "국민학교를 졸업한 13세 소녀는 특단의 사정이 없는 한 사람을 특정할 수 있는 변식능력이 있다고 볼 수 있습니다. 이 판례에서는 사건 현장을 목격한 13세 소녀가 범인을 특정하고 기억할 수 있는 변식능력을 갖춘 것으로 판단되었습니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "33"
+    }
+}

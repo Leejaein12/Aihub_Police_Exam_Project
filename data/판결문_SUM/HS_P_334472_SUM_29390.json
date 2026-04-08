@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334472",
+        "caseName": "성폭력범죄의처벌등에관한특례법위반(비밀준수등)",
+        "caseNum": "2023고정671",
+        "sentenceDate": "2024.03.21",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2010년 청소년성보호에 관한 법률 위반으로 신상정보 등록 대상자가 된 피고인은, 이후 주소 및 직장 정보가 변경되었음에도 불구하고 법정 기한 내에 변경 신고 의무를 이행하지 않았습니다. 이에 피고인의 동일한 범행 반복을 고려하여 성폭력범죄의 처벌 등에 관한 특례법에 따라 벌금 300만 원이 선고되었습니다.",
+        "originwordCnt": "195",
+        "labelwordCnt": "41"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "308175",
+        "caseName": "청소년보호법위반",
+        "caseNum": "2021고단2150",
+        "sentenceDate": "2022. 4. 5.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A는 유료직업소개사업을 운영하며 청소년을 유흥업소에 알선하여 접객행위를 하게 한 혐의로 기소되었으며, 피고인 B는 A의 이러한 행위에 관여한 혐의와 의무보험 미가입 차량을 운행한 혐의로 기소되었습니다. 법원은 피고인 A에게 징역 10개월에 집행유예 2년을 선고하고, 280만 원을 추징하도록 하였습니다. 피고인 B에게는 벌금 400만 원을 선고하였습니다.",
+        "originwordCnt": "560",
+        "labelwordCnt": "42"
+    }
+}

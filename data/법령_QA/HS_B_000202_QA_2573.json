@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000202",
+        "promulgDate": "20240123",
+        "effectDate": "20240424",
+        "promulgNum": "20098",
+        "title": "사회복지사업법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제32조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사회복지법인에 관하여 이 법에서 규정하지 않은 사항은 어떻게 처리되나요?",
+        "output": "사회복지사업법 제32조에 따르면, 사회복지법인에 관하여 이 법에서 규정한 사항을 제외하고는 「민법」과 「공익법인의 설립ㆍ운영에 관한 법률」을 준용합니다.",
+        "originwordCnt": "16",
+        "labelwordCnt": "16"
+    }
+}

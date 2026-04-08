@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "306100",
+        "caseName": "공연음란",
+        "caseNum": "2012고단6446",
+        "sentenceDate": "2013. 3. 14.",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "여러 차례 나이 어린 여학생들 앞에서 음란한 행위를 한 혐의로 기소된 사건에서, 피고인의 행위로 인해 여학생들이 정신적으로 큰 충격을 받은 것으로 보입니다. 그러나 피고인은 이전에 동종범죄로 처벌받은 전력이 없었으며, 법원은 이러한 사정을 고려해 피고인에게 징역 8개월을 선고하면서도 2년간 집행을 유예하고 보호관찰을 명령했습니다.",
+        "originwordCnt": "232",
+        "labelwordCnt": "42"
+    }
+}

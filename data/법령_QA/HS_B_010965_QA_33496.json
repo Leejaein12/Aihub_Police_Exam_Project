@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010965",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "수산자원관리법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제23조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "해양수산부장관 또는 시ㆍ도지사는 2중 이상 자망 사용신고를 받은 경우 어떻게 처리해야 하나요?",
+        "output": "수산자원관리법 제23조 제4항에 따르면, 해양수산부장관 또는 시ㆍ도지사는 제3항 단서에 따른 신고를 받은 경우 그 내용을 검토하여 이 법에 적합하면 신고를 수리하여야 합니다.",
+        "originwordCnt": "132",
+        "labelwordCnt": "22"
+    }
+}

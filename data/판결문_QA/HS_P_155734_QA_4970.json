@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155734",
+        "caseName": "특정범죄가중처벌등에관한법률위반",
+        "caseNum": "69도1157",
+        "sentenceDate": "1970.03.10",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법원이 심리할 수 있는 범위는 어디까지인가요?",
+        "output": "형사소송법 제298조에 따라 법원의 심리 범위는 공소장에 적시된 것과 공소장변경 절차를 거친 범위에 국한되며, 법원은 검사에게 공소사실이나 적용법조의 변경을 명할 권한이 없으므로 적용법조의 보완추가를 촉구할 권리도 의무도 없습니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "28"
+    }
+}

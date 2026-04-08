@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "99242",
+        "caseName": "독점규제및공정거래에관한법률위반",
+        "caseNum": "84도232",
+        "sentenceDate": "1984.04.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "산하 단체가 독자적으로 활동하는 경우에도 사업자단체 설립신고의무가 있나요?",
+        "output": "사단법인 한국석유가스유통협회의 부산지부는 사단법인의 기관이 아니라 독자적으로 활동하고 있는 산하 단체이므로, 독점규제 및 공정거래에 관한 법률 제17조에 따른 사업자단체 설립신고의무는 해당 지부의 지부장에게 있다고 판단됩니다.",
+        "originwordCnt": "56",
+        "labelwordCnt": "25"
+    }
+}

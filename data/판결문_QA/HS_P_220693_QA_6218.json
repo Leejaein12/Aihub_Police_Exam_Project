@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "220693",
+        "caseName": "의료기기법위반·상표법위반",
+        "caseNum": "2008고단6672",
+        "sentenceDate": "2008.12.11",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "집행유예가 적용되는 기준은 무엇인가요?",
+        "output": "형법 제62조 제1항에 따르면, 집행유예는 피고인의 범행 경위, 전과 여부 등을 고려하여 일정한 기간 동안 형의 집행을 유예하는 제도입니다. 이 사건에서는 피고인 3과 피고인 5에게 집행유예가 적용되었습니다.",
+        "originwordCnt": "1817",
+        "labelwordCnt": "27"
+    }
+}

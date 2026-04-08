@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001638",
+        "promulgDate": "20230418",
+        "effectDate": "20240101",
+        "promulgNum": "19357",
+        "title": "도로교통법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제15조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "전용차로의 종류, 전용차로로 통행할 수 있는 차와 그 밖에 전용차로의 운영에 필요한 사항은 어떠한 법령을 통해 정하나요?",
+        "output": "도로교통법 제15조 제2항에 따르면 전용차로의 종류, 전용차로로 통행할 수 있는 차와 그 밖에 전용차로의 운영에 필요한 사항은 대통령령으로 정합니다.",
+        "originwordCnt": "78",
+        "labelwordCnt": "19"
+    }
+}

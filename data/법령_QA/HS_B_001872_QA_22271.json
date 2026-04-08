@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001872",
+        "promulgDate": "20210518",
+        "effectDate": "20211119",
+        "promulgNum": "18176",
+        "title": "근로기준법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제43조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "임금 체불자료를 받은 자가 그 자료를 어떤 목적으로 이용하거나 누설해서는 안 되나요?",
+        "output": "임금 체불자료를 받은 자는 체불사업주의 신용도와 신용거래능력 판단과 관련된 업무 외의 목적으로 자료를 이용하거나 누설해서는 안 됩니다. 근거 법 조문은 근로기준법 제43조의3 제2항입니다.",
+        "originwordCnt": "113",
+        "labelwordCnt": "23"
+    }
+}

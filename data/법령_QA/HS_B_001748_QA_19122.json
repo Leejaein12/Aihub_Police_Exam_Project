@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001748",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "화물자동차 운수사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제46조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "휴게소 종합계획에는 어떤 사항들이 포함되어야 하나요?",
+        "output": "화물자동차 운수사업법 제46조의2 제2항에 따르면 휴게소 종합계획에는 화물자동차 휴게소의 현황 및 장래수요, 계획적 공급, 연도별·지역별 배치, 기능 개선 및 효율화, 그리고 그 밖의 관련 사항이 포함되어야 합니다.",
+        "originwordCnt": "171",
+        "labelwordCnt": "27"
+    }
+}

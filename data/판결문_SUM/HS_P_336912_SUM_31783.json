@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336912",
+        "caseName": "업무상과실치상",
+        "caseNum": "2023노2924",
+        "sentenceDate": "2024.04.05",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "업무상 안전조치의무를 소홀히 하여 지게차 운전 방법 및 조작에 대한 교육을 실시하지 않고, 작업 지휘자나 신호수를 배치하지 않는 등의 과실로 파이프 작업 중 지게차에 의해 상해를 입게 하였습니다. 이로 인해 형법 제268조에 따른 업무상과실치상죄로 처벌받아 원심 판결을 파기하고 벌금 200만 원에 처해졌습니다.",
+        "originwordCnt": "1033",
+        "labelwordCnt": "42"
+    }
+}

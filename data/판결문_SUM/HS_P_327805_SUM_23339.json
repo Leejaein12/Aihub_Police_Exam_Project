@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "327805",
+        "caseName": "사기등",
+        "caseNum": "2022노2065",
+        "sentenceDate": "2022.12.15.",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "검사는 피고인이 보이스피싱 범죄에 가담한 고의가 있었다며 사실오인을 이유로 항소했으나, 원심은 피고인이 범행을 인식하지 못했을 가능성을 배제할 수 없다고 보고 무죄를 선고했습니다. 제출된 증거만으로 고의가 증명되지 않았다고 판단한 원심에 사실오인의 위법이 없다고 보아 검사의 항소를 기각하였습니다.",
+        "originwordCnt": "157",
+        "labelwordCnt": "36"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001124",
+        "promulgDate": "20200204",
+        "effectDate": "20200805",
+        "promulgNum": "16928",
+        "title": "보안관찰법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보안관찰법에 따르면, 보안관찰처분대상자의 정의는 무엇인가요?",
+        "output": "보안관찰처분대상자는 보안관찰해당범죄 또는 이와 경합된 범죄로 금고 이상의 형을 선고받고 그 형기합계가 3년 이상인 자로서, 형의 전부 또는 일부의 집행을 받은 사실이 있는 자를 의미합니다. 이는 보안관찰법 제3조에 명시되어 있습니다.",
+        "originwordCnt": "30",
+        "labelwordCnt": "30"
+    }
+}

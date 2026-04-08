@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001867",
+        "promulgDate": "20221018",
+        "effectDate": "20230119",
+        "promulgNum": "19001",
+        "title": "에너지이용 합리화법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "정부는 에너지 이용과 관련하여 어떤 책무를 가지고 있나요?",
+        "output": "'에너지이용 합리화법' 제3조제1항에 따르면, 정부는 에너지의 수급안정과 합리적이고 효율적인 이용을 도모하고 이를 통한 온실가스 배출을 줄이기 위한 기본적이고 종합적인 시책을 강구하고 시행할 책무를 집니다.",
+        "originwordCnt": "97",
+        "labelwordCnt": "24"
+    }
+}

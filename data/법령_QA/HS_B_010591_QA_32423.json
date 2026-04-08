@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010591",
+        "promulgDate": "20171031",
+        "effectDate": "20171031",
+        "promulgNum": "14972",
+        "title": "인신보호법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법원은 피수용자의 수용을 임시로 해제할 때 아무 조건없이 해제할 수 있습니까?",
+        "output": "인신보호법 제9조 제2항에 따르면 법원은 동조 제1항의 결정을 하기 전에 피수용자로부터 언제든지 법원의 소환에 응하겠다는 서약을 받아야 하고, 필요한 경우 피수용자에 대하여 수용의 임시해제에 따른 조건을 붙일 수 있습니다.",
+        "originwordCnt": "97",
+        "labelwordCnt": "29"
+    }
+}

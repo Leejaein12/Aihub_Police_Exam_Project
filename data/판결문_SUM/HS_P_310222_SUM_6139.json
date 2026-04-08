@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310222",
+        "caseName": "업무상횡령",
+        "caseNum": "2023노4060",
+        "sentenceDate": "2024.06.14",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자신의 1인 회사에서 횡령한 금액이 일부 회사 운영에 사용되었고, 당심에서 피해 회사에 대한 채권을 포기하며 반성하는 태도를 보인 점, 과거 벌금형 외 전과가 없는 점 등이 인정되지만, 횡령 금액이 상당하여 원심의 형량이 적절하다고 판단되었습니다. 피고인과 검사가 각각 항소했으나, 법원은 양측의 항소를 모두 기각하였습니다.",
+        "originwordCnt": "192",
+        "labelwordCnt": "43"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제24조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "건축물의 공사시공자는 공사를 수행할 때 어떤 기준에 따라야 하나요?",
+        "output": "건축법 제24조제1항에 따르면, 공사시공자는 제15조제2항에 따른 계약대로 성실하게 공사를 수행하여야 하며, 이 법과 이 법에 따른 명령이나 처분, 그 밖의 관계 법령에 맞게 건축물을 건축하여 건축주에게 인도하여야 합니다.",
+        "originwordCnt": "233",
+        "labelwordCnt": "28"
+    }
+}

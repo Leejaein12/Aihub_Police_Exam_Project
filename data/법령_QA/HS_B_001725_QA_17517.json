@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제10조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에서 공정선거지원단의 구성 및 활동 방법은 어떻게 정해지나요?",
+        "output": "공정선거지원단의 구성·활동방법 및 수당·실비의 지급 기타 필요한 사항은 중앙선거관리위원회규칙으로 정합니다. 공직선거법 제10조의2제8항에 근거합니다.",
+        "originwordCnt": "125",
+        "labelwordCnt": "13"
+    }
+}

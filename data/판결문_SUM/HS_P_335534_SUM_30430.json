@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335534",
+        "caseName": "사기",
+        "caseNum": "2023노1239",
+        "sentenceDate": "2023.09.06",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심은 피고인이 잘못을 인정하고, 공문서위조죄와 배임죄 등이 후단 경합범 관계에 있다는 점 등을 고려하여 피고인에게 벌금 500만 원을 선고하였습니다. 검사는 이 형이 너무 가볍다고 주장했으나, 원심에서 이미 동종 전력 및 피해 회복이 이루어지지 않았다는 점을 반영하였고, 형을 변경할 정도로 새로운 사정변경이 없다고 판단되어 검사의 항소는 기각되었습니다.",
+        "originwordCnt": "277",
+        "labelwordCnt": "46"
+    }
+}

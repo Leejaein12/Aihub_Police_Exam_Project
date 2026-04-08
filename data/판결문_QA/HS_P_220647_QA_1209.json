@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "220647",
+        "caseName": "공직선거법위반·정치자금법위반",
+        "caseNum": "2008고합1093",
+        "sentenceDate": "2008.12.05",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "공직선거법 제47조의2 제1항에서 '누구든지'라는 표현이 정당을 포함하는 것인지요?",
+        "output": "공직선거법 제47조의2 제1항에서 '누구든지'라는 표현은 정당도 포함되며, 정당도 후보자 추천과 관련하여 금품 등의 수수 행위의 주체가 될 수 있습니다.",
+        "originwordCnt": "16384",
+        "labelwordCnt": "19"
+    }
+}

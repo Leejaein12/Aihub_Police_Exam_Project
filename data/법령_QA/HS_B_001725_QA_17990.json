@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제151조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에 의하면 사전투표소에서 교부할 투표용지는 어떻게 작성합니까?",
+        "output": "공직선거법 제151조 제6항에 따르면, 사전투표소에서 교부할 투표용지는 사전투표관리관이 투표용지 발급기를 이용하여 작성합니다. 이 경우 투표용지의 일련번호는 바코드 형태로 표시합니다.",
+        "originwordCnt": "231",
+        "labelwordCnt": "19"
+    }
+}

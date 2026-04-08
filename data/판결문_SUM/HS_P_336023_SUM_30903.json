@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336023",
+        "caseName": "보건범죄단속에관한특별조치법위반(부정의료업자)",
+        "caseNum": "2023고단3928",
+        "sentenceDate": "2024.01.11",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "의사가 아님에도 불구하고 문신시술업소를 운영하며 대가를 받고 바늘과 문신용 잉크를 사용하여 손님에게 문신을 시술하는 의료행위를 업으로 삼았습니다. 이에 법원은 피고인에게 징역 1년에 벌금 3백만 원을 선고하였습니다. 다만, 형의 집행을 2년간 유예하고 사회봉사 80시간을 명령하였습니다.",
+        "originwordCnt": "283",
+        "labelwordCnt": "34"
+    }
+}

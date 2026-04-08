@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000201",
+        "promulgDate": "20190115",
+        "effectDate": "20190115",
+        "promulgNum": "16246",
+        "title": "사회복지공동모금회법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사회복지공동모금사업을 관장하기 위해 어떤 기관이 설립되나요?",
+        "output": "사회복지공동모금사업을 관장하도록 하기 위하여 사회복지공동모금회를 둔다고 규정하고 있습니다. 이 내용은 「기부금품의 모집 및 사용에 관한 법률」 제4조 제1항에 명시되어 있습니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "20"
+    }
+}

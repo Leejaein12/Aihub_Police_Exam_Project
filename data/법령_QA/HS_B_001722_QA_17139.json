@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001722",
+        "promulgDate": "20240102",
+        "effectDate": "20240102",
+        "promulgNum": "19922",
+        "title": "정당법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제24조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "범죄수사를 위한 당원명부의 조사시 필요한 영장은 누구에게 발부받습니까?",
+        "output": "정당법 제24조 제4항에 따르면, 범죄수사를 위한 당원명부의 조사는 법관이 발부하는 영장이 있어야 합니다. 이 경우 조사에 관여한 관계 공무원은 당원명부에 관하여 지득한 사실을 누설하지 못합니다.",
+        "originwordCnt": "81",
+        "labelwordCnt": "25"
+    }
+}

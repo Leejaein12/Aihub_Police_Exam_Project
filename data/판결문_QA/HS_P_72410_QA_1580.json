@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72410",
+        "caseName": "폭력행위등처벌에관한법률위반피고사건",
+        "caseNum": "68노100",
+        "sentenceDate": "1968.06.04",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "작량감경을 할 때, 그 감경의 방법과 범위는 어떻게 결정되나요?",
+        "output": "형법 제53조는 작량감경을 할 수 있음을 규정하고 있지만, 그 감경의 방법과 범위에 대해서는 명확히 규정하지 않고 있습니다. 따라서 작량감경을 통해 처단형을 정할 때는 형법 제55조에 따라 규정된 경감 방법에 의해 결정되어야 합니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "32"
+    }
+}

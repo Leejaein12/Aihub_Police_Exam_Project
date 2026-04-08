@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제52조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공판조서 작성상의 특례는 무엇입니까?",
+        "output": "형사소송법 제52조에 따르면 공판조서 및 공판기일외의 증인신문조서에는 제48조제3항 내지 제7항의 규정에 의하지 아니합니다. 단, 진술자의 청구가 있는 때에는 그 진술에 관한 부분을 읽어주고 증감변경의 청구가 있는 때에는 그 진술을 기재하여야 합니다.",
+        "originwordCnt": "32",
+        "labelwordCnt": "31"
+    }
+}

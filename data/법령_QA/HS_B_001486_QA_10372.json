@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001486",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "수산업법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제71조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "어구생산업 또는 어구판매업을 업으로 하려는 자는 어떤 절차를 따라야 하나요?",
+        "output": "「수산업법」 제71조 제1항에 따르면, 어구를 생산하여 판매하거나 무상으로 유통ㆍ공급하는 어구생산업을 하려는 자와 어구를 판매하는 어구판매업을 하려는 자는 시장, 군수, 구청장에게 신고해야 합니다.",
+        "originwordCnt": "147",
+        "labelwordCnt": "22"
+    }
+}

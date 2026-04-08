@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333941",
+        "caseName": "강제추행",
+        "caseNum": "2021노1389",
+        "sentenceDate": "2023.01.18",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "항소장 제출 후 20일 이내에 항소 이유서를 제출하지 않아 형사소송법 제361조의4 제1항에 따라 항소가 기각될 수 있으며, 검사의 항소 이유는 피해자의 진술과 증거를 바탕으로 피고인의 추행 사실이 합리적 의심 없이 증명되지 않았음을 지적합니다. 또한 원심의 양형이 합리적인 범위를 벗어나지 않았으므로, 검사의 양형 부당 주장도 받아들여지지 않았습니다.",
+        "originwordCnt": "399",
+        "labelwordCnt": "46"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009513",
+        "promulgDate": "20220610",
+        "effectDate": "20230611",
+        "promulgNum": "18898",
+        "title": "암관리법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보건복지부장관은 암연구사업과 관련하여 어떤 국제적 노력을 해야 하나요?",
+        "output": "암관리법 제9조 제3항에 따르면, 보건복지부장관은 암연구사업에 관한 국제협력의 증진을 위해 노력하고, 선진기술의 도입을 위한 전문 인력의 국외 파견 및 국내 유치 등의 방안을 마련해야 합니다.",
+        "originwordCnt": "122",
+        "labelwordCnt": "25"
+    }
+}

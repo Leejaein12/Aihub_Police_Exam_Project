@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "316342",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고단980",
+        "sentenceDate": "2024.07.12",
+        "courtName": "수원지방법원 안산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "중국 국적의 외국인은 혈중알코올농도 0.207% 상태로 약 1km 구간에서 음주운전을 한 사실이 인정되었습니다. 동종범죄로 처벌받은 전력은 없으나, 혈중알코올농도가 높고 범행의 위험성이 큰 점을 고려하여 벌금형을 선고하였습니다. 또한, 벌금에 대한 가납명령도 함께 이루어졌습니다",
+        "originwordCnt": "183",
+        "labelwordCnt": "32"
+    }
+}

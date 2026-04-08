@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014462",
+        "promulgDate": "20230628",
+        "effectDate": "20230628",
+        "promulgNum": "01120",
+        "title": "군사법경찰 수사규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제25조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군사법경찰관은 변사자에 대한 검시 또는 검증이 종료된 후 어떤 절차를 거쳐야 합니까?",
+        "output": "군사법경찰관은 변사자에 대한 검시 또는 검증이 종료된 때에는 군검사의 지휘를 받아 사체를 소지품 등과 함께 신속히 유족 등에게 인도해야 합니다. 이는 군사법경찰 수사규칙 제25조 제1항에 규정되어 있습니다.",
+        "originwordCnt": "95",
+        "labelwordCnt": "27"
+    }
+}

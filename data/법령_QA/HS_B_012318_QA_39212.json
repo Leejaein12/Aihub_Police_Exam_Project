@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012318",
+        "promulgDate": "20211221",
+        "effectDate": "20221222",
+        "promulgNum": "18611",
+        "title": "노후준비 지원법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "노후준비지원센터가 아닌 자가 사용할 수 없는 명칭은 무엇인가요?",
+        "output": "노후준비 지원법 제21조 제1항에 따르면, 노후준비지원센터가 아닌 자는 중앙노후준비지원센터, 광역노후준비지원센터, 지역노후준비지원센터 또는 이와 유사한 명칭을 사용할 수 없습니다.",
+        "originwordCnt": "41",
+        "labelwordCnt": "18"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000123",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19965",
+        "title": "고용정책 기본법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제35조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "근로복지공단은 조성된 실업대책사업 자금을 어떻게 관리ㆍ운용해야 합니까?",
+        "output": "고용정책 기본법 제35조제2항에 따르면 근로복지공단은 제35조제1항에 따라 조성된 자금을 근로복지기본법 제87조에 따른 근로복지진흥기금의 재원으로 하여 관리ㆍ운용하여야 합니다.",
+        "originwordCnt": "54",
+        "labelwordCnt": "17"
+    }
+}

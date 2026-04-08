@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78720",
+        "caseName": "대외무역법위반",
+        "caseNum": "2006노2899",
+        "sentenceDate": "2007.02.07",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "바이올린 원산지 표시를 가린 행위가 무죄로 판단된 이유는 무엇인가요?",
+        "output": "중국에서 생산된 바이올린 반제품에 국내에서 추가 가공·조립을 거쳐 완성된 바이올린의 원산지 표시가 문제되었으나, 피고인은 이 바이올린에 ‘Hand Crafted Body From Our Universal China Factory Exquisite Parts Varnishing And Final Finishing in Korea’라는 라벨을 부착하여 원산지를 표시하려는 의도를 가진 것으로 보입니다. 또한, 피고인이 중국산 표시를 고의로 가리려는 의도가 없었고, ‘MADE IN CHINA’ 표기 손상이 원산지 손상 행위로 확정되지 않으며, 이를 증명할 증거가 부족하여 합리적 의심을 넘어설 정도로 입증되지 않았다는 이유로 무죄가 선고되었습니다.",
+        "originwordCnt": "1836",
+        "labelwordCnt": "71"
+    }
+}

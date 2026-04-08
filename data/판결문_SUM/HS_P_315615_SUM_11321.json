@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315615",
+        "caseName": "폭행",
+        "caseNum": "2023고정341",
+        "sentenceDate": "2024.04.24",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "노상에서 피고인의 지인이 오토바이를 운전하던 중 피해자와 시비가 발생했습니다. 해당 과정에서 피해자가 피고인의 목 부위를 한 차례 때리고 몸을 밀치자, 피고인도 이에 대응하여 피해자의 목 부위를 한 차례 때리고 몸을 밀쳤습니다. 법원은 피고인의 행위가 폭행죄에 해당한다고 판단하여 형법 제260조 제1항을 적용하여 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "156",
+        "labelwordCnt": "45"
+    }
+}

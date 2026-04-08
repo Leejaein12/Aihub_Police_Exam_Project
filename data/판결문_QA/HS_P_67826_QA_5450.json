@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "67826",
+        "caseName": "횡령",
+        "caseNum": "2005도7610",
+        "sentenceDate": "2006.01.12",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "횡령죄에서 재물의 보관은 어떤 의미인가요?",
+        "output": "횡령죄에서 재물의 보관은 재물에 대한 사실상 또는 법률상 지배력이 있는 상태를 의미하며, 그 보관이 위탁관계에 기인하여야 합니다. 이는 형법 제355조 제1항에 따른 것입니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "23"
+    }
+}

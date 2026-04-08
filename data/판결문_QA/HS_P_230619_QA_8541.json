@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "230619",
+        "caseName": "사문서위조·위조사문서행사·세무사법위반",
+        "caseNum": "2006고단3517",
+        "sentenceDate": "2007.01.04",
+        "courtName": "서울남부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "위조한 서류는 어떤 법률에 위반되었나요?",
+        "output": "위조한 서류는 형법 제231조와 제234조에 명시된 사문서위조 및 행사에 해당하여 법률에 위반된 것입니다. 피고인은 비자발급을 위한 허위 서류를 작성함으로써 형사법을 위반하고, 의뢰인에게 피해를 주는 행위를 한 것으로 인정되었습니다.",
+        "originwordCnt": "1633",
+        "labelwordCnt": "28"
+    }
+}

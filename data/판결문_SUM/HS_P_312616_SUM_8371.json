@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312616",
+        "caseName": "공무집행방해",
+        "caseNum": "2023고단4472",
+        "sentenceDate": "2024.03.21",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "B아파트에서 경찰의 정당한 직무집행을 방해한 혐의로 기소되었습니다. 경찰이 가정폭력 신고에 따라 출동했을 때, 피고인은 경찰관에게 소리를 지르며 몸을 밀쳐 현장 확인을 방해했습니다. 이에 따라 법원은 피고인에게 징역 6개월을 선고하였으나, 2년간 집행을 유예하며, 보호관찰과 80시간의 사회봉사를 명했습니다.",
+        "originwordCnt": "210",
+        "labelwordCnt": "36"
+    }
+}

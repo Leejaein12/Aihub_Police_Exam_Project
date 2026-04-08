@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제253조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공소의 제기로 시효는 정지되나요?",
+        "output": "형사소송법 제253조제1항에 따르면 시효는 공소의 제기로 진행이 정지되고 공소기각 또는 관할위반의 재판이 확정된 때로부터 진행합니다.",
+        "originwordCnt": "67",
+        "labelwordCnt": "15"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "151131",
+        "caseName": "무고",
+        "caseNum": "63도98",
+        "sentenceDate": "1963.05.09",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "무고죄의 성립에 있어서 범의는 어떤 의미를 가지나요?",
+        "output": "무고죄의 성립에 있어서는 허위사실을 신고함으로써 타인에게 형사처분이나 징계처분을 받게 할 결과 발생에 대한 인식이 있으면 충분하며, 이러한 결과 발생을 바라는 목적은 필요하지 않습니다. 이는 형법 제156조에 근거합니다.",
+        "originwordCnt": "32",
+        "labelwordCnt": "27"
+    }
+}

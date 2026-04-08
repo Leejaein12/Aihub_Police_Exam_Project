@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000912",
+        "promulgDate": "20200204",
+        "effectDate": "20200204",
+        "promulgNum": "16927",
+        "title": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군미결수용자를 수용하기 위해 국방부장관이 설치할 수 있는 시설은 무엇입니까?",
+        "output": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 제4조 제2항에 따르면, 국방부장관은 군미결수용자를 수용하기 위해 군교도소와 부대에 군미결수용실을 설치하고 운영할 수 있습니다.",
+        "originwordCnt": "50",
+        "labelwordCnt": "22"
+    }
+}

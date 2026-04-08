@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "239309",
+        "caseName": "밀항단속법위반등",
+        "caseNum": "72도2976",
+        "sentenceDate": "1973.03.13",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형사소송법 제251조에 따른 공소시효 규정이 다른 형사법에 따른 형 가중에 적용될 수 있나요?",
+        "output": "형사소송법 제251조는 형법에 의해 형을 가중하거나 감경하는 경우에 적용되는 규정으로, 형법 외의 다른 형사법에서 형을 가중하는 경우에는 적용되지 않습니다. 따라서 검사와 상고인의 상고는 모두 이유가 없으므로 기각되었습니다.",
+        "originwordCnt": "14",
+        "labelwordCnt": "27"
+    }
+}

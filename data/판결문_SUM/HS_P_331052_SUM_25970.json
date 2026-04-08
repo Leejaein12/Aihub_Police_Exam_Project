@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "331052",
+        "caseName": "미성년자의제강간",
+        "caseNum": "2023고합54",
+        "sentenceDate": "2023.06.15",
+        "courtName": "창원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "SNS를 통해 피해자를 알게된 피고인은 집과 학교를 찾아가 직접적인 만남을 갖게 되었습니다. 19세 이상의 사람으로 13세 이상 16세 미만인 미성년자를 3회에 걸쳐 간음하였습니다. 따라서 재판부는 피고인에게 징역 2년을 선고했고, 40시간의 성폭력 치료프로그램 이수와 아동․청소년 관련기관등과 장애인관련기관에 5년간 취업제한을 명령했습니다.",
+        "originwordCnt": "1361",
+        "labelwordCnt": "39"
+    }
+}

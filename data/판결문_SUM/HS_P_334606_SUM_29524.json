@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334606",
+        "caseName": "사기등",
+        "caseNum": "2022노2646",
+        "sentenceDate": "2023.08.24",
+        "courtName": "의정부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심은 피고인의 형량이 과중하다며 제기된 항소를 받아들여, 피고인이 피해자와 합의하여 처벌을 원하지 않고 초범인 점 등을 고려해 원심의 형량이 부당하다고 판단했습니다. 이로 인해 원심판결 중 피고사건 부분을 파기하고, 징역 6월에 집행유예 1년을 선고하였으며, 40시간의 사회봉사를 명하였습니다.",
+        "originwordCnt": "319",
+        "labelwordCnt": "36"
+    }
+}

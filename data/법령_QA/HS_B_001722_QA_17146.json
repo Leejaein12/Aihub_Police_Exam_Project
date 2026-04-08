@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001722",
+        "promulgDate": "20240102",
+        "effectDate": "20240102",
+        "promulgNum": "19922",
+        "title": "정당법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제27조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "입당원서 또는 탈당신고서를 전자매체 등으로 보관할 경우 원본을 어떻게 처리해야 합니까?",
+        "output": "입당원서 또는 탈당신고서를 전자매체 등으로 보관하는 경우에는 중앙선거관리위원회규칙으로 정하는 바에 따라 그 원본을 폐기할 수 있습니다. 이는 정당법 제27조의2 제2항에 근거합니다.",
+        "originwordCnt": "47",
+        "labelwordCnt": "21"
+    }
+}

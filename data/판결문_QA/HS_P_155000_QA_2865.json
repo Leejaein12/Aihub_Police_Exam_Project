@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155000",
+        "caseName": "직무유기",
+        "caseNum": "70도1790",
+        "sentenceDate": "1970.09.29",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "세관공무원이 승감임무를 도중에 포기한 경우, 직무유기죄가 성립할 수 있나요?",
+        "output": "세관감시과 소속 공무원이 정당한 사유 없이 외항선에서 밀수 감시 임무를 도중에 포기하고 집으로 돌아와 잠을 자버린 행위는 직무유기죄에 해당합니다. 이는 직무를 유기한 것으로서, 형법 제122조에 따라 처벌받을 수 있습니다.",
+        "originwordCnt": "56",
+        "labelwordCnt": "29"
+    }
+}

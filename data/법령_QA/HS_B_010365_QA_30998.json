@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010365",
+        "promulgDate": "20120201",
+        "effectDate": "20120802",
+        "promulgNum": "11275",
+        "title": "사회적기업 육성법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사회적기업 인증의 방법 및 절차에 관한 세부사항은 어디에 규정되어 있나요?",
+        "output": "사회적기업 육성법 제8조 제3항에 따르면, 사회적기업 인증의 방법 및 절차에 관하여 필요한 사항은 고용노동부령으로 정하고, 사회적기업 인증 심사기준은 고용노동부장관이 고시합니다.",
+        "originwordCnt": "162",
+        "labelwordCnt": "20"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "320493",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고정435",
+        "sentenceDate": "2023.07.12",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.142%의 상태로 약 5m 구간을 승용차로 운전한 사실이 인정되었습니다. 법원은 피고인이 대낮에 높은 수치의 음주운전을 한 점, 음주운전에 대한 사회적 지탄이 높은 점, 피고인의 전과가 13회에 이르고 폭력범죄로 집행유예를 선고받은 전력이 있는 점을 불리한 사유로 고려하여 벌금 500만 원을 선고하였습니다.",
+        "originwordCnt": "195",
+        "labelwordCnt": "41"
+    }
+}

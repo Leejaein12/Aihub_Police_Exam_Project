@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "154145",
+        "caseName": "폭행치사",
+        "caseNum": "68도371",
+        "sentenceDate": "1968.05.21",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "판결이유에 범죄사실을 명시하지 않고 공소사실을 단순히 인용한 경우, 이와 같은 판결에 문제가 있다고 할 수 있을까요?",
+        "output": "판결이유에 범죄사실을 명시하지 않고 단순히 공소사실을 인용한 판결은 군법회의법 제368조 제1항에 따른 명시 의무를 위반한 것으로서, 이는 판결의 적법성을 해치는 위법 행위에 해당한다고 할 수 있습니다.",
+        "originwordCnt": "27",
+        "labelwordCnt": "26"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335852",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단1594",
+        "sentenceDate": "2023.10.20",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알콜농도 0.08% 이상의 술에 취한 상태에서 약 1.5km 구간을 원동기장치자전거로 운전한 사실이 인정되었으며, 법원은 피고인에게 징역 8개월의 형을 선고하였습니다. 그러나 피고인이 재범 방지를 위해 오토바이를 처분하고, 동종 전력이 없거나 벌금형의 전력이 오래된 점 등을 참작하여 2년간 형의 집행을 유예하였습니다.",
+        "originwordCnt": "181",
+        "labelwordCnt": "39"
+    }
+}

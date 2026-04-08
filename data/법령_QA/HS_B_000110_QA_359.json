@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000110",
+        "promulgDate": "20230808",
+        "effectDate": "20230808",
+        "promulgNum": "19592",
+        "title": "한국관광공사법",
+        "ministry": "문화체육관광부",
+        "fullText": "N",
+        "smClass": "제13조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국관광공사의 손실금은 어떻게 처리되나요?",
+        "output": "한국관광공사의 손실금은 「한국관광공사법」 제13조 제2항에 따라 제1항 제4호에 따른 적립금으로 보전하며, 그 적립금으로도 부족할 경우 제1항 제2호에 따른 적립금으로 보전합니다. 미달액은 다음 사업연도로 이월합니다.",
+        "originwordCnt": "86",
+        "labelwordCnt": "24"
+    }
+}

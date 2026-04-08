@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314847",
+        "caseName": "재물손괴",
+        "caseNum": "2023고정177",
+        "sentenceDate": "2024.02.19",
+        "courtName": "춘천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "현수막과 천막 등의 재물을 손괴하여 복구비 약 20만 원 상당의 피해를 발생시켰습니다. 법원은 이미 특수공무집행방해치상죄 등으로 징역 3년이 확정된 점을 고려하고, 재물손괴죄가 경합범 관계에 있어 형법 제39조 제1항 후문에 따라 형을 면제하였습니다.",
+        "originwordCnt": "207",
+        "labelwordCnt": "32"
+    }
+}

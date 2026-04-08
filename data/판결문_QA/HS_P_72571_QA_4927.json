@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72571",
+        "caseName": "공문서변조피고사건",
+        "caseNum": "67노125",
+        "sentenceDate": "1969.07.24",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "지적도로 확정되기 전의 측량도면도 공도화에 해당하나요?",
+        "output": "시에서 구획정리사업을 하면서 대한지적협회에 의해 작성된 확정측량원도는 형법 제225조에 따라 시 지적계장이 확인한 후 공무소에 보관된 이상 공도화에 해당합니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "19"
+    }
+}

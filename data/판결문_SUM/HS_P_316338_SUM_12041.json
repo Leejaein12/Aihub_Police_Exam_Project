@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "316338",
+        "caseName": "상해",
+        "caseNum": "2023고정963",
+        "sentenceDate": "2024.05.30",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "철도안전법을 위반하여 철도종사자의 직무를 방해한 경우에 대한 판결이 이루어졌습니다. 운행 중이던 전철 안에서 술에 취해 소리를 지르고 욕설을 하며 역무원에게 하차 요구를 받자 폭언과 함께 밀치는 행위를 하였습니다. 이러한 행위는 철도종사자의 직무 집행을 방해하는 행위로 판단되었습니다. 법원은 범행의 중대성과 전과 기록을 고려하여 벌금형을 선고하였습니다",
+        "originwordCnt": "234",
+        "labelwordCnt": "44"
+    }
+}

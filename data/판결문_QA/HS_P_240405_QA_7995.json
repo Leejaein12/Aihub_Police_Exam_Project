@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "240405",
+        "caseName": "재물손괴",
+        "caseNum": "76도2359",
+        "sentenceDate": "1976.12.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "뽕밭을 유린하는 소의 고삐를 끊은 행위가 사회상규상 용인될 수 있는 행위인가요?",
+        "output": "뽕밭을 유린하는 소의 고삐가 나무에 얽혀 풀 수 없는 상황에서 피고인이 고삐를 낫으로 끊고 소를 밭에서 끌어낸 행위는 사회상규에 의해 용인되는 행위로 보아야 합니다. 따라서 특단의 사정이 없는 한 이와 같은 행위는 처벌할 수 없습니다.",
+        "originwordCnt": "36",
+        "labelwordCnt": "35"
+    }
+}

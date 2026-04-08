@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001118",
+        "promulgDate": "20231229",
+        "effectDate": "20231229",
+        "promulgNum": "19857",
+        "title": "형사보상 및 명예회복에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법원이 같은 순위의 다른 상속인이 있다는 사실을 알게 되었을 때 어떻게 처리하나요?",
+        "output": "형사보상 및 명예회복에 관한 법률 제11조 제3항에 따르면 법원은 같은 순위의 다른 상속인이 있다는 사실을 알게 되었을 때, 지체 없이 그 상속인에게 보상청구가 있었음을 통지해야 합니다.",
+        "originwordCnt": "70",
+        "labelwordCnt": "26"
+    }
+}

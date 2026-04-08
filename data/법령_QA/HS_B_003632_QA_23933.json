@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "003632",
+        "promulgDate": "20100315",
+        "effectDate": "20100319",
+        "promulgNum": "22075",
+        "title": "보건범죄단속에관한특별조치법시행령",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "항생물질과 그 제제중 내복제 및 주사제는 대통령령으로 정하는 특정 의약품에 포함되나요?",
+        "output": "대통령령으로 정하는 의약품에는 항생물질과 그 제제 중 내복제 및 주사제가 포함됩니다. 근거 법 조문은 보건범죄단속에관한특별조치법시행령 제3조 제1호입니다.",
+        "originwordCnt": "25",
+        "labelwordCnt": "17"
+    }
+}

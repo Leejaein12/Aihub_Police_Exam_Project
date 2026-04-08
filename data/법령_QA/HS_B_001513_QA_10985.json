@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001513",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19754",
+        "title": "식물방역법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "외국의 식물검역대상물품이 국내 지역을 경유할 때 경유물품은 언제까지 목적지에 도착해야 하나요?",
+        "output": "'식물방역법' 제21조에 따르면, 국내 지역 경유 승인을 받은 외국의 식물검역대상물품은 국내지역경유승인서를 발급받은 날부터 7일 이내에 경유 목적지인 수입항에 도착되어야 합니다.",
+        "originwordCnt": "47",
+        "labelwordCnt": "20"
+    }
+}

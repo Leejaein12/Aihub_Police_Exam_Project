@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000160",
+        "promulgDate": "20221213",
+        "effectDate": "20230114",
+        "promulgNum": "19090",
+        "title": "토양환경보전법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제18조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "토양오염과 관련된 대책계획의 시행 결과는 누구에게 보고해야 하나요?",
+        "output": "특별자치시장ㆍ특별자치도지사ㆍ시장ㆍ군수ㆍ구청장은 대책계획의 시행 결과를 환경부장관에게 보고하여야 합니다. 이는 토양환경보전법 제18조의2에 명시되어 있습니다.",
+        "originwordCnt": "13",
+        "labelwordCnt": "12"
+    }
+}

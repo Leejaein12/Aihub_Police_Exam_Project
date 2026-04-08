@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "185995",
+        "caseName": "공직선거법위반",
+        "caseNum": "2016고합36",
+        "sentenceDate": "2016.08.09",
+        "courtName": "대구지방법원김천지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "선거구민에게 선물을 제공한 행위가 공직선거법상의 기부행위에 해당하지 않는 이유는 무엇인가요?",
+        "output": "유효한 선거구가 없는 상태에서 선물 제공 행위는 공직선거법이 정한 기부행위에 해당하지 않으므로, 이 부분 공소사실은 범죄가 되지 않아 무죄를 선고하며, 이에 따라 판결의 요지를 공시하기로 결정하였습니다.",
+        "originwordCnt": "1775",
+        "labelwordCnt": "26"
+    }
+}

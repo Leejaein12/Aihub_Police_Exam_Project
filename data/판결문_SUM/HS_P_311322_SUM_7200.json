@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311322",
+        "caseName": "협박",
+        "caseNum": "2024도6033",
+        "sentenceDate": "2024.06.27",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "대법원은 원심이 협박 혐의에 대해 유죄를 인정한 판단에 법리 오해나 자유심증주의의 한계를 벗어난 잘못이 없다고 보고 상고를 기각하였습니다. 또한 형사소송법에 따라 사형, 무기징역, 10년 이상의 징역이 아닌 경우 양형부당을 이유로 상고할 수 없으므로 피고인의 상고는 적법하지 않다고 판단하였습니다.",
+        "originwordCnt": "152",
+        "labelwordCnt": "38"
+    }
+}

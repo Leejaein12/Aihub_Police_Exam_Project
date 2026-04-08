@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310080",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고단1059",
+        "sentenceDate": "2024.07.10",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.157%의 술에 취한 상태로 약 8km를 운전하였고, 이에 따라 도로교통법을 위반한 음주운전 혐의로 기소되었습니다. 법원은 피고인이 범행을 자백하였고 초범인 점, 가족을 부양하고 있는 점 등을 고려하여 벌금 700만 원을 선고하였습니다.",
+        "originwordCnt": "170",
+        "labelwordCnt": "31"
+    }
+}

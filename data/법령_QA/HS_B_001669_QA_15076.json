@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001669",
+        "promulgDate": "20170726",
+        "effectDate": "20170726",
+        "promulgNum": "14839",
+        "title": "즉결심판에 관한 절차법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "즉결심판을 청구할 때 제출해야 하는 서류는 무엇인가요?",
+        "output": "즉결심판에 관한 절차법 제3조 제2항에 따르면, 즉결심판을 청구함에는 즉결심판청구서를 제출하여야 하며, 즉결심판청구서에는 피고인의 성명 기타 피고인을 특정할 수 있는 사항, 죄명, 범죄사실과 적용법조를 기재하여야 합니다.",
+        "originwordCnt": "52",
+        "labelwordCnt": "25"
+    }
+}

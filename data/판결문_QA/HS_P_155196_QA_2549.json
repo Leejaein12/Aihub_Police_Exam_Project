@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155196",
+        "caseName": "주거침입절도",
+        "caseNum": "71도445",
+        "sentenceDate": "1971.04.20",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "군내부의 일일보고에서 군인이 탈영삭제로 처리된 경우 그 군인의 신분에는 어떤 변화가 있나요?",
+        "output": "군내부의 일일보고에서 군인이 탈영삭제로 처리되었다고 하더라도, 이는 현역군인으로서의 신분에 아무런 변동을 초래하지 않으며, 군인 신분은 여전히 유지됩니다. 이는 군형법 제1조 제1항의 규정에 따른 것입니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "24"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "153821",
+        "caseName": "군용물횡령",
+        "caseNum": "69도215",
+        "sentenceDate": "1969.03.31",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "군검찰관이 공소사실을 구술로 변경하는 것이 허용되나요?",
+        "output": "군검찰관이 공소사실을 변경할 때는 서면으로 해야 하며, 구술로 변경하는 것은 허용되지 않습니다. 군법회의법 제346조 제1항과 제289조에 따라 공소사실 또는 적용법조의 변경은 서면으로 이루어져야 합니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "24"
+    }
+}

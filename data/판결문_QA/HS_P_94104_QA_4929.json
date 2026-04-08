@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "94104",
+        "caseName": "폭력행위등처벌에관한법률위반",
+        "caseNum": "78도2586",
+        "sentenceDate": "1978.11.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "범죄를 목적으로 하는 단체'는 어떤 의미인가요?",
+        "output": "범죄를 목적으로 하는 단체'는 특정 다수인이 범죄를 실행할 공동목적을 가지고 계속적이고 조직적으로 결합된 집단을 의미합니다. 이는 폭력행위등처벌에관한법률 제4조에 따른 규정입니다.",
+        "originwordCnt": "29",
+        "labelwordCnt": "20"
+    }
+}

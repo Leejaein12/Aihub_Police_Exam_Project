@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "75314",
+        "caseName": "사문서위조등피고사건",
+        "caseNum": "81노718",
+        "sentenceDate": "1982.03.25",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "선거인명부 작성 이전에 금품을 제공한 행위가 위반죄에 해당하지 않는 이유는 무엇인가요?",
+        "output": "구 국회의원선거법 제156조 제1호에 따른 위반죄는 선거인명부에 등재된 선거인에게 금품을 제공해야 성립하므로, 선거인명부가 작성되기 전에 금품을 제공한 행위는 해당 죄에 해당하지 않습니다.",
+        "originwordCnt": "108",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001486",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "수산업법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제40조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "연안어업을 하려는 자는 어떤 허가를 받아야 하나요?",
+        "output": "「수산업법」 제40조 제2항에 따르면, 무동력어선이나 총톤수 10톤 미만의 동력어선을 사용하는 어업 중 근해어업 및 제3항에 따른 어업 외의 어업, 즉 연안어업을 하려는 자는 어선 또는 어구마다 시ㆍ도지사의 허가를 받아야 합니다.",
+        "originwordCnt": "246",
+        "labelwordCnt": "30"
+    }
+}

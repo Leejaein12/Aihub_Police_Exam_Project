@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "327951",
+        "caseName": "국민체육진흥법위반(도박개장등)등",
+        "caseNum": "2022노346",
+        "sentenceDate": "2022.09.20.",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "검사는 원심의 형이 가볍다고 항소하였으나, 항소심 법원은 제1심의 양형이 합리적 재량 범위 내에 있으며 변경할 사유가 없다고 판단하였습니다. 이에 피고인의 나이, 성행, 범행 후 정황 등을 종합 고려하여 검사의 항소를 기각하였습니다.",
+        "originwordCnt": "170",
+        "labelwordCnt": "31"
+    }
+}

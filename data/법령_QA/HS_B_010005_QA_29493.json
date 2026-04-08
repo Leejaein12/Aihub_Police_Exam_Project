@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010005",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19882",
+        "title": "산림자원의 조성 및 관리에 관한 법률",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제35조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시ㆍ도지사는 무궁화진흥계획에 따라 무엇을 수립하고 시행할 수 있나요?",
+        "output": "산림자원의 조성 및 관리에 관한 법률 제35조의3에 따르면, 시ㆍ도지사는 무궁화진흥계획에 따라 그 관할 지역을 대상으로 무궁화 보급ㆍ관리에 관한 연차별 시행계획을 수립ㆍ시행할 수 있습니다.",
+        "originwordCnt": "67",
+        "labelwordCnt": "23"
+    }
+}

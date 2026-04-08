@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001964",
+        "promulgDate": "20230613",
+        "effectDate": "20231214",
+        "promulgNum": "19444",
+        "title": "공중위생관리법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공중위생영업자는 영업소에 불법카메라를 설치할 수 있나요?",
+        "output": "'공중위생관리법' 제5조에 따르면, 공중위생영업자는 「성폭력범죄의 처벌 등에 관한 특례법」 제14조제1항에 위반되는 행위에 이용되는 카메라나 유사한 기능을 가진 기계장치를 영업소에 설치해서는 안 됩니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "156240",
+        "caseName": "업무상군용물횡령",
+        "caseNum": "69도1214",
+        "sentenceDate": "1969.09.23",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "군인 중 사병도 공무원으로 인정되는 이유는 무엇인가요?",
+        "output": "형법 제356조에 따르면, 군인 중 사병도 헌법과 병역법 등 법령에 의해 국가의 국토 방위 사무에 종사하는 자로서, 단순히 기계적·육체적 노동에만 국한되지 않는 업무를 수행하므로 공무원으로 인정됩니다. 따라서 사병의 횡령 행위에 형법상 공무원 횡령죄를 적용하는 것은 정당합니다.",
+        "originwordCnt": "38",
+        "labelwordCnt": "36"
+    }
+}

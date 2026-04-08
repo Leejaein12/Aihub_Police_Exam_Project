@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012522",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "공항시설법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공항시설에서 비행장이란 어떤 구역을 말하는가?",
+        "output": "공항시설법 제2조 제1호에 따르면 비행장이란 항공기ㆍ경량항공기ㆍ초경량비행장치의 이륙과 착륙을 위하여 사용되는 육지 또는 수면의 일정한 구역으로서 대통령령으로 정하는 것을 말합니다.",
+        "originwordCnt": "434",
+        "labelwordCnt": "19"
+    }
+}

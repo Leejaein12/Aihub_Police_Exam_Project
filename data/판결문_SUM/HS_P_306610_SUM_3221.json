@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "306610",
+        "caseName": "상해",
+        "caseNum": "2013고단1737",
+        "sentenceDate": "2013. 7. 26.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "소음 문제로 말다툼을 하던 중 피고인은 피해자 B에게 폭력을 행사하여 약 9주간의 치료가 필요한 골절상과 타박상을 입혔습니다. 또한, 피해자 C와 노래방에서 함께 술을 마신 후 귀가하던 중 언쟁을 벌이며 폭행을 가해 피해자가 약 4주간의 치료를 요하는 상해를 입었습니다. 법원은 범죄의 중대성과 과거 집행유예 전력을 감안하여 징역 10개월을 선고하였습니다.",
+        "originwordCnt": "563",
+        "labelwordCnt": "48"
+    }
+}

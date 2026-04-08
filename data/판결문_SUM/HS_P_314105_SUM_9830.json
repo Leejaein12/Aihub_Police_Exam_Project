@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314105",
+        "caseName": "마약류관리에관한법률위반(향정)",
+        "caseNum": "2023고단1944",
+        "sentenceDate": "2023.09.06",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023고단1944 사건에서, 혈중알코올농도 0.068%의 상태로 차량을 운전한 사실이 확인되었습니다. 이는 도로교통법을 위반한 행위로, 이전에도 같은 법률로 처벌받은 전력이 있습니다. 법원은 이러한 범행의 중대성을 고려하여 징역 1년에 처하면서, 판결 확정일로부터 2년간 집행을 유예하기로 결정하였습니다.",
+        "originwordCnt": "145",
+        "labelwordCnt": "33"
+    }
+}

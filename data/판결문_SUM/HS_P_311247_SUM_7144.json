@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311247",
+        "caseName": "강제추행",
+        "caseNum": "2022고단5545",
+        "sentenceDate": "2024.08.13",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "직장 동료인 피해자를 강제로 추행한 혐의로 기소된 피고인은 술자리 후 새벽, 피해자와 함께 택시를 기다리던 중 피해자를 강제로 끌어당겨 입맞춤을 하였으며, 피해자가 이를 거부하였음에도 재차 같은 행동을 하였습니다. 법원은 피고인의 범행을 유죄로 인정하여 징역 8월에 처하되, 2년간 집행을 유예하고 성폭력 치료강의 40시간 수강을 명령하였습니다.",
+        "originwordCnt": "344",
+        "labelwordCnt": "44"
+    }
+}

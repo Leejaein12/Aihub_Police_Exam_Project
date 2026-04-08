@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001616",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "교육공무원법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제22조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "교육공무원법에서 교육행정기관에 배치된 교사의 근무 조건은 어떻게 되나요?",
+        "output": "교육공무원법 제22조의2 제2항 규정에 따르면 제1항에 따라 시ㆍ도 교육행정기관에 배치되는 교사는 소속 기관의 장이 지정하는 학교에서 교육을 담당하고, 그 학교의 장의 지도ㆍ감독을 받습니다.",
+        "originwordCnt": "50",
+        "labelwordCnt": "23"
+    }
+}

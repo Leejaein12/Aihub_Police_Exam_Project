@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012268",
+        "promulgDate": "20211207",
+        "effectDate": "20220608",
+        "promulgNum": "18576",
+        "title": "부정청탁 및 금품등 수수의 금지에 관한 법률",
+        "ministry": "국민권익위원회",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직자등은 부정청탁 신고를 어디에 할 수 있습니까?",
+        "output": "공직자등은 감독기관, 감사원, 수사기관, 국민권익위원회에도 신고할 수 있습니다. 이 내용은 부정청탁 및 금품등 수수의 금지에 관한 법률 제7조 제6항에 규정되어 있습니다.",
+        "originwordCnt": "224",
+        "labelwordCnt": "21"
+    }
+}

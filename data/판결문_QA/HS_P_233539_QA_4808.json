@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "233539",
+        "caseName": "횡령",
+        "caseNum": "2020노5049",
+        "sentenceDate": "2021.01.21",
+        "courtName": "수원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "반환 거부가 횡령죄로 인정된 이유는 무엇인가요?",
+        "output": "반환 거부가 횡령죄로 인정된 이유는, 착오로 송금된 돈을 보관하면서 피해자의 반환 요구를 무시하고 임의로 상계를 주장하며 반환을 거부한 행위가, 피해자의 권리를 부당하게 배제한 것으로 판단되었기 때문입니다. 이에 따라 벌금 30만 원이 선고되었습니다.",
+        "originwordCnt": "1578",
+        "labelwordCnt": "32"
+    }
+}

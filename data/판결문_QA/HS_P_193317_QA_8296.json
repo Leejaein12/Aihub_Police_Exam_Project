@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "193317",
+        "caseName": "공중위생관리법위반",
+        "caseNum": "2016노4294",
+        "sentenceDate": "2017.01.26",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "항소가 기각된 이유는 무엇인가요?",
+        "output": "항소는 원심 판결이 유지될 사유가 있다고 판단되어 기각되었습니다. 이는 2016년 10월 12일 서울중앙지방법원의 판결을 그대로 인용한 결정입니다.",
+        "originwordCnt": "627",
+        "labelwordCnt": "17"
+    }
+}

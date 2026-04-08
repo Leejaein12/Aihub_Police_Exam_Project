@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010708",
+        "promulgDate": "20200811",
+        "effectDate": "20200912",
+        "promulgNum": "17472",
+        "title": "건강검진기본법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제17조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보건복지부장관이 검진기관의 지정취소를 하고자 하는 경우에는 어떻게 해야 하나요?",
+        "output": "건강검진기본법 제17조 규정에 따르면 보건복지부장관은 제16조에 따라 검진기관의 지정취소 및 국가건강검진업무의 정지 처분을 하고자 하는 경우에는 청문을 실시하여야 합니다.",
+        "originwordCnt": "18",
+        "labelwordCnt": "19"
+    }
+}

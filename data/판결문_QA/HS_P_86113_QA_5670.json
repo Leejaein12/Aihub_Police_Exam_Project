@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86113",
+        "caseName": "음행매개",
+        "caseNum": "4288형상37",
+        "sentenceDate": "1955.07.08",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "미성년자가 음행에 자진 동의하거나 상습이 있는 경우에도 음행매개죄가 성립하나요?",
+        "output": "형법 제242조에 따르면 미성년자가 음행에 상습이 있거나 자진 동의한 사실은 미성년자에 대한 음행매개죄의 성립에 영향을 미치지 않습니다. 따라서 미성년자의 동의나 상습 여부와 관계없이 음행매개죄가 성립합니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "25"
+    }
+}

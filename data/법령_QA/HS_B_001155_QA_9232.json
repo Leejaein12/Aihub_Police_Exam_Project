@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001155",
+        "promulgDate": "20160106",
+        "effectDate": "20160106",
+        "promulgNum": "13719",
+        "title": "군용물 등 범죄에 관한 특별조치법",
+        "ministry": "국방부,법무부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군용물 범죄에 대해 자격정지와 벌금을 병과할 수 있는 경우는 언제인가요?",
+        "output": "군용물 등 범죄에 관한 특별조치법 제3조 제3항의 규정에 따르면 제1항 및 제2항의 죄에 대하여는 10년 이하의 자격정지와 3천만원 이하의 벌금을 병과할 수 있습니다.",
+        "originwordCnt": "186",
+        "labelwordCnt": "23"
+    }
+}

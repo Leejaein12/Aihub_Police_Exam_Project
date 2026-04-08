@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311574",
+        "caseName": "폭행",
+        "caseNum": "2023고정456",
+        "sentenceDate": "2024.01.17",
+        "courtName": "부산지방법원 동부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "가정폭력 문제로 조카를 데리고 가려다 피해자가 이를 가로막자, 피해자의 멱살을 잡고 미는 등 폭행을 하였습니다. 법원은 피고인의 행위가 정당방위나 정당행위에 해당하지 않으나, 피해자의 과격한 행동에 대응해 조카를 보호하려 한 점 등을 고려해 형의 선고를 유예하였습니다.",
+        "originwordCnt": "326",
+        "labelwordCnt": "35"
+    }
+}

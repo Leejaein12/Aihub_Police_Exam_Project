@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001740",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19772",
+        "title": "선원법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제81조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "해양수산부장관은 직무상 사고 예방을 위해 어떤 통계를 유지해야 하나요?",
+        "output": "선원법 제81조 제2항에 따르면 해양수산부장관은 직무상 사고 등을 예방하기 위하여 제1항에 따라 조사한 직무상 사고 등에 관한 통계를 유지·관리하여야 하고, 그 통계를 분석하여 자료집을 발간할 수 있습니다.",
+        "originwordCnt": "61",
+        "labelwordCnt": "27"
+    }
+}

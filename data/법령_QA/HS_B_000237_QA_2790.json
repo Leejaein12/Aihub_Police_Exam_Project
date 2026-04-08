@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000237",
+        "promulgDate": "20210316",
+        "effectDate": "20210917",
+        "promulgNum": "17946",
+        "title": "시설물의 안전 및 유지관리에 관한 특별법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시설물의 관리주체는 시설물의 안전을 위해 어떤 조치를 해야 하나요?",
+        "output": "「시설물의 안전 및 유지관리에 관한 특별법」 제3조 제2항에 따르면, 관리주체는 시설물의 안전을 확보하고 지속적인 이용을 도모하기 위해 필요한 조치를 해야 합니다.",
+        "originwordCnt": "51",
+        "labelwordCnt": "21"
+    }
+}

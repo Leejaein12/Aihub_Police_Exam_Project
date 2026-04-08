@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010107",
+        "promulgDate": "20240206",
+        "effectDate": "20240507",
+        "promulgNum": "20190",
+        "title": "방위사업법",
+        "ministry": "국방부,방위사업청,산업통상자원부",
+        "fullText": "N",
+        "smClass": "제29조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "방위사업법에 따라 방산업체 또는 전문연구기관은 방산물자의 품질경영에 필요한 조치를 어떻게 해야 하나요?",
+        "output": "방위사업법 제29조 제2항에 따르면, 방산업체 또는 전문연구기관은 방산물자의 품질경영에 필요한 조치를 제1항의 규정에 따른 기준에 따라 시행하여야 합니다.",
+        "originwordCnt": "95",
+        "labelwordCnt": "18"
+    }
+}

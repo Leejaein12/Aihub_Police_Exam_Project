@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000165",
+        "promulgDate": "20240130",
+        "effectDate": "20240130",
+        "promulgNum": "20172",
+        "title": "먹는물관리법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "염지하수의 개발허가는 어떤 지역에서만 허용됩니까?",
+        "output": "먹는물관리법 제11조 제3항에 따르면, 염지하수의 개발허가는 대통령령으로 정하는 바에 따라 환경적으로 안전하게 염지하수를 개발할 수 있다고 인정된 관리구역으로 지정ㆍ고시된 지역에서만 허용됩니다.",
+        "originwordCnt": "79",
+        "labelwordCnt": "21"
+    }
+}

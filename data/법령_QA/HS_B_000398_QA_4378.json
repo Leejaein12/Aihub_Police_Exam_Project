@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000398",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19117",
+        "title": "사방사업법",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제28조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "제13조를 위반한 자는 어떤 처벌을 받나요?",
+        "output": "제13조를 위반한 자는 1년 이하의 징역 또는 1천만 원 이하의 벌금에 처합니다. 이는 사방사업을 시행하거나 사방시설을 관리하는 것을 거부하거나 방해한 경우에 대한 처벌을 명시한 것입니다. 이 내용은 '사방사업법' 제28조에서 규정하고 있습니다.",
+        "originwordCnt": "14",
+        "labelwordCnt": "31"
+    }
+}

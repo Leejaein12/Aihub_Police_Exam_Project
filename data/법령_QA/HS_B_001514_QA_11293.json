@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001514",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19746",
+        "title": "농약관리법",
+        "ministry": "농림축산식품부,농촌진흥청",
+        "fullText": "N",
+        "smClass": "제34조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "농약관리법에 따라 300만 원 이하의 벌금에 처해질 수 있는 경우는 무엇인가요?",
+        "output": "농약관리법 제34조에 따르면 제조업자ㆍ수입업자 또는 판매업자가 제23조제1항을 위반하여 농약등을 취급한 경우에는 300만 원 이하의 벌금에 처해질 수 있습니다.",
+        "originwordCnt": "13",
+        "labelwordCnt": "18"
+    }
+}

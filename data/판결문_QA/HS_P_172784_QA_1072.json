@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "172784",
+        "caseName": "사기",
+        "caseNum": "2013노489",
+        "sentenceDate": "2013.06.13",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 보험계약을 체결한 것에 대해 법원이 어떻게 판단하였나요?",
+        "output": "법원은 피고인이 신한생명, 교보생명, 흥국생명과 공소외 1 명의로 보험계약을 체결한 사실을 인정하였으며, 피고인의 사실오인 주장은 이유가 없다고 판단했습니다. 이는 피고인이 공소외 1 명의로 보험계약을 체결한 증거가 충분하다는 법원의 판단에 기초한 것입니다.",
+        "originwordCnt": "1656",
+        "labelwordCnt": "31"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "323649",
+        "caseName": "사기등",
+        "caseNum": "2022노1780",
+        "sentenceDate": "2023.09.19",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "보이스피싱 범죄에 가담하였고, 음주운전으로 전과가 있으나 원심에서 피해자와 합의하였습니다. 피해자들은 처벌을 원하지 않는다는 의사를 밝혔으며, 피고인은 범행에 대한 반성의 모습을 보였습니다. 원심은 이러한 양형조건을 고려하여 형을 정한 것으로 보이며, 그 형량이 과도하다고 볼 수 없습니다. 검사의 항소는 이유가 없어 기각되었습니다.",
+        "originwordCnt": "247",
+        "labelwordCnt": "40"
+    }
+}

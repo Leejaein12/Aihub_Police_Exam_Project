@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009595",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19763",
+        "title": "공공주택 특별법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제32조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "토지상환채권의 발행 절차 및 방법은 어떤 법률에서 정하는 바에 따르나요?",
+        "output": "공공주택 특별법 제32조의4 제3항 규정에 따르면 토지상환채권의 발행 절차ㆍ방법 및 조건 등은 국채법, 지방재정법, 한국토지주택공사법, 그 밖의 법률에서 정하는 바에 따릅니다.",
+        "originwordCnt": "59",
+        "labelwordCnt": "21"
+    }
+}

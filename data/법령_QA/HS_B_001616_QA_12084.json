@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001616",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "교육공무원법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제11조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "교육공무원법에서 대학의 교원을 신규채용할 때, 어떤 기준이 있나요?",
+        "output": "교육공무원법 제11조의3 제1항 규정에 따르면 대학의 교원을 신규채용할 때에는 특정 대학에서 학사학위를 취득한 사람이 편중되지 아니하도록 하여야 하며, 그 구체적인 채용 비율 등은 대통령령으로 정합니다.",
+        "originwordCnt": "54",
+        "labelwordCnt": "25"
+    }
+}

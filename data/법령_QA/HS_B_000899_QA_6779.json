@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000899",
+        "promulgDate": "20230609",
+        "effectDate": "20230710",
+        "promulgNum": "19430",
+        "title": "고등교육법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제37조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "산업대학의 설립목적은 무엇인가요?",
+        "output": "고등교육법 제37조에 의하면 산업대학은 산업사회에서 필요한 학술 또는 전문적인 지식이나 기술의 연구와 연마를 위한 교육을 계속하여 받으려는 사람에게 고등교육의 기회를 제공하여 국가와 사회의 발전에 이바지할 산업인력을 양성함을 목적으로 합니다.",
+        "originwordCnt": "29",
+        "labelwordCnt": "29"
+    }
+}

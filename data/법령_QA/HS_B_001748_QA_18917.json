@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001748",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "화물자동차 운수사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "운송사업자는 적재된 화물에 대해 어떤 조치를 해야 하나요?",
+        "output": "화물자동차 운수사업법 제11조 제20항에 따르면 운송사업자는 적재된 화물이 떨어지지 않도록  국토교통부령으로 정하는 기준 및 방법에 따라 덮개, 포장, 고정장치 등 필요한 조치를 해야 합니다.",
+        "originwordCnt": "532",
+        "labelwordCnt": "25"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328259",
+        "caseName": "스토킹범죄의처벌등에관한법률위반",
+        "caseNum": "2023고정641",
+        "sentenceDate": "2023.09.13.",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "이별 통보 후 총 22회에 걸쳐 문자메시지를 전송하고 접근하는 등 스토킹행위를 하였습니다. 이러한 행동으로 인해 불안감과 공포심을 느꼈습니다. 이에 따라 스토킹범죄의 처벌 등에 관한 법률 제18조 제1항에 근거해 벌금 500만 원, 노역장 유치 및 40시간의 스토킹 치료프로그램 이수를 명령받았습니다.",
+        "originwordCnt": "667",
+        "labelwordCnt": "39"
+    }
+}

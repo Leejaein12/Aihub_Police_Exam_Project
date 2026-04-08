@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314752",
+        "caseName": "교통사고처리특례법위반(치사)",
+        "caseNum": "2023노287",
+        "sentenceDate": "2023.11.30",
+        "courtName": "창원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "야간 운전 중 전방의 보행자를 발견하지 못하고 충격해 사망에 이르게 한 교통사고로 금고 8개월을 선고받았습니다. 항소심에서 공탁금을 추가로 납부하고 사고를 인정하는 점을 고려해 원심을 파기하고 금고 6개월을 선고했습니다. 교통사고처리 특례법 제3조 제1항 및 형법 제268조에 따라 금고 6개월을 판결하였습니다.",
+        "originwordCnt": "277",
+        "labelwordCnt": "39"
+    }
+}

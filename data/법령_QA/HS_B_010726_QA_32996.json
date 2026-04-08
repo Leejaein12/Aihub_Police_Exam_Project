@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010726",
+        "promulgDate": "20210615",
+        "effectDate": "20220616",
+        "promulgNum": "18284",
+        "title": "지진ㆍ화산재해대책법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제16조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "지진안전 시설물의 인증을 받은 시설물에 대해서는 어떤 표시를 할 수 있습니까?",
+        "output": "지진안전 시설물의 인증을 받은 시설물에 대해서는 대통령령으로 정하는 바에 따라 인증의 표시를 할 수 있습니다. 이는 지진ㆍ화산재해대책법 제16조의3 제3항에 명시되어 있습니다.",
+        "originwordCnt": "156",
+        "labelwordCnt": "21"
+    }
+}

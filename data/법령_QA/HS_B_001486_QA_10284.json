@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001486",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "수산업법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제41조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "같은 순위자 간의 우선순위는 어떻게 정해지나요?",
+        "output": "「수산업법」 제41조 제4항에 따르면, 같은 순위자 간의 우선순위는 신청자의 어업경영능력, 수산업 발전에 대한 기여 정도, 수산 관계 법령의 준수 여부 및 지역적 여건 등을 고려하여 행정관청이 정합니다.",
+        "originwordCnt": "202",
+        "labelwordCnt": "27"
+    }
+}

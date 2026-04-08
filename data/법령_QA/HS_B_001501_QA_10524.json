@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001501",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19753",
+        "title": "수의사법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "수의사 국가시험에 응시할 수 있는 사람은 어떤 자격을 가져야 합니까?",
+        "output": "수의사법 제9조 제1항에 따라, 수의사 국가시험에 응시할 수 있는 사람은 제5조 각 호의 어느 하나에 해당되지 아니하는 사람으로서 법에 정한 자격을 갖춘 사람이어야 합니다.",
+        "originwordCnt": "85",
+        "labelwordCnt": "24"
+    }
+}

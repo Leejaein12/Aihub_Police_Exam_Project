@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "306520",
+        "caseName": "공갈",
+        "caseNum": "2012고단3119",
+        "sentenceDate": "2013. 7. 18.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A는 청소년인 피해자 C와 성매매 후 이를 이용해 협박하여 3,525만 원을 갈취하고, 위조된 진단서를 행사하여 범행을 저질렀습니다. 피고인 B는 A와 공모하여 성매매를 하였으며, A를 성매매 장소로 데려다 준 대가로 금전을 수수하였습니다. 법원은 피고인 A에게 징역 10개월, 피고인 B에게 징역 4개월을 선고하였고, 피고인 B는 2년간의 집행유예와 함께 보호관찰 및 80시간의 사회봉사를 명령받았습니다.",
+        "originwordCnt": "951",
+        "labelwordCnt": "51"
+    }
+}

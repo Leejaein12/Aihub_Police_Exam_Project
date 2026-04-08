@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제188조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소속 관공서 또는 감독 관공서의 장은 어떤 경우를 제외하고는 승낙을 거부할 수 없나요?",
+        "output": "국가의 중대한 이익을 해치는 경우를 제외하고는 승낙을 거부하지 못합니다. 이는 증언의 필요성을 고려한 조치입니다. 군사법원법 제188조 제2항에 규정하고 있습니다.",
+        "originwordCnt": "55",
+        "labelwordCnt": "19"
+    }
+}

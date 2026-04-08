@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336604",
+        "caseName": "근로기준법위반",
+        "caseNum": "2024고정31",
+        "sentenceDate": "2024.05.30",
+        "courtName": "서울서부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "영화 제작업을 경영하는 사용자인 피고인은 근로자들에게 퇴직 후 14일 이내에 임금을 지급하지 않아 근로기준법을 위반한 혐의로 기소되었습니다. 근로기준법에 따르면, 피해자의 명시적인 의사에 반하여 공소를 제기할 수 없으며, 본 사건에서 근로자들은 공소제기 후 피고인에 대한 처벌을 원하지 않는다는 의사를 표시하여 법원은 공소를 기각하였습니다.",
+        "originwordCnt": "260",
+        "labelwordCnt": "42"
+    }
+}

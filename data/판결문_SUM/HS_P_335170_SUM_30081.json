@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335170",
+        "caseName": "사기등",
+        "caseNum": "2023고단2171",
+        "sentenceDate": "2024.01.15",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "병역법 위반 혐의로 기소된 A는 사회복무요원 군사교육 소집대상자로서군사교육 소집통지서를 전달받았으나, 소집일로부터 3일이 경과하도록 정당한 사유 없이 소집에 응하지 않았습니다. 재판부는 A가 향후 소집절차에 응할 것을 다짐하고 있으며, 벌금형 이상의 처벌 전력이 없는 점을 고려하여 징역 6월을 선고하였으며, 형의 집행은 2년간 유예하기로 판결하였습니다.",
+        "originwordCnt": "132",
+        "labelwordCnt": "42"
+    }
+}

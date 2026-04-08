@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "309241",
+        "caseName": "절도, 동물보호법위반",
+        "caseNum": "2015고정351",
+        "sentenceDate": "2015. 5. 28.",
+        "courtName": "제주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "병원 원무과 직원의 귀가 요구에 불만을 품고 욕설을 하며 수납실 앞에 누워 소란을 피워 병원 직원들과 응급실 출입자들의 업무를 방해한 사실이 인정되었습니다. 법원은 형법 제314조 제1항에 따라 업무방해죄를 적용하여 벌금 1,000,000원을 선고하였습니다.",
+        "originwordCnt": "212",
+        "labelwordCnt": "32"
+    }
+}

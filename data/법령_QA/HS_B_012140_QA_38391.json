@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012140",
+        "promulgDate": "20240125",
+        "effectDate": "20240131",
+        "promulgNum": "03126",
+        "title": "아동보호심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제53조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "아동학대 행위자의 몰수결정의 집행, 몰수물의 처분 및 교부는 어떤 규정에 준하여 행하나요?",
+        "output": "아동보호심판규칙 제53조에 따르면 몰수결정의 집행, 몰수물의 처분 및 교부에 관하여는 판사가 형사소송법 중 몰수재판의 집행, 몰수물의 처분 및 교부에 관한 규정에 준하여 행합니다.",
+        "originwordCnt": "23",
+        "labelwordCnt": "23"
+    }
+}

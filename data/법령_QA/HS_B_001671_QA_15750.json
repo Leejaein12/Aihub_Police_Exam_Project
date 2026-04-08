@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제266조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법원이 검사에게 공소제기된 사건에 관한 서류의 제시를 요구할 수 있나요?",
+        "output": "형사소송법 제266조의4제4항에 따르면 법원은 필요하다고 인정하는 때에는 검사에게 해당 서류등의 제시를 요구할 수 있고, 피고인이나 그 밖의 이해관계인을 심문할 수 있습니다.",
+        "originwordCnt": "134",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "98701",
+        "caseName": "형의집행유예취소청구기각결정에대한재항고",
+        "caseNum": "83모58",
+        "sentenceDate": "1984.01.18",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "집행유예 취소 청구는 전과가 언제 발각된 경우에 가능한가요?",
+        "output": "집행유예의 취소 청구는 집행유예 선고의 판결이 확정된 후에 형법 제62조 단행의 사유가 발각된 경우에만 가능합니다. 따라서 판결이 확정되기 전에 전과가 발각된 경우에는 형법 제64조와 형사소송법 제335조에 따라 집행유예의 취소 청구를 할 수 없습니다.",
+        "originwordCnt": "44",
+        "labelwordCnt": "33"
+    }
+}

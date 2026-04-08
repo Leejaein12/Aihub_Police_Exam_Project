@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337687",
+        "caseName": "준강제추행",
+        "caseNum": "2023고단1418",
+        "sentenceDate": "2024.02.23",
+        "courtName": "청주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "피해자가 항거불능 상태에 있는 상황을 이용하여 피고인은 강제추행을 저질렀습니다. 이에 대해 법원은 피고인이 자신의 범행을 인정하고 피해자와 합의하여 처벌을 원치 않는다는 점, 초범이라는 점 등을 고려하여 징역 6월에 2년간 위 형의 집행을 유예하였습니다.",
+        "originwordCnt": "439",
+        "labelwordCnt": "33"
+    }
+}

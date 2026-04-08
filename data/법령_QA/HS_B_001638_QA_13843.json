@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001638",
+        "promulgDate": "20230418",
+        "effectDate": "20240101",
+        "promulgNum": "19357",
+        "title": "도로교통법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제39조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "운전 중 실은 화물이 떨어지지 않도록 운전자는 어떤 조치를 해야 하나요?",
+        "output": "도로교통법 제39조 제4항에 따르면 모든 차의 운전자는 운전 중 실은 화물이 떨어지지 아니하도록 덮개를 씌우거나 묶는 등 확실하게 고정될 수 있도록 필요한 조치를 하여야 합니다.",
+        "originwordCnt": "164",
+        "labelwordCnt": "25"
+    }
+}

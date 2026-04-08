@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011384",
+        "promulgDate": "20220610",
+        "effectDate": "20221211",
+        "promulgNum": "18907",
+        "title": "석면안전관리법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제30조의5",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "석면해체작업감리인의 평가 기준과 결과 공개 방법은 어떻게 정해지나요?",
+        "output": "석면안전관리법 제30조의5 제1항에 따른 평가의 기준, 방법 및 결과의 공개 방법 등에 필요한 사항은 환경부령으로 정합니다. 이는 석면안전관리법 제30조의5 제3항에 근거합니다.",
+        "originwordCnt": "51",
+        "labelwordCnt": "21"
+    }
+}

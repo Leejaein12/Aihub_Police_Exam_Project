@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001662",
+        "promulgDate": "20201020",
+        "effectDate": "20210421",
+        "promulgNum": "17505",
+        "title": "소년법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제58조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소년법에 근거하여 소년의 형사사건 심리에서 특별히 유의해야 할 사항은 무엇인가요?",
+        "output": "소년법 제58조 제2항에 따르면, 소년의 형사사건 심리에서는 소년의 심신상태, 품행, 경력, 가정상황, 그 밖의 환경 등에 대하여 정확한 사실을 밝힐 수 있도록 특별히 유의해야 합니다.",
+        "originwordCnt": "32",
+        "labelwordCnt": "25"
+    }
+}

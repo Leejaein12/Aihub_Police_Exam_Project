@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86608",
+        "caseName": "상해",
+        "caseNum": "4292형상860",
+        "sentenceDate": "1960.02.17",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "상호 폭행이 일어나는 상황에서 정당방위가 인정될 수 있나요?",
+        "output": "상호 폭행을 가하는 쟁투행위는 공격과 방어가 반복되는 연속적인 행위로서, 이러한 경우에는 형법 제21조 제1항에 따른 정당방위가 인정될 수 없습니다.",
+        "originwordCnt": "13",
+        "labelwordCnt": "19"
+    }
+}

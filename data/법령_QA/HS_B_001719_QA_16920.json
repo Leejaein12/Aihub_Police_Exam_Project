@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001719",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "국가공무원법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제19조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소속 장관은 기관의 인사업무의 전문성 확보를 위해 어떻게 운영해야 합니까?",
+        "output": "국가공무원법 제19조의4 제1항 소속 장관은 각 기관의 직무 및 인력 특성을 반영한 전략적 인사운영을 위하여 인사업무 담당 조직의 전문성이 확보될 수 있는 방안을 마련하여야 합니다.",
+        "originwordCnt": "53",
+        "labelwordCnt": "25"
+    }
+}

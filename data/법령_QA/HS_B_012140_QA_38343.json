@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012140",
+        "promulgDate": "20240125",
+        "effectDate": "20240131",
+        "promulgNum": "03126",
+        "title": "아동보호심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제30조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "판사는 피해아동의 수탁기관의 장에게 어떤 서류를 제출하게 할 수 있나요?",
+        "output": "판사는 필요한 경우에 수탁기관의 장으로 하여금 위탁에 소요되는 비용의 예상액과 그 산출근거를 기재한 예상비용산정서를 아동보호심판규칙 제30조 제1항에 따라 제출하게 할 수 있습니다.",
+        "originwordCnt": "82",
+        "labelwordCnt": "22"
+    }
+}

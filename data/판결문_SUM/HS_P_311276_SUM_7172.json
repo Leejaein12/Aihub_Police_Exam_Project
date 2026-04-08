@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311276",
+        "caseName": "교통사고처리특례법위반(치상)등",
+        "caseNum": "2024노1732",
+        "sentenceDate": "2024.08.14",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "무면허 운전으로 교통사고를 일으켜 피해자를 다치게 한 사건으로, 피고인은 과거에도 무면허 및 음주 운전으로 실형을 선고받은 전력이 있어 비난 가능성이 큽니다. 그러나 범행을 인정하고 반성하며, 피해자가 경미한 상해를 입고 합의한 점은 유리한 정상으로 참작되었습니다. 항소심에서는 피고인과 검사의 항소를 모두 기각하였습니다.",
+        "originwordCnt": "251",
+        "labelwordCnt": "40"
+    }
+}

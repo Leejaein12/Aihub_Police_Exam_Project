@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318205",
+        "caseName": "업무방해등",
+        "caseNum": "2022노4631",
+        "sentenceDate": "2024.03.29",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "항소는 양형이 부당하다는 주장에 근거하고 있으나, 원심에서 피고인의 전과 및 범행의 경중을 충분히 고려하여 형을 결정한 바, 항소심에서도 특별한 사정변경이 없음을 확인하였습니다. 원심의 판결은 피고인의 범행 및 여러 정상들을 종합적으로 고려하여 이루어진 적정한 판단으로 보입니다. 따라서 피고인의 항소는 이유가 없어 기각됩니다.",
+        "originwordCnt": "267",
+        "labelwordCnt": "41"
+    }
+}

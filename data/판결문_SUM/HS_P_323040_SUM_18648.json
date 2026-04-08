@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "323040",
+        "caseName": "공직선거법위반",
+        "caseNum": "2022고합124",
+        "sentenceDate": "2023.05.04",
+        "courtName": "광주지방법원 목포지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "선거 후보자가 허위사실을 공표하여 선거인의 판단에 영향을 미친 경우로, 두 피고인이 공모하여 명함과 문자메시지를 통해 허위의 사실을 유포한 내용입니다. 법원은 피고인 A에게 벌금 90만 원, 피고인 B에게 벌금 70만 원을 선고하고, 허위 사실의 공표는 선거의 공정성을 해칠 수 있어 심각한 범죄로 판단되었습니다.",
+        "originwordCnt": "2628",
+        "labelwordCnt": "42"
+    }
+}

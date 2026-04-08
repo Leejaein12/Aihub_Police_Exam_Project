@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315371",
+        "caseName": "상해등",
+        "caseNum": "2023고정284",
+        "sentenceDate": "2023.10.27",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 4월, 피고인이 피해자에게 공개적으로 모욕적인 발언을 하여 명예를 훼손하고, 같은 날 피해자의 멱살을 잡아 상해를 입힌 행위가 인정되었습니다. 법원은 피고인이 자신의 잘못을 인정하고, 상해의 정도가 심하지 않으며 초범인 점 등을 고려해 벌금 150만 원을 선고하면서도 1년간 집행을 유예했습니다.",
+        "originwordCnt": "249",
+        "labelwordCnt": "39"
+    }
+}

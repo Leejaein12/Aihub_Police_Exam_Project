@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337056",
+        "caseName": "협박",
+        "caseNum": "2023고단624",
+        "sentenceDate": "2023.07.07",
+        "courtName": "수원지방법원 안양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "SNS를 통해 폭언과 함께 위해를 가할 것처럼 협박하는 메시지를 4차례에 걸쳐 전송하여 협박죄를 저질렀습니다. 법원은 형법 제283조 제1항을 적용하여 징역 6개월을 선고하였습니다. 누범기간 중 범행을 저질렀고, 협박의 내용과 횟수 등을 고려할 때 죄질이 좋지 않으나, 죄를 반성하고 있는 점과 다른 형사사건과의 형평성을 고려하여 양형이 결정되었습니다.",
+        "originwordCnt": "409",
+        "labelwordCnt": "45"
+    }
+}

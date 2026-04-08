@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "144638",
+        "caseName": "업무방해",
+        "caseNum": "2004고단482",
+        "sentenceDate": "2004.12.23",
+        "courtName": "수원지방법원여주지원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "경쟁업체의 시험을 방해한 이유로 중형이 선고된 이유는 무엇인가요?",
+        "output": "경쟁업체를 사업에서 탈락시키기 위해 방해전파를 발사하여 경쟁업체의 시험을 방해하였고, 이러한 행위는 형법에서 처벌을 예정한 업무방해죄 중에서도 가장 죄질이 나쁜 범행으로 평가되었습니다. 따라서 피고인들에게 각 징역 2년의 형이 선고되었습니다.",
+        "originwordCnt": "2289",
+        "labelwordCnt": "28"
+    }
+}

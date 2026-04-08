@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "92630",
+        "caseName": "미성년자에대한간음",
+        "caseNum": "75도855",
+        "sentenceDate": "1975.05.13",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형법 제305조에 규정된 미성년자에 대한 강간죄는 어떤 요건으로 성립되나요?",
+        "output": "형법 제305조에 따른 미성년자에 대한 강간죄는 피해자가 13세 미만의 부녀라는 사실을 알고 간음이 이루어진 경우에 성립하며, 이때 간음 시 폭행이나 협박을 하거나 피해자의 의사에 반해야 하는 요건은 요구되지 않습니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "29"
+    }
+}

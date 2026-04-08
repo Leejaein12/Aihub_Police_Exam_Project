@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312847",
+        "caseName": "특수절도",
+        "caseNum": "2023고단739",
+        "sentenceDate": "2023.12.12",
+        "courtName": "대전지방법원 서산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "지하주차장에서 피해자 E의 고가 자전거와 자전거 거치대를 절취하기로 공모하였고, 피고인 A가 그라인더로 시정장치를 절단하고 피고인 C가 자전거를 운반하는 방식으로 절도를 실행하였습니다. 이에 법원은 피고인들이 공모하여 피해자의 재물을 절취한 사실을 인정하고, 각각 징역 6월을 선고하였으나, 형의 집행을 유예하며 피고인 A에게 사회봉사를 명령하였습니다.",
+        "originwordCnt": "333",
+        "labelwordCnt": "41"
+    }
+}

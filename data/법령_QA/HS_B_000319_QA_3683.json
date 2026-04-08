@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000319",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "소금산업 진흥법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제21조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "염전원부의 기록이 전산정보처리조직으로 처리된 경우, 해당 파일은 어떻게 취급되나요?",
+        "output": "소금산업 진흥법 제21조 제3항에 따르면, 염전원부에 기록할 사항을 전산정보처리조직으로 처리하는 경우 그 염전원부 파일은 제1항에 따른 염전원부로 간주됩니다.",
+        "originwordCnt": "195",
+        "labelwordCnt": "18"
+    }
+}

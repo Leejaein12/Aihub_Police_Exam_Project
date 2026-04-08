@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319211",
+        "caseName": "절도등",
+        "caseNum": "2024고단376",
+        "sentenceDate": "2024.05.29",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "7차례에 걸쳐 매장에서 총 1,365,000원 상당의 물품을 절취하고, 이를 장물임에도 불구하고 하자가 있는 물건인 것처럼 속여 환불을 요구하는 방법으로 기망하여 사기죄를 범하였습니다. 법원은 형법 제329조와 형법 제347조 제1항에 따라 징역 1년을 선고하였으나, 형법 제62조 제1항에 따라 3년간 집행을 유예하고, 보호관찰을 명하였습니다.",
+        "originwordCnt": "525",
+        "labelwordCnt": "41"
+    }
+}

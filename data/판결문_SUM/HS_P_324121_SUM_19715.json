@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "324121",
+        "caseName": "사기등",
+        "caseNum": "2023노2171",
+        "sentenceDate": "2024.03.06",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "항소심 법원은 사기 및 관련 범죄로 기소된 사건에서 각 범죄가 경합범 관계에 있어 하나의 형으로 선고되어야 한다는 이유로 원심판결을 파기하였습니다. 피고인은 피해자의 정보를 악용해 사기 행각을 벌였고, 피해 복구가 거의 이루어지지 않았습니다. 특히 과거 복역 후 가석방 중 재범한 점을 고려해 엄중한 처벌이 필요하다고 판단하여 징역 2년 6월을 선고하였습니다.",
+        "originwordCnt": "357",
+        "labelwordCnt": "49"
+    }
+}

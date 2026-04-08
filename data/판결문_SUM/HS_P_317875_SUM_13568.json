@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317875",
+        "caseName": "도로교통법위반(음주측정거부)",
+        "caseNum": "2023고단1008",
+        "sentenceDate": "2024.01.30",
+        "courtName": "춘천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "현역입영 통지서를 전자송달받았음에도 불구하고 정당한 사유 없이 입영하지 않았습니다. 병역법 제88조 제1항 본문 제1호에 따라 처벌 대상으로 판단되었습니다. 법원은 피고인이 자신의 범행을 인정하고 우울증 치료 의지를 보인 점, 범죄 전력이 없는 점 등을 고려하여 징역 6월을 선고하되, 1년간 집행을 유예하였습니다.",
+        "originwordCnt": "203",
+        "labelwordCnt": "40"
+    }
+}

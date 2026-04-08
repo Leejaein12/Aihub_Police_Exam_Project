@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001486",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "수산업법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제51조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "어획물운반업의 등록이 취소된 자는 재등록이 가능한가요?",
+        "output": "「수산업법」 제51조 제3항에 따르면, 시장, 군수, 구청장은 제52조 제1항에 따라 어획물운반업의 등록이 취소된 자와 해당 어선에 대해, 등록을 취소한 날부터 1년의 범위에서 어획물운반업의 재등록을 할 수 없습니다.",
+        "originwordCnt": "124",
+        "labelwordCnt": "27"
+    }
+}

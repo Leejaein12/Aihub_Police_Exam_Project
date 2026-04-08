@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013050",
+        "promulgDate": "20221115",
+        "effectDate": "20230516",
+        "promulgNum": "19027",
+        "title": "소방장비관리법",
+        "ministry": "소방청",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시ㆍ도지사는 전년도 시ㆍ도 시행계획의 추진 실적과 해당 연도 시ㆍ도 시행계획을 누구에게 제출해야 하나요?",
+        "output": "시ㆍ도지사는 전년도 시ㆍ도 시행계획의 추진 실적과 해당 연도 시ㆍ도 시행계획을 소방청장에게 제출하여야 합니다. 이는 소방장비관리법 제5조 제4항에 근거합니다.",
+        "originwordCnt": "116",
+        "labelwordCnt": "18"
+    }
+}

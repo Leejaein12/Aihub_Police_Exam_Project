@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005988",
+        "promulgDate": "20211231",
+        "effectDate": "20220101",
+        "promulgNum": "03016",
+        "title": "형사소송규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제84조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "재판장은 어떤 경우에 신뢰관계에 있는 사람의 동석을 중지시킬 수 있습니까?",
+        "output": "형사소송규칙 제84조의3제3항에 따르면 재판장은 형사소송법 제163조의2제1항 또는 제2항에 따라 동석한 자가 부당하게 재판의 진행을 방해하는 때에는 동석을 중지시킬 수 있습니다.",
+        "originwordCnt": "74",
+        "labelwordCnt": "20"
+    }
+}

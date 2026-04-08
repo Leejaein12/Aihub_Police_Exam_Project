@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319224",
+        "caseName": "전자금융거래법위반",
+        "caseNum": "2021고단889",
+        "sentenceDate": "2023.08.10",
+        "courtName": "서울북부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "성명불상자로부터 대출을 해주겠다는 제의를 받고 체크카드를 전달하였습니다. 피고인의 행위는 전자금융거래법 제49조 제4항 제2호와 제6조 제3항 제2호에 따라 금지된 접근매체 대여 행위에 해당하며, 법정에서는 이를 인정하였습니다. 법원은 피고인이 범죄전력이 없는 점 등을 고려하여 벌금 200만 원을 선고하였습니다.",
+        "originwordCnt": "199",
+        "labelwordCnt": "36"
+    }
+}

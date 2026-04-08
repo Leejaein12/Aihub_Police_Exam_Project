@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334025",
+        "caseName": "강제추행",
+        "caseNum": "2023고정1035",
+        "sentenceDate": "2024.08.09",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2023년 1월, 한 업주가 회식 후 이동 중 아르바이트생의 어깨를 만지고 끌어당기는 행위가 있었습니다. 이에 대해 혐의를 부인했지만, 법원은 진술과 증거를 바탕으로 사실을 인정하여 형법 제298조를 적용해 벌금형을 선고하였습니다. 또한, 성폭력 치료프로그램 이수, 취업제한을 명령했고, 신상정보 공개는 면제되었습니다.",
+        "originwordCnt": "311",
+        "labelwordCnt": "38"
+    }
+}

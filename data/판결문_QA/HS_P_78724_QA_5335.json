@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78724",
+        "caseName": "병역법위반",
+        "caseNum": "2007노2254",
+        "sentenceDate": "2007.09.05",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "시민적 및 정치적 권리에 관한 국제규약이 양심적 병역거부에 적용될 수 있나요?",
+        "output": "시민적 및 정치적 권리에 관한 국제규약 제18조는 헌법 제19조와 제20조의 해석상 동일한 보호 범위를 가지므로, 이 규약에 따라 병역법 제88조 제1항의 적용을 면제받을 수 없습니다.",
+        "originwordCnt": "1307",
+        "labelwordCnt": "25"
+    }
+}

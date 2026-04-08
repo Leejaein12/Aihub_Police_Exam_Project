@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "232691",
+        "caseName": "성폭력범죄의처벌등에관한특례법위반(장애인준강간)·간음유인",
+        "caseNum": "2020노78",
+        "sentenceDate": "2020.09.23",
+        "courtName": "부산고등법원창원재판부",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "원심판결이 파기된 후 피고인에 대한 최종 판결 내용은 무엇인가요?",
+        "output": "원심판결이 파기되며 피고인에게 무죄가 선고되었습니다. 또한, 무죄 판결의 요지를 공시하도록 명령하여, 피고인에 대한 형사책임이 인정되지 않음을 알리도록 하였습니다.",
+        "originwordCnt": "2686",
+        "labelwordCnt": "18"
+    }
+}

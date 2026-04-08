@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "240419",
+        "caseName": "특수절도미수",
+        "caseNum": "77도1802",
+        "sentenceDate": "1977.07.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "야간에 피해자의 집에 침입하여 방의 문고리를 손괴하다가 발각된 경우, 현실적으로 절도 목적물에 접근하지 못하였더라도 주거에 침입하여 건조물의 일부인 문고리를 손괴한 행위는 특수절도죄의 실행에 착수한 것으로 봅니다. 이에 따라 특수절도죄의 미수로 처벌하는 것이 적법하며, 원심의 판단도 정당하다고 판단되어 상고가 기각되었습니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "39"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001486",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19807",
+        "title": "수산업법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제76조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "어업인이 어구를 설치할 때 표시해야 하는 사항은 무엇인가요?",
+        "output": "「수산업법」 제76조 제1항에 따르면, 대통령령으로 정하는 어업인이 어업활동을 위해 수면에 어구를 설치할 때는 해당 어구마다 어구의 소유자와 해양수산부령으로 정하는 기타 사항을 어구에 표시해야 합니다.",
+        "originwordCnt": "45",
+        "labelwordCnt": "24"
+    }
+}

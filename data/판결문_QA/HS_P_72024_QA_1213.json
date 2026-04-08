@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72024",
+        "caseName": "영리등을위한부녀매매음행매개피고사건",
+        "caseNum": "64노179",
+        "sentenceDate": "1965.02.22",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "음행의 상습성이 부녀매매 및 음행매개죄의 성립에 영향을 미칠 수 있나요?",
+        "output": "피해자들이 16, 7세의 부녀인 경우 음행의 상습유무는 부녀매매 및 음행매개죄의 성립에 아무런 영향을 미치지 않습니다. 형법 제242조와 제288조에 따라 부녀매매 및 음행매개죄의 성립 여부는 상습성과 무관하게 판단됩니다.",
+        "originwordCnt": "14",
+        "labelwordCnt": "27"
+    }
+}

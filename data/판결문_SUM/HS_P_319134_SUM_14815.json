@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319134",
+        "caseName": "강도상해",
+        "caseNum": "2024고합73",
+        "sentenceDate": "2024.04.30",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "고령의 할머니를 폭행하고 현금 17만 원을 강취하며 강도상해죄를 범하였습니다. 할머니는 이로 인해 비골 폐쇄성 골절 등 상해를 입은 사실이 인정되었습니다. 범행을 인정하고 반성하는 점을 고려했으나, 할머니와 합의되지 않았고 고령인 점 등을 종합적으로 참작하여 형이 결정되었습니다. 이에 형법 제337조를 적용하여 징역 4년을 선고받았습니다.",
+        "originwordCnt": "1024",
+        "labelwordCnt": "42"
+    }
+}

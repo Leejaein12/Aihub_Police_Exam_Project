@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001988",
+        "promulgDate": "20230725",
+        "effectDate": "20240126",
+        "promulgNum": "19573",
+        "title": "수상레저안전법",
+        "ministry": "해양경찰청",
+        "fullText": "N",
+        "smClass": "제30조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "해양경찰서장이나 시장·군수·구청장은 어떤 경우에 수상레저활동 금지구역을 지정할 수 있나요?",
+        "output": "수상레저안전법 제30조 1항에 따르면 해양경찰서장 또는 시장·군수·구청장은 수상레저활동의 안전을 위하여 필요하다고 인정하면 수상레저활동 금지구역을 지정할 수 있습니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "17"
+    }
+}

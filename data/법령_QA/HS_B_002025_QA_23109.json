@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "002025",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19889",
+        "title": "마약류 관리에 관한 법률",
+        "ministry": "보건복지부,식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제62조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "상습적으로 마약류 관련 범죄를 저지른 경우 어떤 처벌을 받나요?",
+        "output": "마약류 관리에 관한 법률 제62조 제2항에 따르면 상습적으로 제1항의 죄를 범한 자는 그 죄에 대하여 정하는 형의 2분의 1까지 가중 처벌받습니다.",
+        "originwordCnt": "108",
+        "labelwordCnt": "21"
+    }
+}

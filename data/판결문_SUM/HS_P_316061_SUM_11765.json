@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "316061",
+        "caseName": "강제추행",
+        "caseNum": "2023노2490",
+        "sentenceDate": "2024.05.29",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "항소심 법원은 강제추행 사건에서 피해자의 진술과 CCTV 영상을 종합해도 피고인의 행위가 객관적으로 일반인에게 성적 수치심이나 혐오감을 유발하고 성적 자유를 침해하는 행위로 보기 부족하며 이를 인정할 다른 증거도 없다는 이유로 무죄를 선고한 원심의 판단이 정당하다고 보았습니다. 또한 원심에 사실오인의 위법이 없다고 판단하여 검사의 항소를 기각하였습니다.",
+        "originwordCnt": "179",
+        "labelwordCnt": "44"
+    }
+}

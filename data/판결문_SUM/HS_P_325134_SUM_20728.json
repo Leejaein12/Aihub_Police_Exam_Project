@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "325134",
+        "caseName": "업무방해등",
+        "caseNum": "2022고정98",
+        "sentenceDate": "2022.11.25.",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "식당에서 손님들에게 시비를 걸며 소란을 피워 피해자의 식당 영업 업무를 방해하였고, 음식 대금을 지불할 의사나 능력이 없음에도 불구하고 정상적으로 지불할 것처럼 행세하여 음식을 제공받고 대금을 지불하지 않은 행위에 대해 법원은 업무방해와 사기 혐의로 벌금 300만 원을 선고하였습니다.",
+        "originwordCnt": "236",
+        "labelwordCnt": "37"
+    }
+}

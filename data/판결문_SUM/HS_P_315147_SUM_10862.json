@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315147",
+        "caseName": "도로교통법위반(음주운전)등",
+        "caseNum": "2024고단357",
+        "sentenceDate": "2024.07.12",
+        "courtName": "창원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.111%의 상태에서 면허 없이 자동차를 운전한 혐의로 기소되었습니다. 피고인은 이전에도 음주운전으로 처벌받은 이력이 있습니다. 피고인은 징역 1년의 형이 선고되었고, 2년간 집행유예가 결정되었습니다. 또한 피고인은 보호관찰을 받으며 40시간의 준법운전강의를 이수해야 합니다.",
+        "originwordCnt": "232",
+        "labelwordCnt": "31"
+    }
+}

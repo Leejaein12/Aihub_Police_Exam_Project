@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010760",
+        "promulgDate": "20150330",
+        "effectDate": "20150330",
+        "promulgNum": "02594",
+        "title": "인신보호규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "구제청구자는 송달에 필요한 서류를 어떻게 제출해야 하나요?",
+        "output": "인신보호규칙 제5조 제1항에 따라 구제청구자는 수용자와 피수용자에게 송달에 필요한 구제청구서 부본을 제출해야 합니다. 다만, 구제청구자가 피수용자일 경우는 그러하지 아니합니다.",
+        "originwordCnt": "60",
+        "labelwordCnt": "19"
+    }
+}

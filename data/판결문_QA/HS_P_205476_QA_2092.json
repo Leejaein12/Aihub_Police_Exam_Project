@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "205476",
+        "caseName": "담배사업법위반·관세법위반·조세범처벌법위반",
+        "caseNum": "2018노26",
+        "sentenceDate": "2018.06.01",
+        "courtName": "서울북부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인들이 담배 제조 행위의 위법성을 인식하지 못했다고 주장한 이유는 무엇인가요?",
+        "output": "피고인들은 검찰의 불기소 처분을 듣고 위법성을 인식하지 못했다고 주장하였으나, 법원은 담배사업법 개정 이후 이를 충분히 인식할 수 있었음에도 주의를 기울이지 않은 것으로 판단하였습니다.",
+        "originwordCnt": "2108",
+        "labelwordCnt": "23"
+    }
+}

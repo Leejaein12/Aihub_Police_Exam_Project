@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009681",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19761",
+        "title": "청소년복지 지원법",
+        "ministry": "여성가족부",
+        "fullText": "N",
+        "smClass": "제18조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가 및 지방자치단체가 청소년부모와 그 자녀에게 제공하는 복지지원은 어떤 형태로 제공될까요?",
+        "output": "청소년복지 지원법 제18조의3 제2항에 따르면, 복지지원은 생활지원, 의료지원, 주거지원, 청소년활동지원 등 대통령령으로 정하는 내용에 따라 물품 또는 서비스의 형태로 제공합니다.",
+        "originwordCnt": "49",
+        "labelwordCnt": "20"
+    }
+}

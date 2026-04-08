@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314095",
+        "caseName": "폭행등",
+        "caseNum": "2024고정81",
+        "sentenceDate": "2024.07.10",
+        "courtName": "수원지방법원 안산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "업무방해, 폭행, 협박, 재물손괴 등의 범죄가 발생하였습니다. 특정 약국 직원에게 폭력을 행사하고 협박적인 발언을 하며, 소유 차량의 재물을 파손하는 등 여러 범죄 행위를 저질렀습니다. 이러한 행위는 업무 수행을 방해하고 물리적 위협을 가한 것으로 판단되었습니다. 판결은 벌금을 부과하며, 상당한 금액의 가납도 명령되었습니다.",
+        "originwordCnt": "528",
+        "labelwordCnt": "41"
+    }
+}

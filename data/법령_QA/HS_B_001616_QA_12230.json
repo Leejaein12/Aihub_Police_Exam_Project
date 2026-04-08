@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001616",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "교육공무원법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제44조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "교육공무원이 병역 복무를 위해 징집되거나 소집된 경우에 휴직이 가능합니까?",
+        "output": "교육공무원법 제44조 제1항 제2호 규정에 따르면 교육공무원이 병역법에 따른 병역 복무를 위하여 징집되거나 소집된 경우 임용권자는 본인의 의사와 관계없이 휴직을 명하여야 합니다.",
+        "originwordCnt": "306",
+        "labelwordCnt": "22"
+    }
+}

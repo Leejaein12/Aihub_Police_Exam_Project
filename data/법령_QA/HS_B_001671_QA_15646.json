@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제243조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검사가 피의자를 신문할 때 참여해야 하는 사람은 누구입니까?",
+        "output": "형사소송법 제243조에 따르면 검사가 피의자를 신문함에는 검찰청수사관 또는 서기관이나 서기를 참여하게 하여야 하고 사법경찰관이 피의자를 신문함에는 사법경찰관리를 참여하게 하여야 합니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "20"
+    }
+}

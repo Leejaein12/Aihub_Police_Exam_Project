@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318096",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단179",
+        "sentenceDate": "2023.07.05",
+        "courtName": "대구지방법원 경주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.149% 상태에서 차량을 운전한 사실이 밝혀졌습니다. 피고인은 이전에 음주측정거부로 벌금형을 받은 전력이 있으며, 음주운전 관련 범죄로 2회의 처벌을 받았습니다. 이를 고려해 징역 1년이 선고되었으나, 2년간 집행이 유예되고, 사회봉사 및 준법운전 강의 수강이 명령되었습니다.",
+        "originwordCnt": "203",
+        "labelwordCnt": "34"
+    }
+}

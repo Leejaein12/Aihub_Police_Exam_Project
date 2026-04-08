@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제200조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에서 지방의회의원이 궐원이 생긴 경우, 지방의회의장은 어떻게 되나요?",
+        "output": "공직선거법 제200조 제5항에 따르면, 지방의회의장은 해당 지방의회의원에 궐원이 생긴 때에는 해당 지방자치단체의 장과 관할선거구선거관리위원회에 이를 통보하여야 합니다.",
+        "originwordCnt": "158",
+        "labelwordCnt": "17"
+    }
+}

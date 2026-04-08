@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제266조의8",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법원은 공판준비기일을 검사에게 통지해야 하나요?",
+        "output": "형사소송법 제266조의8제3항에 따르면 법원은 검사, 피고인 및 변호인에게 공판준비기일을 통지하여야 합니다.",
+        "originwordCnt": "60",
+        "labelwordCnt": "11"
+    }
+}

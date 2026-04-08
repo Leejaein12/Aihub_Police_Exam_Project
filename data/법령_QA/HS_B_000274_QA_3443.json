@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000274",
+        "promulgDate": "20240123",
+        "effectDate": "20240123",
+        "promulgNum": "20124",
+        "title": "한국도로공사법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국도로공사의 자본금은 누가 출자하나요?",
+        "output": "한국도로공사법 제4조 제2항에 따르면, 공사의 자본금은 국가, 지방자치단체, 또는 한국산업은행이 출자하되, 필요한 경우 정관에 따라 자본금의 2분의 1을 초과하지 않는 범위에서 주주를 모집할 수 있습니다.",
+        "originwordCnt": "47",
+        "labelwordCnt": "25"
+    }
+}

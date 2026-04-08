@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012523",
+        "promulgDate": "20230816",
+        "effectDate": "20240217",
+        "promulgNum": "19688",
+        "title": "항공사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "항공기에 대한 급유, 항공화물 또는 수하물의 하역을 하는 사업은 무슨 사업입니까?",
+        "output": "항공사업법 제2조 제19호에 의하면 항공기취급업이란 타인의 수요에 맞추어 항공기에 대한 급유, 항공화물 또는 수하물의 하역과 그 밖에 국토교통부령으로 정하는 지상조업을 하는 사업을 말합니다.",
+        "originwordCnt": "730",
+        "labelwordCnt": "23"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001499",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19752",
+        "title": "사료관리법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제19조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "농림축산식품부장관은 어떤 경우에 수입된 사료에 대해 검정을 실시할 수 있나요?",
+        "output": "사료관리법 제19조 제2항에 따르면, 농림축산식품부장관은 사료의 안전성 확보나 수급 안정 등의 사유가 있는 경우, 신고된 사료에 대해 통관 절차 완료 전에 검정을 실시하도록 할 수 있습니다.",
+        "originwordCnt": "121",
+        "labelwordCnt": "26"
+    }
+}

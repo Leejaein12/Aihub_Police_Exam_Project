@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310407",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2024고정159",
+        "sentenceDate": "2024.07.24",
+        "courtName": "부산지방법원 동부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.038%의 상태로 125cc 원동기장치자전거를 운전한 혐의로 기소되었습니다. 법원은 피고인이 범행을 인정하고, 혈중알코올농도가 낮으며 동종 범죄 전력이 없는 점을 고려하여 벌금형을 선고하였습니다. 피고인에게는 도로교통법 제148조의2 제3항 및 제44조 제1항에 따라 벌금 300만 원이 부과되었습니다.",
+        "originwordCnt": "188",
+        "labelwordCnt": "34"
+    }
+}

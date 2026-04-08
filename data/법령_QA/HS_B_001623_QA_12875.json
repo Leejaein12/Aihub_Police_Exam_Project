@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001623",
+        "promulgDate": "20231226",
+        "effectDate": "20240118",
+        "promulgNum": "19839",
+        "title": "군사법원법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제76조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "재판의 선고 또는 고지는 어떤 방식으로 이루어지나요?",
+        "output": "재판의 선고 또는 고지는 공판정에서는 재판서로 하여야 하고, 그 밖의 경우에는 재판서 등본의 송달 또는 다른 적당한 방법으로 하여야 합니다. 다만, 법률에 다른 규정이 있을 때에는 그러하지 아니합니다. 군사법원법 제76조에 근거하고 있습니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "32"
+    }
+}

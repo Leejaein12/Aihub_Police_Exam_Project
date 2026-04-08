@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012140",
+        "promulgDate": "20240125",
+        "effectDate": "20240131",
+        "promulgNum": "03126",
+        "title": "아동보호심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제31조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "회계관계공무원은 비용청구서를 받은 후 얼마 내에 피해아동 수탁기관의 위탁비용을 입금해야 하나요?",
+        "output": "아동보호심판규칙 제31조 제5항에 따르면 제4항에 비용청구서를 받은 회계관계공무원은 특별한 사정이 없는 한 30일 이내에 위탁비용을 입금한다.",
+        "originwordCnt": "103",
+        "labelwordCnt": "16"
+    }
+}

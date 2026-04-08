@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "215291",
+        "caseName": "국가보안법위반및간첩미수피고",
+        "caseNum": "4286형상181",
+        "sentenceDate": "1953.11.09",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "북한의 정치보위국 상부원과 접선방법을 협의한 사실만으로 간첩행위로 인정할 수 있나요?",
+        "output": "국가보안법 제3조에 따르면, 북한괴뢰 정치보위국 상부원과 접선방법을 협의한 사실은 국가보안법 위반으로 인정될 수 있지만, 이를 간첩행위로 볼 수는 없습니다.",
+        "originwordCnt": "81",
+        "labelwordCnt": "19"
+    }
+}

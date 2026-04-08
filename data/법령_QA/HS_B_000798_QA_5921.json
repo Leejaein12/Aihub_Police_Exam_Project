@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000798",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19597",
+        "title": "저작권법",
+        "ministry": "문화체육관광부",
+        "fullText": "N",
+        "smClass": "제70조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "실연자가 본인의 실연 복제물을 배포할 수 있나요?",
+        "output": "실연자는 그의 실연의 복제물을 배포할 권리를 가진다. 다만, 실연의 복제물이 실연자의 허락을 받아 판매 등의 방법으로 거래에 제공된 경우에는 그러하지 아니하다. 이는 저작권법 제70조에 규정되어 있습니다.",
+        "originwordCnt": "22",
+        "labelwordCnt": "26"
+    }
+}

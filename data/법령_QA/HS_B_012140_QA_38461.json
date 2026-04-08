@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012140",
+        "promulgDate": "20240125",
+        "effectDate": "20240131",
+        "promulgNum": "03126",
+        "title": "아동보호심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제86조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "심리기일에 출석하지 않은 피해아동, 청구인 및 행위자에 대한 피해아동보호명령결정은 어떻게 고지되나요?",
+        "output": "아동보호심판규칙 제86조 제3항에 따르면 심리기일에 출석하지 아니한 피해아동, 청구인 및 행위자에 대한 피해아동보호명령결정의 고지는 결정서의 송달에 의합니다.",
+        "originwordCnt": "46",
+        "labelwordCnt": "17"
+    }
+}

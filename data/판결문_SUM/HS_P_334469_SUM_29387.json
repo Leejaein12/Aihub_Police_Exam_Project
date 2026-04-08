@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334469",
+        "caseName": "성폭력범죄의처벌등에관한특례법위반(비밀준수등)",
+        "caseNum": "2023고정1893",
+        "sentenceDate": "2024.05.22",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "성폭력범죄로 인해 신상정보 등록대상자로 지정된 피고인은, 차량 및 직장정보가 변경되었음에도 이를 20일 이내에 관할 경찰관서에 신고하지 않았습니다. 법원은 이러한 신상정보 미제출 행위가 성폭력범죄의처벌등에관한특례법 위반에 해당한다고 판단하여 피고인에게 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "202",
+        "labelwordCnt": "31"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328243",
+        "caseName": "고용보험법위반",
+        "caseNum": "2023고정184",
+        "sentenceDate": "2023.04.19.",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음식점을 운영하면서 특별고용촉진장려금 신청 요건을 갖추지 못한 근로자들을 허위로 구직등록하게 하여 고용보험법 제116조 제2항 제2호를 위반하였습니다. 허위로 근로자 입사일을 기재하여 3회에 걸쳐 총 1,200만 원을 부정하게 지급받았으나 일부 금액을 반환한 점을 참작하여 법원은 벌금 70만 원을 선고하였습니다.",
+        "originwordCnt": "238",
+        "labelwordCnt": "37"
+    }
+}

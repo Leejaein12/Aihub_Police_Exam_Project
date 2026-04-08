@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337057",
+        "caseName": "점유이탈물횡령",
+        "caseNum": "2023고정383",
+        "sentenceDate": "2023.10.19",
+        "courtName": "수원지방법원 안양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "버스정류장에서 타인이 두고 간 시가 200만 원 상당의 가방을 발견하고도 이를 반환하지 않고 가져가 점유이탈물횡령죄를 저질렀습니다. 법원은 형법 제360조 제1항을 적용하여 벌금 50만 원을 선고하였으며, 범행을 인정하고 전과가 없는 점은 참작되었으나, 피해자와 합의하지 못한 점을 고려하여 양형이 결정되었습니다.",
+        "originwordCnt": "291",
+        "labelwordCnt": "38"
+    }
+}

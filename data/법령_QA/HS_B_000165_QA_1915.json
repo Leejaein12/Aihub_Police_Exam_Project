@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000165",
+        "promulgDate": "20240130",
+        "effectDate": "20240130",
+        "promulgNum": "20172",
+        "title": "먹는물관리법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제36조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "기준과 규격에 맞지 않는 제품의 판매나 사용은 어떻게 규제되나요?",
+        "output": "먹는물관리법 제36조 제3항에 따르면, 기준과 규격에 맞지 않는 먹는샘물등, 수처리제, 정수기 또는 그 용기는 판매하거나 판매할 목적으로 제조, 수입, 저장, 운반, 진열하거나 그 밖의 영업상으로 사용할 수 없습니다.",
+        "originwordCnt": "98",
+        "labelwordCnt": "28"
+    }
+}

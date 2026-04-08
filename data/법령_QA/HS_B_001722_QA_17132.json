@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001722",
+        "promulgDate": "20240102",
+        "effectDate": "20240102",
+        "promulgNum": "19922",
+        "title": "정당법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제22조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "대한민국 국민이 아닌 자가 정당의 당원이 될 수 있나요?",
+        "output": "대한민국 국민이 아닌 자는 국가의 정당의 당원이 될 수 없습니다. 이는 정당법 제22조 제2항에 근거합니다.",
+        "originwordCnt": "118",
+        "labelwordCnt": "15"
+    }
+}

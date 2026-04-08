@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336929",
+        "caseName": "사기",
+        "caseNum": "2023노4223",
+        "sentenceDate": "2023.09.20",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "차용금 명목으로 1억 1,000만 원을 편취한 사기 범행으로 징역 8월을 선고받았습니다. 피해자에게 7,000만 원을 변제하고, 항소심에서 추가로 9,000만 원을 변제하여 합의하였으며, 피해자가 처벌을 원하지 않는다는 점이 고려되었습니다. 이에 형법 제347조 제1항 및 제62조 제1항에 따라 징역 8월에 집행유예 2년이 선고되었습니다.",
+        "originwordCnt": "273",
+        "labelwordCnt": "40"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86800",
+        "caseName": "관세법위반",
+        "caseNum": "4294형상400",
+        "sentenceDate": "1961.12.14",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "1968년 이후 무면허 수입행위에 대해 적용되는 법률은 무엇인가요?",
+        "output": "1968년 1월 1일 이후부터 무면허 수입행위에 대해서는 1968년 7월 15일 개정된 특정범죄가중처벌등에관한법률 제6조 제4항을 적용할 수 없습니다. 해당 법률 개정 이전의 규정을 적용할 수 있으며, 금에 관한 임시조치법 제6조에 따라 관련 처리가 이루어집니다.",
+        "originwordCnt": "89",
+        "labelwordCnt": "33"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "147528",
+        "caseName": "무고",
+        "caseNum": "2010노59",
+        "sentenceDate": "2010.07.21",
+        "courtName": "서울북부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "징계처분 받게 할 목적으로 진정서를 제출한 행위는 어떤 이유로 무고로 판단되었나요?",
+        "output": "징계처분 받게 할 목적으로 진실하다는 확신도 없이 단정적인 내용의 진정서를 서울지방변호사회에 제출한 것은, 허위 사실을 기재한 것으로 판단되어 무고로 인정되었습니다. 이에 따라 항소는 기각되었습니다.",
+        "originwordCnt": "935",
+        "labelwordCnt": "24"
+    }
+}

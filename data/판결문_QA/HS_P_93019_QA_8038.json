@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "93019",
+        "caseName": "외국환관리법위반등",
+        "caseNum": "76도736",
+        "sentenceDate": "1976.05.31",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "내국인이 재외 재산 취득을 위해 비거주자에게 국내에서 지급한 행위는 어떤 법적 문제를 가지나요?",
+        "output": "내국인이 재외재산 취득을 위해 국내에서 비거주인에게 지급행위를 한 후 재외재산을 취득한 경우는 외국환관리법 제23조 제2호에서 규정한 거주자와 비거주자 간의 채권 발생 및 소멸에 해당하여, 외국환관리법 위반으로 볼 수 있습니다.",
+        "originwordCnt": "150",
+        "labelwordCnt": "29"
+    }
+}

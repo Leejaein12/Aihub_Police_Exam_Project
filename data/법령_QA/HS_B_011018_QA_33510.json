@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011018",
+        "promulgDate": "20240206",
+        "effectDate": "20240206",
+        "promulgNum": "20227",
+        "title": "기상산업진흥법",
+        "ministry": "기상청",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "기상청장은 기상산업 진흥을 위해 어떤 노력을 해야 하나요?",
+        "output": "기상산업진흥법 제3조 제1항에 따르면, 기상청장은 기상산업의 진흥과 발전을 위하여 노력하여야 합니다.",
+        "originwordCnt": "41",
+        "labelwordCnt": "11"
+    }
+}

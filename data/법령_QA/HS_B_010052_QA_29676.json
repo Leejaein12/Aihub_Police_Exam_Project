@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010052",
+        "promulgDate": "20210406",
+        "effectDate": "20210421",
+        "promulgNum": "31595",
+        "title": "치료감호 등에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제27조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보호관찰관은 치료명령을 집행하기 전에 무엇을 확인하여야 하나요?",
+        "output": "보호관찰관은 법 제44조의6제1항에 따라 치료명령을 집행하기 전에 제26조에 따른 지휘 서면 및 판결문 등본을 모두 확인하여야 합니다. 치료감호 등에 관한 법률 시행령 제27조 제1항에 명시하고 있습니다.",
+        "originwordCnt": "62",
+        "labelwordCnt": "26"
+    }
+}

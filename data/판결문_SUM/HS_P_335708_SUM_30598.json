@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335708",
+        "caseName": "아동복지법위반(아동에대한음행강요ㆍ매개ㆍ성희롱등)",
+        "caseNum": "2023고단1482",
+        "sentenceDate": "2024.02.14",
+        "courtName": "대구지방법원 포항지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "아동인 피해자에게 성적수치심을 주는 성적 학대행위를 하여 기소되었습니다. 법원은 양형사유들을 종합하여 피고인을 징역 3년에 처하고 4년간 형의 집행을 유예하였습니다. 또한 40시간의 성폭력 치료강의 수강과 아동·청소년 관련기관 등과 장애인관련기관에 5년간 취업제한을 명하였습니다.",
+        "originwordCnt": "421",
+        "labelwordCnt": "31"
+    }
+}

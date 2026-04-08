@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312840",
+        "caseName": "강제추행",
+        "caseNum": "2023고단1341",
+        "sentenceDate": "2024.01.16",
+        "courtName": "대전지방법원 서산지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "차량 조수석에 탑승 중, 대리운전기사인 피해자의 오른쪽 팔을 수회 만져 강제추행한 혐의로 기소되었습니다. 법원은 피고인에게 피고인을 벌금을 선고하고, 성폭력 치료프로그램 이수를 명하였습니다. 피고인의 죄책이 가볍지 않지만, 반성과 합의, 재범 방지 의지를 보인 점이 유리하게 작용하여 벌금형이 선택되었습니다.",
+        "originwordCnt": "438",
+        "labelwordCnt": "37"
+    }
+}

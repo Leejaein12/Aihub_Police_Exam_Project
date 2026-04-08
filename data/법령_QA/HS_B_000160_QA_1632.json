@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000160",
+        "promulgDate": "20221213",
+        "effectDate": "20230114",
+        "promulgNum": "19090",
+        "title": "토양환경보전법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제23조의9",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "토양정화업자가 토양정화 업무를 수행할 때 추가적으로 준수해야 할 사항이 규정된 법령의 형식은 무엇일까요?",
+        "output": "토양환경보전법 제23조의9 제3항에 따르면, 동법 동조 제1항 및 제2항에서 규정한 사항 외에 토양정화업자가 토양정화 업무를 수행할 때 준수하여야 할 사항은 환경부령으로 정합니다.",
+        "originwordCnt": "71",
+        "labelwordCnt": "22"
+    }
+}

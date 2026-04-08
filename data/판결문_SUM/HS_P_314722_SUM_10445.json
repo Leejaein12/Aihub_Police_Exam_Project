@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314722",
+        "caseName": "절도",
+        "caseNum": "2023고정250",
+        "sentenceDate": "2023.08.17",
+        "courtName": "창원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "셀프주유소에서 피해자 소유의 불스원샷 4통을 절취하였습니다. 형법 제329조에 따라 절도죄가 인정되었습니다. 초범이고, 자신의 잘못을 인정하며 피해물품이 수사 단계에서 피해자에게 반환된 점이 참작되었습니다. 또한 피해액이 소액이라는 점도 고려되었습니다. 이러한 사정들을 종합하여 벌금 30만 원이 선고되었습니다.",
+        "originwordCnt": "170",
+        "labelwordCnt": "34"
+    }
+}

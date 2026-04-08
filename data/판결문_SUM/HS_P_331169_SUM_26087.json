@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "331169",
+        "caseName": "사기등",
+        "caseNum": "2022노1701",
+        "sentenceDate": "2023.06.23",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A, B, D, E는 사기, 사기 미수, 전자금융거래법 및 외국환거래법 위반으로 기소되었습니다. 항소심에서 피고인 A와 E의 형량은 각각 1년 6개월, 3년 6개월로 결정되었으며, 피고인 B와 D의 항소는 기각되었습니다. 특히, 피고인 E는 범행의 중대한 가담자로 판단되어 형량이 조정되었습니다. 판결은 범죄의 중대성과 피해 회복 여부를 고려하여 이루어졌습니다.",
+        "originwordCnt": "1326",
+        "labelwordCnt": "45"
+    }
+}

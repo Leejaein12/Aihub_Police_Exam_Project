@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "305574",
+        "caseName": "과실치상",
+        "caseNum": "2017고정2295",
+        "sentenceDate": "2018. 5. 18.",
+        "courtName": "서울북부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자신의 집에서 키우던 개 7마리 중 4마리를 목줄을 묶지 않고 대문을 열어놓은 과실로, 개들이 집 앞을 지나가던 피해자를 물었습니다. 이는 안전사고가 발생하지 않도록 주의하여야할 주의의무를 이행하지 않은 것으로 보았습니다. 따라서 재판부는 피고인에게 벌금 2,000,000원을 선고하였습니다.",
+        "originwordCnt": "198",
+        "labelwordCnt": "35"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001513",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19754",
+        "title": "식물방역법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제19조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국외 생산지검역의 결과가 표시된 검역합격증명서가 첨부된 식물등에 적용되지 않는 조항은 무엇인가요?",
+        "output": "'식물방역법' 제19조 제3항에 따르면, 국외 생산지검역의 결과가 표시된 검역합격증명서가 첨부된 식물등에 대하여는 제12조제6항 및 제13조를 적용하지 아니합니다.",
+        "originwordCnt": "107",
+        "labelwordCnt": "17"
+    }
+}

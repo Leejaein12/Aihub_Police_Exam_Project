@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "302861",
+        "caseName": "협박",
+        "caseNum": "2021노2244",
+        "sentenceDate": "2021. 9. 28.",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "집행유예 기간 중 협박 범행을 저질렀으나, 피해자와 합의하였고 자신의 잘못을 인정하며 반성의 기회를 가졌습니다. 또한, 소뇌위축증으로 인한 신체적 어려움과 정신적 고통을 겪고 있어 이러한 사정을 고려하였습니다. 원심의 형이 무겁다고 판단하여 피고인에게 벌금 5,000,000원을 부과하였습니다.",
+        "originwordCnt": "211",
+        "labelwordCnt": "34"
+    }
+}

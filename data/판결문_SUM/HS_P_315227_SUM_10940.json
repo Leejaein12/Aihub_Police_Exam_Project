@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315227",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단271",
+        "sentenceDate": "2023.11.22",
+        "courtName": "대구지방법원 상주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.034% 상태로 약 2km 구간을 운전한 혐의로 기소된 피고인은 2013년에도 음주운전으로 벌금형을 받은 전력이 있지만, 이번 범행은 숙취운전으로 판단되며 사고는 발생하지 않았습니다. 법원은 이러한 점들과 재범이라는 불리한 사정을 고려하여 피고인에게 벌금 500만 원을 선고하였습니다.",
+        "originwordCnt": "238",
+        "labelwordCnt": "35"
+    }
+}

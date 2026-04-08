@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317935",
+        "caseName": "절도",
+        "caseNum": "2023고정1020",
+        "sentenceDate": "2024.01.18",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "무인 아이스크림 가게에서 물품을 절취한 혐의로 기소되었습니다. 2023년 8월 21일에 진열대에 있던 비타500 음료수와 쪽가위를 절취한 사실이 확인되었습니다. 따라서 재판부는 피고인에게 형법 제329조에 따라 30만 원의 벌금을 선고하였습니다. 또한 피고인이 벌금을 납입하지 않을 경우, 10만원을 1일로 환산하여 노역장이 유치합니다.",
+        "originwordCnt": "135",
+        "labelwordCnt": "39"
+    }
+}

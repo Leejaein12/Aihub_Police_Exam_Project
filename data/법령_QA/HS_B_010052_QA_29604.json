@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010052",
+        "promulgDate": "20210406",
+        "effectDate": "20210421",
+        "promulgNum": "31595",
+        "title": "치료감호 등에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제6조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "위원회는 재이송 신청을 받은 후 어떤 절차를 수행해야 합니까?",
+        "output": "위원회는 재이송 신청을 받으면 피치료감호자에 대한 재이송의 적절성을 심사하여 결정해야 합니다. 치료감호 등에 관한 법률 시행령 제6조의2 제3항에 명시하고 있습니다.",
+        "originwordCnt": "60",
+        "labelwordCnt": "20"
+    }
+}

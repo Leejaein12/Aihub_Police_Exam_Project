@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336067",
+        "caseName": "과실치상",
+        "caseNum": "2024고단118",
+        "sentenceDate": "2024.04.02",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "관리 소홀로 인해 피해자의 닭장에 피고인의 개가 들어가 공격하는 사고가 발생하였습니다. 피해자는 개를 제지하다가 약 3주간 치료가 필요한 상해를 입었습니다. 피해자가 공소제기 후 처벌을 원하지 않는 의사를 표명하였으므로, 공소는 기각되었습니다.",
+        "originwordCnt": "165",
+        "labelwordCnt": "30"
+    }
+}

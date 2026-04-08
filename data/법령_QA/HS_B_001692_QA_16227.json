@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001692",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19582",
+        "title": "형법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제140조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "형법상 강제집행으로 명도 또는 인도된 부동산에 침입하는 행위는 어떤 처벌을 받나요?",
+        "output": "형법 제140조의2에 의거하여, 강제집행으로 명도 또는 인도된 부동산에 침입하거나 기타 방법으로 강제집행의 효용을 해한 자는 5년 이하의 징역 또는 700만원 이하의 벌금에 처합니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "23"
+    }
+}

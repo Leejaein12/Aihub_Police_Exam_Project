@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "154983",
+        "caseName": "관세법위반",
+        "caseNum": "70도2089",
+        "sentenceDate": "1970.11.30",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "백금은 금에 관한 임시조치법 제2조에 따른 금으로 볼 수 있나요?",
+        "output": "백금은 금에 관한 임시조치법 제2조에서 규정한 금에 해당하지 않으므로, 해당 법을 백금에 적용할 수 없습니다. 따라서 백금에 대해 금에 관한 임시조치법을 적용하지 않은 원심 판단은 정당합니다.",
+        "originwordCnt": "125",
+        "labelwordCnt": "26"
+    }
+}

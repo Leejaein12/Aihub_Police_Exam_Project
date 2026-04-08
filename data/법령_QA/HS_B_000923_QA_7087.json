@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000923",
+        "promulgDate": "20240123",
+        "effectDate": "20240123",
+        "promulgNum": "20073",
+        "title": "군용전기통신법",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국방부장관이 통신설비 접속 또는 첨가 시 미리 협의할 수 없을 때는 어떻게 해야 하나요?",
+        "output": "'군용전기통신법' 제5조 제3항에 따르면, 전시나 사변 등 국가 비상사태 시 작전상 긴급하여 미리 협의할 수 없을 때에는 국방부장관은 사후에 통보해야 합니다.",
+        "originwordCnt": "63",
+        "labelwordCnt": "21"
+    }
+}

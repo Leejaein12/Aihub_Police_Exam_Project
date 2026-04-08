@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "97403",
+        "caseName": "직업안정법위반",
+        "caseNum": "82도2065",
+        "sentenceDate": "1983.03.08",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "직업안정법 제15조 제1항에서 말하는 '모집'은 어떤 의미인가요?",
+        "output": "직업안정법 제15조 제1항의 '모집'은 동법 시행령 제2조 제4항에 따라 근로자를 고용하려는 자가 직접 또는 간접으로 취업 희망자에게 고용될 것을 권유하는 행위를 의미합니다.",
+        "originwordCnt": "41",
+        "labelwordCnt": "22"
+    }
+}

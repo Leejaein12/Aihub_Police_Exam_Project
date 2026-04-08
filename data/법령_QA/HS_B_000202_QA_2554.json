@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000202",
+        "promulgDate": "20240123",
+        "effectDate": "20240424",
+        "promulgNum": "20098",
+        "title": "사회복지사업법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제23조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법인의 재산은 어떻게 구분되며, 기본재산에 대한 사항은 어떻게 관리되나요?",
+        "output": "사회복지사업법 제23조 제2항에 따르면, 법인의 재산은 보건복지부령으로 정하는 바에 따라 기본재산과 보통재산으로 구분되며, 기본재산은 그 목록과 가액을 정관에 적어야 합니다.",
+        "originwordCnt": "75",
+        "labelwordCnt": "20"
+    }
+}

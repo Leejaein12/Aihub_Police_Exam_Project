@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310245",
+        "caseName": "폭행",
+        "caseNum": "2024고단637",
+        "sentenceDate": "2024.06.12",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "참외 비닐하우스 앞에서 발생한 폭행 사건으로, 피고인은 측량경계 말뚝을 옮기려는 상대방에게 폭언을 하며 머리를 두 차례 밀친 혐의를 받았습니다. 그러나 해당 범죄가 반의사불벌죄에 해당하고, 공소 제기 후 피해자가 피고인의 처벌을 원하지 않는다는 합의서와 처벌불원서를 제출하여 법원은 공소를 기각하였습니다.",
+        "originwordCnt": "123",
+        "labelwordCnt": "38"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010550",
+        "promulgDate": "20210129",
+        "effectDate": "20210129",
+        "promulgNum": "02949",
+        "title": "국민의 형사재판 참여에 관한 규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제29조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "재판장은 국민참여재판의 제1회 공판기일을 언제 지정해야 하나요?",
+        "output": "재판장은 국민의 형사재판 참여에 관한 규칙 제29조에 따라, 특별한 사정이 없는 한 배심원 선정기일이 종료된 후 연속하여 제1회 공판기일이 진행되도록 기일을 지정하여야 합니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "23"
+    }
+}

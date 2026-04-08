@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012522",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "공항시설법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제39조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공항운영자가 자체적인 세부 운영규정을 변경하려고 할 때 어떤 절차를 따르나요?",
+        "output": "공항시설법 제39조 제2항 규정에 따르면 공항운영자는 공항운영자의 자체적인 세부 운영규정 등 국토교통부령으로 정하는 경미한 사항을 변경하려는 경우에는 국토교통부장관에게 신고하여야 합니다.",
+        "originwordCnt": "83",
+        "labelwordCnt": "20"
+    }
+}

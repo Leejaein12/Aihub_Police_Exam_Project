@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011199",
+        "promulgDate": "20211221",
+        "effectDate": "20211221",
+        "promulgNum": "18585",
+        "title": "범죄피해자보호기금법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "거짓이나 부정한 방법으로 기금을 지원받은 자는 어떤 처벌을 받나요?",
+        "output": "범죄피해자보호기금법 제16조에 따르면 거짓이나 그 밖의 부정한 방법으로 제6조에 따른 기금을 지원받은 자는 5년 이하의 징역 또는 2천만원 이하의 벌금에 처합니다.",
+        "originwordCnt": "19",
+        "labelwordCnt": "21"
+    }
+}

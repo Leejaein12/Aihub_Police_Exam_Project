@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "323752",
+        "caseName": "사기등",
+        "caseNum": "2022노610",
+        "sentenceDate": "2022.09.28",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사기 및 절도 혐의로 심리된 결과, 피고인 A은 피해자에게 금전을 편취하여 징역형을 선고받았습니다. 피고인 AM은 음주운전 및 도주치상으로 처벌받았으며, 두 피고인의 범죄는 경합범으로 판단되었습니다. 원심 판결이 파기된 후, 피고인 A은 징역 1년 6개월, 피고인 AM은 징역 1년 2개월에 처하였습니다.",
+        "originwordCnt": "1080",
+        "labelwordCnt": "39"
+    }
+}

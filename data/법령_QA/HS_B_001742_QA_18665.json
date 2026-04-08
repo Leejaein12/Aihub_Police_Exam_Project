@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001742",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19134",
+        "title": "선박안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제15조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "선박의 변경 허가 대상과 절차는 어떻게 정해집니까?",
+        "output": "선박안전법 제15조 제4항에 따르면 제3항에 따른 허가의 대상과 절차 등에 필요한 사항은 해양수산부령으로 정합니다.",
+        "originwordCnt": "80",
+        "labelwordCnt": "14"
+    }
+}

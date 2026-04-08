@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011168",
+        "promulgDate": "20220610",
+        "effectDate": "20220610",
+        "promulgNum": "18913",
+        "title": "석면피해구제법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "구제급여 지급 여부를 결정할 때 어떤 절차가 필요한가요?",
+        "output": "기술원은 구제급여 지급 여부를 결정할 때 대통령령으로 정하는 사항에 관하여는 석면피해판정위원회의 심의를 거쳐야 합니다. 이는 「석면피해구제법」 제16조 제3항에 명시되어 있습니다.",
+        "originwordCnt": "94",
+        "labelwordCnt": "20"
+    }
+}

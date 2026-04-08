@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009412",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19590",
+        "title": "산지관리법",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제25조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "토석채취허가 또는 토사채취신고가 의제되는 행정처분 후에는 어떤 절차가 필요하나요?",
+        "output": "산지관리법 제25조에 따르면, 관계 행정기관의 장은 토석채취허가 또는 토사채취신고가 의제되는 행정처분을 한 후에는 지체 없이 시ㆍ도지사 또는 시장ㆍ군수ㆍ구청장에게 그 사실을 통보해야 합니다.",
+        "originwordCnt": "398",
+        "labelwordCnt": "22"
+    }
+}

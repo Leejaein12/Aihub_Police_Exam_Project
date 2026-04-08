@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011357",
+        "promulgDate": "20230314",
+        "effectDate": "20240315",
+        "promulgNum": "19234",
+        "title": "개인정보 보호법",
+        "ministry": "개인정보보호위원회",
+        "fullText": "N",
+        "smClass": "제33조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공공기관의 장은 영향평가를 한 개인정보파일을 등록할 때 무엇을 함께 첨부해야 합니까?",
+        "output": "공공기관의 장은 영향평가를 한 개인정보파일을 제32조제1항에 따라 등록할 때, 영향평가 결과를 함께 첨부해야 합니다. 개인정보 보호법 제33조 제5항에 규정되어 있습니다.",
+        "originwordCnt": "309",
+        "labelwordCnt": "20"
+    }
+}

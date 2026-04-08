@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010235",
+        "promulgDate": "20230103",
+        "effectDate": "20240104",
+        "promulgNum": "19157",
+        "title": "다중이용업소의 안전관리에 관한 특별법",
+        "ministry": "소방청",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "다중이용업소의 화재 안전관리에 대해 어떤 법이 우선 적용되나요?",
+        "output": "다중이용업소의 안전관리에 관한 특별법 제4조 제1항에 따르면, 다중이용업소의 화재 등 재난에 대한 안전관리에 관해서는 다른 법률에 우선하여 이 법이 적용됩니다.",
+        "originwordCnt": "48",
+        "labelwordCnt": "20"
+    }
+}

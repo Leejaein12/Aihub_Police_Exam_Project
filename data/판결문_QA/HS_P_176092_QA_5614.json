@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "176092",
+        "caseName": "도시및주거환경정비법위반",
+        "caseNum": "2012노1276",
+        "sentenceDate": "2013.01.17",
+        "courtName": "서울북부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인들이 서류 및 자료를 공개하지 않은 것이 구 도시정비법을 위반한 것으로 인정된 이유는 무엇인가요?",
+        "output": "피고인들이 서류 및 자료를 공개해야 하는 시한인 매 분기가 끝나는 달의 다음 달 15일까지 이를 공개하지 않았기 때문에 구 도시정비법 제81조 제1항을 위반한 것으로 인정되었습니다.",
+        "originwordCnt": "558",
+        "labelwordCnt": "25"
+    }
+}

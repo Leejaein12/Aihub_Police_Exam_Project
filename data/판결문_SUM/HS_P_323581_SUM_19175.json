@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "323581",
+        "caseName": "공직선거법위반",
+        "caseNum": "2022고합486",
+        "sentenceDate": "2023.02.01",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "지방선거 후보자를 지지하는 우편물을 선거운동 기간 전에 대량 발송한 피고인의 행위가 공직선거법 위반으로 판단되었습니다. 피고인은 이미 같은 법 위반 전력이 있었고, 8,500통 중 203통이 실제로 배달되었습니다. 범행을 인정하고 반성하는 태도와 일부만 배달된 점이 참작되어 벌금형을 처하였습니다.",
+        "originwordCnt": "694",
+        "labelwordCnt": "36"
+    }
+}

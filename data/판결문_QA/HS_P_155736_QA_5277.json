@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155736",
+        "caseName": "검시방해",
+        "caseNum": "69도2272",
+        "sentenceDate": "1970.02.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "사망 원인이 명확한 경우에도 변사자로 분류되어 검시를 받아야 하나요?",
+        "output": "사망 원인이 명백한 경우에는 형법 제163조에 따른 변사자로 분류되지 않으며, 검시를 받지 않아도 됩니다. 변사자는 부자연스러운 사망으로 사인이 분명하지 않은 경우를 의미하며, 명백한 사망 원인이 있는 경우 검시 방해죄가 성립되지 않습니다.",
+        "originwordCnt": "37",
+        "labelwordCnt": "31"
+    }
+}

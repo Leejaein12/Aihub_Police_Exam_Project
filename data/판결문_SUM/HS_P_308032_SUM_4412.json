@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "308032",
+        "caseName": "재물손괴, 예배방해",
+        "caseNum": "2020고정580",
+        "sentenceDate": "2020. 10. 16.",
+        "courtName": "울산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "교회 내부 갈등으로 인해 교회의 CCTV 케이블선을 절단하는 등 여러 차례에 걸쳐 재물을 손괴하고, 이후에도 두 차례에 걸쳐 주일 예배 중 교회의 전기를 차단하여 예배를 방해한 혐의로 기소되었습니다. 법원은 피고인의 행위가 재물손괴 및 예배방해에 해당한다고 판단하였으나, 피해자와의 합의 및 피고인의 전과 등을 고려하여 벌금 70만 원을 선고하였습니다.",
+        "originwordCnt": "311",
+        "labelwordCnt": "47"
+    }
+}

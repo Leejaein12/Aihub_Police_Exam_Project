@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001978",
+        "promulgDate": "20230816",
+        "effectDate": "20230816",
+        "promulgNum": "19637",
+        "title": "농수산물 품질관리법",
+        "ministry": "농림축산식품부,식품의약품안전처,해양수산부",
+        "fullText": "N",
+        "smClass": "제68조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "농수산물에 잔류하는 유해물질에 대한 조사는 어떻게 이루어지나요?",
+        "output": "농수산물 품질관리법 제68조 제3항에 따르면 식품의약품안전처장은 농수산물의 과학적인 안전관리를 위하여 농수산물에 잔류하는 유해물질의 실태를 조사할 수 있습니다.",
+        "originwordCnt": "121",
+        "labelwordCnt": "17"
+    }
+}

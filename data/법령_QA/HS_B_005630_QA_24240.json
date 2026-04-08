@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005630",
+        "promulgDate": "20200805",
+        "effectDate": "20200805",
+        "promulgNum": "30909",
+        "title": "형의 집행 및 수용자의 처우에 관한 법률 시행령",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제34조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "형의 집행 및 수용자의 처우에 관한 법 제25조에서 휴대금품란 무엇을 말하나요?",
+        "output": "휴대금품이란 신입자가 교정시설에 수용될 때에 지니고 있는 현금과 휴대품을 말합니다. 형의 집행 및 수용자의 처우에 관한 법률 시행령 제34조 제1항에 규정하고 있습니다.",
+        "originwordCnt": "80",
+        "labelwordCnt": "22"
+    }
+}

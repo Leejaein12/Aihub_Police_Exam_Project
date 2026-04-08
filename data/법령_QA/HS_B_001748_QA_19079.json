@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001748",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "화물자동차 운수사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제40조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국토교통부장관이 경영의 위탁을 제한할 수 있는 경우는 언제인가요?",
+        "output": "화물자동차 운수사업법 제40조 제2항에 따르면 국토교통부장관은 화물운송시장의 질서유지 및 운송사업자의 운송서비스 향상을 위해 필요한 경우, 경영의 위탁을 제한할 수 있습니다.",
+        "originwordCnt": "273",
+        "labelwordCnt": "20"
+    }
+}

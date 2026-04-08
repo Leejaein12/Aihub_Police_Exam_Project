@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "98356",
+        "caseName": "부동산소유권이전등기에관한특별조치법위반·산림법위반",
+        "caseNum": "83도2118",
+        "sentenceDate": "1983.10.25",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "일정 대정연도에 이루어진 토지의 사정이 소유권 원시취득의 효력이 있나요?",
+        "output": "일정 대정연도에 있었던 토지의 사정은 소유권의 원시취득 효력이 있습니다. 따라서 사정을 받은 자는 민법 제186조에 따라 그 토지에 대해 소유권을 취득하게 되며, 이에 따라 법적 효력을 갖춘 소유권자로 인정됩니다.",
+        "originwordCnt": "12",
+        "labelwordCnt": "29"
+    }
+}

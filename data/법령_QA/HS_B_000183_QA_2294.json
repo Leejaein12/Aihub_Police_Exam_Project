@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000183",
+        "promulgDate": "20240206",
+        "effectDate": "20240206",
+        "promulgNum": "20215",
+        "title": "모자보건법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제15조의6",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "모자보건법에 따라 산후조리업자와 관련 종사자는 어떤 교육을 받아야 하나요?",
+        "output": "모자보건법 제15조의6 제1항에 따르면, 산후조리업자와 산후조리업에 종사하는 사람은 보건복지부령으로 정하는 바에 따라 감염 예방 등에 관한 교육을 정기적으로 받아야 합니다.",
+        "originwordCnt": "124",
+        "labelwordCnt": "20"
+    }
+}

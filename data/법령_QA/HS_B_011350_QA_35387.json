@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011350",
+        "promulgDate": "20230725",
+        "effectDate": "20240126",
+        "promulgNum": "19573",
+        "title": "낚시 관리 및 육성법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제45조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검정기관으로 지정받은 후 어떤 경우에 변경신고를 해야 하나요?",
+        "output": "낚시 관리 및 육성법 제45조의2 제2항에 따르면 검정기관의 장은 제1항에 따라 검정기관으로 지정받은 후 명칭, 소재지, 검정대상 등 대통령령으로 정하는 중요사항이 변경된 경우에는 변경신고를 하여야 합니다.",
+        "originwordCnt": "78",
+        "labelwordCnt": "26"
+    }
+}

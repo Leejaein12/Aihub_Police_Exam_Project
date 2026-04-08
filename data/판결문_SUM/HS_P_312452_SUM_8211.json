@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312452",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고정458",
+        "sentenceDate": "2024.01.17",
+        "courtName": "의정부지방법원 남양주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2017년 도로교통법 위반(음주운전)으로 벌금 400만 원의 약식명령을 받은 전력이 있음에도 불구하고, 피고인은 2023년 5월 혈중알코올농도 0.111% 상태로 약 1km 구간을 음주운전하였습니다. 이에 법원은 도로교통법에 따라 피고인에게 벌금 1,200만 원을 선고하였습니다.",
+        "originwordCnt": "181",
+        "labelwordCnt": "30"
+    }
+}

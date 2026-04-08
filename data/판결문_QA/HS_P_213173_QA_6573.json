@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "213173",
+        "caseName": "성폭력범죄의처벌등에관한특례법위반(친족관계에의한준강간)",
+        "caseNum": "2020노166",
+        "sentenceDate": "2020.07.16",
+        "courtName": "수원고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인의 항소에 대한 법원의 최종 결정은 무엇인가요?",
+        "output": "법원은 피고인의 항소를 기각하였습니다. 이는 원심판결이 유지된다는 의미로, 법원은 항소심에서 원심판결을 변경할 사유가 없다고 판단하여 피고인의 항소를 받아들이지 않았습니다.",
+        "originwordCnt": "315",
+        "labelwordCnt": "19"
+    }
+}

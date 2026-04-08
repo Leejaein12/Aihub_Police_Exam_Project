@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336996",
+        "caseName": "특수존속협박등",
+        "caseNum": "2023고단2152",
+        "sentenceDate": "2023.08.25",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "가게에서 금품과 현금을 절취한 행위로 형법 제329조에 따라 기소되었으며, 피해자 소유 금품 323만 원 상당을 절취한 혐의로 징역 6개월이 선고되었으나 형법 제62조 제1항에 의거하여 1년간 집행유예가 명령되었습니다. 피해자가 입은 손해는 회복된 점 등을 양형에 참작하였습니다.",
+        "originwordCnt": "176",
+        "labelwordCnt": "35"
+    }
+}

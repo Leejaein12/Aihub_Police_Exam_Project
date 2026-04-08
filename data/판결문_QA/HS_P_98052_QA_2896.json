@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "98052",
+        "caseName": "특수절도·강도강간(예비:폭력행위등처벌에관한법률위반)·특수강도",
+        "caseNum": "83소2",
+        "sentenceDate": "1983.07.16",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "상고기각 판결이 부당하다는 이유만으로 재심을 청구할 수 없는 이유는 무엇인가요?",
+        "output": "형사소송법 제421조 제1항에 따르면 상고기각 판결에 대해서는 특정한 재심 사유가 있는 경우에만 재심을 청구할 수 있으므로, 단순히 상고기각 판결이 부당하다는 이유만으로는 재심을 청구할 수 없습니다.",
+        "originwordCnt": "82",
+        "labelwordCnt": "25"
+    }
+}

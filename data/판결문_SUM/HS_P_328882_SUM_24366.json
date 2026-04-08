@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328882",
+        "caseName": "사기등",
+        "caseNum": "2022노620",
+        "sentenceDate": "2022.09.07.",
+        "courtName": "서울북부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "절취한 신용카드를 이용해 약 11시간 동안 18회에 걸쳐 부정 사용한 점, 피해 회복이 이루어지지 않은 점, 그리고 다수의 사기 전과가 있는 점이 확인되었습니다. 피고인의 상소권 회복에 따라 항소심에서는 원심을 파기하고, 신용카드 부정사용과 사기 행위를 포함한 범행의 경위를 고려해 징역 8월을 선고하며 양형기준보다 경감된 형량을 결정하였습니다.",
+        "originwordCnt": "472",
+        "labelwordCnt": "45"
+    }
+}

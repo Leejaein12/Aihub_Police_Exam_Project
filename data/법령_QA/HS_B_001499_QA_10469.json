@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001499",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19752",
+        "title": "사료관리법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제20조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사료시험검사기관의 지정이 취소된 경우, 그 사실은 어디에 공개되나요?",
+        "output": "사료관리법 제20조의3 제3항에 따르면, 농림축산식품부장관은 사료시험검사기관의 지정을 취소한 경우, 그 사실을 농림축산식품부 인터넷 홈페이지에 공고하여야 합니다.",
+        "originwordCnt": "113",
+        "labelwordCnt": "16"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000966",
+        "promulgDate": "20201222",
+        "effectDate": "20210101",
+        "promulgNum": "17689",
+        "title": "사행행위 등 규제 및 처벌 특례법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사행행위에서 말하는 투전기의 뜻은 무엇인가요?",
+        "output": "사행행위 등 규제 및 처벌 특례법 제2조 제1항 제5호에 따라 투전기란 동전ㆍ지폐 또는 그 대용품을 넣으면 우연의 결과에 따라 재물등이 배출되어 이용자에게 재산상의 이익이나 손실을 주는 기기를 말합니다.",
+        "originwordCnt": "205",
+        "labelwordCnt": "28"
+    }
+}

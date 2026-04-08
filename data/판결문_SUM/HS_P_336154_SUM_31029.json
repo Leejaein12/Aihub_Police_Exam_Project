@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336154",
+        "caseName": "경범죄처벌법위반",
+        "caseNum": "2023고정1002",
+        "sentenceDate": "2024.01.31",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "술에 취한 상태로 112에 전화를 걸어 허위로 범죄 사실을 알리고 경찰관에게 자신이 사람을 죽였다고 거짓말을 하였습니다. 피고인이 3일 전에 같은 사안으로 경고를 받은 바 있음에도 다시 범행에 이른 점을 고려하여 벌금 60만 원이 선고되었습니다.",
+        "originwordCnt": "156",
+        "labelwordCnt": "34"
+    }
+}

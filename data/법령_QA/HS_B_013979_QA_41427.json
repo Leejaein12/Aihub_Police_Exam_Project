@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013979",
+        "promulgDate": "20210101",
+        "effectDate": "20210101",
+        "promulgNum": "00996",
+        "title": "영장심의위원회 규칙",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제23조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "영장심의위원회의 의결 결과와 다른 의견을 가진 심의위원은 어떻게 해야 합니까?",
+        "output": "심의위원회의 의결 결과와 다른 의견을 가진 심의위원은 본인의 의견과 그 이유를 적은 서면을 심의의견서 뒤에 첨부할 수 있습니다. 이는 영장심의위원회 규칙 제23조 제3항에 명시되어 있습니다.",
+        "originwordCnt": "44",
+        "labelwordCnt": "25"
+    }
+}

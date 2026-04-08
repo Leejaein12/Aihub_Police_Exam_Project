@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "318119",
+        "caseName": "업무상횡령등",
+        "caseNum": "2023고단674",
+        "sentenceDate": "2024.02.01",
+        "courtName": "춘천지방법원 강릉지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "이전에 음주운전으로 벌금형을 받은 지 약 1년 만에 다시 혈중 알코올농도 0.153% 상태로 약 1.4km를 운전하였습니다. 음주운전은 다른 사람의 안전을 위협하는 심각한 범죄로, 이에 대해 엄격한 처벌이 필요하다는 점이 고려되었습니다. 반면, 피고인은 범행을 인정하고 재발 방지 노력을 약속한 점이 참작되어 벌금 1500만원이 선고되었습니다.",
+        "originwordCnt": "299",
+        "labelwordCnt": "43"
+    }
+}

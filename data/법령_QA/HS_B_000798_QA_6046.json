@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000798",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19597",
+        "title": "저작권법",
+        "ministry": "문화체육관광부",
+        "fullText": "N",
+        "smClass": "제114조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "저작권 분쟁조정업무를 위해 몇 명의 구성원을 두나요?",
+        "output": "저작권법 제114조의제1항에 따르면 위원회의 분쟁조정업무를 효율적으로 수행하기 위하여 위원회에 1명 또는 3명 이상의 위원으로 구성된 조정부를 두되, 그 중 1명은 변호사의 자격이 있는 사람이어야 합니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "25"
+    }
+}

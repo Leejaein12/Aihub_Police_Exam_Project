@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334828",
+        "caseName": "업무방해등",
+        "caseNum": "2022고정387",
+        "sentenceDate": "2023.02.07",
+        "courtName": "창원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "치과 병원에서 병원 원장에게 폭언을 하고 소란을 일으키며 다른 환자와 병원 관계자에게 불안감을 조성하고, 병원 내 퇴거 요청에도 응하지 않고 병원의 정상 운영을 방해하였습니다. 법원은 피고인에게 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "346",
+        "labelwordCnt": "30"
+    }
+}

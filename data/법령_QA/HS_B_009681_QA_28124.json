@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009681",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19761",
+        "title": "청소년복지 지원법",
+        "ministry": "여성가족부",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "청소년복지 지원법상 가정 밖 청소년의 정의는 무엇인가요?",
+        "output": "청소년복지 지원법 제2조 제5호에 의거하여, 가정 밖 청소년이란 가정 내 갈등ㆍ학대ㆍ폭력ㆍ방임, 가정해체, 가출 등의 사유로 보호자로부터 이탈된 청소년으로서 사회적 보호 및 지원이 필요한 청소년을 말합니다.",
+        "originwordCnt": "89",
+        "labelwordCnt": "25"
+    }
+}

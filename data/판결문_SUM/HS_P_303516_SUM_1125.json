@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "303516",
+        "caseName": "사기",
+        "caseNum": "2020고정35",
+        "sentenceDate": "2020. 5. 20.",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A요양원에서 공모하여 피해자를 기망하여 재물을 교부받은 혐의로 기소되었습니다. 피고인1은 A요양원의 사무국장, 피고인2는 물리치료사로, 결혼식 초대 없이 축의금을 제출하여 식권을 받으려 했습니다. 이들은 피해자로부터 축의금을 빙자해 1,320,000원 상당의 식권 40매를 교부받았습니다. 법원은 피고인들에게 벌금형을 부과하였습니다.",
+        "originwordCnt": "360",
+        "labelwordCnt": "34"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "215255",
+        "caseName": "비상사태하의범죄처벌에관한특별조치령위반피고",
+        "caseNum": "4287형상73",
+        "sentenceDate": "1954.11.30",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "강요된 행위에 대한 주장을 법원이 판단하지 않으면 위법이 되는 이유는 무엇인가요?",
+        "output": "형법 제12조의 강요된 행위는 구형사소송법 제360조 제2항에 해당하는 사유이므로, 이러한 주장에 대해 판단하지 않은 것은 위법입니다.",
+        "originwordCnt": "43",
+        "labelwordCnt": "16"
+    }
+}

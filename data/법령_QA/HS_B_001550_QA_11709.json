@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001550",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "한국은행법",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제96조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국은행 총재는 국회 또는 그 위원회가 제출한 보고서와 관련하여 출석을 요구하는 경우에는 어떻게 해야 합니까?",
+        "output": "한국은행법 제96조 제2항에 명시된 바와 같이, 총재는 국회 또는 그 위원회가 제1항에 따라 제출한 보고서와 관련하여 출석을 요구하는 경우에는 출석하여 답변하여야 합니다.",
+        "originwordCnt": "35",
+        "labelwordCnt": "22"
+    }
+}

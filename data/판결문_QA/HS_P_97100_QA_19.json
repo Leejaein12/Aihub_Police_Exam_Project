@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "97100",
+        "caseName": "양곡관리법위반",
+        "caseNum": "81도164",
+        "sentenceDate": "1982.12.14",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "식품위생법에서 가리키는 '식품'의 의미는 무엇인가요?",
+        "output": "식품위생법 제23조 제1항, 제22조 및 동법시행령 제9조 제36호에 따르면, '식품'이란 의약으로서 섭취하는 것을 제외한 모든 음식물을 의미합니다.",
+        "originwordCnt": "392",
+        "labelwordCnt": "17"
+    }
+}

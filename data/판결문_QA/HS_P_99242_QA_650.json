@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "99242",
+        "caseName": "독점규제및공정거래에관한법률위반",
+        "caseNum": "84도232",
+        "sentenceDate": "1984.04.24",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "부산지부의 설립이 신고된 경우, 지부장의 신고의무는 어떻게 되나요?",
+        "output": "사단법인 한국석유가스유통협회장이 경제기획원에 사업자단체 설립신고를 하면서 부산지부의 설립을 신고하였다면, 독점규제 및 공정거래에 관한 법률 제17조에 따른 부산지부장의 사업자단체 설립신고의무는 면제된 것으로 봄이 상당합니다.",
+        "originwordCnt": "147",
+        "labelwordCnt": "23"
+    }
+}

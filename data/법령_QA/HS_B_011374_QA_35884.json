@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011374",
+        "promulgDate": "20231229",
+        "effectDate": "20240101",
+        "promulgNum": "19864",
+        "title": "의료사고 피해구제 및 의료분쟁 조정 등에 관한 법률",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제23조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "의료분쟁조정위원회 조정부의 결정은 어떤 효력을 가지나요?",
+        "output": "의료사고 피해구제 및 의료분쟁 조정 등에 관한 법률 제23조제6항에 따르면 제23조제4항에 따라 조정부가 내린 결정은 조정위원회가 결정한 것으로 봅니다.",
+        "originwordCnt": "130",
+        "labelwordCnt": "19"
+    }
+}

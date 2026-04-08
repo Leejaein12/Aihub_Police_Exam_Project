@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009632",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19589",
+        "title": "복권 및 복권기금법",
+        "ministry": "기획재정부",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "온라인복권의 1등 당첨자가 없는 경우 당첨금은 어떻게 처리되나요?",
+        "output": "복권 및 복권기금법 제8조 제4항에 따르면, 온라인복권의 1등 당첨자가 없는 경우 해당 당첨금은 5회 범위에서 대통령령으로 정하는 횟수 안에서 다음 회차의 당첨금으로 이월할 수 있습니다.",
+        "originwordCnt": "123",
+        "labelwordCnt": "25"
+    }
+}

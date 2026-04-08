@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "303881",
+        "caseName": "공연음란",
+        "caseNum": "2013고정24",
+        "sentenceDate": "2013. 5. 23.",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "독서실 입구에서 피고인은 16세 여성 등 불특정 다수의 사람들이 지켜보고 있는 가운데 피고인의 바지 지퍼를 열고 음경을 꺼내 이를 흔드는 등 공연히 음란한 행위를 하였습니다. 이에 법원은 형법 제245조에 따라 피고인을 벌금 3,000,000원에 처하였습니다.",
+        "originwordCnt": "155",
+        "labelwordCnt": "34"
+    }
+}

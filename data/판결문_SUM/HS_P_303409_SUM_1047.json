@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "303409",
+        "caseName": "준유사강간, 부착명령",
+        "caseNum": "2016고합421",
+        "sentenceDate": "2016. 12. 16.",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "택시 운전 중 술에 취해 잠이 든 피해자를 성적으로 추행하고 유사강간한 혐의로 기소되었습니다. 법원은 피고인이 과거에도 유사한 성범죄와 절도 전력이 있으며, 성범죄를 다시 저지를 위험성이 크다고 판단하여 징역 3년을 선고하였습니다. 또한 피고인에게 성폭력범죄자 신상정보 공개와 위치추적 전자장치 부착을 명령하였습니다.",
+        "originwordCnt": "1201",
+        "labelwordCnt": "39"
+    }
+}

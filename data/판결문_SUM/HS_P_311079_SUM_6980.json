@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311079",
+        "caseName": "강제추행",
+        "caseNum": "2024고단955",
+        "sentenceDate": "2024.07.04",
+        "courtName": "의정부지방법원 고양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "직장에서 상하관계에 있는 사이로, 피해자를 세 차례에 걸쳐 강제로 추행한 혐의로 기소되었습니다. 피고인은 피해자의 목을 만지고 머리를 쓰다듬거나, 목덜미와 옆구리를 손으로 잡아 추행하였습니다. 법원은 피고인에게 벌금 500만 원을 선고하였습니다. 또한 성폭력 치료프로그램 40시간 이수와 신상정보 등록 의무도 부과되었습니다.",
+        "originwordCnt": "356",
+        "labelwordCnt": "38"
+    }
+}

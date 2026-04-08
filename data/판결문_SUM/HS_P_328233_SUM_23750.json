@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328233",
+        "caseName": "보험사기방지특별법위반",
+        "caseNum": "2023고정1054",
+        "sentenceDate": "2024.02.22.",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "경미한 접촉사고로 상해가 발생하지 않았음에도 입원 치료가 필요한 것처럼 속여 보험금 570만 원 상당을 편취하고, 추가로 500만 원의 합의금을 청구하여 미수에 그친 혐의로 기소되었습니다. 보험사기방지특별법 제8조, 제10조에 따라 벌금 400만 원이 선고되었으며, 미납 시 노역장 유치가 명령되었습니다.",
+        "originwordCnt": "548",
+        "labelwordCnt": "37"
+    }
+}

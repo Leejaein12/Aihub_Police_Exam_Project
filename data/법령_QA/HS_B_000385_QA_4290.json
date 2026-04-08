@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000385",
+        "promulgDate": "20220111",
+        "effectDate": "20230112",
+        "promulgNum": "18755",
+        "title": "내수면어업법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제19조의6",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "어도를 설치한 자가 해야 하는 사후관리 조치는 무엇인가요?",
+        "output": "내수면어업법 제19조의6 제2항에 따라 어도를 설치한 자는 해양수산부령으로 정하는 바에 따라 설치한 어도를 정기적으로 개선ㆍ보수하는 등 사후관리를 하여야 하며, 그에 필요한 인력을 배치할 수 있습니다.",
+        "originwordCnt": "126",
+        "labelwordCnt": "25"
+    }
+}

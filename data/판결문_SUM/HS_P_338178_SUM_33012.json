@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "338178",
+        "caseName": "업무방해등",
+        "caseNum": "2022고단3235",
+        "sentenceDate": "2022.11.30.",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "식당에서 소란을 피운 사건이 발생했습니다. 해당 사건에서 피고인은 식당 운영을 방해하고, 경찰관의 정당한 직무집행을 방해한 혐의를 받았습니다. 경찰관들이 출동했음에도 불구하고, 피고인은 경찰관에게 폭행을 가하는 등 문제를 일으켰습니다. 이로 인해 법원은 피고인에게 벌금 300만 원을 부과하였습니다..",
+        "originwordCnt": "368",
+        "labelwordCnt": "35"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012523",
+        "promulgDate": "20230816",
+        "effectDate": "20240217",
+        "promulgNum": "19688",
+        "title": "항공사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "상업서류송달업이란 어떠한 사업을 말합니까?",
+        "output": "항공사업법 제2조 제28호에 의하면 상업서류송달업이란 타인의 수요에 맞추어 유상으로 우편법 제1조의2제7호 단서에 해당하는 수출입 등에 관한 서류와 그에 딸린 견본품을 항공기를 이용하여 송달하는 사업을 말합니다.",
+        "originwordCnt": "730",
+        "labelwordCnt": "25"
+    }
+}

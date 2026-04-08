@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337259",
+        "caseName": "강제추행등",
+        "caseNum": "2023노628",
+        "sentenceDate": "2023.07.13",
+        "courtName": "의정부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "강제추행 및 상해죄로 각각 원심에서 유죄판결을 받았으나, 두 사건이 형법 제37조 전단의 경합범 관계에 있어 형법 제38조 제1항에 따라 하나의 형을 선고해야 하므로 원심판결들을 파기하고 징역 1년 5월을 선고받았습니다. 또한 성폭력 치료프로그램 40시간 이수, 신상정보 공개 및 고지, 아동·청소년 및 장애인 관련기관 취업제한 3년을 명하였습니다.",
+        "originwordCnt": "393",
+        "labelwordCnt": "45"
+    }
+}

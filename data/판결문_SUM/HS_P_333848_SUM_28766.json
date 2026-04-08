@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333848",
+        "caseName": "업무상횡령등",
+        "caseNum": "2022노2335",
+        "sentenceDate": "2023.05.17",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "신뢰 관계를 이용해 업무상횡령 및 사기 범행을 저질렀고, 동종 전과가 있는 점 등 불리한 정상과, 범행을 인정하고 반성하며 피해자와 합의한 점 등 유리한 정상이 고려되었습니다. 원심의 형량은 지나치게 무겁다고 판단되어, 항소를 받아들여 원심판결을 파기하고 피고인에게 징역 4개월을 선고하되, 집행유예 1년과 40시간의 사회봉사를 명하였습니다.",
+        "originwordCnt": "273",
+        "labelwordCnt": "43"
+    }
+}

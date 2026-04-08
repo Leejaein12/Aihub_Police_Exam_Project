@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "338314",
+        "caseName": "업무방해등",
+        "caseNum": "2022고단5964",
+        "sentenceDate": "2023.04.26.",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "2022년 10월 식당에서 소란을 피우며 영업을 방해하였고, 경찰관에게 폭행을 가한 사실이 확인되었습니다. 해당 인물은 경찰 출동 후에도 폭력적인 행동을 지속하며 공무 집행을 방해하였습니다. 또한, 관공서에서 음주로 인해 심한 소란을 일으켰습니다. 이러한 행동들은 범죄 사실로 인정되어 벌금 7,000,000원에 처해졌습니다.",
+        "originwordCnt": "488",
+        "labelwordCnt": "38"
+    }
+}

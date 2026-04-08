@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "73607",
+        "caseName": "공문서위조,동행사,횡령피고사건",
+        "caseNum": "74노43",
+        "sentenceDate": "1974.10.17",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "횡령죄에서 기수 시기는 언제로 보아야 하나요?",
+        "output": "횡령죄에서 기수 시기는 피고인이 보관하고 있는 재물에 대해 불법영득의 의사를 외부에 객관적으로 표현한 때입니다. 이러한 표현이 처분이나 반환거부의 의사로 나타날 때, 형법 제355조에 따라 횡령죄는 완성되어 기수에 이르게 됩니다.",
+        "originwordCnt": "52",
+        "labelwordCnt": "29"
+    }
+}

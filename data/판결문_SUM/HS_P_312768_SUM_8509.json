@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312768",
+        "caseName": "강제추행",
+        "caseNum": "2023도18061",
+        "sentenceDate": "2024.04.25",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "상고 이유에 대해 대법원은 원심이 강제추행 공소사실을 유죄로 판단한 제1심판결을 적법하게 유지한 것으로 보았습니다. 원심의 판단은 논리와 경험의 법칙을 위반하지 않았고, 자유심증주의의 한계를 벗어나지 않았으며, 강제추행죄의 추행행위와 고의에 관한 법리를 오해한 잘못이 없었습니다. 이에 따라 대법원은 상고를 기각하였습니다.",
+        "originwordCnt": "111",
+        "labelwordCnt": "38"
+    }
+}

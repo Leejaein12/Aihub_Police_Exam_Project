@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014462",
+        "promulgDate": "20230628",
+        "effectDate": "20230628",
+        "promulgNum": "01120",
+        "title": "군사법경찰 수사규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제20조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군사법경찰관이 촉탁 수사 또는 영장 집행의 결과를 통보할 때 어떤 서식을 사용해야 하나요?",
+        "output": "군사법경찰 수사규칙 제20조에 따르면, 수사 또는 영장의 집행을 촉탁받은 군사법경찰관이 그 결과를 통보할 때에는 별지 제7호서식의 촉탁 수사 등 결과 통보서로 회답해야 합니다.",
+        "originwordCnt": "27",
+        "labelwordCnt": "23"
+    }
+}

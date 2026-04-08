@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "240339",
+        "caseName": "계엄사령관의특별조치위반",
+        "caseNum": "73도535",
+        "sentenceDate": "1973.05.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "성인이나 명현의 어록이나 명언을 인용할 때, 어떤 경우에 법에 저촉될 수 있나요?",
+        "output": "성인이나 명현의 어록이나 명언이라도 인용하는 시기, 장소, 방법에 따라 법에 저촉될 수 있습니다. 이 경우, 계엄법 제15조에 따라 특정 시기에 정치활동을 목적으로 한 발언은 법에 저촉될 수 있습니다.",
+        "originwordCnt": "33",
+        "labelwordCnt": "28"
+    }
+}

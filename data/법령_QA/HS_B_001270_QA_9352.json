@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001270",
+        "promulgDate": "20220111",
+        "effectDate": "20230112",
+        "promulgNum": "18755",
+        "title": "법률구조법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제24조",
+        "sentenceType": "나열형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 나열형으로 생성하시오.",
+        "input": "대한법률구조공단은 어떤 재원으로 운영합니까?",
+        "output": "법률구조법 제24조에 따르면 공단은 다음 각 호의 재원으로 운영합니다.1. 정부의 출연금 및 보조금2. 정부 외의 자가 기부하는 현금과 그 밖의 재산3. 제26조에 따른 차입금4. 공단의 사업으로 생기는 수입금5. 그 밖의 수입금",
+        "originwordCnt": "36",
+        "labelwordCnt": "36"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001499",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19752",
+        "title": "사료관리법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제13조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "유전자변형생물체를 원재료로 사용한 사료의 표시의무자와 표시방법 등은 어떻게 정해지나요?",
+        "output": "사료관리법 제13조의2 제2항에 따르면, 제1항에 따른 표시의무자, 표시대상 및 표시방법 등에 필요한 사항은 농림축산식품부장관이 정합니다.",
+        "originwordCnt": "75",
+        "labelwordCnt": "15"
+    }
+}

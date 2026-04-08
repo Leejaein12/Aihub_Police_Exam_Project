@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315367",
+        "caseName": "산지관리법위반등",
+        "caseNum": "2023고단751",
+        "sentenceDate": "2023.09.08",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A는 B주식회사의 현장소장으로서 도로공사사업을 총괄하며, 산지전용허가 및 개발행위 허가 없이 8,522㎡의 준보전 산지를 변경하고, 208그루의 입목을 벌채하는 등 불법 행위를 저질렀습니다. B주식회사는 A의 위반행위와 관련하여 책임을 지게 되었습니다. A에게는 징역 6개월에 집행유예 1년이 선고되었고, B주식회사에는 벌금 700만 원이 부과되었습니다.",
+        "originwordCnt": "516",
+        "labelwordCnt": "39"
+    }
+}

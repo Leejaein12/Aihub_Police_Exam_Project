@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155570",
+        "caseName": "의료법위반",
+        "caseNum": "70도702",
+        "sentenceDate": "1970.05.12",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "자신의 질병을 치료하기 위해 자신이 직접 치료행위를 하는 경우, 이는 의료법에 위반되는 의료업무에 해당하나요?",
+        "output": "자신의 질병에 대해 자신이 직접 치료행위를 하는 것은 의료업무에 해당하지 않으므로, 의료법 제25조에 의해 금지된 의료업무라고 할 수 없습니다. 따라서 이러한 행위는 의료법 위반이 아닙니다.",
+        "originwordCnt": "64",
+        "labelwordCnt": "25"
+    }
+}

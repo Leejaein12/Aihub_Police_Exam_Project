@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000479",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19877",
+        "title": "농지법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "농지취득자격증명을 발급받아 농지를 취득한 후 등기를 신청할 때 필요한 서류는 무엇인가요?",
+        "output": "농지법 제8조 제6항에 따르면, 농지취득자격증명을 발급받아 농지를 취득한 자가 소유권에 관한 등기를 신청할 때는 농지취득자격증명을 첨부해야 합니다.",
+        "originwordCnt": "312",
+        "labelwordCnt": "17"
+    }
+}

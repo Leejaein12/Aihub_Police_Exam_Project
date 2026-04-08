@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014483",
+        "promulgDate": "20230914",
+        "effectDate": "20240126",
+        "promulgNum": "19725",
+        "title": "해상교통안전법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제75조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "선박이 통항로를 횡단해야 하는 경우 어떻게 해야 하나요?",
+        "output": "해상교통안전법 제75조제3항에 따르면 선박은 통항로를 횡단하여서는 아니 됩니다. 다만, 부득이한 사유로 그 통항로를 횡단하여야 하는 경우에는 그 통항로와 선수방향이 직각에 가까운 각도로 횡단하여야 합니다.",
+        "originwordCnt": "308",
+        "labelwordCnt": "24"
+    }
+}

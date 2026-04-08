@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "302869",
+        "caseName": "업무상횡령",
+        "caseNum": "2022고단1171",
+        "sentenceDate": "2022. 6. 15.",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "정신건강의학과에서 상담실장으로 근무하며, 환자로부터 진료비를 계좌이체 방식으로 수납하게 유도하여 총 245,493,409원을 자신의 용도로 사용하였습니다. 피고인은 범행의 경과 및 금액이 중대하여 엄중한 처벌이 필요하다고 판단되었으나, 범행을 인정하고 일부 금액을 변제한 점 등을 고려하여 징역 1년 5개월의 형이 선고되었습니다.",
+        "originwordCnt": "238",
+        "labelwordCnt": "37"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제150조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에 따르면 기호와 정당명을 말소하지 않는 경우는 언제입니까?",
+        "output": "후보자등록기간이 지난 후에 후보자가 사퇴, 사망하거나 등록이 무효로 된 경우라도 투표용지에서 그 기호, 정당명 및 성명을 말소하지 않습니다. 공직선거법 제150조 제8항에 근거하고 있습니다.",
+        "originwordCnt": "378",
+        "labelwordCnt": "23"
+    }
+}

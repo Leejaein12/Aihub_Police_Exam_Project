@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013099",
+        "promulgDate": "20240319",
+        "effectDate": "20240620",
+        "promulgNum": "20399",
+        "title": "공무원 재해보상법",
+        "ministry": "인사혁신처",
+        "fullText": "N",
+        "smClass": "제54조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공무원 재해보상 환수금 및 징수금의 권리 시효는 얼마인가요?",
+        "output": "공무원 재해보상 환수금 및 징수금의 권리는 환수 또는 징수 사유가 발생한 날부터 5년간 행사하지 않으면 시효로 인하여 소멸합니다. 이는 공무원 재해보상법 제54조 제2항에 명시되어 있습니다.",
+        "originwordCnt": "122",
+        "labelwordCnt": "25"
+    }
+}

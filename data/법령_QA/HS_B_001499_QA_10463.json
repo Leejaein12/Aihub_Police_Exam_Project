@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001499",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19752",
+        "title": "사료관리법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제20조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사료시험검사기관으로 지정받기 위해 필요한 조건은 무엇인가요?",
+        "output": "사료관리법 제20조의2 제2항에 따르면, 사료시험검사기관으로 지정받으려는 자는 필요한 시설과 인력을 갖추고, 농림축산식품부령으로 정하는 지정기준에 따라 농림축산식품부장관에게 신청해야 합니다.",
+        "originwordCnt": "105",
+        "labelwordCnt": "18"
+    }
+}

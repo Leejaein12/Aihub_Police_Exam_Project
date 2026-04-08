@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "230645",
+        "caseName": "근로기준법위반",
+        "caseNum": "2005노973",
+        "sentenceDate": "2007.04.06",
+        "courtName": "울산지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "이 사건에서 피고인이 무죄를 선고받은 이유는 무엇인가요?",
+        "output": "피고인이 친인척의 취업을 돕는 과정에서 금전을 수수하였으나, 그것이 영리 목적으로 이루어진 것이라고 단정할 수 없고, 이를 입증할 증거가 부족하여 범죄사실의 증명이 없다고 판단되어 무죄를 선고받았습니다.",
+        "originwordCnt": "1181",
+        "labelwordCnt": "25"
+    }
+}

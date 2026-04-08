@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "73133",
+        "caseName": "특정범죄가중처벌등에관한법률위반등피고사건",
+        "caseNum": "72노1105",
+        "sentenceDate": "1972.12.23",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "특정범죄가중처벌법 제6조에 따른 벌금형의 병과에 작량감경이 가능한가요?",
+        "output": "특정범죄가중처벌법 제6조에 따른 벌금형의 병과에 있어서도 관세법 제194조가 적용되므로 형법 제53조에 따른 작량감경을 할 수 없습니다. 이는 관세법 위반에 대한 가중처벌 규정에 따라 감경이 제한됩니다.",
+        "originwordCnt": "57",
+        "labelwordCnt": "25"
+    }
+}

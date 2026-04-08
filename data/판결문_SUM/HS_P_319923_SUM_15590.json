@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319923",
+        "caseName": "특수상해등",
+        "caseNum": "2023고단21",
+        "sentenceDate": "2023.11.09",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "음주운전이 의심된다는 신고를 받고 출동한 경찰관의 음주측정 요구를 정당한 사유 없이 거부하였습니다. 또한 운전면허가 없는 상태에서 약 1.5km의 구간을 운전한 사실이 인정되었습니다. 음주운전으로 이미 여러 차례 처벌받아 면허가 취소된 상태였으며, 집행유예 기간 중에 이 사건 범행을 저지른 점을 고려하여 징역 8개월의 형을 선고하였습니다.",
+        "originwordCnt": "253",
+        "labelwordCnt": "43"
+    }
+}

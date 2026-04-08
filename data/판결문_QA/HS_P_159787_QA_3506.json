@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "159787",
+        "caseName": "강도상해",
+        "caseNum": "2008노1923",
+        "sentenceDate": "2008.09.26",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "심신미약 상태가 피고인의 형을 감경하는 데 고려될 수 있나요?",
+        "output": "심신미약 상태는 형법 제10조 제2항 및 제55조 제1항 제3호에 따라 형을 감경할 수 있는 사유에 해당합니다. 사건 당시 술에 취해 사물을 변별하거나 의사를 결정할 능력이 미약한 상태로 판단되었으며, 이에 따라 형을 감경하여 판단하는 것이 적절하다고 인정되었습니다.",
+        "originwordCnt": "1121",
+        "labelwordCnt": "36"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "73865",
+        "caseName": "특수강도피고사건",
+        "caseNum": "75노838",
+        "sentenceDate": "1975.09.19",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "주문에서 선고된 형과 이유에서 설시된 형이 일치하지 않을 경우, 어떤 위법이 발생할 수 있나요?",
+        "output": "주문에서는 징역 2년 6월을 선고하면서 이유란에서는 징역 1년 6월이라고 설시한 경우, 이는 이유불비의 위법에 해당합니다. 형사소송법 제361조의5에 따라 판결에 이러한 오류가 있을 경우 위법으로 인정됩니다.",
+        "originwordCnt": "27",
+        "labelwordCnt": "25"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001818",
+        "promulgDate": "20240130",
+        "effectDate": "20240130",
+        "promulgNum": "20172",
+        "title": "수도법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제12조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "수도사업자가 경영 시 해야 할 노력은 무엇인가요?",
+        "output": "수도사업자는 수도사업을 경영하는 경우 합리적인 원가산정에 따른 수도 요금 체계를 확립하고, 수도시설의 정비ㆍ확충 및 수도에 관한 기술 향상을 위하여 노력하여야 합니다. 이는 수도법 제12조 제2항에 명시되어 있습니다.",
+        "originwordCnt": "100",
+        "labelwordCnt": "27"
+    }
+}

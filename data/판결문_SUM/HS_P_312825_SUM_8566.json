@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312825",
+        "caseName": "재물손괴등",
+        "caseNum": "2023고단263",
+        "sentenceDate": "2024.05.31",
+        "courtName": "대전지방법원 공주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "일면식이 없는 피해자의 주거지에 불법적으로 침입하고, 피해자의 소유인 디지털 잠금장치를 손괴한 범행을 저질렀습니다. 법원은 피고인이 정신적인 문제로 인해 범행 당시 사물을 변별할 능력이 미약했음을 인정할 증거가 부족하다고 판단하여 변호인의 주장을 기각하였습니다. 법원은 피고인에게 징역 8개월을 선고하였습니다.",
+        "originwordCnt": "511",
+        "labelwordCnt": "36"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "176059",
+        "caseName": "병역법위반",
+        "caseNum": "2013노3573",
+        "sentenceDate": "2014.04.18",
+        "courtName": "인천지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인의 우울장애가 이 사건 범행 당시 어떤 영향을 미쳤나요?",
+        "output": "피고인은 우울장애로 인해 이 사건 범행 당시 사물을 변별하거나 의사를 결정할 능력이 미약한 상태에 있었습니다. 이에 따라 피고인의 심신미약 주장이 받아들여졌으며, 법원은 형법 제10조 제2항에 따라 피고인의 형을 감경하였습니다.",
+        "originwordCnt": "833",
+        "labelwordCnt": "29"
+    }
+}

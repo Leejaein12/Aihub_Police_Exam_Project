@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001748",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "화물자동차 운수사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "운송사업자는 자동차관리사업자와 어떤 관계를 맺어서는 안 되나요?",
+        "output": "화물자동차 운수사업법 제11조 제4항에 따르면 운송사업자는 고장 및 사고차량 등 화물의 운송과 관련하여 자동차관리사업자와 부정한 금품을 주고받아서는 안 됩니다.",
+        "originwordCnt": "532",
+        "labelwordCnt": "19"
+    }
+}

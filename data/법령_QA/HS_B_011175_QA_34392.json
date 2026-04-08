@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011175",
+        "promulgDate": "20240102",
+        "effectDate": "20240703",
+        "promulgNum": "19886",
+        "title": "국민영양관리법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제22조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "영양사는 어떤 단체를 설립할 수 있나요?",
+        "output": "국민영양관리법 제22조 제1항 규정에 따르면 영양사는 영양에 관한 연구, 영양사의 윤리 확립 및 영양사의 권익증진 및 자질향상을 위하여 대통령령으로 정하는 바에 따라 영양사협회를 설립할 수 있습니다.",
+        "originwordCnt": "43",
+        "labelwordCnt": "26"
+    }
+}

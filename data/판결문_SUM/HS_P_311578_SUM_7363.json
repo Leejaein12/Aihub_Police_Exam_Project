@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311578",
+        "caseName": "교통사고처리특례법위반(치상)등",
+        "caseNum": "2023고단1256",
+        "sentenceDate": "2023.07.20",
+        "courtName": "부산지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올 농도 0.112%의 술에 취한 상태로 약 10km 구간을 운전하던 중, 업무상 주의 의무를 다하지 않아 앞서 가던 차량을 충돌하여 피해자에게 약 3주간의 치료가 필요한 상해를 입혔습니다. 피고인은 잘못을 인정하고 피해자와 합의하였으며, 초범임을 감안하여 징역 6개월에 처하되, 2년간 형의 집행을 유예하였습니다.",
+        "originwordCnt": "350",
+        "labelwordCnt": "41"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "214155",
+        "caseName": "부정수표단속법위반등·사기·상법위반",
+        "caseNum": "78도1297",
+        "sentenceDate": "1978.11.28",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "상법 제622조에 따른 특별배임죄의 주체는 누구인가요?",
+        "output": "상법 제622조에 따른 특별배임죄의 주체는 상법상 회사의 적법한 이사나 대표이사의 지위에 있는 자만이 해당합니다. 즉, 해당 법률에 따라 적법한 이사나 대표이사가 아닌 자는 특별배임죄의 주체가 될 수 없습니다.",
+        "originwordCnt": "23",
+        "labelwordCnt": "28"
+    }
+}

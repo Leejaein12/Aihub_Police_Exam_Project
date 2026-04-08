@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312627",
+        "caseName": "절도등",
+        "caseNum": "2023고정638",
+        "sentenceDate": "2023.08.30",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "PC방에서 청소년증과 신용카드를 절취하고, 절취한 카드로 결제를 시도했으나 잔액 부족으로 미수에 그쳤습니다. 피고인의 범행은 절도와 사기미수에 해당합니다. 피고인은 정신지체장애 3급을 가지고 있지만, 범행의 경위와 수단, 결과, 과거 범죄전력 등을 고려하여 법원은 벌금 100만 원을 선고했습니다.",
+        "originwordCnt": "300",
+        "labelwordCnt": "35"
+    }
+}

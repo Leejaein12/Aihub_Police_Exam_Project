@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334188",
+        "caseName": "스토킹범죄의처벌등에관한법률위반",
+        "caseNum": "2024고정177",
+        "sentenceDate": "2024.04.05",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "전 연인인 피해자에게 접근하지 말라는 경찰 경고를 받은 후에도 피해자에게 반복적으로 전화하여 스토킹 행위를 한 혐의로 기소되었습니다. 피고인은 범행을 인정하고 반성하고 있으며, 초범인 점과 피해자가 처벌을 원하지 않는 점 등을 고려하여 법원은 피고인에게 벌금 300만 원의 형을 선고유예하였습니다.",
+        "originwordCnt": "285",
+        "labelwordCnt": "38"
+    }
+}

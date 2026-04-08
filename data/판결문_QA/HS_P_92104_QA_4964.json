@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "92104",
+        "caseName": "하천법위반등",
+        "caseNum": "73도3068",
+        "sentenceDate": "1974.02.12",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "관리청의 허가 없이 하천에서 모래를 채취하는 행위가 처벌 대상이 되는 이유는 무엇인가요?",
+        "output": "하천에서 모래를 채취하는 행위는 하천법 제25조 제1항에 규정된 하천점용에 해당하며, 관리청의 허가 없이 이를 수행하면 하천법 제81조 제2호에 따라 처벌받을 수 있습니다.",
+        "originwordCnt": "57",
+        "labelwordCnt": "22"
+    }
+}

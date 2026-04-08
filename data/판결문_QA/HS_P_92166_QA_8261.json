@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "92166",
+        "caseName": "업무상과실치상",
+        "caseNum": "74도714",
+        "sentenceDate": "1974.04.23",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "의사가 임부의 태반에서 검사용으로 육편을 떼어 낸 경우, 상해 행위에 해당하는지요?",
+        "output": "의사가 정상적인 진찰행위의 일환으로 임부의 태반에서 검사용으로 육편을 떼어 낸 행위는, 태반이나 기타 모체에 지장을 주지 않는 한 상해 행위에 속하지 않는다고 판단하였습니다. 이는 형법 제257조를 참조한 판결 요지에 따른 것입니다.",
+        "originwordCnt": "36",
+        "labelwordCnt": "31"
+    }
+}

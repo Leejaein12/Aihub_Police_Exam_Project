@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "323591",
+        "caseName": "공직선거법위반",
+        "caseNum": "2022고합545",
+        "sentenceDate": "2023.07.21",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공직선거법에 의거하여 기부행위를 금지하는 규정이 존재함에도 불구하고, 특정 후보자를 위한 자서전을 구입하여 공단 직원들에게 무상으로 배부한 사실이 확인되었습니다. 이 행위는 선거의 공정성을 해칠 위험이 크며, 그에 따른 처벌이 불가피합니다. 따라서 벌금 150만 원을 선고하였으며, 자서전 1개는 몰수되었습니다.",
+        "originwordCnt": "987",
+        "labelwordCnt": "37"
+    }
+}

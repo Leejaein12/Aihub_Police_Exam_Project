@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155209",
+        "caseName": "배임등",
+        "caseNum": "69도2345",
+        "sentenceDate": "1971.03.09",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "강제집행면탈죄가 성립하려면 어떤 요건이 필요한가요?",
+        "output": "강제집행면탈죄가 성립하려면 민사소송법에 따른 강제집행이나 가압류, 가처분 등의 집행을 당할 구체적인 염려가 있는 상태에서 이를 면탈하려는 행위가 있어야 합니다. 따라서 명의신탁등기와 같은 행위는 형법 제327조에 의한 강제집행면탈죄의 구성요건을 충족하지 않습니다.",
+        "originwordCnt": "1179",
+        "labelwordCnt": "30"
+    }
+}

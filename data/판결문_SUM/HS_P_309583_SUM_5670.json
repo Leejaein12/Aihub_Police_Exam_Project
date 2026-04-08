@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "309583",
+        "caseName": "업무상과실치사",
+        "caseNum": "2022고단485",
+        "sentenceDate": "2022. 5. 11.",
+        "courtName": "창원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "응급환자의 MRI 촬영 중 금속제 산소 용기를 촬영실에 반입하여 환자가 머리를 맞아 사망하게 하여 업무상 과실치사 혐의로 기소되었습니다. 법원은 형법 제268조에 따른 주의 의무를 소홀히 하여 중대한 결과를 초래했다고 판단하였으나 해당 유족과 원만히 합의하고, 처벌을 원하지 않는 점을 참작하여 금고 8월에 집행유예 1년을 선고하였습니다.",
+        "originwordCnt": "792",
+        "labelwordCnt": "44"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "236845",
+        "caseName": "국가보안법위반·반공법위반피고사건",
+        "caseNum": "74노1448",
+        "sentenceDate": "1975.04.03",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "국가기밀을 탐지·수집하는 행위가 실행에 착수한 것으로 볼 수 있는 시기는 언제인가요?",
+        "output": "국가보안법 제3조와 형법 제25조에 따르면, 북괴 공작원의 지령을 받아 무인포스트를 설정한 사실만으로는 국가보안법이 규정하는 국가기밀을 탐지·수집하는 행위의 실행에 착수한 것으로 볼 수 없습니다.",
+        "originwordCnt": "24",
+        "labelwordCnt": "23"
+    }
+}

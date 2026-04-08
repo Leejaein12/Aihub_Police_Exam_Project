@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "215291",
+        "caseName": "국가보안법위반및간첩미수피고",
+        "caseNum": "4286형상181",
+        "sentenceDate": "1953.11.09",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "국가보안법 시행 전에 민주학생연맹에 가입한 사람이 법 시행 후 탈퇴하지 않았다면 어떤 법을 적용해야 하나요?",
+        "output": "국가보안법 제3조에 따르면, 국가보안법 시행 전에 민주학생연맹에 가입했더라도 법 시행 후 탈퇴하지 않았다면, 해당 가입 상태가 계속된 것으로 인정되며 국가보안법을 적용해야 합니다.",
+        "originwordCnt": "891",
+        "labelwordCnt": "22"
+    }
+}

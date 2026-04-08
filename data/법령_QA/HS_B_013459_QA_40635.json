@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "013459",
+        "promulgDate": "20221227",
+        "effectDate": "20230628",
+        "promulgNum": "19141",
+        "title": "항만지역등 대기질 개선에 관한 특별법",
+        "ministry": "해양수산부",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "항만지역 대기질 개선 종합계획을 통보받은 관계 행정기관의 장은 어떤 조치를 해야 하나요?",
+        "output": "항만지역등 대기질 개선에 관한 특별법 제8조 제2항에 따르면 통보받은 관계 행정기관의 장은 종합계획의 시행에 필요한 조치를 하여야 합니다.",
+        "originwordCnt": "29",
+        "labelwordCnt": "18"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "334383",
+        "caseName": "전자금융거래법위반",
+        "caseNum": "2024고단594",
+        "sentenceDate": "2024.05.02",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "전자금융거래법에 따르면 접근매체를 대가를 받고 대여하는 행위는 금지되어 있으며, 피고인이 자신의 계좌와 체크카드를 대가로 대여하여 보이스피싱 범죄에 사용되게 했습니다. 피고인은 범행을 인정하고 반성하는 점 등을 고려하여 벌금 100만 원이 선고되었습니다.",
+        "originwordCnt": "225",
+        "labelwordCnt": "30"
+    }
+}

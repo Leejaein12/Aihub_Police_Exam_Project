@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001616",
+        "promulgDate": "20230411",
+        "effectDate": "20231012",
+        "promulgNum": "19341",
+        "title": "교육공무원법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제11조의5",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "교육공무원법에서 국가는 대학 교원 성별 구성을 어떻게 해야 하나요?",
+        "output": "교육공무원법 제11조의5 제3항 규정에 따르면 국가는 국가가 설립ㆍ경영하는 전체 대학 교원 중 특정 성별이 4분의 3을 초과하지 않도록 노력해야 하며, 성별 구성에 관한 연도별 목표 비율은 대통령령으로 정합니다.",
+        "originwordCnt": "260",
+        "labelwordCnt": "28"
+    }
+}

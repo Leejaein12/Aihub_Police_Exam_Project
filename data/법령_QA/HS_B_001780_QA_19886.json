@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001780",
+        "promulgDate": "20240213",
+        "effectDate": "20240517",
+        "promulgNum": "20309",
+        "title": "의료급여법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제23조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "부당이득금을 납부 받은 시장ㆍ군수ㆍ구청장은 그 금액을 어떻게 처리해야 하나요?",
+        "output": "의료급여법 제23조 제10항 규정에 따르면  제9항에 따라 부당이득금을 납부 받은 시장ㆍ군수ㆍ구청장은 이를 제25조에 따른 의료급여기금에 납입하여야 합니다.",
+        "originwordCnt": "319",
+        "labelwordCnt": "18"
+    }
+}

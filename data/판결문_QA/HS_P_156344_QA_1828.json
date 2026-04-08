@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "156344",
+        "caseName": "반공법위반,외국환관리법위반,관세법위반",
+        "caseNum": "67도1087",
+        "sentenceDate": "1967.09.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "반공법에서 편의 제공에 해당하는 행위는 무엇인가요?",
+        "output": "반공법 제7조에서 말하는 편의 제공은 반국가단체의 구성원에게 특별한 방법으로 편의를 제공해야 해당합니다. 일반적인 선박 출입이나 관헌단속 상태를 설명하는 것은 반공법상의 편의 제공으로 볼 수 없습니다.",
+        "originwordCnt": "196",
+        "labelwordCnt": "25"
+    }
+}

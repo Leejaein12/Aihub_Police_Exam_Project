@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012140",
+        "promulgDate": "20240125",
+        "effectDate": "20240131",
+        "promulgNum": "03126",
+        "title": "아동보호심판규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제32조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "아동학대범죄 임시조치 결정의 집행 착수 기간은 어떻게 됩니까?",
+        "output": "아동보호심판규칙 제32조 제3항에 따라 아동학대범죄의 처벌 등에 관한 특례법 제19조제1항제7호의 임시조치 결정은 결정한 때로부터 3개월으로써, 그 기간이 이 경과하면 집행에 착수하지 못합니다.",
+        "originwordCnt": "83",
+        "labelwordCnt": "22"
+    }
+}

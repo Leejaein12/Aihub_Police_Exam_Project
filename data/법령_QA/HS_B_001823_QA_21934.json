@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제51조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "방화지구 안에서 지붕, 방화문, 인접 대지 경계선에 접하는 외벽에 적용되는 구조 및 재료 기준은 무엇인가요?",
+        "output": "방화지구 안의 지붕, 방화문 및 인접 대지 경계선에 접하는 외벽은 국토교통부령으로 정하는 구조 및 재료로 하여야 합니다. 이는 건축법 제51조 제3항에 따라 정해진 기준입니다.",
+        "originwordCnt": "76",
+        "labelwordCnt": "24"
+    }
+}

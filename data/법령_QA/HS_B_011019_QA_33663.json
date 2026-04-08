@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011019",
+        "promulgDate": "20240213",
+        "effectDate": "20240517",
+        "promulgNum": "20309",
+        "title": "산림보호법",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제21조의12",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "수목진료 신청인이 처방전 발급을 요구할 때 나무의사는 어떤 의무가 있나요?",
+        "output": "산림보호법 제21조의12 제3항에 따르면 나무의사는 직접 진료한 수목에 대해 수목진료 신청인으로부터 처방전 등의 발급을 요구받았을 때 정당한 사유 없이 이를 거부하여서는 아니 됩니다.",
+        "originwordCnt": "141",
+        "labelwordCnt": "23"
+    }
+}

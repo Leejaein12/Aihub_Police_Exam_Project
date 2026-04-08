@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "332193",
+        "caseName": "공직선거법위반",
+        "caseNum": "2022고합215",
+        "sentenceDate": "2023.01.17",
+        "courtName": "부산지방법원 동부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "특정 후보자의 회계책임자가 선거비용을 초과 지출하고 금품을 제공한 혐의로 유죄 판결을 받았습니다. 선거법에 따라 선거비용 제한을 위반한 경우와 선거운동 관련 금품 제공의 위반이 인정되었습니다. 범죄가 발생한 경위와 피고인의 반성 및 초범이라는 점 등이 형량 결정에 고려하여 벌금형을 부과하였습니다.",
+        "originwordCnt": "605",
+        "labelwordCnt": "38"
+    }
+}

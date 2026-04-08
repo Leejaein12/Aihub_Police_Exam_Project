@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312346",
+        "caseName": "특수폭행",
+        "caseNum": "2023고정1176",
+        "sentenceDate": "2024.06.19",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "택시를 발로 찼다는 이유로 피해자와 시비가 붙은 피고인은 차량에 보관 중이던 철제 삼단봉을 꺼내 피해자의 목 부위를 1회 폭행하였습니다. 법원은 피고인의 행위가 특수폭행에 해당한다고 판단하여 피고인에게 벌금 100만 원을 선고하였습니다.",
+        "originwordCnt": "151",
+        "labelwordCnt": "30"
+    }
+}

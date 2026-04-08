@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000036",
+        "promulgDate": "20221227",
+        "effectDate": "20221227",
+        "promulgNum": "19103",
+        "title": "통신비밀보호법",
+        "ministry": "과학기술정보통신부,법무부",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "통신비밀보호법상 통신에서의 검열의 정의는 무엇인가요?",
+        "output": "통신비밀보호법 제2조 제6호에 따라 검열의 정의는 우편물에 대하여 당사자의 동의없이 이를 개봉하거나 기타의 방법으로 그 내용을 지득 또는 채록하거나 유치하는 것을 말합니다.",
+        "originwordCnt": "278",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328238",
+        "caseName": "스토킹범죄의처벌등에관한법률위반",
+        "caseNum": "2023고정1168",
+        "sentenceDate": "2024.02.06.",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "거절의사를 지속적으로 표시받고도 62회에 걸쳐 반복적으로 메시지를 전송하여 불안감을 조성하였고, 스토킹 범죄의 처벌 등에 관한 법률 제18조 제1항을 위반하였습니다. 법원은 범행 정도와 피해자의 의사를 고려하여 벌금 400만 원을 선고하고, 추가로 40시간의 스토킹 치료 프로그램 이수를 명령하였습니다.",
+        "originwordCnt": "1312",
+        "labelwordCnt": "36"
+    }
+}

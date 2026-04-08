@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제150조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에서 같은 의석을 가진 정당의 게재순위는 어떻게 정합니까?",
+        "output": "공직선거법 제150조 제5항에 따르면, 같은 의석을 가진 정당이 둘 이상인 경우에는 최근 실시된 비례대표국회의원선거에서의 득표수 순으로 게재순위를 정합니다.",
+        "originwordCnt": "378",
+        "labelwordCnt": "18"
+    }
+}

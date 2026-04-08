@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000202",
+        "promulgDate": "20240123",
+        "effectDate": "20240424",
+        "promulgNum": "20098",
+        "title": "사회복지사업법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제45조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "후원금에 대한 영수증 발급 및 사용 결과 보고 등의 구체적인 관리 절차는 어떻게 정해지나요?",
+        "output": "사회복지사업법 제45조 제2항에 따르면, 후원금에 관한 영수증 발급, 수입 및 사용결과 보고, 그 밖에 후원금 관리 및 공개 절차 등 구체적인 사항은 보건복지부령으로 정합니다.",
+        "originwordCnt": "53",
+        "labelwordCnt": "24"
+    }
+}

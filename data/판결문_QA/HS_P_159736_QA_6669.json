@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "159736",
+        "caseName": "사기·사문서위조·위조사문서행사",
+        "caseNum": "2011고단958",
+        "sentenceDate": "2011.04.22",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형사 사건에서 피고인에게 징역형을 선고한 근거는 무엇인가요?",
+        "output": "피고인에게 징역 10개월의 형이 선고된 것은 법원이 사건의 심리 결과 피고인의 행위가 형사법 위반에 해당한다고 판단했기 때문입니다.",
+        "originwordCnt": "968",
+        "labelwordCnt": "17"
+    }
+}

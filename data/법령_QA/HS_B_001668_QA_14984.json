@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001668",
+        "promulgDate": "20221227",
+        "effectDate": "20221227",
+        "promulgNum": "19105",
+        "title": "형의 집행 및 수용자의 처우에 관한 법률",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제57조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "수형자는 어떤 기준에 따라 교정시설에 수용되며, 어떤 처우를 받습니까?",
+        "output": "형의 집행 및 수용자의 처우에 관한 법률 제57조 제1항에 따르면, 수형자는 제59조의 분류심사의 결과에 따라 적합한 교정시설에 수용되며, 개별처우계획에 따라 그 특성에 알맞은 처우를 받습니다.",
+        "originwordCnt": "269",
+        "labelwordCnt": "25"
+    }
+}

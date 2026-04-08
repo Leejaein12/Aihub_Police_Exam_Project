@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "303378",
+        "caseName": "사기, 사기미수",
+        "caseNum": "2015고단5154",
+        "sentenceDate": "2015. 12. 10.",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "보이스피싱 조직에 가담하여, 피해자로부터 현금을 편취하고자 했습니다. 피고인은 성명불상자의 지시를 받아 피해자의 집을 찾아가 수사기관 요원을 사칭하며 피해자를 속여 현금을 편취하였고, 이후 추가로 현금을 편취하려고 시도하였으나 미수에 그쳤습니다. 법원은 피고인에게 징역 1년 6월을 선고하였습니다.",
+        "originwordCnt": "405",
+        "labelwordCnt": "34"
+    }
+}

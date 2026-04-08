@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "91870",
+        "caseName": "관세법위반(예비적청구·무면허수입죄)",
+        "caseNum": "72도2732",
+        "sentenceDate": "1973.02.13",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "범칙자가 여러 명일 경우 법원은 어떻게 추징을 명해야 하나요?",
+        "output": "관세법 위반 범칙자가 여러 명일 때, 법원은 각 범칙자에 대해 몰수할 물품의 가격 전부를 추징해야 하며, 그것이 전부 납부되지 못할 경우 각 범칙자는 추징의 집행에 복종해야 합니다.",
+        "originwordCnt": "31",
+        "labelwordCnt": "27"
+    }
+}

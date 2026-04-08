@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010356",
+        "promulgDate": "20210518",
+        "effectDate": "20210518",
+        "promulgNum": "18177",
+        "title": "기간제 및 단시간근로자 보호 등에 관한 법률",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "노동위원회 조정 또는 중재결정은 어떠한 법적 효력을 가지나요?",
+        "output": "노동위원회 조정 또는 중재결정은 민사소송법에 따른 재판상 화해와 동일한 효력을 갖습니다. 이는 기간제 및 단시간근로자 보호 등에 관한 법률 제11조 제7항에 명시되어 있습니다.",
+        "originwordCnt": "151",
+        "labelwordCnt": "23"
+    }
+}

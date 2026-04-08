@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "192793",
+        "caseName": "업무상횡령",
+        "caseNum": "2013노959",
+        "sentenceDate": "2013.11.08",
+        "courtName": "전주지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "검사와 피고인의 항소가 모두 기각된 이유는 무엇인가요?",
+        "output": "항소심에서는 원심의 사실 인정과 법률적 판단이 타당하다고 판단하여 피고인과 검사의 항소를 모두 기각하였습니다. 원심 판결에 대한 변경 필요성이 없다고 보아 항소심에서 원심 판결을 유지한 것입니다.",
+        "originwordCnt": "817",
+        "labelwordCnt": "25"
+    }
+}

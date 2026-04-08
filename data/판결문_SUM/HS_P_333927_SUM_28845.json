@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333927",
+        "caseName": "강제추행",
+        "caseNum": "2023고정285",
+        "sentenceDate": "2023.12.08",
+        "courtName": "대전지방법원 천안지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "대리운전기사로 근무 중 피해자와의 접촉 과정에서 강제추행을 저질렀습니다. 법원은 이러한 행위가 범죄에 해당한다고 판단하고, 피고인에게 벌금 500만 원을 부과하며, 미납 시 노역장에 유치할 것을 명령했습니다. 또한, 성폭력 치료프로그램 40시간 이수를 명령하고, 아동 및 청소년 관련 기관에 5년간 취업 제한을 부과하였습니다.",
+        "originwordCnt": "288",
+        "labelwordCnt": "40"
+    }
+}

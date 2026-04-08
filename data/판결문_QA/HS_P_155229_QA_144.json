@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155229",
+        "caseName": "양곡관리법위반",
+        "caseNum": "69도1094",
+        "sentenceDate": "1971.01.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "양곡관리법 제17조가 헌법 제74조에서 정한 위임입법의 한계를 넘은 법 규정으로 볼 수 있나요?",
+        "output": "양곡관리법 제17조는 헌법 제74조에서 정한 위임입법의 한계를 넘은 법 규정으로 볼 수 없으며, 헌법 제10조 제1항에 정한 죄형법정주의의 원칙에도 위배되지 않는다고 판단됩니다.",
+        "originwordCnt": "130",
+        "labelwordCnt": "22"
+    }
+}

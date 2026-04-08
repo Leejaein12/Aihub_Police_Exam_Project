@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005864",
+        "promulgDate": "20210129",
+        "effectDate": "20210129",
+        "promulgNum": "02949",
+        "title": "법정등의질서유지를위한재판에관한규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "법정등의 질서유지를 위한 재판에서 법원은 결정을 어떻게 고지하게 되나요?",
+        "output": "법정등의질서유지를위한재판에관한규칙 제16조에 따르면 제13조 내지 제15조의 규정에 의한 결정은 송달 기타 상당하다고 인정되는 방법에 의하여 고지함으로써 그 효력이 발생합니다.",
+        "originwordCnt": "18",
+        "labelwordCnt": "19"
+    }
+}

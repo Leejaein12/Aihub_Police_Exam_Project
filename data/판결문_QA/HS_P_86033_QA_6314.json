@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86033",
+        "caseName": "특수강도피고",
+        "caseNum": "4288형상23",
+        "sentenceDate": "1955.04.29",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "조선소년령 해당자에 대한 처우는 성년자와 어떻게 다르나요?",
+        "output": "조선소년령 해당자에 대한 처분은 성년자에 대한 처분보다 훨씬 더 관대한 처우가 이루어집니다. 소년범에 대한 처우는 보호와 교화를 중점으로 하며, 이는 성년 범죄자에게 적용되는 처벌보다 완화된 조치입니다.",
+        "originwordCnt": "507",
+        "labelwordCnt": "26"
+    }
+}

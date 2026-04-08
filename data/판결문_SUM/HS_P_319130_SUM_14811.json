@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319130",
+        "caseName": "폭행",
+        "caseNum": "2024고정44",
+        "sentenceDate": "2024.03.21",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "대리운전 기사와 시비가 붙어 피해자의 옷과 가방끈을 잡아당겨 폭행한 혐의로 기소되었습니다. 그러나 형법 제260조 제3항에 따라 폭행죄는 반의사불벌죄로, 피해자가 처벌을 원하지 않는다는 의사를 명시한 서면을 법원에 제출하였습니다. 이에 형사소송법 제327조 제6호에 따라 법원은 공소를 기각하였습니다.",
+        "originwordCnt": "122",
+        "labelwordCnt": "35"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001988",
+        "promulgDate": "20230725",
+        "effectDate": "20240126",
+        "promulgNum": "19573",
+        "title": "수상레저안전법",
+        "ministry": "해양경찰청",
+        "fullText": "N",
+        "smClass": "제26조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "수상레저활동은 언제 금지되나요?",
+        "output": "수상레저안전법 제26조 1항에 따르면 누구든지 해진 후 30분부터 해뜨기 전 30분까지는 수상레저활동을 할 수 없습니다. 다만, 해양수산부령으로 정하는 바에 따라 야간 운항장비를 갖춘 수상레저기구를 사용하는 경우에는 예외가 인정됩니다.",
+        "originwordCnt": "65",
+        "labelwordCnt": "28"
+    }
+}

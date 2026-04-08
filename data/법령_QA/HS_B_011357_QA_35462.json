@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011357",
+        "promulgDate": "20230314",
+        "effectDate": "20240315",
+        "promulgNum": "19234",
+        "title": "개인정보 보호법",
+        "ministry": "개인정보보호위원회",
+        "fullText": "N",
+        "smClass": "제7조의8",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "개인정보 보호법에서 보호위원회는 개인정보 보호를 위한 어떤 교류를 수행합니까?",
+        "output": "보호위원회는 개인정보 보호를 위한 국제기구 및 외국의 개인정보 보호기구와의 교류, 협력을 수행합니다. 개인정보 보호법 제7조의8 제5호에 규정되어 있습니다.",
+        "originwordCnt": "96",
+        "labelwordCnt": "18"
+    }
+}

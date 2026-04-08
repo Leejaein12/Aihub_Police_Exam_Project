@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "314123",
+        "caseName": "모욕",
+        "caseNum": "2023고정416",
+        "sentenceDate": "2023.09.22",
+        "courtName": "수원지방법원 안양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "인터넷 커뮤니티에서 특정 인물을 모욕하는 글을 게시한 행위가 문제되었으며, 사건 당사자는 게시글을 통해 특정 닉네임을 사용하여 상대방을 공개적으로 비난하였습니다. 이에 대해 법원은 법원은 형법 제311조에 의거하여 벌금형을 선고하며, 모욕죄를 인정하였습니다.",
+        "originwordCnt": "151",
+        "labelwordCnt": "30"
+    }
+}

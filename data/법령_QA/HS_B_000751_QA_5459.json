@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000751",
+        "promulgDate": "20230418",
+        "effectDate": "20231019",
+        "promulgNum": "19349",
+        "title": "소프트웨어 진흥법",
+        "ministry": "과학기술정보통신부",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소프트웨어산업 진흥을 위한 연구소 운영에 대해 규정한 내용은 무엇인가요?",
+        "output": "'소프트웨어 진흥법' 제8조 제2항에 따르면, 과학기술정보통신부장관은 소프트웨어 연구를 효율적으로 지원하기 위해 소프트웨어정책연구소(이하 '연구소”라 한다)를 운영할 수 있습니다.",
+        "originwordCnt": "74",
+        "labelwordCnt": "17"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311318",
+        "caseName": "사기등",
+        "caseNum": "2024도1346",
+        "sentenceDate": "2024.04.16",
+        "courtName": "대법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사기, 존속상해, 현주건조물방화, 재물손괴 혐의로 유죄 판결을 받은 사건에서, 상고심에서 원심은 관련 법리를 적법하게 적용하고 증거를 충분히 검토하여 판결을 유지하였습니다. 형사소송법 제383조 제4호에 따라 치료감호 청구와 형의 부당성 주장은 인정되지 않아 대법원은 상고를 기각하였습니다.",
+        "originwordCnt": "242",
+        "labelwordCnt": "34"
+    }
+}

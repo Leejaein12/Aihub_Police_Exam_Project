@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "213861",
+        "caseName": "반공법위반",
+        "caseNum": "76도2938",
+        "sentenceDate": "1976.11.23",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "필적감정에서 감정의 대상이 되는 필적을 선정하고 채취할 때 중요한 점은 무엇인가요?",
+        "output": "필적감정에서 감정의 대상이 되는 필적을 선정하고 채취할 때에는 객관성이 있는 타당한 방법을 사용해야 합니다. 문제된 필적을 보면서 유사하게 시필한 필적과의 동일 여부를 감정하는 경우, 이는 객관성을 결여한 감정자료에 의한 감정으로, 증거로 사용할 수 없습니다.",
+        "originwordCnt": "64",
+        "labelwordCnt": "34"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009505",
+        "promulgDate": "20230411",
+        "effectDate": "20240412",
+        "promulgNum": "19330",
+        "title": "소방기본법",
+        "ministry": "소방청",
+        "fullText": "N",
+        "smClass": "제40조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국소방안전원은 어떤 목적으로 설립되나요?",
+        "output": "소방기술과 안전관리기술의 향상 및 홍보, 그 밖의 교육ㆍ훈련 등 행정기관이 위탁하는 업무의 수행과 소방 관계 종사자의 기술 향상을 위하여 한국소방안전원을 소방청장의 인가를 받아 설립합니다. 이는 소방기본법 제40조 제1항에 근거합니다.",
+        "originwordCnt": "57",
+        "labelwordCnt": "29"
+    }
+}

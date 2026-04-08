@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "319208",
+        "caseName": "폭행",
+        "caseNum": "2024고단1597",
+        "sentenceDate": "2024.08.09",
+        "courtName": "서울동부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "아내와 말다툼 중 피해자의 휴대폰을 빼앗고, 양손으로 밀쳐 폭행한 혐의로 기소되었습니다. 법원은 이러한 행위가 형법 제260조 제1항에 해당하는 폭행죄라고 판단하였으나, 반의사불벌죄인 형법 제260조 제3항에 따라 피해자가 처벌을 원하지 않는다는 의사를 표시하였으므로, 형사소송법 제327조 제6호에 따라 공소를 기각하였습니다.",
+        "originwordCnt": "104",
+        "labelwordCnt": "37"
+    }
+}

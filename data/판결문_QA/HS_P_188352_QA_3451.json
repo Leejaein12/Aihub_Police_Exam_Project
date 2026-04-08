@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "188352",
+        "caseName": "살인",
+        "caseNum": "2011고합1600",
+        "sentenceDate": "2016.01.29",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "18세 미만의 소년이 저지른 범죄에서 무기징역형이 선택될 경우 어떻게 형이 선고되나요?",
+        "output": "18세 미만인 소년이 범죄를 저질러 무기징역형이 선택되었더라도, 특정강력범죄의 처벌에 관한 특례법 제4조 제1항에 따라 형량을 20년의 유기징역형으로 완화하여 선고하게 됩니다.",
+        "originwordCnt": "9812",
+        "labelwordCnt": "20"
+    }
+}

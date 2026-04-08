@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72269",
+        "caseName": "국가보안법위반피고사건",
+        "caseNum": "67노193",
+        "sentenceDate": "1967.09.26",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인의 자수나 고발이 있었을 때, 형의 필요적 감면사유에 대한 주장이 있으면 법원이 반드시 판단해야 하나요?",
+        "output": "피고인이 자수나 고발에 따른 형의 필요적 감면사유를 주장한 경우에는 법원이 반드시 이에 대한 판단을 해야 합니다. 만약 이를 판단하지 않았다면, 이는 형사소송법 제323조에 따라 직권으로 파기할 사유에 해당합니다.",
+        "originwordCnt": "18",
+        "labelwordCnt": "28"
+    }
+}

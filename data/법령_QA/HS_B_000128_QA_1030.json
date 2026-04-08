@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000128",
+        "promulgDate": "20210413",
+        "effectDate": "20211014",
+        "promulgNum": "18042",
+        "title": "임금채권보장법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제7조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "재직 근로자에 대한 대지급금은 몇 번까지 지급될 수 있나요?",
+        "output": "재직 근로자에 대한 대지급금은 해당 근로자가 하나의 사업에 근로하는 동안 1회만 지급됩니다. 이는 중복 지급을 방지하기 위한 규정입니다. 이 내용은 임금채권보장법 제7조의2 제4항에 근거합니다.",
+        "originwordCnt": "253",
+        "labelwordCnt": "24"
+    }
+}

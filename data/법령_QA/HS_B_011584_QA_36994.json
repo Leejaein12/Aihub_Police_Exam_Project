@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011584",
+        "promulgDate": "20230111",
+        "effectDate": "20230111",
+        "promulgNum": "01108",
+        "title": "군검찰 압수물 사무규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제79조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국제형사사법 공조사건에 관한 군검찰 압수물의 처리 절차는 어떻게 적용되나요?",
+        "output": "국제형사사법 공조사건에 관한 압수물의 수리ㆍ영치 및 처분 절차 등에 관하여는 그 성질에 반하지 않는 범위에서 이 규칙을 적용합니다. 이는 군검찰 압수물 사무규칙 제79조 제1항에 근거합니다.",
+        "originwordCnt": "99",
+        "labelwordCnt": "25"
+    }
+}

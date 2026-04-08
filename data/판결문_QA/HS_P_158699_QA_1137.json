@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "158699",
+        "caseName": "업무상 배임",
+        "caseNum": "2009고정2940",
+        "sentenceDate": "2010.05.20",
+        "courtName": "광주지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인들이 회사의 특허출원자 명의를 개인 명의로 변경한 것은 법적으로 문제가 있나요?",
+        "output": "피고인들이 회사의 특허출원자 명의를 개인 명의로 변경한 행위는 회사의 재산상 이익을 침해하는 것으로, 이는 법적으로 문제가 있으며, 재산상 손해를 초래하는 행위로 간주됩니다.",
+        "originwordCnt": "791",
+        "labelwordCnt": "22"
+    }
+}

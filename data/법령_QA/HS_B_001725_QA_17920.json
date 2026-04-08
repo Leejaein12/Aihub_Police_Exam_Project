@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001725",
+        "promulgDate": "20240308",
+        "effectDate": "20240308",
+        "promulgNum": "20370",
+        "title": "공직선거법",
+        "ministry": "중앙선거관리위원회",
+        "fullText": "N",
+        "smClass": "제122조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공직선거법에서 투표참관인 및 사전투표참관인 수당은 얼마입니까?",
+        "output": "공직선거법 제122조의2 제4항에 따르면, 투표참관인 및 사전투표참관인 수당은 10만원으로 정해져 있습니다. 또한, 개표참관인 수당도 10만원이며, 6시간 이상 출석한 사람에게만 지급됩니다.",
+        "originwordCnt": "544",
+        "labelwordCnt": "20"
+    }
+}

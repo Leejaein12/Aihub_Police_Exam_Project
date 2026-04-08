@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "325777",
+        "caseName": "업무상과실치사등",
+        "caseNum": "2022고단1207",
+        "sentenceDate": "2023.10.19.",
+        "courtName": "대전지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "업무상과실치사 및 산업안전보건법 위반 사건에서, 피고인 A는 근로자의 안전조치 의무를 다하지 않아 근로자가 안전모를 착용하지 않은 채 작업하다 추락사고로 사망하게 하였다. 피고인 B 역시 안전교육을 제대로 실시하지 않았으며, 이에 따라 피고인 A는 징역 8개월, 피고인 B는 벌금 7,000,000원에 처해졌다. 피고인 B에 대해서는 벌금에 상당한 금액의 가납을 명하였다.",
+        "originwordCnt": "1099",
+        "labelwordCnt": "48"
+    }
+}

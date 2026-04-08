@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000202",
+        "promulgDate": "20240123",
+        "effectDate": "20240424",
+        "promulgNum": "20098",
+        "title": "사회복지사업법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제6조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "지방자치단체의 장은 사회복지사업 수행 시 어떤 시스템을 활용해야 하나요?",
+        "output": "사회복지사업법 제6조의2 제3항에 따르면, 지방자치단체의 장은 사회복지사업을 수행할 때 관할 복지행정시스템과 제1항에 따른 정보시스템을 전자적으로 연계하여 활용하여야 합니다.",
+        "originwordCnt": "111",
+        "labelwordCnt": "18"
+    }
+}

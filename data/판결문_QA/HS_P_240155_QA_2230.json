@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "240155",
+        "caseName": "조세범처벌법위반",
+        "caseNum": "4290형상151",
+        "sentenceDate": "1957.07.19",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "조세범처벌절차법에 따라 고발을 하기 전에 반드시 거쳐야 하는 절차는 무엇인가요?",
+        "output": "조세범처벌절차법 제9조 제1항에 따르면, 고발을 하기 전에 반드시 범칙자에게 통고를 하고, 그 통고를 접한 범칙자가 이를 이행하지 않을 때에만 고발을 할 수 있습니다. 따라서 통고 없이 이루어진 고발은 법정 절차를 이행하지 않은 것으로 위법합니다.",
+        "originwordCnt": "58",
+        "labelwordCnt": "34"
+    }
+}

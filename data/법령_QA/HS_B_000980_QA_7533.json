@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000980",
+        "promulgDate": "20221115",
+        "effectDate": "20230516",
+        "promulgNum": "19021",
+        "title": "경비업법",
+        "ministry": "경찰청",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "경비지도사시험의 시행 주기와 관련된 사항은 어떻게 정해지나요?",
+        "output": "경비업법 제11조 제3항에 따르면, 경비지도사시험은 매년 1회 이상 시행하며, 시험과목, 시험공고, 시험의 일부가 면제되는 자의 범위 그 밖에 경비지도사시험에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "originwordCnt": "66",
+        "labelwordCnt": "24"
+    }
+}

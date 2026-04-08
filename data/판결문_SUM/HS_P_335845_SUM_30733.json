@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335845",
+        "caseName": "사기",
+        "caseNum": "2022고단3386",
+        "sentenceDate": "2023.07.07",
+        "courtName": "대구지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "전화금융사기 조직과 공모하여 피해자들로부터 현금을 편취한 혐의로 기소되었습니다. 피고인은 조직에서 '현금수거책' 역할을 담당하며 대출을 미끼로 피해자들을 속여 현금을 받아 전달하였습니다. 법원은 피고인이 범행을 인정하였으나 피해 회복이 이루어지지 않았고 보이스피싱 범죄의 사회적 폐해가 크다는 점을 고려하여 징역 1년을 선고하였습니다.",
+        "originwordCnt": "597",
+        "labelwordCnt": "38"
+    }
+}

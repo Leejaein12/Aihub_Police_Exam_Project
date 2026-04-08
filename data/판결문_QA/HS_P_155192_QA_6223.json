@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155192",
+        "caseName": "주거침입등",
+        "caseNum": "71도510",
+        "sentenceDate": "1971.04.30",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "구체적인 범죄사실에 적용해야 할 법규를 판결문에 표시하지 않으면 위법한가요?",
+        "output": "형사소송법 제323조에 따르면, 구체적인 범죄사실에 적용해야 할 실체법규 외에 다른 법규에 대한 적용 취지가 판결문에서 인정되면, 그 법규를 법률적용 부분에 표시하지 않았다고 하여 위법하다고 볼 수 없습니다.",
+        "originwordCnt": "49",
+        "labelwordCnt": "27"
+    }
+}

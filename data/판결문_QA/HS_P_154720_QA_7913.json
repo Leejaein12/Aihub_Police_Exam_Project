@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "154720",
+        "caseName": "특수절도",
+        "caseNum": "71도2239",
+        "sentenceDate": "1972.01.31",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "불상은 절도죄의 객체가 될 수 있나요?",
+        "output": "불상도 절도죄의 객체가 될 수 있습니다. 비록 불상이 종교적인 예배 대상물로 제작되었더라도, 그 재료나 예술적 가치로 인해 재산적 가치를 인정할 수 있는 경우에는 형법 제329조에서 말하는 재물에 해당한다고 볼 수 있습니다.",
+        "originwordCnt": "10",
+        "labelwordCnt": "31"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001777",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "노인복지법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제56조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "입소자격이 없는 자에게 노인복지주택을 임대한 경우 어떤 처벌을 받나요?",
+        "output": "노인복지법 제56조에 따르면 제33조의2제2항을 위반하여 입소자격자 아닌 자에게 노인복지주택을 임대한 자는 2년 이하의 징역에 처하거나 위법하게 임대한 세대의 수에 1천만원을 곱한 금액 이하의 벌금에 처해집니다.",
+        "originwordCnt": "28",
+        "labelwordCnt": "25"
+    }
+}

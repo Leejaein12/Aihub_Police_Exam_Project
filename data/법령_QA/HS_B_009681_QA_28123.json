@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009681",
+        "promulgDate": "20231024",
+        "effectDate": "20240425",
+        "promulgNum": "19761",
+        "title": "청소년복지 지원법",
+        "ministry": "여성가족부",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "청소년복지 지원법상 위기청소년이란 무엇인가요?",
+        "output": "청소년복지 지원법 제2조 제4호에 따르면, 위기청소년이란 가정 문제가 있거나 학업 수행 또는 사회 적응에 어려움을 겪는 등 조화롭고 건강한 성장과 생활에 필요한 여건을 갖추지 못한 청소년을 말합니다.",
+        "originwordCnt": "89",
+        "labelwordCnt": "27"
+    }
+}

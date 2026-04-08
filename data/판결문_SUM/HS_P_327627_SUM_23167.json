@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "327627",
+        "caseName": "공직선거법위반",
+        "caseNum": "2022고합527",
+        "sentenceDate": "2023.05.30.",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "지방선거 기간 중 피고인은 펜스에 게시된 특정 정당 후보자 4명의 선거 벽보를 불상의 도구로 훼손하여 공직선거법을 위반하였습니다. 선거 벽보의 훼손은 선거인의 알 권리와 선거 공정성을 침해하는 행위로 그 죄책이 가볍지 않다고 판단되었습니다. 이에 법원은 범행 경위와 결과 및 범행 후 정황을 고려하여 벌금 200만 원을 선고하였습니다.",
+        "originwordCnt": "261",
+        "labelwordCnt": "46"
+    }
+}

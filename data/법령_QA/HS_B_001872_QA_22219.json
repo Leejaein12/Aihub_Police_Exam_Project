@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001872",
+        "promulgDate": "20210518",
+        "effectDate": "20211119",
+        "promulgNum": "18176",
+        "title": "근로기준법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제24조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "경영상 이유로 근로자를 해고하려면 어떤 조건이 필요하나요?",
+        "output": "근로기준법 제24조 제1항에 따르면, 사용자가 경영상 이유로 근로자를 해고하려면 긴박한 경영상의 필요가 있어야 합니다. 경영 악화를 방지하기 위한 사업의 양도, 인수, 합병은 이러한 긴박한 경영상의 필요로 간주됩니다.",
+        "originwordCnt": "146",
+        "labelwordCnt": "27"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000794",
+        "promulgDate": "20230406",
+        "effectDate": "20230406",
+        "promulgNum": "19326",
+        "title": "방송법",
+        "ministry": "과학기술정보통신부,방송통신위원회",
+        "fullText": "N",
+        "smClass": "제76조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국민관심행사 등에 대한 중계방송권자는 어떻게 중계방송권을 제공해야 하나요?",
+        "output": "방송법 제76조 제3항에 따르면, 국민관심행사 등의 중계방송권자는 일반국민이 시청할 수 있도록 중계방송권을 공정하고 합리적인 가격으로 차별 없이 제공하여야 합니다.",
+        "originwordCnt": "114",
+        "labelwordCnt": "19"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "65024",
+        "caseName": "부정경쟁방지및영업비밀보호에관한법률위반",
+        "caseNum": "2006노100",
+        "sentenceDate": "2008.04.08",
+        "courtName": "광주지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법원이 원심판결을 파기하고 무죄를 선고한 이유는 무엇인가요?",
+        "output": "법원은 원심판결을 파기하고 피고인들에게 무죄를 선고하였습니다. 법원은 유죄를 입증할 충분한 증거가 존재하지 않다고 판단하여 피고인들에게 무죄 판결을 내렸습니다.",
+        "originwordCnt": "7339",
+        "labelwordCnt": "18"
+    }
+}

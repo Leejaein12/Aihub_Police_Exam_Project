@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "151344",
+        "caseName": "살인",
+        "caseNum": "64도34",
+        "sentenceDate": "1964.03.31",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "일반사면령에 의해 형의 선고 효력이 상실된 범죄를 누범가중 사유로 처벌할 수 있나요?",
+        "output": "형법 제35조에 따르면, 일반사면령에 의해 형의 선고 효력이 상실된 범죄를 누범가중 사유로 처벌하는 것은 위법합니다. 사면된 범죄는 누범가중의 근거로 사용할 수 없습니다.",
+        "originwordCnt": "23",
+        "labelwordCnt": "22"
+    }
+}

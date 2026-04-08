@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "146890",
+        "caseName": "마약류관리에관한법률위반(향정)",
+        "caseNum": "2010노83",
+        "sentenceDate": "2010.07.08",
+        "courtName": "서울남부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인이 주장한 양형부당의 이유가 받아들여지지 않은 이유는 무엇인가요?",
+        "output": "피고인이 동종 범죄로 처벌받은 전력이 7회에 달하고 집행유예 기간 중에도 반성하지 않고 범행을 저지른 점을 고려할 때, 원심의 형량이 너무 무겁다고 볼 수 없었습니다.",
+        "originwordCnt": "585",
+        "labelwordCnt": "24"
+    }
+}

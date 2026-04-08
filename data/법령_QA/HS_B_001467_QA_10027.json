@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001467",
+        "promulgDate": "20231031",
+        "effectDate": "20240501",
+        "promulgNum": "19808",
+        "title": "대외무역법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제3조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "우리나라 무역의 원칙은 무엇인가요?",
+        "output": "'대외무역법' 제3조제1항에 따르면, 우리나라의 무역은 헌법에 따라 체결ㆍ공포된 무역에 관한 조약과 일반적으로 승인된 국제법규에서 정하는 바에 따라 자유롭고 공정한 무역을 조장함을 원칙으로 합니다.",
+        "originwordCnt": "57",
+        "labelwordCnt": "23"
+    }
+}

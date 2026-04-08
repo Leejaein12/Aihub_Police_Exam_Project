@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "233421",
+        "caseName": "배임",
+        "caseNum": "2019고정62",
+        "sentenceDate": "2019.09.19",
+        "courtName": "서울북부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "차량의 등록명의를 이전하지 않은 채 매도한 것이 배임죄에 해당하는 이유는 무엇인가요?",
+        "output": "피고인이 차량의 등록명의를 이전하지 않은 채 이를 매도한 행위는 타인의 재산을 보호·관리할 임무를 위배하여 피해자 회사의 담보 능력을 감소시켰기 때문에, 이는 배임죄로 처벌받게 됩니다. 형법 제355조 제2항에 근거합니다.",
+        "originwordCnt": "755",
+        "labelwordCnt": "28"
+    }
+}

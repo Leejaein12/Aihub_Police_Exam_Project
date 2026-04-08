@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "302728",
+        "caseName": "공직선거법위반",
+        "caseNum": "2011고합15",
+        "sentenceDate": "2011. 3. 16.",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "지방선거에서 후보자로 출마하였으며, 전 후보자에 대해 허위 사실을 공표한 혐의로 기소되었습니다. 공소사실에 따르면 피고인은 선거유세 중 전 후보자가 골당 인허가와 관련해 금품을 수수하였다고 주장하였습니다. 법원은 피고인이 공표한 내용이 허위가 아니며, 피고인의 발언이 허위 사실로 인한 고의가 없다고 판단하여 무죄를 선고하였습니다.",
+        "originwordCnt": "2038",
+        "labelwordCnt": "40"
+    }
+}

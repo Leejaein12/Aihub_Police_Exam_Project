@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001777",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "노인복지법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제6조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "인권교육의 대상, 내용, 방법 등 필요한 사항은 어떻게 정해지나요?",
+        "output": "인권교육의 대상, 내용, 방법, 인권교육기관의 지정 및 지정취소, 업무정지 처분의 기준 등 필요한 사항은 보건복지부령으로 정해집니다. 이는 노인복지법 제6조의3 제5항에서 규정하고 있습니다.",
+        "originwordCnt": "156",
+        "labelwordCnt": "22"
+    }
+}

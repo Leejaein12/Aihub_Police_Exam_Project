@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "317289",
+        "caseName": "사기",
+        "caseNum": "2023고단2721",
+        "sentenceDate": "2023.10.25",
+        "courtName": "서울남부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "출퇴근 관리 프로그램 개발을 명목으로 500만 원을 편취하고, 택배회사 직원 출장비를 이유로 1,000만 원을 추가로 편취한 사기 혐의로 기소되었습니다. 그러나 피해금액이 모두 변제되고 처벌불원의사를 밝힌 점이 양형에 반영되었습니다. 이에 따라 형법 제347조 제1항에 근거해 벌금 500만 원에 처해졌습니다.",
+        "originwordCnt": "390",
+        "labelwordCnt": "38"
+    }
+}

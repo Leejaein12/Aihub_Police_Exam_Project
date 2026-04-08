@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000912",
+        "promulgDate": "20200204",
+        "effectDate": "20200204",
+        "promulgNum": "16927",
+        "title": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제104조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "가석방의 적격 여부를 심사하기 위하여 군교도소에 설치하여야 하는 위원회는 무엇인가요?",
+        "output": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 제104조에 따르면, 형법 제72조에 따른 가석방의 적격 여부를 심사하기 위하여 교도소에 가석방심사위원회를 둡니다.",
+        "originwordCnt": "16",
+        "labelwordCnt": "21"
+    }
+}

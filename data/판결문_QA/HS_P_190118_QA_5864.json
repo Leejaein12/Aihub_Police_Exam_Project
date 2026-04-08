@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "190118",
+        "caseName": "강도상해피고사건",
+        "caseNum": "78노737",
+        "sentenceDate": "1978.08.10",
+        "courtName": "서울고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인의 항소이유로 제기된 형량이 부당하다는 주장은 받아들여졌나요?",
+        "output": "형사소송법 제364조 제4항에 따라, 법원은 피고인이 주장하는 형량이 부당하다는 이유를 검토하였으나, 범행의 동기, 수단, 결과, 피해정도 등을 고려할 때 원심의 형량이 적당하다고 판단하여 피고인의 항소를 기각하였습니다.",
+        "originwordCnt": "262",
+        "labelwordCnt": "26"
+    }
+}

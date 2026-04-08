@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001671",
+        "promulgDate": "20240213",
+        "effectDate": "20240213",
+        "promulgNum": "20265",
+        "title": "형사소송법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제266조의6",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "재판장은 검사에게 법원에 제출된 서면에 대한 설명을 요구할 수 있습니까?",
+        "output": "형사소송법 제266조의6제4항에 따르면 재판장은 검사, 피고인 또는 변호인에게 공소장 등 법원에 제출된 서면에 대한 설명을 요구하거나 그 밖에 공판준비에 필요한 명령을 할 수 있습니다.",
+        "originwordCnt": "67",
+        "labelwordCnt": "24"
+    }
+}

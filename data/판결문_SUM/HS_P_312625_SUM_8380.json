@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "312625",
+        "caseName": "사기",
+        "caseNum": "2023고정1564",
+        "sentenceDate": "2024.04.05",
+        "courtName": "대구지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "섬유공장 대표로서 피해자들에게 거짓으로 차용 의사를 표시하고 금전을 편취하였습니다.  피고인은 개인적 급전을 필요로 한다며 피해자들을 속여, 돈을 송금받았습니다. 그러나 피고인은 회사 경영 악화로 변제할 의사와 능력이 없었던 상황이었습니다. 법원은 피고인에게 벌금 1,500만 원을 선고하였습니다.",
+        "originwordCnt": "322",
+        "labelwordCnt": "35"
+    }
+}

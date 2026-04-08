@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012493",
+        "promulgDate": "20201229",
+        "effectDate": "20210701",
+        "promulgNum": "17812",
+        "title": "한국식품안전관리인증원의 설립 및 운영에 관한 법률",
+        "ministry": "식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국식품안전관리인증원의 정관을 변경하려면 어떤 절차를 따라야 하나요?",
+        "output": "한국식품안전관리인증원의 설립 및 운영에 관한 법률 제5조 제2항에 따르면, 인증원이 정관을 변경하려면 식품의약품안전처장의 인가를 받아야 합니다.",
+        "originwordCnt": "78",
+        "labelwordCnt": "16"
+    }
+}

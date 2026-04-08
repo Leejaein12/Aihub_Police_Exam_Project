@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010109",
+        "promulgDate": "20170314",
+        "effectDate": "20170314",
+        "promulgNum": "14583",
+        "title": "범죄피해자 보호법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제7조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "보호시설의 설치ㆍ운영 기준 및 절차에 관한 사항은 어떻게 정해지나요?",
+        "output": "범죄피해자 보호법 제7조 제4항에 따라보호시설의 설치ㆍ운영 기준, 입소ㆍ퇴소의 기준 및 절차, 위탁운영의 절차, 감독의 기준 및 절차와 제3항에 따른 상담 및 치료 프로그램의 운영 등에 관한 사항은 대통령령으로 정합니다.",
+        "originwordCnt": "120",
+        "labelwordCnt": "29"
+    }
+}

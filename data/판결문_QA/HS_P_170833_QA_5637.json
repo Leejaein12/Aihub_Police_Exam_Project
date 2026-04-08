@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "170833",
+        "caseName": "공무집행 방해·공용물건 손상·국회회의장 소동",
+        "caseNum": "2009노2244",
+        "sentenceDate": "2010.09.30",
+        "courtName": "서울남부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "국회의원이 국회에서 출입문을 파손한 행위는 면책특권의 대상이 될 수 있나요?",
+        "output": "국회의원이 국회에서 출입문을 파손한 행위는 직무상의 발언과 표결에 통상적으로 부수하여 행하여지는 행위라고 볼 수 없으므로, 헌법 제45조에 따른 면책특권의 대상이 되지 않습니다.",
+        "originwordCnt": "2468",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "009883",
+        "promulgDate": "20220111",
+        "effectDate": "20220712",
+        "promulgNum": "18752",
+        "title": "근로자퇴직급여 보장법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제37조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "금융거래정보의 유청은 무엇을 위해 필요한 최소한도에 그쳐야 할까요?",
+        "output": "근로자퇴직급여 보장법 제37조 제3항에 따르면 동조 제1항에 따른 금융거래정보의 요청은 퇴직연금제도 운영의 건전성 감독을 위하여 필요한 최소한도에 그쳐야 합니다.",
+        "originwordCnt": "202",
+        "labelwordCnt": "19"
+    }
+}

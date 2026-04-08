@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011152",
+        "promulgDate": "20240213",
+        "effectDate": "20240517",
+        "promulgNum": "20309",
+        "title": "매장유산 보호 및 조사에 관한 법률",
+        "ministry": "국가유산청",
+        "fullText": "N",
+        "smClass": "제28조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가와 지방자치단체는 확인된 매장유산에 대해 어떤 조치를 해야 하나요?",
+        "output": "매장유산 보호 및 조사에 관한 법률 제28조에 따르면, 국가와 지방자치단체는 확인된 매장유산의 기록을 작성하고 유지하며, 그 포장된 지역에 대한 적절한 보호 방안을 강구하여야 합니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "24"
+    }
+}

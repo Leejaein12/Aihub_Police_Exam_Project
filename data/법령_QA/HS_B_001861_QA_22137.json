@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001861",
+        "promulgDate": "20211221",
+        "effectDate": "20220622",
+        "promulgNum": "18601",
+        "title": "석탄산업법",
+        "ministry": "산업통상자원부",
+        "fullText": "N",
+        "smClass": "제39조의5",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "소멸된 채굴권에 조광권이 설정된 경우, 채굴권의 존속기간은 어떻게 되나요?",
+        "output": "석탄산업법 제39조의5에 따르면, 제39조의3 제1항 또는 제3항에 따라 소멸된 채굴권에 조광권이 설정된 경우, 해당 채굴권은 조광권의 존속기간이 끝나는 날까지 존속하는 것으로 봅니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "22"
+    }
+}

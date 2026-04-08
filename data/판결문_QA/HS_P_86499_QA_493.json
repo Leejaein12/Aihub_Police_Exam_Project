@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86499",
+        "caseName": "비상사태하의범죄처벌에관한특별조치령",
+        "caseNum": "4291형상481",
+        "sentenceDate": "1959.05.29",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "비상사태에서 발생한 범죄에 대해 적용해야 할 법률은 무엇인가요?",
+        "output": "비상사태에서 발생한 범죄는 형법 제1조 제1항의 원칙에 따라, 비상사태하의 범죄처벌에 관한 특별조치령 제4조 제5호와 제5조 등을 적용하여 처단해야 하며, 국가보안법을 적용하는 것은 부적절합니다.",
+        "originwordCnt": "99",
+        "labelwordCnt": "23"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000207",
+        "promulgDate": "20201229",
+        "effectDate": "20210630",
+        "promulgNum": "17778",
+        "title": "대한적십자사 조직법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제8조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가와 지방자치단체는 적십자사의 업무 수행에 어떻게 협조할 수 있습니까?",
+        "output": "국가와 지방자치단체는 적십자사의 요청이 있는 경우 적십자사의 업무 수행에 관하여 협조할 수 있습니다. 이는 대한적십자사 조직법 제8조 제4항에 근거합니다.",
+        "originwordCnt": "77",
+        "labelwordCnt": "19"
+    }
+}

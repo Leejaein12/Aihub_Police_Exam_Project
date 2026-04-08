@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010507",
+        "promulgDate": "20200218",
+        "effectDate": "20210101",
+        "promulgNum": "17007",
+        "title": "산림조합의 구조개선에 관한 법률",
+        "ministry": "산림청",
+        "fullText": "N",
+        "smClass": "제10조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시ㆍ도지사는 계약이전을 명령받은 조합에 대해 어떤 조치를 취해야 하나요?",
+        "output": "산림조합의 구조개선에 관한 법률 제10조 제5항에 따르면, 시ㆍ도지사는 제2항에 따라 계약이전을 명령받은 조합에 대해 제1항에 따른 관리인을 선임하여야 합니다.",
+        "originwordCnt": "254",
+        "labelwordCnt": "19"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "010107",
+        "promulgDate": "20240206",
+        "effectDate": "20240507",
+        "promulgNum": "20190",
+        "title": "방위사업법",
+        "ministry": "국방부,방위사업청,산업통상자원부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "방위사업청장은 방위력개선사업분야 예산을 어떻게 편성하고 보고해야 하나요?",
+        "output": "방위사업법 제14조 제1항에 따르면, 방위사업청장은 국방중기계획 및 국방부장관의 예산편성지침을 근거로 방위력개선사업분야 예산을 편성하고 국방부장관에게 보고하여야 합니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "16"
+    }
+}

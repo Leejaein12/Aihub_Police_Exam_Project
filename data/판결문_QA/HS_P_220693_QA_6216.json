@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "220693",
+        "caseName": "의료기기법위반·상표법위반",
+        "caseNum": "2008고단6672",
+        "sentenceDate": "2008.12.11",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "경합범에 대한 가중처벌이 어떻게 적용되나요?",
+        "output": "형법 제37조 전단, 제38조 제1항 제2호, 제50조에 따르면, 경합범의 경우 가장 중한 죄의 형량에 다른 죄들을 가중하여 처벌하는 경합범가중이 적용됩니다. 이 사건에서도 피고인들은 경합범가중으로 처벌받았습니다.",
+        "originwordCnt": "1817",
+        "labelwordCnt": "25"
+    }
+}

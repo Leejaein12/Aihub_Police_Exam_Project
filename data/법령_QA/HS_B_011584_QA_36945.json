@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011584",
+        "promulgDate": "20230111",
+        "effectDate": "20230111",
+        "promulgNum": "01108",
+        "title": "군검찰 압수물 사무규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제52조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "군검찰 압수물 사무규칙에 따르면, 압수된 주민등록증이나 여권이 효력을 상실한 경우 어떻게 처리되나요?",
+        "output": "압수된 주민등록증, 운전면허증, 여권 등 신분을 증명하는 서류가 효력을 상실한 경우에는 이를 환부하지 않고 폐기할 수 있습니다. 이는 군검찰 압수물 사무규칙 제52조에 근거합니다.",
+        "originwordCnt": "21",
+        "labelwordCnt": "23"
+    }
+}

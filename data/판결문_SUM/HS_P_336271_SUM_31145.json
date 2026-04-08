@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336271",
+        "caseName": "특수협박등",
+        "caseNum": "2023고단3006",
+        "sentenceDate": "2024.04.16",
+        "courtName": "부산지방법원 서부지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "공장의 부도로 인해 임금과 퇴직금을 받지 못할 상황이 되자 공장 건물 내에서 위험물질을 사용해 방화를 예고하며 협박했습니다. 피고인은 야간 근로자들이 대기 중인 상황에서 피해자에게 불을 지르겠다고 말하고 라이터와 에폭시를 사용해 위협하며 협박하였습니다. 법원은 피고인을 징역 6개월에 처하되 2년간 집행을 유예하였습니다.",
+        "originwordCnt": "314",
+        "labelwordCnt": "40"
+    }
+}

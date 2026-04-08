@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "323723",
+        "caseName": "사기등",
+        "caseNum": "2022노2844",
+        "sentenceDate": "2023.02.09",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "항소에서 피고인은 원심의 징역 10개월 형이 무겁다고 주장하였으나, 본 법원은 피고인이 범행을 인정하고 반성하며 피해자와 합의한 점을 유리하게 평가했습니다. 그러나 피해자의 식당에서의 욕설과 업무 방해, 이전 유사 범죄로 처벌받은 전력이 불리한 요소로 작용했습니다. 종합적으로 원심의 형이 지나치게 무겁지 않다고 판단하여 항소를 기각하였습니다.",
+        "originwordCnt": "254",
+        "labelwordCnt": "42"
+    }
+}

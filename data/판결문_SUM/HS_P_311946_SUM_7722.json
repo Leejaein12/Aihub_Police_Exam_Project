@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "311946",
+        "caseName": "근로기준법위반등",
+        "caseNum": "2022노3800",
+        "sentenceDate": "2023.12.20",
+        "courtName": "인천지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "학원에서 일한 강사 D이 프리랜서로 용역계약을 체결한 것일 뿐 고용된 근로자가 아니므로 근로기준법이 적용되지 않는다고 주장하며 항소하였으나, 법원은 원심에서 적법하게 채택한 증거에 기초하여 강사 D이 고용된 근로자에 해당한다고 판단하였습니다. 따라서 원심의 판단에 사실오인이나 법리오해가 없다고 보아 피고인의 항소를 기각하였습니다.",
+        "originwordCnt": "174",
+        "labelwordCnt": "39"
+    }
+}

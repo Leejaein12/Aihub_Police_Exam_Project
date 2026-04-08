@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "310072",
+        "caseName": "특정범죄가중처벌등에관한법률위반(운전자폭행등)등",
+        "caseNum": "2023고단975",
+        "sentenceDate": "2024.05.01",
+        "courtName": "춘천지방법원 원주지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "교통사고처리특례법을 위반하여 피해자에게 사망 결과를 초래한 과실로 벌금 10,000,000원을 선고받았습니다. 사고 당시 피고인은 교차로에서 주의의무를 게을리하여 자전거와 충돌하였으며, 피해자는 헬멧 미착용 및 교차로 진입 시 적절한 확인을 하지 않은 점이 인정되었습니다.",
+        "originwordCnt": "368",
+        "labelwordCnt": "31"
+    }
+}

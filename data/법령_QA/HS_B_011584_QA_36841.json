@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011584",
+        "promulgDate": "20230111",
+        "effectDate": "20230111",
+        "promulgNum": "01108",
+        "title": "군검찰 압수물 사무규칙",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제5조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "검찰서기가 군검찰 압수물을 수리할 때의 절차는 무엇인가요?",
+        "output": "검찰서기는 압수물을 수리할 때 사건송치부 또는 압수물 송부부 등에 서명 또는 날인하는 등의 방법으로 수리하고, 그 사건송치부 또는 압수물 송부부 등을 반환해야 합니다. 이는 군검찰 압수물 사무규칙 제5조 제1항에 근거한 것입니다.",
+        "originwordCnt": "82",
+        "labelwordCnt": "31"
+    }
+}

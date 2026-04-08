@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000798",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19597",
+        "title": "저작권법",
+        "ministry": "문화체육관광부",
+        "fullText": "N",
+        "smClass": "제112조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "한국저작권위원회의 명칭을 누구나 사용할 수 있나요?",
+        "output": "저작권법 제112조제4항에 따르면 위원회가 아닌 자는 한국저작권위원회의 명칭을 사용하지 못합니다.",
+        "originwordCnt": "78",
+        "labelwordCnt": "10"
+    }
+}

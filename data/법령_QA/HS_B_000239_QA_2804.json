@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000239",
+        "promulgDate": "20230418",
+        "effectDate": "20231019",
+        "promulgNum": "19365",
+        "title": "건설기계관리법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제3조의3",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국토교통부는 건설기계의 수급조절에 관한 사항을 심의하게 위해 어떤 단체를 둡니까?",
+        "output": "건설기계의 수급조절에 관한 사항을 심의하기 위하여 국토교통부에 건설기계수급조절위원회를 둔다. 이는 건설기계관리법 제3조의3 제1항에 명시되어 있습니다.",
+        "originwordCnt": "67",
+        "labelwordCnt": "15"
+    }
+}

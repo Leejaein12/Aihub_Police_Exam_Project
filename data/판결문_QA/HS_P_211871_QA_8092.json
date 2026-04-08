@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "211871",
+        "caseName": "국가보안법위반등",
+        "caseNum": "82도754",
+        "sentenceDate": "1982.06.08",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "검사가 작성한 피의자신문조서는 어떤 조건에서 증거능력을 가질 수 있나요?",
+        "output": "검사가 작성한 피의자신문조서는 피의자였던 피고인이 공판정에서 서명과 날인을 인정하여 진정성립을 인정하는 경우, 그 진술이 특히 임의로 이루어지지 않아 신빙성이 의심되지 않는다면 증거능력을 가집니다. 이는 형사소송법 제312조에 근거한 판단입니다.",
+        "originwordCnt": "67",
+        "labelwordCnt": "28"
+    }
+}

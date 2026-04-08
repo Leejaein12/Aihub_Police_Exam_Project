@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001748",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "화물자동차 운수사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제9조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "화물운송 종사자격이 취소된 후 얼마 동안 자격을 취득할 수 없나요?",
+        "output": "화물자동차 운수사업법 제9조 제2호에 따르면 제23조제1항에 따라 화물운송 종사자격이 취소된 날부터 2년이 지나지 않은 자는 화물운송 종사자격을 취득할 수 없습니다.",
+        "originwordCnt": "154",
+        "labelwordCnt": "20"
+    }
+}

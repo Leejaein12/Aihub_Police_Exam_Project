@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "215295",
+        "caseName": "사기·횡령",
+        "caseNum": "4287형상76",
+        "sentenceDate": "1955.02.25",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "신형법의 사기죄 형량이 구형법의 사기죄 형량보다 경한 이유는 무엇인가요?",
+        "output": "신형법 제347조에 규정된 사기죄의 형량에는 벌금형이 선택 가능하도록 되어 있어, 벌금형이 없는 구형법 제246조의 단일형에 비해 신형법의 형량이 경하다고 할 수 있습니다.",
+        "originwordCnt": "18",
+        "labelwordCnt": "22"
+    }
+}

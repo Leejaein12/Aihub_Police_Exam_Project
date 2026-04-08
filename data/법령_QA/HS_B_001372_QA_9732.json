@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001372",
+        "promulgDate": "20201020",
+        "effectDate": "20201020",
+        "promulgNum": "17560",
+        "title": "감사원법",
+        "ministry": "감사원",
+        "fullText": "N",
+        "smClass": "제19조의4",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "감사연구실의 조직과 운영에 필요한 사항은 어떻게 정합니까?",
+        "output": "감사원법 제19조의4 제3항에 따르면 감사연구원의 조직과 운영에 필요한 사항은 감사원규칙으로 정합니다.",
+        "originwordCnt": "48",
+        "labelwordCnt": "11"
+    }
+}

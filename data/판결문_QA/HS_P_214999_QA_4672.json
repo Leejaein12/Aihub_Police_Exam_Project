@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "214999",
+        "caseName": "공문서위조·공문서위조행사·사기·군용물횡령",
+        "caseNum": "67도1112",
+        "sentenceDate": "1968.12.06",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "자수에 대해 재판부가 형의 감면 여부를 판단하지 않은 것이 적법한가요?",
+        "output": "군법회의법 제368조 제2항에서 말하는 형의 감면 이유는 필요적 감면사유만을 포함하며, 자수와 같은 임의적 감면사유는 포함되지 않으므로 재판부가 자수에 대해 별도로 판단하지 않은 것은 적법하다고 판단하였습니다.",
+        "originwordCnt": "195",
+        "labelwordCnt": "25"
+    }
+}

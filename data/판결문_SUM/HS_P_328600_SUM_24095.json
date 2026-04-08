@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328600",
+        "caseName": "사기등",
+        "caseNum": "2022고단4688",
+        "sentenceDate": "2023.02.10.",
+        "courtName": "서울북부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "부동산중개회사로 위장된 보이스피싱 조직에 고용되어 특정 위치의 건물 조사와 사진 촬영 업무를 맡은 것으로 믿고 일하였으며, 지시받은 현금 수거와 송금 행위에 대한 불법성을 인지하지 못했다고 주장했습니다. 법원은 피고인이 불법에 대한 의심을 가졌다는 점을 입증할 증거가 부족하며, 미필적 고의가 없었다고 판단하여 무죄를 선고했습니다.",
+        "originwordCnt": "1148",
+        "labelwordCnt": "42"
+    }
+}

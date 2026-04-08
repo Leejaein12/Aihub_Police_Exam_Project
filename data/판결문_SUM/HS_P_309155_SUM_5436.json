@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "309155",
+        "caseName": "공갈미수",
+        "caseNum": "2014고단1746",
+        "sentenceDate": "2015. 3. 27.",
+        "courtName": "제주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "다세대 주택 분양업무를 하는 중 마을 발전기금 납부를 요구하며 협박한 사건이 발생하였습니다. 협박한 사람은 해당 주택 맞은편 도로에 현수막을 게시하고 마을 발전기금 500만 원을 주지 않으면 계속 현수막을 게시하겠다고 말하며 분양 업무를 방해하였습니다. 이러한 협박 행위는 공갈죄에 해당하여 피고인에게 4,000,000원의 벌금을 처하였습니다.",
+        "originwordCnt": "514",
+        "labelwordCnt": "42"
+    }
+}

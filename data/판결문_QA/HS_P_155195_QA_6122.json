@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "155195",
+        "caseName": "공문서위조등",
+        "caseNum": "71도496",
+        "sentenceDate": "1971.04.30",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "범죄를 공모한 후 실행행위에 직접 가담하지 않더라도 공동정범의 죄책을 면할 수 있나요?",
+        "output": "형법 제30조에 따르면, 범죄행위를 공모한 후 그 실행행위에 직접 가담하지 않더라도 다른 공모자가 분담하여 실행한 행위에 대해 공동정범으로서의 죄책을 면할 수 없습니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "22"
+    }
+}

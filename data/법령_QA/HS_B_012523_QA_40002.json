@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012523",
+        "promulgDate": "20230816",
+        "effectDate": "20240217",
+        "promulgNum": "19688",
+        "title": "항공사업법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제56조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "외국 국적을 가진 항공기가 항행을 통한 유상운송에 대한 허가를 받은 경우, 국내의 유상 운송도 할 수 있습니까?",
+        "output": "항공사업법 제56조에 의하면 제54조, 제55조 또는 항공안전법 제101조 단서에 따른 허가를 받은 항공기는 유상으로 국내 각 지역 간의 여객 또는 화물을 운송해서는 안 됩니다.",
+        "originwordCnt": "26",
+        "labelwordCnt": "24"
+    }
+}

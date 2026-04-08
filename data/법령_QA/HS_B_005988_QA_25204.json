@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005988",
+        "promulgDate": "20211231",
+        "effectDate": "20220101",
+        "promulgNum": "03016",
+        "title": "형사소송규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제123조의7",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "피고인 또는 변호인은 검사의 증명사실과 증거신청에 대해 의견을 밝힐 수 있나요?",
+        "output": "형사소송규칙 제123조의7제2항에 따르면 피고인 또는 변호인은 검사의 증명사실과 증거신청에 대한 의견을 밝히고, 공소사실에 관한 사실상ㆍ법률상 주장과 그에 대한 증거를 신청하여야 합니다.",
+        "originwordCnt": "57",
+        "labelwordCnt": "21"
+    }
+}

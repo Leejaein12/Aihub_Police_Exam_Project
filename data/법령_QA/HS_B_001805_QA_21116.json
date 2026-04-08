@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001805",
+        "promulgDate": "20240213",
+        "effectDate": "20240514",
+        "promulgNum": "20307",
+        "title": "식품위생법",
+        "ministry": "식품의약품안전처",
+        "fullText": "N",
+        "smClass": "제47조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "위생등급 지정과 관련된 기술적 지원은 누가 할 수 있나요?",
+        "output": "식품위생법 제47조의2 제7항에 따르면, 식품의약품안전처장, 시ㆍ도지사 또는 시장ㆍ군수ㆍ구청장은 제1항에 따라 위생등급을 지정받았거나 받으려는 식품접객영업자에게 필요한 기술적 지원을 할 수 있습니다.",
+        "originwordCnt": "272",
+        "labelwordCnt": "20"
+    }
+}

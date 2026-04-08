@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001777",
+        "promulgDate": "20230516",
+        "effectDate": "20240517",
+        "promulgNum": "19409",
+        "title": "노인복지법",
+        "ministry": "보건복지부",
+        "fullText": "N",
+        "smClass": "제39조의20",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "노인보호전문기관의 장은 노인학대 재발 방지를 위한 지원을 위해 어떤 요청을 할 수 있나요?",
+        "output": "노인복지법 제39조의20 제3항에 따르면, 노인보호전문기관의 장은 제2항에 따른 지원을 위해 관계 기관, 법인, 단체, 시설에 협조를 요청할 수 있습니다.",
+        "originwordCnt": "90",
+        "labelwordCnt": "19"
+    }
+}

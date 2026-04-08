@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "337064",
+        "caseName": "교통사고처리특례법위반(치사)",
+        "caseNum": "2024고단349",
+        "sentenceDate": "2024.05.09",
+        "courtName": "수원지방법원 안양지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "좌회전 중 전방을 주의 깊게 살피지 않아 횡단하던 보행자를 충격하여 사망에 이르게 하였습니다. 유족과 합의하고 깊이 반성하는 점, 피해자가 적색신호에 무단횡단한 점 등을 참작하여 법원은 교통사고처리특례법 제3조 제1항과 형법 제268조를 적용하여 벌금 1,000만 원을 선고하였습니다.",
+        "originwordCnt": "370",
+        "labelwordCnt": "35"
+    }
+}

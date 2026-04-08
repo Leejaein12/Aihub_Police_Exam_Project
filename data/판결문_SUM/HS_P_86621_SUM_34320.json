@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86621",
+        "caseName": "공갈등",
+        "caseNum": "4292형상998",
+        "sentenceDate": "1960.04.27",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "원심은 피고인의 범행에 대해 경합범 가중을 하면서, 장기 징역 10년인 공갈죄 대신 장기 징역 7년인 출판물에 의한 명예훼손죄를 기본형으로 하여 가중하였습니다. 이는 형법 제38조 제1항 제2호에 따른 경합범 가중의 적용에 있어 잘못된 판단을 한 것으로 위법합니다.",
+        "originwordCnt": "51",
+        "labelwordCnt": "36"
+    }
+}

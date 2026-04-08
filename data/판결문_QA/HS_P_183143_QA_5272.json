@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "183143",
+        "caseName": "특허법위반",
+        "caseNum": "2015고정302",
+        "sentenceDate": "2015.05.15",
+        "courtName": "인천지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "어떤 이유로 특허권 침해에 대한 벌금형을 선고받았다고 보았습니까?",
+        "output": "피해 회사의 특허로 등록된 '팔레타이저용 조립형 포장박스'와 동일한 구성요소를 가진 포장박스를 제작하고 판매함으로써 특허권을 침해했다고 판단하였습니다. 이에 따라 피고인을 벌금 5,000,000원에 처하기로 결정하였습니다.",
+        "originwordCnt": "151",
+        "labelwordCnt": "23"
+    }
+}

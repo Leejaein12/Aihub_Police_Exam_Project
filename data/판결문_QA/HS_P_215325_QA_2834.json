@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "215325",
+        "caseName": "농지개혁법위반·업무방해·상해",
+        "caseNum": "4287형상118",
+        "sentenceDate": "1955.02.15",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "농지개혁 전 당사자 간의 합의가 농지개혁법에 저촉되는 경우, 그 합의는 유효한가요?",
+        "output": "특별한 경우를 제외하고는 농지개혁 전 당사자 간에 있었던 합의가 농지개혁법에 저촉되면 그 합의는 무효입니다. 이는 농지개혁법 제11조와 동법시행령 제33조에 따라 해석됩니다.",
+        "originwordCnt": "547",
+        "labelwordCnt": "21"
+    }
+}

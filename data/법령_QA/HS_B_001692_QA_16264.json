@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001692",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19582",
+        "title": "형법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제170조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "과실로 자기 소유의 물건을 불태워 공공의 위험을 발생시킨 경우 어떤 처벌을 받게 되나요?",
+        "output": "형법 제170조 제2항에 따르면, 과실로 자기 소유인 동법 제166조의 물건 또는 동법 제167조에 기재한 물건을 불태워 공공의 위험을 발생하게 한 자는 1천500만원 이하의 벌금에 처합니다.",
+        "originwordCnt": "39",
+        "labelwordCnt": "25"
+    }
+}

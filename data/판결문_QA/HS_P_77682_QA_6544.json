@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "77682",
+        "caseName": "석유사업법위반",
+        "caseNum": "2005노73",
+        "sentenceDate": "2005.05.17",
+        "courtName": "서울동부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법원은 피고인에게 어떤 형벌과 조건부 명령을 내렸나요?",
+        "output": "법원은 피고인에게 징역 10월을 선고하였으며, 선고 전 구금된 33일을 형기에 산입했습니다. 또한, 이 판결 확정일부터 2년간 징역형 집행을 유예하고, 피고인에게 1년간 보호관찰과 120시간의 사회봉사를 명령하였습니다.",
+        "originwordCnt": "638",
+        "labelwordCnt": "25"
+    }
+}

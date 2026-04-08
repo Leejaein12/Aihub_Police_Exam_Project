@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000888",
+        "promulgDate": "20221213",
+        "effectDate": "20230614",
+        "promulgNum": "19066",
+        "title": "사립학교법",
+        "ministry": "교육부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "개방이사 추천이 지연될 경우 어떻게 하나요?",
+        "output": "사립학교법 제14조 제5항에 따르면, 개방이사추천위원회가 30일 이내에 추천을 완료하지 못하면 관할청이 추천하게 됩니다.",
+        "originwordCnt": "154",
+        "labelwordCnt": "13"
+    }
+}

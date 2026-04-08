@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "315078",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단1384",
+        "sentenceDate": "2023.07.14",
+        "courtName": "광주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "혈중알코올농도 0.184%의 술에 취한 상태로 약 50미터 구간을 운전하여 도로교통법을 위반한 혐의로 기소되었습니다. 피고인은 음주운전으로 벌금형을 받은 전력이 있습니다. 법원은 피고인에게 징역 1년을 선고하였으나, 2년간 집행을 유예하고 120시간의 사회봉사와 40시간의 준법운전강의 수강을 명하였습니다.",
+        "originwordCnt": "173",
+        "labelwordCnt": "33"
+    }
+}

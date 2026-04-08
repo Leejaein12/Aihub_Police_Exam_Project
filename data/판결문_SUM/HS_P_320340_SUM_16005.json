@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "320340",
+        "caseName": "폭행등",
+        "caseNum": "2024고단142",
+        "sentenceDate": "2024.08.14",
+        "courtName": "인천지방법원 부천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "A와 B는 한 주점에서 서로 폭행과 협박을 저질렀습니다. A는 피해자의 발언에 격분해 술병을 들고 협박하고, 숟가락과 젓가락으로 피해자의 얼굴을 때리는 등 폭행을 가하였습니다. B는 A의 행동을 보고 술병을 들어 피해자를 위협했습니다. 법원은 A에게 벌금 100만 원을 선고하고, 1년간 집행을 유예했으며, B에게는 선고를 유예했습니다. 양형에는 피고인들이 합의하고 초범인 점 등이 참작되었습니다.",
+        "originwordCnt": "368",
+        "labelwordCnt": "50"
+    }
+}

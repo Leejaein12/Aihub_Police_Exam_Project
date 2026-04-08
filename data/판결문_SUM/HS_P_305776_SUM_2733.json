@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "305776",
+        "caseName": "폭행",
+        "caseNum": "2015고정1682",
+        "sentenceDate": "2015. 9. 11.",
+        "courtName": "서울중앙지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "사무실에서 상무이사의 지시에 따르지 않은 피해자에게 화가 난 피고인은, 폭언을 하고, 피해자의 얼굴을 향해 커피잔을 쳐 커피를 튀게 하는 등 폭행을 저질렀습니다. 이에 법원은 형법 제260조 제1항에 따라 피고인에게 벌금 30만 원을 선고하였습니다.",
+        "originwordCnt": "154",
+        "labelwordCnt": "33"
+    }
+}

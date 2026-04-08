@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001872",
+        "promulgDate": "20210518",
+        "effectDate": "20211119",
+        "promulgNum": "18176",
+        "title": "근로기준법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제14조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "사용자는 기숙사에 관한 규정을 어떻게 근로자에게 알려야 하나요?",
+        "output": "사용자는 대통령령 중 기숙사에 관한 규정과 제99조 제1항에 따른 기숙사규칙을 기숙사에 게시하거나 갖추어 두어 기숙하는 근로자에게 널리 알려야 합니다. 이는 근로기준법 제14조 제2항에 근거합니다.",
+        "originwordCnt": "53",
+        "labelwordCnt": "24"
+    }
+}

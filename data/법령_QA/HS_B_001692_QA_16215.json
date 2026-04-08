@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001692",
+        "promulgDate": "20230808",
+        "effectDate": "20240209",
+        "promulgNum": "19582",
+        "title": "형법",
+        "ministry": "법무부",
+        "fullText": "N",
+        "smClass": "제133조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "뇌물을 약속, 공여 또는 공여의 의사를 표시한 자에 대한 형벌은 어떻게 되나요?",
+        "output": "형법 제133조 제1항에 따르면, 동법 제129조부터 제132조까지에 기재한 뇌물을 약속, 공여 또는 공여의 의사를 표시한 자는 5년 이하의 징역 또는 2천만원 이하의 벌금에 처합니다.",
+        "originwordCnt": "41",
+        "labelwordCnt": "24"
+    }
+}

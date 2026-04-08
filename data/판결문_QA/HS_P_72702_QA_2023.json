@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "72702",
+        "caseName": "현주건조물방화등피고사건",
+        "caseNum": "69노550",
+        "sentenceDate": "1970.01.29",
+        "courtName": "대구고등법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "방화죄의 기수시기는 언제로 보아야 하나요?",
+        "output": "방화죄의 기수시기는 화력에 의하여 목적물의 일부가 손괴된 때를 기준으로 판단합니다. 이는 형법 제164조에 따라 방화죄의 성립을 위해 반드시 목적물의 전부가 손괴되거나 그 본질적 효용을 상실해야 하는 것은 아닙니다.",
+        "originwordCnt": "27",
+        "labelwordCnt": "28"
+    }
+}

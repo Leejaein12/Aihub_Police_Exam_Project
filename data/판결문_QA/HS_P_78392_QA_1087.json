@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "78392",
+        "caseName": "집회및시위에관한법률위반·도로교통법위반",
+        "caseNum": "2006노201",
+        "sentenceDate": "2006.08.25",
+        "courtName": "서울남부지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피고인들이 신고 없이 시위를 주최한 것에 대해 법원은 어떻게 판단했나요?",
+        "output": "법원은 피고인들이 관할 경찰서장에게 신고하지 않고 차량을 이용해 시위를 주최한 사실을 인정하였고, 이에 따라 피고인들에게 벌금형을 선고했습니다.",
+        "originwordCnt": "2170",
+        "labelwordCnt": "17"
+    }
+}

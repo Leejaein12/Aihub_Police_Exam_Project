@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "210943",
+        "caseName": "점유이탈물횡령·절도·사기·여신전문금융업법위반·사기미수·컴퓨터등사용사기·야간건조물침입절도",
+        "caseNum": "2019노4332",
+        "sentenceDate": "2019.10.11",
+        "courtName": "수원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘법원 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "검사가 항소한 이유는 무엇인가요?",
+        "output": "검사는 원심에서 선고된 형이 너무 가볍다고 주장하며 항소했습니다. 그는 피고인에게 부과된 형량이 부당하게 가볍다고 판단하여 항소를 제기한 것입니다.",
+        "originwordCnt": "161",
+        "labelwordCnt": "18"
+    }
+}

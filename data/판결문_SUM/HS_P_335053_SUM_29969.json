@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335053",
+        "caseName": "강제추행",
+        "caseNum": "2024노649",
+        "sentenceDate": "2024.08.22",
+        "courtName": "부산지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "강제추행 사건 항소심에서 원심의 형량이 합리적인 범위를 벗어나지 않았다고 판단하였습니다. 검사는 형이 가볍다고 주장했지만, 항소심은 피고인의 여러 양형조건을 충분히 고려한 원심의 판단이 타당하다고 보았습니다. 새로운 불리한 사정이나 변화도 없었으므로 검사의 주장은 받아들여지지 않았습니다. 이에 따라 검사의 항소를 기각하였습니다.",
+        "originwordCnt": "180",
+        "labelwordCnt": "38"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "011540",
+        "promulgDate": "20230816",
+        "effectDate": "20240217",
+        "promulgNum": "19661",
+        "title": "생물다양성 보전 및 이용에 관한 법률",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제4조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "국가와 지방자치단체는 생물다양성 보전을 위해 어떤 책무를 가지고 있나요?",
+        "output": "생물다양성 보전 및 이용에 관한 법률 제4조 제1항에 따르면, 국가와 지방자치단체는 제3조의 기본원칙에 따른 조치들을 적극적으로 마련하고 시행할 책무를 집니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "20"
+    }
+}

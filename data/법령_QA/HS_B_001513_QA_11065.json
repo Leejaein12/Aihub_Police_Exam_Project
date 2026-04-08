@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001513",
+        "promulgDate": "20231024",
+        "effectDate": "20240125",
+        "promulgNum": "19754",
+        "title": "식물방역법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제35조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "시ㆍ도지사는 공동 방제를 위해 어떤 지원을 요청할 수 있나요?",
+        "output": "식물방역법 제35조에 따르면, 시ㆍ도지사는 제1항에 따른 공동 방제를 위하여 필요하다고 인정하면, 「농업협동조합법」에 따른 조합, 중앙회 또는 조합공동사업법인에 장비 또는 인력 등의 지원을 요청할 수 있습니다.",
+        "originwordCnt": "88",
+        "labelwordCnt": "25"
+    }
+}

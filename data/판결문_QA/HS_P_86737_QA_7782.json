@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "86737",
+        "caseName": "업무상과실치사상",
+        "caseNum": "4294형상5",
+        "sentenceDate": "1961.03.22",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "업무상 과실치사상죄에서 '업무'는 반드시 법규상 면허를 요하는 경우에만 해당하나요?",
+        "output": "업무상 과실치사상죄에서 '업무'는 사람의 사회생활에서 계속적으로 종사하는 사무를 의미하며, 이에 대한 각별한 경험이나 법규상의 면허가 꼭 필요하지는 않습니다. 반복적인 행위가 업무로 인정될 수 있으며, 형법 제268조에 따라 판단됩니다.",
+        "originwordCnt": "101",
+        "labelwordCnt": "28"
+    }
+}

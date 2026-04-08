@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333648",
+        "caseName": "업무상과실치사등",
+        "caseNum": "2023고단1753",
+        "sentenceDate": "2024.05.02",
+        "courtName": "대전지방법원 천안지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "편의점에서 피해자를 협박하며 업무를 방해하고, 커터칼을 이용해 다른 피해자들을 협박하였습니다. 이에 형법 제314조 제1항 및 제284조, 제283조 제1항에 따라 업무방해와 특수협박 혐의로 징역 6월이 선고되었습니다. 피해자와 합의하고 정신질환이 범행에 영향을 미친 점은 양형에 참작되었습니다",
+        "originwordCnt": "425",
+        "labelwordCnt": "34"
+    }
+}

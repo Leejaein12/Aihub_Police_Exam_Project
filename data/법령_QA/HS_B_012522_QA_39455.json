@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "012522",
+        "promulgDate": "20240109",
+        "effectDate": "20240109",
+        "promulgNum": "19987",
+        "title": "공항시설법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제2조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "공항에서 공항구역이란 어떤 지역을 말하는가?",
+        "output": "공항시설법 제2조 제4호에 따르면 공항구역이란 공항으로 사용되고 있는 지역과 공항ㆍ비행장개발예정지역 중 국토의 계획 및 이용에 관한 법률 제30조 및 제43조에 따라 도시ㆍ군계획시설로 결정되어 국토교통부장관이 고시한 지역을 말합니다.",
+        "originwordCnt": "434",
+        "labelwordCnt": "27"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "005988",
+        "promulgDate": "20211231",
+        "effectDate": "20220101",
+        "promulgNum": "03016",
+        "title": "형사소송규칙",
+        "ministry": "대법원",
+        "fullText": "N",
+        "smClass": "제96조의15",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "피의자의 심문은 어디에서 이루어져야 하나요?",
+        "output": "형사소송규칙 제96조의15에 따르면 피의자의 심문은 법원청사내에서 하여야 합니다. 다만, 피의자가 출석을 거부하거나 질병 기타 부득이한 사유로 법원에 출석할 수 없는 때에는 경찰서, 구치소 기타 적당한 장소에서 심문할 수 있습니다.",
+        "originwordCnt": "27",
+        "labelwordCnt": "29"
+    }
+}

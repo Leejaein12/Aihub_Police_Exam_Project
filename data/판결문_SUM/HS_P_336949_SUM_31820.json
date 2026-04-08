@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "336949",
+        "caseName": "절도등",
+        "caseNum": "2023노6452",
+        "sentenceDate": "2024.01.11",
+        "courtName": "수원지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자전거를 절취한 후 자신이 부착한 잠금장치를 회수하려다 절도미수 혐의로 기소되었습니다. 자전거 절취 의도가 없었다고 주장하며, 법원은 이 주장을 받아들여 절도미수 부분에 대해 무죄를 선고하였습니다. 다만, 이전에 자전거를 절취한 혐의에 대해서는 유죄로 인정되어 형법 제329조 및 제35조에 따라 징역 4개월을 선고하였습니다.",
+        "originwordCnt": "852",
+        "labelwordCnt": "40"
+    }
+}

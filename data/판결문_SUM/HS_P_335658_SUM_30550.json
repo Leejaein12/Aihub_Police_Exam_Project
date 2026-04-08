@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "335658",
+        "caseName": "도로교통법위반(음주운전)",
+        "caseNum": "2023고단894",
+        "sentenceDate": "2024.04.17",
+        "courtName": "대구지방법원 김천지원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "이전에 음주운전으로 두 차례 처벌받은 전력이 있음에도 불구하고 혈중알코올농도 0.078% 상태에서 다시 1km 구간을 운전하여 도로교통법을 위반하였습니다. 이에 법원은 피고인에게 징역 1년을 선고하되, 2년간의 집행유예와 보호관찰 및 40시간의 준법운전강의 수강을 명령하였습니다.",
+        "originwordCnt": "263",
+        "labelwordCnt": "31"
+    }
+}

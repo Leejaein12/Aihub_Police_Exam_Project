@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "153517",
+        "caseName": "공용서류등무효·수뢰·알선수뢰·증뢰물전달",
+        "caseNum": "66도567",
+        "sentenceDate": "1966.10.18",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "상소심에서 경합범 인정을 위법하다고 파기하고 1죄로 처단할 경우, 경한 형을 선고해야 하나요?",
+        "output": "상소심이 경합범 인정을 위법하다고 파기하고 1죄로 처단할 경우, 반드시 경한 형을 선고할 필요는 없습니다. 원심과 같은 형을 선고하더라도 형법 제141조 제1항에 따라 위법이 아닙니다.",
+        "originwordCnt": "1219",
+        "labelwordCnt": "24"
+    }
+}

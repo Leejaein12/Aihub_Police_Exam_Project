@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "333329",
+        "caseName": "사기등",
+        "caseNum": "2023노365",
+        "sentenceDate": "2023.10.19",
+        "courtName": "전주지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "여러 차례 사기, 절도, 주거침입 등으로 기소된 인물은 집행유예 중 재범하여 25회 이상의 범행을 저질렀고, 피해 복구가 미흡하였습니다. 다만, 생계형 범행이며 일부 피해자와 합의한 점 등을 고려하여 항소심에서 원심의 징역 1년 4개월 형을 무겁다고 보고 징역 1년으로 감형하였습니다. 또한, 배상신청은 합의에 따른 변제 등으로 인해 모두 각하되었습니다.",
+        "originwordCnt": "399",
+        "labelwordCnt": "47"
+    }
+}

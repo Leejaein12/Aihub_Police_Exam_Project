@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "240185",
+        "caseName": "공정증서원본불실기재등",
+        "caseNum": "69도2059",
+        "sentenceDate": "1970.12.29",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형법 제228조 제1항에서 말하는 공정증서는 어떤 성질을 가진 문서를 의미하나요?",
+        "output": "형법 제228조 제1항에서 말하는 공정증서는 권리와 의무에 관한 공정증서만을 의미하며, 사실증명에 관한 문서는 이에 포함되지 않습니다. 따라서 권리의무에 변동을 주지 않는 토지대장은 공정증서에 해당하지 않습니다.",
+        "originwordCnt": "34",
+        "labelwordCnt": "25"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "215265",
+        "caseName": "국가보안법위반피고",
+        "caseNum": "4284형상129",
+        "sentenceDate": "1952.08.26",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "원심 판결서에 판결선고일만 기재되고 판결작성 연월일이 기재되지 않은 경우, 이는 판결서의 효력에 영향을 미치나요?",
+        "output": "판결서에 판결선고일만 기재되고 판결작성 연월일이 기재되지 않은 경우라도, 이는 형사소송법 제410조에 비추어 판결서의 효력을 좌우하는 요소가 아니므로 판결서의 효력에 영향을 미치지 않습니다.",
+        "originwordCnt": "2598",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "228277",
+        "caseName": "위증교사",
+        "caseNum": "4291형상489",
+        "sentenceDate": "1960.04.06",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "재심개시결정이 확정되기 전에 본안 심판을 진행하는 것이 적법한가요?",
+        "output": "구 형사소송법 제50조에 의하면 재심개시결정은 그 등본이 당사자에게 송달된 후에 그 효력을 발생하며, 구 형사소송법 제511조에 따라 결정이 확정된 후에만 본안 심판을 할 수 있으므로, 재심개시결정이 확정되기 전에 본안 심판을 진행하는 것은 위법합니다.",
+        "originwordCnt": "199",
+        "labelwordCnt": "33"
+    }
+}

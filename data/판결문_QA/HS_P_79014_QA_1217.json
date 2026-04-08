@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "79014",
+        "caseName": "절도·주거침입",
+        "caseNum": "2007노5190",
+        "sentenceDate": "2008.02.12",
+        "courtName": "수원지방법원",
+        "courtCode": "400202",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "법원이 피고인의 자백에 대해 보강증거가 없다고 판단한 이유는 무엇인가요?",
+        "output": "법원은 피고인의 수사기관 및 법정에서의 자백과 압수조서, 압수물 사진이 피고인의 자백이 진실하다는 것을 인정할 만한 수준에 이르지 못하여, 자백에 대한 보강증거로 인정할 수 없다고 판단하였습니다. 이에 따라 법원은 주문에서 검사의 항소를 기각하였습니다.",
+        "originwordCnt": "331",
+        "labelwordCnt": "32"
+    }
+}

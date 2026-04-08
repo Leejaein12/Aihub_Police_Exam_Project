@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "238405",
+        "caseName": "공직선거법위반·지방공무원법위반",
+        "caseNum": "2023도3258",
+        "sentenceDate": "2023.06.01",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "자수가 인정되는 경우에도 법원이 자수감경을 하지 않을 수 있나요?",
+        "output": "형법 제52조 제1항에 따라 자수가 인정되는 경우에도 법원은 자수감경을 임의로 결정할 수 있으므로, 자수감경을 하지 않거나 자수감경 주장에 관한 판단을 하지 않았다고 해서 위법하다고 할 수 없습니다.",
+        "originwordCnt": "860",
+        "labelwordCnt": "27"
+    }
+}

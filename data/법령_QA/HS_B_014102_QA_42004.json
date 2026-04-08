@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "014102",
+        "promulgDate": "20210622",
+        "effectDate": "20210623",
+        "promulgNum": "31796",
+        "title": "군사경찰의 직무수행에 관한 법률 시행령",
+        "ministry": "국방부",
+        "fullText": "N",
+        "smClass": "제19조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "위원이 제척 사유에 해당하는 경우 어떻게 해야 하나요?",
+        "output": "군사경찰의 직무수행에 관한 법률 시행령 제19조 제3항에 따르면 위원이 제1항 각 호에 따른 제척 사유에 해당하는 경우에는 스스로 해당 안건의 심의ㆍ의결에서 회피해야 합니다.",
+        "originwordCnt": "115",
+        "labelwordCnt": "23"
+    }
+}

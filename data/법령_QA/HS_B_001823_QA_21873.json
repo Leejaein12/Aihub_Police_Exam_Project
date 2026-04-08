@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001823",
+        "promulgDate": "20240326",
+        "effectDate": "20240627",
+        "promulgNum": "20424",
+        "title": "건축법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제27조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "건축공사 허가권자의 업무를 대행하는 자는 현장조사, 검사 또는 확인결과를 어떻게 보고해야 합니까?",
+        "output": "업무를 대행하는 자는 현장조사, 검사 또는 확인결과를 국토교통부령으로 정하는 바에 따라 허가권자에게 서면으로 보고하여야 합니다. 이는 건축법 제27조 제2항에 따른 규정입니다.",
+        "originwordCnt": "69",
+        "labelwordCnt": "21"
+    }
+}

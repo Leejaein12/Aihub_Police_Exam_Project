@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "001761",
+        "promulgDate": "20230808",
+        "effectDate": "20240517",
+        "promulgNum": "19591",
+        "title": "고용보험법",
+        "ministry": "고용노동부",
+        "fullText": "N",
+        "smClass": "제63조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "상병급여는 언제 지급되나요?",
+        "output": "상병급여는 취업할 수 없는 사유가 없어진 이후에 최초로 구직급여를 지급하는 날에 지급되며, 필요시 고용노동부장관이 따로 정하는 바에 따라 지급할 수 있습니다. 고용보험법 제63조 제3항에 규정되어 있습니다.",
+        "originwordCnt": "193",
+        "labelwordCnt": "26"
+    }
+}

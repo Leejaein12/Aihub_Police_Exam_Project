@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000416",
+        "promulgDate": "20220104",
+        "effectDate": "20220705",
+        "promulgNum": "18690",
+        "title": "비료관리법",
+        "ministry": "농림축산식품부",
+        "fullText": "N",
+        "smClass": "제11조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "비료생산업자가 등록한 사항에 변경이 생기거나 폐업한 경우 어떻게 해야 하나요?",
+        "output": "비료관리법 제11조 제4항에 따르면, 비료생산업자가 등록한 사항이 변경되었거나 폐업하였을 때에는 그 사유가 발생한 날부터 30일 이내에 시장, 군수, 구청장에게 신고해야 합니다.",
+        "originwordCnt": "202",
+        "labelwordCnt": "21"
+    }
+}

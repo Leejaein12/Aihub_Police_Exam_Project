@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000161",
+        "promulgDate": "20230914",
+        "effectDate": "20240315",
+        "promulgNum": "19720",
+        "title": "실내공기질 관리법",
+        "ministry": "환경부",
+        "fullText": "N",
+        "smClass": "제16조",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "과태료는 누구에 의해 부과되고 징수될 수 있나요?",
+        "output": "실내공기질 관리법 제16조 제4항에 따르면, 제1항부터 제3항까지의 규정에 따른 과태료는 대통령령으로 정하는 바에 따라 환경부장관, 시ㆍ도지사 또는 시장ㆍ군수ㆍ구청장이 부과ㆍ징수할 수 있습니다.",
+        "originwordCnt": "264",
+        "labelwordCnt": "21"
+    }
+}

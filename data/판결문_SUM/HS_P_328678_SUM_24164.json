@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "328678",
+        "caseName": "스토킹범죄의처벌등에관한법률위반등",
+        "caseNum": "2022고정717",
+        "sentenceDate": "2023.10.13.",
+        "courtName": "서울북부지방법원",
+        "courtCode": "",
+        "caseTypeName": "",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "스토킹 범죄와 폭행을 저질렀다는 혐의로 기소되었습니다. 피해자는 피고인과의 불미스러운 과거 관계로 인해 지속적인 접근과 폭행에 시달렸으나, 피해자는 공판에서 처벌을 원하지 않는다고 밝혔습니다. 법원은 피해자의 의사와 사건 경위를 고려하여 공소를 기각했습니다.",
+        "originwordCnt": "263",
+        "labelwordCnt": "30"
+    }
+}

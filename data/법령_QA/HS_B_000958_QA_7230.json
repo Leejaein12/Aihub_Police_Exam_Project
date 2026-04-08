@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000958",
+        "promulgDate": "20240116",
+        "effectDate": "20240116",
+        "promulgNum": "20027",
+        "title": "소하천정비법",
+        "ministry": "행정안전부",
+        "fullText": "N",
+        "smClass": "제10조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "관리청이 아닌 자가 소하천 정비 허가를 신청할 때 인허가 등의 의제를 받으려면 어떤 서류를 제출해야 하나요?",
+        "output": "소하천정비법 제10조의2 제2항에 의거하면, 소하천정비법 제10조에 따른 소하천등 정비 허가를 신청할 때 해당 법률에서 정하는 관련 서류를 함께 제출하여야 합니다.",
+        "originwordCnt": "428",
+        "labelwordCnt": "20"
+    }
+}

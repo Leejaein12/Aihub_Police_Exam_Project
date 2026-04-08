@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "01",
+        "lawId": "000240",
+        "promulgDate": "20211207",
+        "effectDate": "20220608",
+        "promulgNum": "18552",
+        "title": "골재채취법",
+        "ministry": "국토교통부",
+        "fullText": "N",
+        "smClass": "제34조의2",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 5어절 이상의 서술형으로 생성하시오.",
+        "input": "골재채취단지는 누가 관리합니까?",
+        "output": "골재채취법 제34조의2 제1항에 명시된 바와 같이, 골재채취단지는 제34조제1항제1호부터 제3호까지에 해당하는 자 중에서 대통령령으로 정하는 선정 기준 및 절차에 따라 시ㆍ도지사가 지정하는 자, 이하 단지관리자가 관리합니다.",
+        "originwordCnt": "157",
+        "labelwordCnt": "25"
+    }
+}

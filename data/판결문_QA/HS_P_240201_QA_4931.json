@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "02",
+        "precedId": "240201",
+        "caseName": "부정수표단속법위반",
+        "caseNum": "64도669",
+        "sentenceDate": "1965.02.23",
+        "courtName": "대법원",
+        "courtCode": "400201",
+        "caseTypeName": "형사",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "부정수표를 발행할 때, 수표가 부정수표로 결정될 수 있는 사유를 알고 있어야 범죄가 성립하나요?",
+        "output": "부정수표 단속법 제4조 제1항에서 말하는 부정수표를 발행 또는 작성한 사람의 범죄는 같은 법 제2조 각 호의 사유를 인식하고 수표를 발행할 때 성립한다고 해석됩니다.",
+        "originwordCnt": "17",
+        "labelwordCnt": "23"
+    }
+}
