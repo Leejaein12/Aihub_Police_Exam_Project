@@ -1,144 +1,178 @@
-# 코사인 유사도 응용
+# 코사인 유사도 기반 퀴즈 생성 시스템
 
-## 라이브러리 불러오기
+## 📌 개요
 
-- flask → 웹 서버
+문장 임베딩과 코사인 유사도를 활용해
+정답과 유사하지만 다른 오답을 자동 생성하는 퀴즈 시스템
 
-- pandas → CSV 읽기
+---
 
-- numpy → 행렬 연산 (코사인 유사도에 사용)
+## 🛠 사용 기술
 
-- gdown → 구글 드라이브에서 파일 다운로드
+* Flask: 웹 서버
+* pandas: CSV 처리
+* numpy: 벡터 연산 (코사인 유사도)
+* gdown: 구글 드라이브 파일 다운로드
 
+---
 
-### 서버 시작할 때 드라이브에서 다운로드
-- EMBEDDINGS_ID = "11FDE74NC8wlpzUW-2qex-A4_nuwyEqZL"
+## 📥 데이터 다운로드
 
-- CSV_ID = "1GalqZwUXTVSvAlRBaIzscLB3aBcHC-07"
+서버 실행 시 필요한 파일을 다운로드
 
-### 파일이 없을 때만 다운로드하고 이미 있으면 스킵
+```python
+EMBEDDINGS_ID = "11FDE74NC8wlpzUW-2qex-A4_nuwyEqZL"
+CSV_ID = "1GalqZwUXTVSvAlRBaIzscLB3aBcHC-07"
+
 def download_if_missing():
-
     os.makedirs("data", exist_ok=True)
 
     if not os.path.exists(CSV_PATH):
-
         gdown.download(...)
 
     if not os.path.exists(EMBEDDINGS_PATH):
-
         gdown.download(...)
+```
 
+---
 
-### CSV 불러오고 question이나 answer가 비어있는 행 제거. reset_index로 인덱스 0부터 다시 정렬
+## 📊 데이터 전처리
+
+```python
 df = pd.read_csv(CSV_PATH)
+df = df.dropna(subset=["question", "answer"]).reset_index(drop=True)
+```
 
-df = df.dropna(subset=['question', 'answer']).reset_index(drop=True)
+* 결측값 제거
+* 인덱스 재정렬
 
+---
 
-### 미리 계산해둔 임베딩 파일 로드. 형태는 (41941, 768) → 41941개 문장, 각각 768차원 벡터
+## 🧠 임베딩 (Embedding)
+
+문장을 숫자 벡터로 변환한 것
+
+예시:
+
+```
+"보안관찰처분대상자의 정의는?"
+→ [0.12, -0.34, 0.87, ...] (768차원)
+```
+
+```python
 embeddings = np.load(EMBEDDINGS_PATH)
+```
 
+---
 
-### 임베딩이 무엇인가?
-- "보안관찰처분대상자의 정의는?" 
+## 📐 코사인 유사도
 
-- → [0.12, -0.34, 0.87, ...] ← 768개 숫자로 변환
+공식:
 
-- 문장의 의미를 숫자 벡터로 표현한 것. 의미가 비슷한 문장일수록 벡터 방향이 비슷함
+```
+cos(θ) = A·B / (|A| × |B|)
+```
 
-### 오답 추출 함수. 같은 카테고리(법령/판결문/요약) 안에서만 오답 뽑음. 다른 카테고리 섞이면 이상한 보기 나오니까
-    def get_wrong_answers(correct_idx, category, n=3):
+이미 L2 정규화되어 있으므로:
 
-        same_cat = df[df['category'] == category].index.tolist()
+```
+cos(θ) = A·B
+```
 
+---
 
-### 핵심! 코사인 유사도 계산하는 부분
-    query = embeddings[correct_idx].reshape(1, -1)
+## ❌ 오답 생성 로직
 
-    sims = np.dot(embeddings[same_cat], query.T).flatten()
+### 1. 같은 카테고리에서만 선택
 
-- embeddings[correct_idx] → 정답 문장의 벡터 (768차원)
+```python
+same_cat = df[df["category"] == category].index.tolist()
+```
 
-- reshape(1, -1) → 행렬 연산을 위해 shape 변환 (768,) → (1, 768)
+---
 
-- np.dot(embeddings[same_cat], query.T) → 내적(dot product) 계산
+### 2. 유사도 계산
 
-### 코사인 유사도 원리: cos(θ) = A·B / (|A| × |B|)
+```python
+query = embeddings[correct_idx].reshape(1, -1)
+sims = np.dot(embeddings[same_cat], query.T).flatten()
+```
 
-- 두 벡터의 내적을 각 벡터의 크기로 나눈 값. 근데 embed.py에서 이미 L2 정규화를 해서 모든 벡터의 크기가 1임. 그래서: cos(θ) = A·B / (1 × 1) = A·B
+---
 
-- 그냥 내적만 하면 코사인 유사도가 나옴
+### 3. 정답 제외
 
-- 결과 sims는 각 문장과 정답 문장의 유사도 점수 배열 -1 ~ 1 사이 값
-
-
-### 정답 자체를 오답으로 뽑으면 안 되니까 정답의 유사도를 -1로 설정해서 제외
+```python
 if correct_idx in same_cat:
+    sims[same_cat.index(correct_idx)] = -1
+```
 
-        correct_pos = same_cat.index(correct_idx)
+---
 
-        sims[correct_pos] = -1
+### 4. 후보 필터링
 
+```
+0.3 < 유사도 < 0.8
+```
 
-### 유사도가 0.3~0.8 사이인 것만 후보로 선택
-    candidates = [(same_cat[i], s) for i, s in enumerate(sims) if 0.3 < s < 0.8]
+* 0.8 이상 → 너무 비슷
+* 0.3 이하 → 너무 다름
+* 중간 → 헷갈리는 오답
 
-    candidates.sort(key=lambda x: x[1], reverse=True)
+---
 
-- 0.8 이상 → 너무 비슷 → 정답이랑 헷갈려서 오답 판별 어려움
+### 5. 오답 선택
 
-- 0.3 이하 → 너무 다름 → 보기가 엉뚱해짐
+```python
+if len(candidates) < 3:
+    top_indices = np.argsort(sims)[::-1][:3]
+    return [df.iloc[same_cat[i]]["answer"] for i in top_indices]
 
-- 0.3~0.8 → 적당히 비슷 → 헷갈리는 오답
+top_pool = candidates[:min(20, len(candidates))]
+selected = random.sample(top_pool, min(3, len(top_pool)))
 
-### 후보가 3개 미만이면 그냥 유사도 높은 순으로 뽑고, 충분하면 상위 20개 중에서 랜덤으로 3개 선택. 매번 같은 보기 나오는 거 방지
-if len(candidates) < n:
+return [df.iloc[i]["answer"] for i, _ in selected]
+```
 
-        top_indices = np.argsort(sims)[::-1][:n]
+---
 
-        return [df.iloc[same_cat[i]]['answer'] for i in top_indices]
+## 🎯 퀴즈 생성
 
-    top_pool = candidates[:min(20, len(candidates))]
-
-    selected = random.sample(top_pool, min(n, len(top_pool)))
-
-    return [df.iloc[i]['answer'] for i, _ in selected]
-
-
-### 랜덤 문제 1개 뽑고 → 오답 3개 생성 → 정답 1개 합쳐서 4개 → 섞기 → 정답 위치 기록
-@app.route('/quiz')
-
+```python
+@app.route("/quiz")
 def get_quiz():
-
     idx = filtered.sample(1).index[0]
-
     row = df.iloc[idx]
 
-    wrong_answers = get_wrong_answers(idx, row['category'], n=3)
+    wrong_answers = get_wrong_answers(idx, row["category"], n=3)
 
-    choices = wrong_answers + [row['answer']]
-
+    choices = wrong_answers + [row["answer"]]
     random.shuffle(choices)
 
-    correct_idx = choices.index(row['answer'])
+    correct_idx = choices.index(row["answer"])
+```
 
+---
 
+## 🔄 전체 흐름
 
-## 전체 흐름 요약
-- 서버 시작
+```
+서버 시작
+→ 데이터 다운로드
+→ CSV + 임베딩 로드
 
-- → 구글 드라이브에서 CSV + embeddings.npy 다운로드
+사용자 요청
+→ 랜덤 문제 선택
+→ 코사인 유사도 계산
+→ 오답 3개 생성
+→ 보기 섞기
+→ 반환
+```
 
-- → 메모리에 로드
+---
 
-- 사용자 요청
+## 💡 핵심 포인트
 
-- → 랜덤 문제 선택
-
-- → 정답 벡터와 다른 문장들 코사인 유사도 계산
-
-- → 적당히 비슷한 것 3개 오답으로 선택
-
-- → 보기 4개 섞어서 반환
-
+* 임베딩: 문장의 의미를 숫자로 표현
+* 코사인 유사도: 문장 간 의미 유사도 측정
+* 적절한 유사도 범위로 자연스러운 오답 생성
